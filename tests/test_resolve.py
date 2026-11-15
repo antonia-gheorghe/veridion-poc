@@ -233,7 +233,7 @@ def test_thin_rival_still_blocks_a_thin_pick():  # D44
 
 def test_full_legal_match_promotes_address_gap_to_auto():  # D45
     out = run({"postcode": "different", "full_legal_match": True})
-    assert (out.decision, out.rule, out.confidence) == ("auto", "R5", "high")
+    assert (out.decision, out.rule, out.confidence) == ("auto", "R5", "medium")  # D51
 
 
 def test_full_legal_match_does_not_override_rival():  # D45

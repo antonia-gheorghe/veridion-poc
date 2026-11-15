@@ -13,6 +13,8 @@ AUTO, PROBABLE, NO_CANDIDATE, REVIEW, UNMATCHED = "auto", "probable", "no_candid
 MANUAL = "manual"
 CONFIDENCE = {AUTO: "high", MANUAL: "high", PROBABLE: "medium", REVIEW: "none", UNMATCHED: "none", NO_CANDIDATE: "none"}
 MANUAL_MATCH, MANUAL_UNMATCHED = "match", "unmatched"
+# Rules whose sample check found an error keep their decision but get a lower confidence (D51).
+CONFIDENCE_BY_RULE = {"R5": "medium"}
 # Pick fields that a manual decision replaces.
 PICK_FIELDS = ["cand_idx", "veridion_id", "cand_name", "cand_matched_name", "cand_matched_source", "name_outcome",
                "name_sort", "legal", "country_word", "country", "city", "postcode", "street"]
@@ -230,7 +232,8 @@ def resolve(features: pd.DataFrame, manual: pd.DataFrame | None = None) -> pd.Da
     if manual is None:
         manual = pd.read_csv(config.MATCH_REVIEW, dtype=str, keep_default_na=False)
     decisions = apply_manual(pd.DataFrame(rows), f, manual)
-    decisions.insert(decisions.columns.get_loc("decision") + 1, "confidence", decisions.decision.map(CONFIDENCE))
+    confidence = decisions.rule.map(CONFIDENCE_BY_RULE).fillna(decisions.decision.map(CONFIDENCE))
+    decisions.insert(decisions.columns.get_loc("decision") + 1, "confidence", confidence)
     decisions["code_version"] = code_version()
     return decisions
 
