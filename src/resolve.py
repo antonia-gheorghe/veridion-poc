@@ -10,7 +10,12 @@ from src import config
 from src.score import DIFFERENT, EXACT, SAME, STREET_ONLY, UNKNOWN
 
 AUTO, PROBABLE, NO_CANDIDATE, REVIEW, UNMATCHED = "auto", "probable", "no_candidate", "review", "unmatched"
-CONFIDENCE = {AUTO: "high", PROBABLE: "medium", REVIEW: "none", UNMATCHED: "none", NO_CANDIDATE: "none"}
+MANUAL = "manual"
+CONFIDENCE = {AUTO: "high", MANUAL: "high", PROBABLE: "medium", REVIEW: "none", UNMATCHED: "none", NO_CANDIDATE: "none"}
+MANUAL_MATCH, MANUAL_UNMATCHED = "match", "unmatched"
+# Pick fields that a manual decision replaces.
+PICK_FIELDS = ["cand_idx", "veridion_id", "cand_name", "cand_matched_name", "cand_matched_source", "name_outcome",
+               "name_sort", "legal", "country_word", "country", "city", "postcode", "street"]
 # Reasons that only describe an address gap; a pick failing on these alone is "probable" (P1).
 LOCATION_REASONS = ("street:", "city:", "postcode:")
 NAME_EXACT, NAME_STRONG, NAME_WEAK, NAME_NONE = "exact", "strong", "weak", "none"
@@ -104,6 +109,14 @@ def _is_duplicate(a, b) -> bool:
             and a.cand_street_norm == b.cand_street_norm and a.cand_city_norm == b.cand_city_norm)
 
 
+def _is_thin(row) -> bool:
+    return not _has_value(row.cand_website) and pd.isna(row.cand_employees)
+
+
+def _is_rich(row) -> bool:
+    return _has_value(row.cand_website) and not pd.isna(row.cand_employees)
+
+
 def _resolve_input(group: pd.DataFrame) -> dict:
     first = group.iloc[0]
     out = {
@@ -119,7 +132,7 @@ def _resolve_input(group: pd.DataFrame) -> dict:
 
     same_country = group[group.country == SAME]
     if same_country.empty:
-        return out | {"decision": REVIEW, "rule": "R4", "reason": "no_same_country_candidate"}
+        return out | {"decision": UNMATCHED, "rule": "U3", "reason": "no_same_country_candidate"}  # D48
 
     good = same_country.name_outcome.isin([NAME_EXACT, NAME_STRONG])
     primary = same_country.cand_matched_source == PRIMARY_NAME_SOURCE
@@ -135,6 +148,10 @@ def _resolve_input(group: pd.DataFrame) -> dict:
         rivals = others[good_name & (others.loc_rank >= best.loc_rank)]
     else:
         rivals = others[good_name]
+
+    thin = pd.Series([_is_thin(rival) for rival in rivals.itertuples()], index=rivals.index, dtype=bool)
+    ignored = rivals[thin] if _is_rich(best) else rivals.iloc[0:0]
+    rivals = rivals.drop(ignored.index)  # D44
 
     duplicates = not rivals.empty and all(_is_duplicate(best, rival) for rival in rivals.itertuples())
     if duplicates:  # D33: keep the engine's first record of the duplicate set
@@ -155,6 +172,8 @@ def _resolve_input(group: pd.DataFrame) -> dict:
         "postcode": best.postcode,
         "street": best.street,
         "rival_ids": "|".join(rivals.veridion_id.astype(str)),
+        "ignored_thin_rival_ids": "|".join(ignored.veridion_id.astype(str)),
+        "full_legal_match": best.full_legal_match,
         "city_in_other_locations": best.city_in_other_locations,
         "street_in_other_locations": best.street_in_other_locations,
     }
@@ -170,18 +189,26 @@ def _resolve_input(group: pd.DataFrame) -> dict:
     if _has_value(first.input_branch):
         reasons.append("branch")
 
-    location_only = all(r.startswith(LOCATION_REASONS) for r in reasons if not r.startswith("duplicate:"))
-    is_primary = best.cand_matched_source == PRIMARY_NAME_SOURCE
-    if location_only and duplicates:
-        return out | {"decision": PROBABLE, "rule": "P3", "reason": " ".join(reasons)}
-    if reasons and location_only and best.city != DIFFERENT:
-        return out | {"decision": PROBABLE, "rule": "P1", "reason": " ".join(reasons)}
-    if reasons and location_only and is_primary:
-        return out | {"decision": PROBABLE, "rule": "P2", "reason": " ".join(reasons)}
-    if reasons:
-        return out | {"decision": REVIEW, "rule": "R4", "reason": " ".join(reasons)}
-    rule = "R1" if _has_value(best.input_street_norm) else "R2"
-    return out | {"decision": AUTO, "rule": rule, "reason": ""}
+    if not reasons:
+        rule = "R1" if _has_value(best.input_street_norm) else "R2"
+        return out | {"decision": AUTO, "rule": rule, "reason": ""}
+    joined = " ".join(reasons)
+    other = [r for r in reasons if r != "branch"]
+    if "branch" in reasons and all(r.startswith("duplicate:") for r in other):  # D43
+        return out | {"decision": PROBABLE, "rule": "P4", "reason": joined}
+    if any(r.startswith("name:") for r in reasons) and all(r.startswith(("name:",) + LOCATION_REASONS) for r in reasons):
+        return out | {"decision": UNMATCHED, "rule": "U2", "reason": joined}  # D47
+    if not all(r.startswith(LOCATION_REASONS + ("duplicate:",)) for r in reasons):
+        return out | {"decision": REVIEW, "rule": "R4", "reason": joined}
+    if duplicates:
+        return out | {"decision": PROBABLE, "rule": "P3", "reason": joined}
+    if best.full_legal_match:  # D45
+        return out | {"decision": AUTO, "rule": "R5", "reason": joined}
+    if best.city != DIFFERENT:
+        return out | {"decision": PROBABLE, "rule": "P1", "reason": joined}
+    if best.cand_matched_source == PRIMARY_NAME_SOURCE:
+        return out | {"decision": PROBABLE, "rule": "P2", "reason": joined}
+    return out | {"decision": UNMATCHED, "rule": "U4", "reason": joined}  # D49
 
 
 def code_version() -> str:
@@ -191,7 +218,7 @@ def code_version() -> str:
     return f"{commit}-dirty" if git("status", "--porcelain", "--", ".", f":!{config.OUTPUT.relative_to(config.ROOT)}") else commit
 
 
-def resolve(features: pd.DataFrame) -> pd.DataFrame:
+def resolve(features: pd.DataFrame, manual: pd.DataFrame | None = None) -> pd.DataFrame:
     """One row per input: decision, rule, reason, chosen candidate and its layer outcomes."""
     f = features.copy()
     f["name_outcome"] = f.apply(name_outcome, axis=1)
@@ -200,7 +227,38 @@ def resolve(features: pd.DataFrame) -> pd.DataFrame:
     f["country_word"] = f.apply(country_word_outcome, axis=1)
     f["loc_rank"] = f.apply(location_rank, axis=1)
     rows = [_resolve_input(g) for _, g in f.groupby("input_row_key", sort=True)]
-    decisions = pd.DataFrame(rows)
+    if manual is None:
+        manual = pd.read_csv(config.MATCH_REVIEW, dtype=str, keep_default_na=False)
+    decisions = apply_manual(pd.DataFrame(rows), f, manual)
     decisions.insert(decisions.columns.get_loc("decision") + 1, "confidence", decisions.decision.map(CONFIDENCE))
     decisions["code_version"] = code_version()
+    return decisions
+
+
+def apply_manual(decisions: pd.DataFrame, features: pd.DataFrame, manual: pd.DataFrame) -> pd.DataFrame:
+    """Manual decisions (data/manual/match_review.csv) override the rules (D50)."""
+    decisions = decisions.copy()
+    decisions["related_veridion_id"] = ""
+    decisions["rule_decision"] = decisions.decision
+    by_key = decisions.set_index("input_row_key")
+    unknown = set(manual.input_row_key.astype(int)) - set(by_key.index)
+    if unknown:
+        raise ValueError(f"Manual decisions for unknown inputs: {sorted(unknown)}")
+    for m in manual.itertuples():
+        key = int(m.input_row_key)
+        row = decisions.index[decisions.input_row_key == key][0]
+        decisions.loc[row, PICK_FIELDS] = None
+        if m.decision == MANUAL_MATCH:
+            cand = features[(features.input_row_key == key) & (features.veridion_id == m.veridion_id)]
+            if len(cand) != 1:
+                raise ValueError(f"Manual pick {m.veridion_id} is not a candidate of input {key}")
+            for field in PICK_FIELDS:
+                if field in cand:
+                    decisions.loc[row, field] = cand[field].iloc[0]
+            decisions.loc[row, ["decision", "rule"]] = [MANUAL, "M1"]
+        elif m.decision == MANUAL_UNMATCHED:
+            decisions.loc[row, ["decision", "rule"]] = [UNMATCHED, "M2"]
+        else:
+            raise ValueError(f"Unknown manual decision {m.decision!r} for input {key}")
+        decisions.loc[row, ["reason", "related_veridion_id"]] = [f"manual ({m.source})", m.related_veridion_id]
     return decisions

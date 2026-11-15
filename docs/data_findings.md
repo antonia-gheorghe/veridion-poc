@@ -14,6 +14,7 @@ Counts are from the raw sample unless stated otherwise.
 | Branch-of-foreign-company names | "KLM-ROYAL DUTCH AIRLINES Filial av utenlandsk foretak" | 11 inputs | notebook 02, s.6b |
 | Country words inside names | "DANMARK A/S", "NORWAY AS" | 153 inputs | notebook 02, s.2 |
 | Input names of legal entities that were renamed and demerged | KANTAR TNS AS = org 924319623, now FIFTY5BLUE NORGE AS; business moved to KANTAR NORGE AS in 2023 (287) | 1 seen | Phase B |
+| Outdated input address after an HQ move | EUTELSAT S.A. at Rue Balard; registered office is 32 bd Gallieni, Issy-les-Moulineaux per its statuts (179) | 1 seen | Phase C, review table |
 | Near-duplicate inputs | 592 inputs, 591 unique names | 1 | profiling |
 
 ## Veridion data
@@ -41,6 +42,8 @@ Counts are from the raw sample unless stated otherwise.
 | Commercial names that belong to another company | Telefiber AS (org 990331367) lists 'Telenor Fiber AS' (org 929340272) as a commercial name (515) | 1 seen | Phase C, probable sample |
 | Main country set from a foreign branch | SystemTeknik A/S (Nørresundby HQ) filed under Poland via its Szczecin office (489) | 1 seen | Phase C, U1 sample |
 | Address belongs to another organisation | Neras Direkte AS record carries the address of NERAS B.I.L, a sports club (346) | 1 seen | Phase C, P2 sample |
+| Website is a look-alike domain | Nordea record at Essendrops gate 7, Oslo has website nordeea.co.uk (359) | 1 seen | Phase C, review table |
+| Correct record with no country, no address and a wrong website | Amazon Web Services EMEA: website logitech-events.com (31) | 1 seen | Phase C, review table |
 | Industry missing on the correct candidate | Leaseplan Sweden (key 305) | 1 seen | manual review |
 
 ## Matching engine

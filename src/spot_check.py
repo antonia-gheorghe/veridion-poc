@@ -58,6 +58,35 @@ def draw_probable(decisions: pd.DataFrame, features: pd.DataFrame) -> pd.DataFra
 
 
 RULE_SAMPLE_SIZE = 10
+CATEGORY_SAMPLE = {"weak_name_address_support": 10, "alias_other_city": 5, "conflict": 5, "no_country_candidates": 5}
+TABLE_CATEGORIES = ("rival", "branch")
+
+
+def review_category(row) -> str:
+    reason = row.reason
+    if reason == "no_same_country_candidate":
+        return "no_country_candidates"
+    if "branch" in reason:
+        return "branch"
+    if "legal:conflict" in reason or "country_word:conflict" in reason:
+        return "conflict"
+    if "rival" in reason:
+        return "rival"
+    if reason.startswith("name:"):
+        return "weak_name_address_support"
+    return "alias_other_city"
+
+
+def main_review_categories():
+    decisions = pd.read_csv(config.DECISIONS_FILE)
+    review = decisions[decisions.decision == "review"].copy()
+    review["category"] = review.apply(review_category, axis=1)
+    print(review.category.value_counts().to_string())
+    keep = ["input_row_key", "category", "reason", "cand_idx", "veridion_id", "cand_matched_source", "code_version"]
+    sample = pd.concat(review[review.category == c].sample(n=n, random_state=SEED) for c, n in CATEGORY_SAMPLE.items())
+    _with_details(sample, keep).to_csv(config.MANUAL / "category_check.csv", index=False)
+    review[review.category.isin(TABLE_CATEGORIES)][["input_row_key", "category", "reason", "veridion_id", "rival_ids"]].to_csv(
+        config.MANUAL / "user_review_table_keys.csv", index=False)
 
 
 def draw_rule(decisions: pd.DataFrame, rule: str, exclude: set[int] = frozenset()) -> pd.DataFrame:

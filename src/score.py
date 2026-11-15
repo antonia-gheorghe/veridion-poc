@@ -11,6 +11,7 @@ from src.normalize import norm_city, norm_postcode, norm_street, norm_street_num
 SAME, DIFFERENT, UNKNOWN = "same", "different", "unknown"
 EXACT, STREET_ONLY = "exact", "street_only"
 NAME_LIST_SEPARATOR = "|"
+LEGAL_NAME_SOURCES = ("company_name", "company_legal_names")
 LOCATION_SEPARATOR = " | "
 LOCATION_FIELDS = 9  # country code, country, region, city, postcode, street, number, latitude, longitude
 
@@ -70,6 +71,9 @@ def score_candidates(df: pd.DataFrame) -> pd.DataFrame:
         cand_legal = {f for p in cand_splits for f in p.legal_forms}
         cand_legal_countries = set().union(*(p.legal_countries for p in cand_splits))
         cand_country = None if pd.isna(r.main_country_code) else r.main_country_code
+        full_legal_match = bool(inp.legal_forms) and any(
+            p.core == inp.core and set(p.legal_forms) == set(inp.legal_forms)
+            for (source, _), p in zip(_candidate_names(r), cand_splits) if source in LEGAL_NAME_SOURCES)
 
         in_city, c_city = norm_city(r.input_main_city), norm_city(r.main_city)
         in_pc = norm_postcode(r.input_main_postcode, country)
@@ -98,6 +102,9 @@ def score_candidates(df: pd.DataFrame) -> pd.DataFrame:
             "cand_legal_countries": " ".join(sorted(cand_legal_countries)),
             "cand_country_words": " ".join(cand.country_words),
             "cand_country_code": cand_country,
+            "full_legal_match": full_legal_match,
+            "cand_website": None if pd.isna(r.website_domain) else r.website_domain,
+            "cand_employees": None if pd.isna(r.employee_count) else r.employee_count,
             "name_sort": name_sort,
             "name_set": name_set,
             "country": _compare(country, cand_country),
