@@ -1,0 +1,155 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=PUBLICIS+GROUPE+HOLDINGS&filter%5Bentity.legalAddress.country%5D=NL&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=PUBLICIS+GROUPE+HOLDINGS&filter%5Bentity.legalAddress.country%5D=NL&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=PUBLICIS+GROUPE+HOLDINGS&filter%5Bentity.legalAddress.country%5D=NL&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "2138008XNLSR4MGFOW40",
+    "attributes": {
+     "lei": "2138008XNLSR4MGFOW40",
+     "entity": {
+      "legalName": {
+       "name": "PUBLICIS GROUPE HOLDINGS B.V.",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "WILGENWEG 12A"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "AMSTERDAM",
+       "region": "NL-NH",
+       "country": "NL",
+       "postalCode": "1031HV"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "WILGENWEG 12A"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "AMSTERDAM",
+       "region": "NL-NH",
+       "country": "NL",
+       "postalCode": "1031HV"
+      },
+      "registeredAt": {
+       "id": "RA000463",
+       "other": null
+      },
+      "registeredAs": "34183694",
+      "jurisdiction": "NL",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "54M6",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2014-01-31T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-01-31T00:00:00Z",
+      "lastUpdateDate": "2026-06-11T07:42:37Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-06-11T00:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000463",
+       "other": null
+      },
+      "validatedAs": "34183694",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "nl/34183694",
+     "qcc": "QNLV8PV2PN",
+     "gem": null,
+     "spglobal": [
+      "12929260"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/2138008XNLSR4MGFOW40/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/2138008XNLSR4MGFOW40/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/2138008XNLSR4MGFOW40/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/2138008XNLSR4MGFOW40/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/2138008XNLSR4MGFOW40/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/2138008XNLSR4MGFOW40/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/2138008XNLSR4MGFOW40/ultimate-parent"
+      }
+     },
+     "direct-children": {
+      "links": {
+       "relationship-records": "https://api.gleif.org/api/v1/lei-records/2138008XNLSR4MGFOW40/direct-child-relationships",
+       "related": "https://api.gleif.org/api/v1/lei-records/2138008XNLSR4MGFOW40/direct-children"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/2138008XNLSR4MGFOW40"
+    }
+   }
+  ]
+ }
+}

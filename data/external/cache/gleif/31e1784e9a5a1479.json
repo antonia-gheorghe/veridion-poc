@@ -1,0 +1,147 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SMART+MEDIA4U+TECHNOLOGY&filter%5Bentity.legalAddress.country%5D=SG&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SMART+MEDIA4U+TECHNOLOGY&filter%5Bentity.legalAddress.country%5D=SG&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SMART+MEDIA4U+TECHNOLOGY&filter%5Bentity.legalAddress.country%5D=SG&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300P5ERVZI1M72O83",
+    "attributes": {
+     "lei": "549300P5ERVZI1M72O83",
+     "entity": {
+      "legalName": {
+       "name": "SMART MEDIA4U TECHNOLOGY PTE. LTD.",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "6A SHENTON WAY #05-02, DOWNTOWN GALLERY"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "SINGAPORE",
+       "region": "SG-01",
+       "country": "SG",
+       "postalCode": "068815"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "6A SHENTON WAY #05-02, DOWNTOWN GALLERY"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "SINGAPORE",
+       "region": "SG-01",
+       "country": "SG",
+       "postalCode": "068815"
+      },
+      "registeredAt": {
+       "id": "RA000523",
+       "other": null
+      },
+      "registeredAs": "201733908K",
+      "jurisdiction": "SG",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "IWZF",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2017-11-24T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2022-12-19T15:35:00Z",
+      "lastUpdateDate": "2026-11-04T05:00:11Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-11-28T13:08:23Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000523",
+       "other": null
+      },
+      "validatedAs": "201733908K",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "sg/201733908K",
+     "qcc": "QSG7JFG4KU",
+     "gem": null,
+     "spglobal": [
+      "1815086834"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300P5ERVZI1M72O83/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300P5ERVZI1M72O83/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300P5ERVZI1M72O83/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300P5ERVZI1M72O83/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300P5ERVZI1M72O83/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300P5ERVZI1M72O83"
+    }
+   }
+  ]
+ }
+}

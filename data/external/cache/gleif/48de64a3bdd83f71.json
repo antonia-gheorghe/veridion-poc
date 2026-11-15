@@ -1,0 +1,147 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ANRITSU&filter%5Bentity.legalAddress.country%5D=DK&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ANRITSU&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ANRITSU&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "213800AUGYU856JITX86",
+    "attributes": {
+     "lei": "213800AUGYU856JITX86",
+     "entity": {
+      "legalName": {
+       "name": "ANRITSU A/S",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "KAY FISKERS PLADS 9 ST"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "KØBENHAVN S",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "KAY FISKERS PLADS 9"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "COPENHAGEN S",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "28310161",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-02-21T00:00:00Z",
+      "lastUpdateDate": "2019-04-23T08:36:37Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2015-02-21T00:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "28310161",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/28310161",
+     "qcc": "QDKASATXN7",
+     "gem": null,
+     "spglobal": [
+      "6187823"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800AUGYU856JITX86/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800AUGYU856JITX86/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800AUGYU856JITX86/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800AUGYU856JITX86/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800AUGYU856JITX86/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/213800AUGYU856JITX86"
+    }
+   }
+  ]
+ }
+}

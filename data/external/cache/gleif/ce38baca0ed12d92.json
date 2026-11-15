@@ -1,0 +1,727 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SALESFORCE&filter%5Bentity.legalAddress.country%5D=GB&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 5,
+    "total": 5,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SALESFORCE&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SALESFORCE&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300BXHM0AJAH4V368",
+    "attributes": {
+     "lei": "549300BXHM0AJAH4V368",
+     "entity": {
+      "legalName": {
+       "name": "SALESFORCE UK LIMITED",
+       "language": "en"
+      },
+      "otherNames": [
+       {
+        "name": "SALESFORCE.COM EMEA LIMITED",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "SFDC UK LTD",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "TRUEIMPACT LIMITED",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "Floor 26 Salesforce Tower",
+        "110 Bishopsgate"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "London",
+       "region": null,
+       "country": "GB",
+       "postalCode": "EC2N 4AY"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "Floor 26 Salesforce Tower",
+        "110 Bishopsgate"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "London",
+       "region": null,
+       "country": "GB",
+       "postalCode": "EC2N 4AY"
+      },
+      "registeredAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "registeredAs": "05094083",
+      "jurisdiction": "GB",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H0PO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2004-04-05T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2019-09-02T00:00:00Z",
+          "recordedDate": "2023-11-10T22:20:04Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2019-09-02T00:00:00Z",
+          "recordedDate": "2023-11-10T22:20:04Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2013-04-09T18:16:00Z",
+      "lastUpdateDate": "2026-10-26T15:09:39Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-11-01T18:28:00Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "validatedAs": "05094083",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "gb/05094083",
+     "qcc": "QGBBMG6B1A",
+     "gem": null,
+     "spglobal": [
+      "58145123"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300BXHM0AJAH4V368/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300BXHM0AJAH4V368/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300BXHM0AJAH4V368/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300BXHM0AJAH4V368/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300BXHM0AJAH4V368/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300BXHM0AJAH4V368/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300BXHM0AJAH4V368/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300BXHM0AJAH4V368"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "213800AUK3KUASATE556",
+    "attributes": {
+     "lei": "213800AUK3KUASATE556",
+     "entity": {
+      "legalName": {
+       "name": "MANAGING AGENCY PARTNERS LIMITED",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "SALESFORCE TOWER",
+        "110 BISHOPSGATE"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "LONDON",
+       "region": "GB-LND",
+       "country": "GB",
+       "postalCode": "EC2N 4AY"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "SALESFORCE TOWER",
+        "110 BISHOPSGATE"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "LONDON",
+       "region": "GB-LND",
+       "country": "GB",
+       "postalCode": "EC2N 4AY"
+      },
+      "registeredAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "registeredAs": "03985640",
+      "jurisdiction": "GB",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H0PO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2000-05-04T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "ACCOUNTS_FILING",
+          "effectiveDate": "2024-11-07T00:00:00Z",
+          "recordedDate": "2025-03-24T16:29:31Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "ACCOUNTS_FILING",
+          "effectiveDate": "2024-11-07T00:00:00Z",
+          "recordedDate": "2025-03-24T16:28:59Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-01-24T00:00:00Z",
+      "lastUpdateDate": "2026-10-26T17:28:30Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-10-16T00:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "validatedAs": "03985640",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "gb/03985640",
+     "qcc": "QGBYA50GX3",
+     "gem": null,
+     "spglobal": [
+      "34918496"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800AUK3KUASATE556/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800AUK3KUASATE556/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800AUK3KUASATE556/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800AUK3KUASATE556/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800AUK3KUASATE556/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/213800AUK3KUASATE556"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "213800GO5FWG7XKN2D03",
+    "attributes": {
+     "lei": "213800GO5FWG7XKN2D03",
+     "entity": {
+      "legalName": {
+       "name": "ADAPTIVE FINANCIAL CONSULTING LIMITED",
+       "language": "en"
+      },
+      "otherNames": [
+       {
+        "name": "OPEN SAUCE CONSULTING LIMITED",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "25TH FLOOR SALESFORCE TOWER, 110",
+        "BISHOPSGATE"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "LONDON",
+       "region": "GB-LND",
+       "country": "GB",
+       "postalCode": "EC2N 4AY"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "25TH FLOOR SALESFORCE TOWER, 110",
+        "BISHOPSGATE"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "LONDON",
+       "region": "GB-LND",
+       "country": "GB",
+       "postalCode": "EC2N 4AY"
+      },
+      "registeredAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "registeredAs": "08105955",
+      "jurisdiction": "GB",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H0PO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-03-20T00:00:00Z",
+      "lastUpdateDate": "2019-05-13T08:27:35Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2018-03-20T00:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "validatedAs": "08105955",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "gb/08105955",
+     "qcc": "QGBCG1JW6N",
+     "gem": null,
+     "spglobal": [
+      "424012994"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800GO5FWG7XKN2D03/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800GO5FWG7XKN2D03/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800GO5FWG7XKN2D03/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800GO5FWG7XKN2D03/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800GO5FWG7XKN2D03/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/213800GO5FWG7XKN2D03"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "213800PXZYVPC4QV1545",
+    "attributes": {
+     "lei": "213800PXZYVPC4QV1545",
+     "entity": {
+      "legalName": {
+       "name": "SUSQUEHANNA TRADING UK LIMITED",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "SALESFORCE TOWER",
+        "110 BISHOPSGATE",
+        "Part Floor 34 (West)"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "LONDON",
+       "region": "GB-LND",
+       "country": "GB",
+       "postalCode": "EC2N 4AY"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "SALESFORCE TOWER",
+        "110 BISHOPSGATE",
+        "Part Floor 34 (West)"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "LONDON",
+       "region": "GB-LND",
+       "country": "GB",
+       "postalCode": "EC2N 4AY"
+      },
+      "registeredAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "registeredAs": "16946827",
+      "jurisdiction": "GB",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H0PO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2026-01-06T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2026-01-16T00:00:00Z",
+      "lastUpdateDate": "2026-01-16T12:04:20Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-01-16T00:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "validatedAs": "16946827",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "gb/16946827",
+     "qcc": "QGB7HUYS10",
+     "gem": null,
+     "spglobal": [
+      "1978650087"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800PXZYVPC4QV1545/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800PXZYVPC4QV1545/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800PXZYVPC4QV1545/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800PXZYVPC4QV1545/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800PXZYVPC4QV1545/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/213800PXZYVPC4QV1545"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300NJ1X7MTTQ1MQ12",
+    "attributes": {
+     "lei": "549300NJ1X7MTTQ1MQ12",
+     "entity": {
+      "legalName": {
+       "name": "SFDC EMEA DATA CENTRE LIMITED",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "Floor 26 Salesforce Tower",
+        "110 Bishopsgate"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "London",
+       "region": null,
+       "country": "GB",
+       "postalCode": "EC2N 4AY"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "665 Ajax Avenue",
+        "Slough Trading Estate"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Slough",
+       "region": null,
+       "country": "GB",
+       "postalCode": "SL1 4AN"
+      },
+      "registeredAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "registeredAs": "08507618",
+      "jurisdiction": "GB",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H0PO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2013-04-29T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2019-01-16T15:32:00Z",
+      "lastUpdateDate": "2026-10-26T10:26:11Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-11-01T18:28:00Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "validatedAs": "08507618",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "gb/08507618",
+     "qcc": "QGBE34FNSQ",
+     "gem": null,
+     "spglobal": [
+      "321807049"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300NJ1X7MTTQ1MQ12/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300NJ1X7MTTQ1MQ12/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300NJ1X7MTTQ1MQ12/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300NJ1X7MTTQ1MQ12/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300NJ1X7MTTQ1MQ12/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300NJ1X7MTTQ1MQ12/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300NJ1X7MTTQ1MQ12/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300NJ1X7MTTQ1MQ12"
+    }
+   }
+  ]
+ }
+}

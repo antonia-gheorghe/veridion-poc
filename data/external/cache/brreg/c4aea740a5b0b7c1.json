@@ -1,0 +1,3028 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=TELENOR+SVALBARD&size=100&page=2",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920722822"
+      }
+     },
+     "aktivitet": [
+      "Handel av energi og fritidsprodukter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vei 236 33"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "fravalgRevisjonBeslutningsDato": "2018-04-06",
+     "fravalgRevisjonDato": "2018-04-13",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 300,
+      "belop": 30000.0,
+      "innfortDato": "2018-04-13",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med sportsvarer",
+      "kode": "47.631"
+     },
+     "navn": "SVALBARD ENERGI OG FRITID AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "920722822",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2018-04-13",
+     "registreringsdatoForetaksregisteret": "2018-04-13",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2018-04-06",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2018-04-06",
+     "vedtektsfestetFormaal": [
+      "Import og salg av energi og fritidsprodukter, og annet som naturlig",
+      "faller sammen med dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934398254"
+      }
+     },
+     "aktivitet": [
+      "Reparasjon av maskiner til landbruk/skogbruk, bygg- og anlegg og",
+      "industri ellers."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vei 509 1"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "fravalgRevisjonBeslutningsDato": "2024-10-06",
+     "fravalgRevisjonDato": "2024-11-01",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2024-11-01",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reparasjon og vedlikehold av maskiner",
+      "kode": "33.120"
+     },
+     "navn": "SVALBARD PUMPE- OG VENTILSERVICE AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "934398254",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-11-01",
+     "registreringsdatoForetaksregisteret": "2024-11-01",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2024-10-06",
+     "underAvvikling": true,
+     "underAvviklingDato": "2026-08-13",
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-10-06",
+     "vedtektsfestetFormaal": [
+      "Reparasjon og vedlikehold av pumper og ventiler innen industri og",
+      "privat marked, samt annet mekanisk arbeid."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/971399791"
+      }
+     },
+     "aktivitet": [
+      "Gi studietilbud på universitetsnivå og drive forskning. Studiene skal",
+      "være et supplement til undervisning som gis ved universitetene på",
+      "fastlandet og inngå i ordinært studieløp som fører frem til grader",
+      "på cand.mag., siv.ing., hovedfags- og dr.gradsnivå."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-02-20 09:30:00",
+       "navn": "UNIVERSITETSTUDIE PÅ SVALBARD     UNIS",
+       "tilDato": "1996-06-13 19:27:55"
+      },
+      {
+       "fraDato": "1996-06-13 19:27:55",
+       "navn": "UNIVERSITETSTUDIENE PÅ SVALBARD UNIS",
+       "tilDato": "2000-05-25 18:17:14"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "kapital": {
+      "belop": 250000.0,
+      "fulltInnbetalt": true,
+      "innbetalt": 250000.0,
+      "innfortDato": "2024-03-07",
+      "type": "Grunnkapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Undervisning ved universiteter",
+      "kode": "85.401"
+     },
+     "navn": "UNIVERSITETSTUDIENE PÅ SVALBARD UNIS STI",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/STI"
+       }
+      },
+      "beskrivelse": "Stiftelse",
+      "kode": "STI"
+     },
+     "organisasjonsnummer": "971399791",
+     "paategninger": [
+      {
+       "infotype": "O_NR",
+       "innfoertDato": "2014-08-20",
+       "tekst": "Enheten er ikke underlagt stiftelsesloven. Stiftelsestilsynet fører derfor ikke kontroll og tilsyn med enheten jf. stiftelsesloven § 1. Ta kontakt med Lotteri- og Stiftelsestilsynet for nærmere informasjon."
+      }
+     ],
+     "postadresse": {
+      "adresse": [
+       "Postboks 156"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9171",
+      "poststed": "LONGYEARBYEN"
+     },
+     "registreringsdatoEnhetsregisteret": "1995-02-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": true,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2003",
+     "stiftelsesdato": "1994-01-18",
+     "telefon": "79 02 33 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932968312"
+      }
+     },
+     "aktivitet": [
+      "Teknologisk investering, utvikling og tjenesteyting innenfor",
+      "dataprosesseringsområdet."
+     ],
+     "antallAnsatte": 9,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2024-02-07 10:44:31",
+       "navn": "AGARDH 601 AS",
+       "tilDato": "2024-06-26 14:06:41"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Statlig eide aksjeselskaper mv.",
+      "kode": "1120"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 990000.0,
+      "innfortDato": "2024-08-29",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Forskning og eksperimentell utvikling innenfor naturvitenskap og teknikk",
+      "kode": "72.100"
+     },
+     "navn": "TELENOR AI FACTORY NORWAY AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "932968312",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 800"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1331",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-06-11",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-06-10",
+     "registreringsdatoEnhetsregisteret": "2024-02-07",
+     "registreringsdatoForetaksregisteret": "2024-02-07",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2024-08-08",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-08-08",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2024-01-25",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-08-13",
+     "vedtektsfestetFormaal": [
+      "Teknologisk investering, utvikling og tjenesteyting samt alt som hører",
+      "hermed."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/991300783"
+      }
+     },
+     "aktivitet": [
+      "Datterselskap i konsern"
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Fredrikskaj"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "DK-1780 COPENHAGEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "TELENOR DANMARK HOLDING A/S",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "991300783",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Telenor Mobile Holding AS",
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2007-05-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1990-11-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930717266"
+      }
+     },
+     "aktivitet": [
+      "Investere og eie aksjer og andre verdipapirer samt virksomhet som har",
+      "naturlig tilknytning til dette."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2023-01-25 17:02:58",
+       "navn": "AGARDH 578 AS",
+       "tilDato": "2023-02-17 17:53:09"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Statlig eide aksjeselskaper mv.",
+      "kode": "1120"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 630000.0,
+      "innfortDato": "2026-01-16",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Kabelbasert, satellittbasert og trådløs telekommunikasjon",
+      "kode": "61.100"
+     },
+     "navn": "TELENOR DIGITAL INFRASTRUCTURE HOLDING AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "930717266",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 800"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1331",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2023-01-25",
+     "registreringsdatoForetaksregisteret": "2023-01-25",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2024-02-26",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-01-02",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-02-26",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2023-01-10",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-11-11",
+     "vedtektsfestetFormaal": [
+      "Investere og eie aksjer og andre verdipapirer samt virksomhet som har",
+      "naturlig tilknytning til dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929386086"
+      }
+     },
+     "aktivitet": [
+      "Telekommunikasjon, levering av personell og innrappotering av lønn og",
+      "avgift gjennom a-melding."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "1 Wallich Street 28-01, Guoco Tower"
+      ],
+      "land": "Singapore",
+      "landkode": "SG",
+      "poststed": "SG-SINGAPORE 078881"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Telekommunikasjon ellers",
+      "kode": "61.900"
+     },
+     "navn": "TELENOR PROCUREMENT COMPANY PTE LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "929386086",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-08-01",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929581237"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private company limited by shares",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "1 Wallich Street 28-01, Guoco Tower"
+      ],
+      "land": "Singapore",
+      "landkode": "SG",
+      "poststed": "SG-SINGAPORE 078881"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "TELENOR PROCUREMENT COMPANY PTE. LTD.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "929581237",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-08-01",
+     "registreringsnummerIHjemlandet": "201701434E",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2017-01-13",
+     "telefon": "+6563814007",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Singapore",
+     "underlagtLovgivningLandKode": "SG",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "10 Anson road",
+       "#05-01/15 International Plaza"
+      ],
+      "land": "Singapore",
+      "poststed": "Singapore 079903"
+     },
+     "utenlandskRegisterNavn": "Registry of Companies and Businesses"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935416892"
+      }
+     },
+     "aktivitet": [
+      "Utvikle og levere tjenester for lagring og prosessering av",
+      "skjermingsverdige data for nasjonale funksjoner og andre med",
+      "beskyttelsesbehov."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2025-04-28 11:08:19",
+       "navn": "NFH 250435 AS",
+       "tilDato": "2025-06-25 12:45:29"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Statlig eide aksjeselskaper mv.",
+      "kode": "1120"
+     },
+     "kapital": {
+      "antallAksjer": 3000,
+      "belop": 30000.0,
+      "innfortDato": "2025-04-28",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "TELENOR SOVEREIGN CLOUD NORWAY AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "935416892",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 800"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1331",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
+     "registreringsdatoEnhetsregisteret": "2025-04-28",
+     "registreringsdatoForetaksregisteret": "2025-04-28",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2025-10-29",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-09-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-10-29",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2025-04-14",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-05-22",
+     "vedtektsfestetFormaal": [
+      "Å utvikle og levere tjenester for lagring og prosessering av",
+      "skjermingsverdige data for grunnleggende nasjonale funksjoner og andre",
+      "kunder med behov for beskyttelse av skjermingsverdige data. Dette",
+      "inkluderer, men er ikke begrenset til, tilgjengeliggjøring av",
+      "datakraft og -lagringstjenester med tilhørende verktøy,",
+      "systemintegrasjon, konsulenttjenester, samt annen virksomhet som",
+      "naturlig står i forbindelse med dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935168163"
+      }
+     },
+     "aktivitet": [
+      "Guide og reiseleder."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lompensenteret",
+       "Vei 225 2"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2025-03-11",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Guide- og reiseledervirksomhet",
+      "kode": "79.902"
+     },
+     "navn": "ARCTIC WILDLIFE TOURS SVALBARD AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "935168163",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2025-06-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2025-06-10",
+     "registreringsdatoEnhetsregisteret": "2025-03-11",
+     "registreringsdatoForetaksregisteret": "2025-03-11",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2025-01-08",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-01-08",
+     "vedtektsfestetFormaal": [
+      "Guiding, fototurisme og annen nærliggende virksomhet, investering i",
+      "andre selskap og kjøp og salg av aksjer. Selskapets aktivitet vil være",
+      "på Svalbard."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935631246"
+      }
+     },
+     "aktivitet": [
+      "Velværemassasje."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vei 505 1"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "fravalgRevisjonBeslutningsDato": "2025-05-21",
+     "fravalgRevisjonDato": "2025-06-05",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2025-06-05",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i dagspa, badstue og dampbad",
+      "kode": "96.230"
+     },
+     "navn": "GOLDEN HANDS WELLNESS SVALBARD AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "935631246",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-06-05",
+     "registreringsdatoForetaksregisteret": "2025-06-05",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2025-05-21",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-05-21",
+     "vedtektsfestetFormaal": [
+      "Tilby velværemassasje, inkludert, men ikke begrenset til, forskjellige",
+      "typer massasje for å forbedre velvære, redusere stress, og fremme",
+      "generell helse."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933576698"
+      }
+     },
+     "aktivitet": [
+      "Norske Akevitters Venner er en kulturorganisasjon som skal utvikle",
+      "kunnskapen om de norske akevittene og skape synergi mellom norsk mat",
+      "og akevitt."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Ingeborg Flønes",
+       "Vei 232 52"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "NORSKE AKEVITTERS VENNER, REGION SVALBARD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "933576698",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Ingeborg Flønes",
+       "Vei 238 23A"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2024-06-07",
+     "registreringsdatoFrivillighetsregisteret": "2024-06-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2024-05-12",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924640677"
+      }
+     },
+     "aktivitet": [
+      "Utfører kunst og håndverk, lages: nøkkelring, magnet, malerier,",
+      "strikkeprodukter, puter, teppe, klær. Selges direkte til lokale",
+      "selskaper og gjennom Etsy.com."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vei 422 35"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Skapende kunstnerisk virksomhet innenfor visuell kunst",
+      "kode": "90.120"
+     },
+     "navn": "NORTHERN PAWS - SVALBARD, RHIANNON PRITCHARD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "924640677",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-02-20",
+     "registreringsdatoForetaksregisteret": "2020-02-20",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920540546"
+      }
+     },
+     "aktivitet": [
+      "Rengjørings- og vaktmestertjenester overfor firma og private, samt hva",
+      "som dermed står i forbindelse, direkte eller via deltakelse i andre",
+      "foretak. Klassisk massasje. Kroppspleie og fysisk velvære.",
+      "Helsefremmende arbeid."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vei 222 5"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Rengjøring av bygninger",
+      "kode": "81.210"
+     },
+     "navn": "PRO HELP SVALBARD PIMJAI JITMOMA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "920540546",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2018-03-05",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935174422"
+      }
+     },
+     "aktivitet": [
+      "Vaktmestertjenester.",
+      "Snekkerarbeid, montering av dører, vinduer, kjøkken med mer.",
+      "Rådgivning innen industri.",
+      "Guide og reiseleder."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Andreas Eriksson",
+       "Vei 232 45A"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "fravalgRevisjonBeslutningsDato": "2025-02-21",
+     "fravalgRevisjonDato": "2025-03-07",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2025-03-07",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Kombinerte tjenester tilknyttet eiendomsdrift",
+      "kode": "81.100"
+     },
+     "navn": "SAGA SERVICE PARTNER SVALBARD AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "935174422",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-03-07",
+     "registreringsdatoForetaksregisteret": "2025-03-07",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2025-02-21",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-02-21",
+     "vedtektsfestetFormaal": [
+      "Å drive virksomhet som omfatter bygg- og anlegg, service, handel,",
+      "logistikk, turisme, industri, investeringer og enhver annen virksomhet",
+      "i sammenheng med det her nevnte."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920317030"
+      }
+     },
+     "aktivitet": [
+      "Kjøp, salg, utvikling og utleie av eiendommer. Selskapet skal også",
+      "investere i andre selskaper, samt delta i andre virksomheter.",
+      "Selskapet kan også drive annen virksomhet som de finner",
+      "formålstjenlig."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vei 502 5"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 1870501.96,
+      "innfortDato": "2019-11-22",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "SVALBARD HUSKY ADVENTURE CAMP AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "920317030",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 428"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9171",
+      "poststed": "LONGYEARBYEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2018-02-20",
+     "registreringsdatoForetaksregisteret": "2018-02-20",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2018-01-09",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2019-11-11",
+     "vedtektsfestetFormaal": [
+      "Kjøp, salg, utvikling og utleie av eiendommer. Selskapet skal også",
+      "investere i andre selskaper, samt delta i andre virksomheter.",
+      "Selskapet kan også drive annen virksomhet som de finner",
+      "formålstjenlig."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927025213"
+      }
+     },
+     "aktivitet": [
+      "Guiding, kursvirksomet og annet som naturlig hører sammen med dette."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vei 6064 4A"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "fravalgRevisjonBeslutningsDato": "2021-04-01",
+     "fravalgRevisjonDato": "2021-04-27",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30,
+      "belop": 30000.0,
+      "innfortDato": "2021-04-27",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Guide- og reiseledervirksomhet",
+      "kode": "79.902"
+     },
+     "navn": "SVALBARD KAYAK & NATURE GUIDE AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "927025213",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 792"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9171",
+      "poststed": "LONGYEARBYEN"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-07-14",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-07-10",
+     "registreringsdatoEnhetsregisteret": "2021-04-27",
+     "registreringsdatoForetaksregisteret": "2021-04-27",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2021-04-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2021-04-01",
+     "vedtektsfestetFormaal": [
+      "Guiding, kursvirksomet og annet som naturlig hører sammen med dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923452648"
+      }
+     },
+     "aktivitet": [
+      "Organisering av kajakturer i Longyerbyen."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Longyearbyen Camping",
+       "Hotellneset"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9171",
+      "poststed": "LONGYEARBYEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Nynorsk",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter utført av utflukts- og eventarrangører",
+      "kode": "79.121"
+     },
+     "navn": "SVALBARD KAYAKING TUOMAS HENRIKKI KAUKO",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "923452648",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Kjølvegen 8"
+      ],
+      "kommune": "TROMSØ",
+      "kommunenummer": "5501",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9101",
+      "poststed": "KVALØYSLETTA"
+     },
+     "registreringsdatoEnhetsregisteret": "2019-10-04",
+     "registreringsdatoForetaksregisteret": "2019-10-04",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929273508"
+      }
+     },
+     "aktivitet": [
+      "Fotografering og salg av fotoprodukter."
+     ],
+     "epostadresse": "svalbardmood@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vei 306 6"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.svalbardmood.com",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Fotografvirksomhet",
+      "kode": "74.200"
+     },
+     "navn": "SVALBARD MOOD BY SOPHIE CORDON",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "929273508",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-05-30",
+     "registreringsdatoForetaksregisteret": "2022-05-30",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923072101"
+      }
+     },
+     "aktivitet": [
+      "Manikyr og pedikyr, negledesign."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "H03.02",
+       "Vei 232 9"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Skjønnhetspleie",
+      "kode": "96.220"
+     },
+     "navn": "SVALBARD NAIL ART KATERYNA KHAPCHUK",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "923072101",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-07-11",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/979574495"
+      }
+     },
+     "aktivitet": [
+      "Fagforening."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [],
+      "kommune": "BARDU",
+      "kommunenummer": "5520",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9360",
+      "poststed": "BARDU"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i arbeidstakerorganisasjoner",
+      "kode": "94.200"
+     },
+     "navn": "TELE OG DATAFORBUNDET KLUBB TELENOR MOBIL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "979574495",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 6"
+      ],
+      "kommune": "BARDU",
+      "kommunenummer": "5520",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9365",
+      "poststed": "BARDU"
+     },
+     "registreringsdatoEnhetsregisteret": "1998-04-01",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1989-01-01",
+     "telefon": "77 18 60 48",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/879268702"
+      }
+     },
+     "aktivitet": [
+      "Fagforening."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Karoline Kristiansens vei 7"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0661",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private produsentorienterte organisasjoner uten profittformål",
+      "kode": "2500"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i næringslivs- og arbeidsgiverorganisasjoner",
+      "kode": "94.110"
+     },
+     "navn": "TELE- OG DATAFORBUNDETS FORENING I TELENOR NOVIT",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "879268702",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 6461 Etterstad"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0605",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "1997-09-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1997-06-24",
+     "telefon": "22 57 90 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925415529"
+      }
+     },
+     "aktivitet": [
+      "Eie, leie, kjøp, salg, forvaltning og drift",
+      "av fast eiendom og alt som står i forbindelse dermed, herunder tegne",
+      "aksjer og andeler i selskaper av lignende art."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "fravalgRevisjonBeslutningsDato": "2020-04-20",
+     "fravalgRevisjonDato": "2020-07-30",
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Statlig eide aksjeselskaper mv.",
+      "kode": "1120"
+     },
+     "kapital": {
+      "antallAksjer": 1,
+      "belop": 30000.0,
+      "innfortDato": "2020-07-30",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "TELENOR VESTLANDET OG ROGALAND 2 AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "925415529",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 800"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1331",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2020-07-30",
+     "registreringsdatoForetaksregisteret": "2020-07-30",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2021-08-31",
+     "registreringsdatoMerverdiavgiftsregisteret": "2020-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-08-04",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2020-04-20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2020-04-20",
+     "vedtektsfestetFormaal": [
+      "Eie, leie, kjøp, salg, forvaltning og drift",
+      "av fast eiendom og alt som står i forbindelse dermed, herunder tegne",
+      "aksjer og andeler i selskaper av lignende art."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925415456"
+      }
+     },
+     "aktivitet": [
+      "Eie, leie, kjøp, salg, forvaltning og drift",
+      "av fast eiendom og alt som står i forbindelse dermed, herunder tegne",
+      "aksjer og andeler i selskaper av lignende art."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "fravalgRevisjonBeslutningsDato": "2020-04-20",
+     "fravalgRevisjonDato": "2020-07-30",
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Statlig eide aksjeselskaper mv.",
+      "kode": "1120"
+     },
+     "kapital": {
+      "antallAksjer": 1,
+      "belop": 30000.0,
+      "innfortDato": "2020-07-30",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "TELENOR VIKEN OG INNLANDET 2 AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "925415456",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 800"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1331",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2020-07-30",
+     "registreringsdatoForetaksregisteret": "2020-07-30",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2021-08-31",
+     "registreringsdatoMerverdiavgiftsregisteret": "2020-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-08-04",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2020-04-20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2020-04-20",
+     "vedtektsfestetFormaal": [
+      "Eie, leie, kjøp, salg, forvaltning og drift",
+      "av fast eiendom og alt som står i forbindelse dermed, herunder tegne",
+      "aksjer og andeler i selskaper av lignende art."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/996053059"
+      }
+     },
+     "aktivitet": [
+      "Interesseorganisasjon for cruisenæringen/reiselivsnæringen i",
+      "Nord-Norge."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Labyrinten 3"
+      ],
+      "kommune": "ALTA",
+      "kommunenummer": "5601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9510",
+      "poststed": "ALTA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2011-01-28 15:10:28",
+       "navn": "CRUISENETTVERK NORD-NORGE OG SVALBARD SA",
+       "tilDato": "2025-08-11 11:10:36"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "97093830",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter utført av turistkontorer og destinasjonsselskaper",
+      "kode": "79.901"
+     },
+     "navn": "CRUISE NORD-NORGE OG SVALBARD SA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/SA"
+       }
+      },
+      "beskrivelse": "Samvirkeforetak",
+      "kode": "SA"
+     },
+     "organisasjonsnummer": "996053059",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2011-01-28",
+     "registreringsdatoForetaksregisteret": "2011-01-28",
+     "registreringsdatoMerverdiavgiftsregisteret": "2011-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2011-08-08",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2010-09-20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-05-26",
+     "vedtektsfestetFormaal": [
+      "CNNS skal samle bedrifter/organisasjoner med stor interesse for",
+      "utvikling av cruiseturisme til Nord-Norge og Svalbard. CNNS er en",
+      "markedsføringsorganisasjon og samarbeidsforum for utvikling av",
+      "Nord-Norge og Svalbard som attraktivt cruisemål for rederier og",
+      "passasjerer. Samarbeidsaktivitetene vil være både eksterne og interne",
+      "aktiviteter (ekstern markedsføreing, produktutvikling, intern",
+      "markedsføring og forvaltningsføring).",
+      " "
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/915622216"
+      }
+     },
+     "aktivitet": [
+      "Organisering av medlemmer av EL & IT Forbundet innen Telenor",
+      "Bedriftsmarked"
+     ],
+     "epostadresse": "helge.enger@telenor.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 30M"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "911 46 033",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i arbeidstakerorganisasjoner",
+      "kode": "94.200"
+     },
+     "navn": "EL & IT FORBUNDET KLUBB TELENOR BEDRIFT",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "915622216",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2015-07-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1998-11-12",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994328565"
+      }
+     },
+     "aktivitet": [
+      "Datterselskap i konsern."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Unit #33 Level 8 Two Exchange Squar",
+       "8 Connaght Place Centra"
+      ],
+      "land": "Hongkong",
+      "landkode": "HK",
+      "poststed": "HONG KONG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "TELENOR GLOBAL SERVICES HONG KONG LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "994328565",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Telenor Global Services AS",
+       "Postboks 800"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1331",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2009-07-17",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2009-06-09",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994743988"
+      }
+     },
+     "aktivitet": [
+      "Datterselskap i konsern."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "#24-02 Fuji Xerox Tower",
+       "80 Ansion Road"
+      ],
+      "land": "Singapore",
+      "landkode": "SG",
+      "poststed": "SINGAPORE 079907"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "TELENOR GLOBAL SERVICES SINGAPORE PTE LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "994743988",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Telenor Global Services AS",
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2009-11-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2009-09-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/991300678"
+      }
+     },
+     "aktivitet": [
+      "Datterselskap i konsern."
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Aktieselskap",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Skelagervej 9"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "DK-9000 AALBORG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2007-05-26 14:53:02",
+       "navn": "TELENOR KEY PARTNER DANMARK A/S",
+       "tilDato": "2011-11-23 14:40:09"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "TELENOR KEY PARTNER DANMARK A/S",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "991300678",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Telenor Key Partner AS",
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2007-05-26",
+     "registreringsnummerIHjemlandet": "28848838",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2005-06-14",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Danmark",
+     "underlagtLovgivningLandKode": "DK",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Langelinie Allé 17"
+      ],
+      "land": "Danmark",
+      "poststed": "2100 København Ø"
+     },
+     "utenlandskRegisterNavn": "Erhvervsstyrelsen"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/880473832"
+      }
+     },
+     "aktivitet": [
+      "Fagforbund."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vigvollåsen 39"
+      ],
+      "kommune": "KRISTIANSAND",
+      "kommunenummer": "4204",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4635",
+      "poststed": "KRISTIANSAND S"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1999-01-26 14:45:58",
+       "navn": "EL & IT FORBUNDET KLUBB TELENOR PRIVAT",
+       "tilDato": "2019-07-30 14:59:05"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i arbeidstakerorganisasjoner",
+      "kode": "94.200"
+     },
+     "navn": "EL OG IT FORBUNDET KLUBB TELENOR KUNDESERVICE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "880473832",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1999-01-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1996-10-31",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/976581164"
+      }
+     },
+     "aktivitet": [
+      "Fagforening: Foreningen omfatter Tele- og Dataforbundets medlemmer",
+      "ansatt i, eller pensjonerte fra stillinger i Telenor Nett bosatt i",
+      "fylkene Vest-Agder, Aust-Agder, Telemark, Vestfold og Buskerud, som",
+      "ikke er medlemmer i en annen forening i Tele- og Dataforbundet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Tele- og Dataforbundet",
+       "Møllergata 10"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0179",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1996-07-15 18:23:19",
+       "navn": "TELE- OG DATAFORBUNDET FORENING NETT REGION SØR",
+       "tilDato": "1998-03-20 20:38:01"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i arbeidstakerorganisasjoner",
+      "kode": "94.200"
+     },
+     "navn": "TELE- OG DATAFORBUNDET FORENING TELENOR NETT SØR",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "976581164",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1996-07-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1996-04-26",
+     "telefon": "22 20 88 20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925415634"
+      }
+     },
+     "aktivitet": [
+      "Eie, leie, kjøp, salg, forvaltning og drift",
+      "av fast eiendom og alt som står i forbindelse dermed, herunder tegne",
+      "aksjer og andeler i selskaper av lignende art."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "fravalgRevisjonBeslutningsDato": "2020-05-18",
+     "fravalgRevisjonDato": "2020-07-30",
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Statlig eide aksjeselskaper mv.",
+      "kode": "1120"
+     },
+     "kapital": {
+      "antallAksjer": 1,
+      "belop": 30000.0,
+      "innfortDato": "2020-07-30",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "TELENOR AGDER VESTFOLD OG TELEMARK 2 AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "925415634",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 800"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1331",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2020-07-30",
+     "registreringsdatoForetaksregisteret": "2020-07-30",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2021-08-31",
+     "registreringsdatoMerverdiavgiftsregisteret": "2020-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-08-04",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2020-05-18",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2020-05-18",
+     "vedtektsfestetFormaal": [
+      "Eie, leie, kjøp, salg, forvaltning og drift",
+      "av fast eiendom og alt som står i forbindelse dermed, herunder tegne",
+      "aksjer og andeler i selskaper av lignende art."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925415758"
+      }
+     },
+     "aktivitet": [
+      "Eie, leie, kjøp, salg, forvaltning og drift",
+      "av fast eiendom og alt som står i forbindelse dermed, herunder tegne",
+      "aksjer og andeler i selskaper av lignende art."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "fravalgRevisjonBeslutningsDato": "2020-04-20",
+     "fravalgRevisjonDato": "2020-07-30",
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Statlig eide aksjeselskaper mv.",
+      "kode": "1120"
+     },
+     "kapital": {
+      "antallAksjer": 1,
+      "belop": 40487.93,
+      "innfortDato": "2026-10-17",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "TELENOR MØRE OG ROMSDAL OG TRØNDELAG 2 AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "925415758",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 800"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1331",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2020-07-30",
+     "registreringsdatoForetaksregisteret": "2020-07-30",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2021-08-31",
+     "registreringsdatoMerverdiavgiftsregisteret": "2020-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-08-04",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2020-04-20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-10-02",
+     "vedtektsfestetFormaal": [
+      "Eie, leie, kjøp, salg, forvaltning og drift",
+      "av fast eiendom og alt som står i forbindelse dermed, herunder tegne",
+      "aksjer og andeler i selskaper av lignende art."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/898416062"
+      }
+     },
+     "aktivitet": [
+      "Oppfølging og likemannsstøtte for etterlatte, overlevende og berørte i",
+      "Troms, Finnmark og Svalbard etter terrorangrepene 22. juli 2011 i Oslo",
+      "og på Utøya."
+     ],
+     "epostadresse": "troms22juli@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Sandra L. Rystad",
+       "Sparre Schneiders veg 2"
+      ],
+      "kommune": "TROMSØ",
+      "kommunenummer": "5501",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9011",
+      "poststed": "TROMSØ"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2012-05-26 15:02:39",
+       "navn": "STØTTEGRUPPE ETTER 22. JULI HENDELSENE I TROMS, FINNMARK OG SVALBARD",
+       "tilDato": "2012-06-02 15:23:43"
+      },
+      {
+       "fraDato": "2012-06-02 15:23:43",
+       "navn": "STØTTEGRUPPE ETTER 22. JULI HENDELSENE I TROMS, FINNMARK OG SVALBARD",
+       "tilDato": "2022-07-30 11:48:56"
+      }
+     ],
+     "hjemmeside": "støttegruppen22juli.no/troms-finnmark-svalbard/",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "988 65 319",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "STØTTEGRUPPEN 22. JULI TROMS, FINNMARK OG SVALBARD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "898416062",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Hanne Linaker",
+       "Tanåsen 3"
+      ],
+      "kommune": "HARSTAD",
+      "kommunenummer": "5503",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9408",
+      "poststed": "HARSTAD"
+     },
+     "registreringsdatoEnhetsregisteret": "2012-05-26",
+     "registreringsdatoFrivillighetsregisteret": "2012-05-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2011-12-04",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/877559432"
+      }
+     },
+     "aktivitet": [
+      "Fagforening."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Syver Andersens gate 2"
+      ],
+      "kommune": "HAMAR",
+      "kommunenummer": "3403",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2318",
+      "poststed": "HAMAR"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1997-05-26 20:32:43",
+       "navn": "TELE OG DATAFORBUNDET FORENING TELENOR NETT REGION ØST",
+       "tilDato": "2000-03-27 18:16:07"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private produsentorienterte organisasjoner uten profittformål",
+      "kode": "2500"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i næringslivs- og arbeidsgiverorganisasjoner",
+      "kode": "94.110"
+     },
+     "navn": "EL & IT FORBUNDET AVDELING TELENOR NETT ØST",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "877559432",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1997-05-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1996-12-04",
+     "telefon": "69 13 91 91",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987842318"
+      }
+     },
+     "aktivitet": [
+      "Fagforeningsarbeid på klubbnivå."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "916 98 250",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i arbeidstakerorganisasjoner",
+      "kode": "94.200"
+     },
+     "navn": "EL & IT FORBUNDET KLUBB TELENOR SENTRALE ENHETER",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "987842318",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2005-06-16",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1998-11-27",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/888937412"
+      }
+     },
+     "aktivitet": [
+      "Dette er en klubb (fagforening) i Telenor som ligger under El & IT",
+      "forbundet.",
+      " "
+     ],
+     "epostadresse": "esben.smistad@telenor.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 30D"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "919 99 692",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i arbeidstakerorganisasjoner",
+      "kode": "94.200"
+     },
+     "navn": "EL & IT FORBUNDET KLUBB TELENOR TELECOM SOLUTIONS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "888937412",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Esben Smistad",
+       "Telenor",
+       "Snarøyveien 30D"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2005-11-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "1997-10-03",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/918492771"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Limited",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "22-W Sardar Arcade Fazl-e-Haq road",
+       "Blue Area"
+      ],
+      "land": "Pakistan",
+      "landkode": "PK",
+      "poststed": "PK-44000 ISLAMABAD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "TELENOR GLOBAL SHARED SERVICES PAKISTAN (PRIVATE) LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "918492771",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2017-02-02",
+     "registreringsnummerIHjemlandet": "0069910",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2009-07-07",
+     "telefon": "9251111345700",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Pakistan",
+     "underlagtLovgivningLandKode": "PK",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Jinnah Avenue"
+      ],
+      "land": "Pakistan",
+      "poststed": "Islamabad - 44000"
+     },
+     "utenlandskRegisterNavn": "Securities & Exchange Commission of Pakistan Company Registration Office"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/991827242"
+      }
+     },
+     "aktivitet": [
+      "Forskjellige dykkeaktiviteter; dykkerkurs, dykketurer med turister,",
+      "kommersielle dykkeoppdrag (inspeksjon, videodokumentasjon av",
+      "undervannsinstallasjoner m.m.)."
+     ],
+     "epostadresse": "frostbite-diving@gmx.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Daniel Vogedes",
+       "Tønsvikvegen 473"
+      ],
+      "kommune": "TROMSØ",
+      "kommunenummer": "5501",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9023",
+      "poststed": "KROKELVDALEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "90042543",
+     "naeringskode1": {
+      "beskrivelse": "Undervisning innenfor idrett og rekreasjon",
+      "kode": "85.510"
+     },
+     "navn": "FROSTBITE DIVING OPERATIONS SVALBARD Daniel Ludwig Vogedes",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "991827242",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2007-10-31",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938054134"
+      }
+     },
+     "aktivitet": [
+      "Eie, leie, kjøpe, selge, forvalte og drifte fast eiendom."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "fravalgRevisjonBeslutningsDato": "2026-05-22",
+     "fravalgRevisjonDato": "2026-07-07",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2026-07-07 11:12:57",
+       "navn": "NFH 260580 AS",
+       "tilDato": "2026-10-19 16:54:57"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 3000,
+      "belop": 30000.0,
+      "innfortDato": "2026-07-07",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Kjøp og salg av egen fast eiendom",
+      "kode": "68.110"
+     },
+     "navn": "TELENOR MØRE OG ROMSDAL OG TRØNDELAG OG NORD 3 AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "938054134",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 800"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1331",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-07-07",
+     "registreringsdatoForetaksregisteret": "2026-07-07",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-05-22",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-09-16",
+     "vedtektsfestetFormaal": [
+      "Å eie, leie, kjøp, salg, forvaltning og drift av fast eiendom og alt",
+      "som står i forbindelse dermed, herunder tegne aksjer og andeler i",
+      "selskaper av lignende art."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/989890301"
+      }
+     },
+     "aktivitet": [
+      "Gi økonomisk støtte til norske statsborgere for studier og forskning",
+      "tilknyttet Universitets-senteret på Svalbard AS."
+     ],
+     "epostadresse": "steinar.fagerholt@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Steinar Fagerholt",
+       "Volleveien 7"
+      ],
+      "kommune": "HARSTAD",
+      "kommunenummer": "5503",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9402",
+      "poststed": "HARSTAD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2006-07-13 20:12:47",
+       "navn": "JAN CHRISTENSENS LEGAT TIL FREMME AV STUDIER OG FORSKNING VED UNIVERSITETSSENTER PÅ SVALBARD AS",
+       "tilDato": "2017-08-03 20:11:54"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "kapital": {
+      "belop": 5000000.0,
+      "fulltInnbetalt": true,
+      "innbetalt": 5000000.0,
+      "innfortDato": "2006-07-13",
+      "type": "Grunnkapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "90144024",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "kode": "94.991"
+     },
+     "navn": "JAN CHRISTENSENS LEGAT TIL FREMME AV STUDIER OG FORSKNING VED UNIVERSITETSSENTERET PÅ SVALBARD AS STI",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/STI"
+       }
+      },
+      "beskrivelse": "Stiftelse",
+      "kode": "STI"
+     },
+     "organisasjonsnummer": "989890301",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2006-07-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": true,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2006-05-29",
+     "telefon": "77 00 21 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2006-05-29"
+    }
+   ]
+  },
+  "_links": {
+   "first": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=TELENOR%20SVALBARD&page=0&size=100"
+   },
+   "prev": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=TELENOR%20SVALBARD&page=1&size=100"
+   },
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=TELENOR%20SVALBARD&size=100&page=2"
+   },
+   "last": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=TELENOR%20SVALBARD&page=2&size=100"
+   }
+  },
+  "page": {
+   "number": 2,
+   "size": 100,
+   "totalElements": 241,
+   "totalPages": 3
+  }
+ }
+}

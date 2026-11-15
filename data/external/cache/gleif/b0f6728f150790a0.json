@@ -1,0 +1,155 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=GOOGLE+CLOUD+EMEA&filter%5Bentity.legalAddress.country%5D=IE&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=GOOGLE+CLOUD+EMEA&filter%5Bentity.legalAddress.country%5D=IE&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=GOOGLE+CLOUD+EMEA&filter%5Bentity.legalAddress.country%5D=IE&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "98450052CF14CFEB6435",
+    "attributes": {
+     "lei": "98450052CF14CFEB6435",
+     "entity": {
+      "legalName": {
+       "name": "GOOGLE CLOUD EMEA LIMITED",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "70 SIR JOHN ROGERSON'S QUAY"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DUBLIN",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D02 R296"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "70 SIR JOHN ROGERSON'S QUAY"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DUBLIN",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D02 R296"
+      },
+      "registeredAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "registeredAs": "660412",
+      "jurisdiction": "IE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "MNQ7",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2019-11-11T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2025-02-18T13:05:23Z",
+      "lastUpdateDate": "2026-06-16T11:04:18Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-02-18T13:05:24Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "validatedAs": "660412",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "ie/660412",
+     "qcc": "QIEUT120QV",
+     "gem": null,
+     "spglobal": [
+      "1828691223"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/ultimate-parent"
+      }
+     },
+     "direct-children": {
+      "links": {
+       "relationship-records": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/direct-child-relationships",
+       "related": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/direct-children"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,6080 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=AMERICAN+EXPRESS+EUROPE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/921044062"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Sociedad Anónima",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "S.A."
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Avenida Partenón nr. 12-14"
+      ],
+      "land": "Spania",
+      "landkode": "ES",
+      "poststed": "28042 MADRID"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.americanexpress.com/es",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "AMERICAN EXPRESS EUROPE S.A.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "921044062",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "12 Avenida Del Partenon",
+       "(Campo De Las Naciones)"
+      ],
+      "land": "Spania",
+      "landkode": "ES",
+      "poststed": "28042 MADRID"
+     },
+     "registreringsdatoEnhetsregisteret": "2018-06-21",
+     "registreringsdatoForetaksregisteret": "2018-06-21",
+     "registreringsnummerIHjemlandet": "000678589",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2000-04-14",
+     "telefon": "917437189",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Spania",
+     "underlagtLovgivningLandKode": "ES",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Paseo de la Castellana, 44"
+      ],
+      "land": "Spania",
+      "poststed": "28046 MADRID"
+     },
+     "utenlandskRegisterNavn": "Registro Mercantil de Madrid",
+     "vedtektsdato": "2023-11-30",
+     "vedtektsfestetFormaal": [
+      "Utenlandsk foretak"
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920854346"
+      }
+     },
+     "aktivitet": [
+      "Tilby betalingstjenester knyttet til gjennomføring av",
+      "betalingstransaksjoner. Også når slike transaksjoner er dekket av en",
+      "rammekreditt, hvor slike betalingstransaksjoner gjøres via et",
+      "debetkort eller andre tilsvarende betalingsprodukter og /eller via",
+      "overføring av midler på en konto i henhold til varige og enkeltstående",
+      "avtaler om direkte debitering. Utstedelse av betalingsinstrumenter",
+      "Leveranse av driftstjenester og tilleggstjenester som naturlig hører",
+      "til det overstående, herunder garantere for gjennomføring av",
+      "betalingstransaksjoner, tilby valutatjenester og foreta beskyttelse,",
+      "lagring om prosessering av data."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Dronning Eufemias gate 16"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0191",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2025-03-20 21:17:24",
+       "navn": "AMERICAN EXPRESS EUROPE S.A. (NORWAY BRANCH) NUF",
+       "tilDato": "2026-06-25 11:15:05"
+      }
+     ],
+     "hjemmeside": "americanexpress.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Øvrige finansielle foretak unntatt forsikring",
+      "kode": "4900"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre tjenester tilknyttet finansieringsvirksomhet og kollektive investeringsfond",
+      "kode": "66.190"
+     },
+     "navn": "AMERICAN EXPRESS EUROPE S.A. NUF",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "920854346",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 229  Sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0103",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2018-06-21",
+     "registreringsdatoForetaksregisteret": "2018-06-21",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "telefon": "22 96 08 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/998322278"
+      }
+     },
+     "aktivitet": [
+      "Sport & Social Club skal organisere idrettslige og sosiale aktiviteter",
+      "for sine medlemmer samt pensjonerte kollegaer."
+     ],
+     "epostadresse": "majanita.hofstad@aexp.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Mariboes gate 13"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0183",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "975 35 007",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "AMERICAN EXPRESS SPORTS & SOCIAL CLUB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "998322278",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 455 Sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0104",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2012-05-02",
+     "registreringsdatoFrivillighetsregisteret": "2012-05-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2012-04-12",
+     "telefon": "22 98 36 58",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/981098625"
+      }
+     },
+     "aktivitet": [
+      "Datterselskap i konsern."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Molasses House",
+       "Plantation Wharf",
+       "York Road"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "London SW11 3TN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "HOTEL EXPRESS EUROPE LTD (ENGLAND)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "981098625",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Wordline Scandinavia AS",
+       "v/Stuart Eve",
+       "Postboks 409"
+      ],
+      "kommune": "KRISTIANSAND",
+      "kommunenummer": "4204",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4664",
+      "poststed": "KRISTIANSAND S"
+     },
+     "registreringsdatoEnhetsregisteret": "1999-09-22",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914813018"
+      }
+     },
+     "aktivitet": [
+      "Restaurering/kjøring til/fra treff og motorsamlinger med amerikanske",
+      "lastebiler, veteranbiler. Felles samling 1 gang pr.år, mest for",
+      "sosialt samvær med medlemmer. I sommerhalvåret reiser medlemmer rundt",
+      "om i Norge-Sverige-Danmark på lastebiltreff."
+     ],
+     "epostadresse": "kristian_nyhus@hotmail.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Osloveien 1280"
+      ],
+      "kommune": "INDRE ØSTFOLD",
+      "kommunenummer": "3118",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1827",
+      "poststed": "HOBØL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "975 03 884",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "AMERICAN DIESEL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "914813018",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2015-02-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2008-04-03",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/983447449"
+      }
+     },
+     "aktivitet": [
+      "Ambassade."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Morgedalsvegen 36"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0378",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.no.usembassy.gov",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Utlandet",
+      "kode": "9000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i internasjonale organisasjoner og organer",
+      "kode": "99.000"
+     },
+     "navn": "AMERICAN EMBASSY",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ANNA"
+       }
+      },
+      "beskrivelse": "Annen juridisk person",
+      "kode": "ANNA"
+     },
+     "organisasjonsnummer": "983447449",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 4075 AMB"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0244",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2001-06-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2001-06-12",
+     "telefon": "21 30 85 40",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992556226"
+      }
+     },
+     "aktivitet": [
+      "MC klubb som har til formål å ha sammenkomster og turer."
+     ],
+     "epostadresse": "messell@arendalkarateklubb.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Havsyn"
+      ],
+      "kommune": "ARENDAL",
+      "kommunenummer": "4203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4824",
+      "poststed": "BJORBEKK"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2008-04-17 20:28:12",
+       "navn": "LOS LOCOS MC ARENDAL",
+       "tilDato": "2011-02-03 20:10:53"
+      }
+     ],
+     "hjemmeside": "www.americanautomotiveclub.com",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "915 16 575",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "AMERICAN AUTOMOTIVE CLUB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "992556226",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2008-04-17",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2008-01-01",
+     "telefon": "37 01 17 98",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994531824"
+      }
+     },
+     "aktivitet": [
+      "ADS (American Drivers, Sandefjord) skal være en",
+      "støtte/interesseorganisasjon for amerikansk kjøretøy i Norge."
+     ],
+     "epostadresse": "post.americandrivers@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bøleveien 55"
+      ],
+      "kommune": "SANDEFJORD",
+      "kommunenummer": "3907",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3239",
+      "poststed": "SANDEFJORD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "455 15 009",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "AMERICAN DRIVERS, SANDEFJORD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "994531824",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2009-10-02",
+     "registreringsdatoFrivillighetsregisteret": "2009-10-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2006-02-15",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917834350"
+      }
+     },
+     "aktivitet": [
+      "Foreningen skal forestå arrangement av American Festival i Vanse",
+      "sentrum i Farsund kommune årlig, siste helg i juni måned. Festivalen",
+      "skal være et kulturelt og musikalsk arrangement med utgangspunkt i de",
+      "nære bånd mellom Lista og USA, og den kulturpåvirkning som har skjedd",
+      "og fortsatt finner sted som følge av utvandring og gjeninnvandring fra",
+      "og til vår region."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Tina Elisabeth Nilsen",
+       "Eikebakk 5B"
+      ],
+      "kommune": "FARSUND",
+      "kommunenummer": "4206",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4560",
+      "poststed": "VANSE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet",
+      "kode": "90.390"
+     },
+     "navn": "AMERICAN FESTIVAL LISTA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "917834350",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-10-05",
+     "registreringsdatoFrivillighetsregisteret": "2016-10-05",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2016-01-06",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924821833"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Corporation",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "CORP"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "3700 Cohen Place"
+      ],
+      "land": "USA",
+      "landkode": "US",
+      "poststed": "LYNCHBURG VA 24501"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.hofmann-global.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "+14348514676",
+     "navn": "AMERICAN HOFMANN CORPORATION",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "924821833",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-03-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1977-03-22",
+     "telefon": "+14345220305",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "USA",
+     "underlagtLovgivningLandKode": "US"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924746963"
+      }
+     },
+     "aktivitet": [
+      "Salg og montasje av maskiner til avbalansering og alt hva måtte stå i",
+      "forbindelse med det."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "3700 Cohen Place",
+       "Lynchburg VA 24501"
+      ],
+      "land": "USA",
+      "landkode": "US",
+      "poststed": "LYNCHBURG VA24501"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.hofmann-global.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "+14348514676",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med maskiner og utstyr ellers",
+      "kode": "46.640"
+     },
+     "navn": "AMERICAN HOFMANN CORPORATION",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "924746963",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o ybiN AS",
+       "Kongens gate 11"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0153",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2020-03-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "+014345220305",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994597930"
+      }
+     },
+     "aktivitet": [
+      "Reisebyråvirksomhet samt tilhørende virksomhet som naturlig hører inn",
+      "under dette."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Karl Johans gate 23"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0159",
+      "poststed": "OSLO"
+     },
+     "fravalgRevisjonDato": "2015-12-04",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 100000.0,
+      "innfortDato": "2009-10-05",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reisebyråvirksomhet",
+      "kode": "79.110"
+     },
+     "navn": "AMERICAN HOLIDAYS AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "994597930",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2009-10-05",
+     "registreringsdatoForetaksregisteret": "2009-10-05",
+     "registreringsdatoMerverdiavgiftsregisteret": "2022-05-21",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2022-09-13",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2009-09-29",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2009-09-29",
+     "vedtektsfestetFormaal": [
+      "Reisebyråvirksomhet samt tilhørende virksomhet som naturlig hører inn",
+      "under dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/913358597"
+      }
+     },
+     "aktivitet": [
+      "Formål å fremme interessen for amerikansk bil og amerikansk",
+      "motorsykkel og kulturen rundt disse, samt være pådriver for å",
+      "muliggjøre og sikre utviklingen av denne interessen."
+     ],
+     "epostadresse": "oddvinge@online.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Oddvar Ingebrigtsen",
+       "Kuopioveien 2"
+      ],
+      "kommune": "BODØ",
+      "kommunenummer": "1804",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8012",
+      "poststed": "BODØ"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2014-03-18 09:51:55",
+       "navn": "BODIN MIDNIGHT SUN CRUISERS",
+       "tilDato": "2016-04-06 20:12:54"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "922 21 163",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "AMERICAN MOTORS SALTEN",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "913358597",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2014-03-18",
+     "registreringsdatoFrivillighetsregisteret": "2014-03-25",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2014-03-05",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925193828"
+      }
+     },
+     "aktivitet": [
+      "Selge og distribuere moteklær med mer til butikker i Norge. I tillegg",
+      "skal selskapet også drive butikkvirksomhet med salg av klær til",
+      "forbrukere over disk."
+     ],
+     "antallAnsatte": 17,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Karl Johans gate 21"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0159",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2020-06-15 12:33:44",
+       "navn": "PILT AS",
+       "tilDato": "2022-01-17 10:49:02"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 300,
+      "belop": 3030000.0,
+      "innfortDato": "2022-01-18",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med klær og skotøy",
+      "kode": "46.420"
+     },
+     "navn": "AMERICAN SPORTSWEAR AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "925193828",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Inge Nygaard",
+       "Trosterudveien 1J"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0778",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
+     "registreringsdatoEnhetsregisteret": "2020-06-15",
+     "registreringsdatoForetaksregisteret": "2020-06-15",
+     "registreringsdatoMerverdiavgiftsregisteret": "2020-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-06-27",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2020-05-27",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2022-01-01",
+     "vedtektsfestetFormaal": [
+      "Drive handelsvirksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/918859578"
+      }
+     },
+     "aktivitet": [
+      "Drift av gatekjøkken samt alt som står naturlig i forbindelse med",
+      "dette."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sessvollvegen 2"
+      ],
+      "kommune": "EIDSVOLL",
+      "kommunenummer": "3240",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2072",
+      "poststed": "DAL"
+     },
+     "fravalgRevisjonDato": "2017-04-18",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2017-04-18 15:26:46",
+       "navn": "HUTN AS",
+       "tilDato": "2020-11-20 09:57:58"
+      },
+      {
+       "fraDato": "2020-11-20 09:57:58",
+       "navn": "NORBY BIL AS",
+       "tilDato": "2023-08-08 15:36:06"
+      },
+      {
+       "fraDato": "2023-08-08 15:36:06",
+       "navn": "UNIK KVALITET AS",
+       "tilDato": "2024-03-12 14:49:58"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 10000,
+      "belop": 30000.0,
+      "innfortDato": "2017-04-18",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "413 44 522",
+     "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+     },
+     "navn": "AMERICAN STYLE AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "918859578",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-11",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
+     "registreringsdatoEnhetsregisteret": "2017-04-18",
+     "registreringsdatoForetaksregisteret": "2017-04-18",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-07-08",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2017-03-29",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-02-15",
+     "vedtektsfestetFormaal": [
+      "Drift av gatekjøkkenvirksomhet samt alt som står naturlig i",
+      "forbindelse med dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934260074"
+      }
+     },
+     "aktivitet": [
+      "Import, eksport og engros av matvarer og handelsvarer."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Selma Ellefsens vei 2"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0581",
+      "poststed": "OSLO"
+     },
+     "fravalgRevisjonBeslutningsDato": "2024-09-17",
+     "fravalgRevisjonDato": "2024-10-12",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 30000.0,
+      "innfortDato": "2024-10-12",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med bredt utvalg av nærings- og nytelsesmidler",
+      "kode": "46.390"
+     },
+     "navn": "AMERICAN WHOLESALE AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "934260074",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-10-12",
+     "registreringsdatoForetaksregisteret": "2024-10-12",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2024-09-17",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-09-17",
+     "vedtektsfestetFormaal": [
+      "Import, eksport og engros av matvarer og handelsvarer."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917397341"
+      }
+     },
+     "aktivitet": [
+      "Rådgivende tjenester for forretningsutvikling innen forsvar, sikkerhet",
+      "og andre relaterte teknologisektorer i Nord-Europa."
+     ],
+     "epostadresse": "bbach@nordic-american.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Margarethas vei 47"
+      ],
+      "kommune": "LØRENSKOG",
+      "kommunenummer": "3222",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1473",
+      "poststed": "LØRENSKOG"
+     },
+     "fravalgRevisjonBeslutningsDato": "2025-10-27",
+     "fravalgRevisjonDato": "2025-11-06",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "hjemmeside": "www.nordic-american.com",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30,
+      "belop": 30000.0,
+      "innfortDato": "2016-06-29",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "48031889",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "NORDIC AMERICAN AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "917397341",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2020-11-11",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2020-11-10",
+     "registreringsdatoEnhetsregisteret": "2016-06-29",
+     "registreringsdatoForetaksregisteret": "2016-06-29",
+     "registreringsdatoMerverdiavgiftsregisteret": "2020-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-07-13",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2016-06-14",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2016-06-14",
+     "vedtektsfestetFormaal": [
+      "Rådgivende tjenester for forretningsutvikling innen forsvar, sikkerhet",
+      "og andre relaterte teknologisektorer i Nord-Europa."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938473552"
+      }
+     },
+     "aktivitet": [
+      "Booke band og artister konserter, arrangere konserter, gi ut musikk."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Brandekleiv 8B"
+      ],
+      "kommune": "VENNESLA",
+      "kommunenummer": "4223",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4700",
+      "poststed": "VENNESLA"
+     },
+     "fravalgRevisjonBeslutningsDato": "2026-09-09",
+     "fravalgRevisjonDato": "2026-09-11",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2026-09-11",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet",
+      "kode": "90.390"
+     },
+     "navn": "AGDER AMERICANA AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "938473552",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-09-11",
+     "registreringsdatoForetaksregisteret": "2026-09-11",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-09-09",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-09-09",
+     "vedtektsfestetFormaal": [
+      "Booke band og artister konserter, arrangere konserter, gi ut musikk."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/928867080"
+      }
+     },
+     "aktivitet": [
+      "Drift av restaurant og kaffe."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Drøbakgata 5A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0463",
+      "poststed": "OSLO"
+     },
+     "fravalgRevisjonBeslutningsDato": "2023-07-07",
+     "fravalgRevisjonDato": "2025-07-07",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 9000,
+      "belop": 90000.0,
+      "innfortDato": "2023-12-14",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+     },
+     "navn": "AMERICANA SKARNES AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "928867080",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-03-03",
+     "registreringsdatoForetaksregisteret": "2022-03-03",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2022-01-24",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2023-11-01",
+     "vedtektsfestetFormaal": [
+      "Drift av restaurant og kaffe."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937593767"
+      }
+     },
+     "aktivitet": [
+      "Arrangør av musikk og kultur arrangement."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Storgata 13"
+      ],
+      "kommune": "MOLDE",
+      "kommunenummer": "1506",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "6413",
+      "poststed": "MOLDE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet",
+      "kode": "90.390"
+     },
+     "navn": "MOLDE AMERICANA CLUB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "937593767",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-04-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-04-03",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/830791892"
+      }
+     },
+     "aktivitet": [
+      "Nordhordland Americana Club skal vere ein pådrivar for musikk og",
+      "kultur med opphav i amerikanske musikktradjisjonar og kulturar, samla",
+      "under paraplybegrepet Americana. Roots, Blues, Jazz, Country, Soul,",
+      "Singer/Songwriter med meire. Virksomheten skal bestå av konsertar og",
+      "andre kulturelle uttrykk i ambulerande format for å kunne benytte seg",
+      "av alle scener og kulturstader i heile Nordhordlandsregionen."
+     ],
+     "epostadresse": "stian.sylta@me.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Stian Sylta",
+       "Trælandsvegen 34"
+      ],
+      "kommune": "ALVER",
+      "kommunenummer": "4631",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5956",
+      "poststed": "HUNDVIN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Nynorsk",
+     "mobil": "984 98 982",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "NORDHORDLAND AMERICANA CLUB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "830791892",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-03-09",
+     "registreringsdatoFrivillighetsregisteret": "2023-03-09",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2023-01-15",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994404733"
+      }
+     },
+     "aktivitet": [
+      "Fremme, utvikle og ivareta countrymusikken og beslektede musikkformers",
+      "vilkår i Norge."
+     ],
+     "epostadresse": "post@americanaforum.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Kari-Lisbeth Meyer",
+       "Svensrudveien 50"
+      ],
+      "kommune": "AURSKOG-HØLAND",
+      "kommunenummer": "3226",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1970",
+      "poststed": "HEMNES"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2009-08-12 13:38:24",
+       "navn": "NORSK COUNTRY FORUM",
+       "tilDato": "2011-04-04 20:11:17"
+      }
+     ],
+     "hjemmeside": "www.americanaforum.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "908 49 441",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "NORSK AMERICANA FORUM",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "994404733",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2009-08-12",
+     "registreringsdatoFrivillighetsregisteret": "2020-11-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2009-03-05",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935299705"
+      }
+     },
+     "aktivitet": [
+      "Budtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nesoddveien 343"
+      ],
+      "kommune": "FROGN",
+      "kommunenummer": "3214",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1455",
+      "poststed": "NORDRE FROGN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "AKDAL EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935299705",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-04-01",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-06-15",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-06-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937553218"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hasleveien 15A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0571",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "ALBU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "937553218",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-04-17",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-04-19",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-04-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938213887"
+      }
+     },
+     "aktivitet": [
+      "Malartenester.",
+      "Butikkhandel med klede.",
+      "Matlevering frå butikkar og restaurantar.",
+      "Reingjering av bygningar, bustadhus, kontor og liknande."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Ljabruveien 98"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1266",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Nynorsk",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "ANDRONACHE EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938213887",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-08-05",
+     "registreringsdatoForetaksregisteret": "2026-08-05",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934960378"
+      }
+     },
+     "aktivitet": [
+      "Budtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Brynsveien 13"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0667",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "AVAN EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934960378",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-02-06",
+     "registreringsdatoForetaksregisteret": "2025-02-06",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-03-24",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-03-26",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933781569"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hagaveien 17B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0980",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "AVRAM EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933781569",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-07-11",
+     "registreringsdatoForetaksregisteret": "2024-07-11",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-08-28",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-08-29",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929917790"
+      }
+     },
+     "aktivitet": [
+      "Transport: Godstransport på vei. Postmann innen logistikk og",
+      "transport."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Husbyfaret 18"
+      ],
+      "kommune": "STJØRDAL",
+      "kommunenummer": "5035",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7505",
+      "poststed": "STJØRDAL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Godstransport på vei",
+      "kode": "49.410"
+     },
+     "navn": "AYOUB EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "929917790",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-09-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936367321"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter.",
+      "Transport av gods på vei."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Guttersrudveien 3"
+      ],
+      "kommune": "LILLESTRØM",
+      "kommunenummer": "3205",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1900",
+      "poststed": "FETSUND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "BADACHE EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936367321",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-10-16",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-10-23",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-10-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937149441"
+      }
+     },
+     "aktivitet": [
+      "Drosjekjøring."
+     ],
+     "epostadresse": "sina__97@hotmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Stovner Senter 18"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0985",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "97183004",
+     "naeringskode1": {
+      "beskrivelse": "Passasjertransport på forespørsel utført av fører med kjøretøy",
+      "kode": "49.330"
+     },
+     "navn": "BAHMANI EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "937149441",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
+     "registreringsdatoEnhetsregisteret": "2026-02-12",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-05-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933120589"
+      }
+     },
+     "aktivitet": [
+      "Lastebiltransport.",
+      "Transport av gods på vei.",
+      "Matlevering fra butikker og restauranter."
+     ],
+     "epostadresse": "m.najem.bakir@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Holmegata 30"
+      ],
+      "kommune": "FREDRIKSTAD",
+      "kommunenummer": "3107",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1610",
+      "poststed": "FREDRIKSTAD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "411 50 419",
+     "naeringskode1": {
+      "beskrivelse": "Godstransport på vei",
+      "kode": "49.410"
+     },
+     "navn": "BAKIR EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933120589",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-03-05",
+     "registreringsdatoForetaksregisteret": "2024-03-05",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-01-31",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-05-05",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934296354"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hasleveien 15A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0571",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "BALAN EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934296354",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-10-17",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-01-15",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-01-21",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937794819"
+      }
+     },
+     "aktivitet": [
+      "Transport av gods på veg."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Kløftaveien 6B"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1352",
+      "poststed": "KOLSÅS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Nynorsk",
+     "naeringskode1": {
+      "beskrivelse": "Godstransport på vei",
+      "kode": "49.410"
+     },
+     "navn": "BANTIS EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "937794819",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-06-01",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-06-30",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-07-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930457442"
+      }
+     },
+     "aktivitet": [
+      "Utleie av meg selv som sjåfør på lastebil."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Minabakken 16"
+      ],
+      "kommune": "BODØ",
+      "kommunenummer": "1804",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8056",
+      "poststed": "SALTSTRAUMEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Godstransport på vei",
+      "kode": "49.410"
+     },
+     "navn": "BAROSEN EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "930457442",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-01-31",
+     "registreringsdatoForetaksregisteret": "2023-01-31",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-07-10",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-08-25",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937769644"
+      }
+     },
+     "aktivitet": [
+      "Budtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Storveien 58"
+      ],
+      "kommune": "FREDRIKSTAD",
+      "kommunenummer": "3107",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1621",
+      "poststed": "GRESSVIK"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "BAYANY EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "937769644",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-05-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916892810"
+      }
+     },
+     "aktivitet": [
+      "Forening for utøvende for musikere. Skal fremme",
+      "utøvelse av musikk, herunder eie lyd, lys og musikkutstyr og annet",
+      "nødvendig materiell. Det skal avholdes konserter og andre oppdrag."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Håvard Høgstad",
+       "Klaus Dreyers vei 10"
+      ],
+      "kommune": "SKJERVØY",
+      "kommunenummer": "5542",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9180",
+      "poststed": "SKJERVØY"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "kode": "90.201"
+     },
+     "navn": "BEAT EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "916892810",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-03-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2016-03-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/828874772"
+      }
+     },
+     "aktivitet": [
+      "Transport av personer med drosje."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Waldemar Thranes gate 6A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0171",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Passasjertransport på forespørsel utført av fører med kjøretøy",
+      "kode": "49.330"
+     },
+     "navn": "BERKAN EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "828874772",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 12 Sagene"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0415",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2022-03-04",
+     "registreringsdatoForetaksregisteret": "2022-03-04",
+     "registreringsdatoMerverdiavgiftsregisteret": "2022-05-31",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2022-06-02",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935623456"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vestre Haugen 14"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1054",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "BICER EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935623456",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-06-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/915139604"
+      }
+     },
+     "aktivitet": [
+      "Taxi."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Skårerveien 53A"
+      ],
+      "kommune": "LØRENSKOG",
+      "kommunenummer": "3222",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1470",
+      "poststed": "LØRENSKOG"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "966 54 492",
+     "naeringskode1": {
+      "beskrivelse": "Passasjertransport på forespørsel utført av fører med kjøretøy",
+      "kode": "49.330"
+     },
+     "navn": "BINIIN EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "915139604",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
+     "registreringsdatoEnhetsregisteret": "2015-03-19",
+     "registreringsdatoMerverdiavgiftsregisteret": "2015-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2015-08-22",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935617618"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Åkerveien 22"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3024",
+      "poststed": "DRAMMEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "BISTRICEANU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935617618",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-06-12",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-06-13",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-06-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/838695752"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Libakkfaret 1C"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1184",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "BLAVETTE EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "838695752",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-10-16",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937383479"
+      }
+     },
+     "aktivitet": [
+      "Transport av gods på vei."
+     ],
+     "epostadresse": "post@brandsoy-express.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Finneveien 4"
+      ],
+      "kommune": "ØVRE EIKER",
+      "kommunenummer": "3314",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3300",
+      "poststed": "HOKKSUND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "46321315",
+     "naeringskode1": {
+      "beskrivelse": "Godstransport på vei",
+      "kode": "49.410"
+     },
+     "navn": "BRANDSØY EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "937383479",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-03-18",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-05-04",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-05-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935741971"
+      }
+     },
+     "aktivitet": [
+      "Matlevering frå butikkar og restaurantar.",
+      "Malartenester.",
+      "Tømrar, oppføring og vedlikehald av bygningar.",
+      "Reingjering av bygningar, bustadhus, kontor og liknande."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Ljabruveien 98"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1266",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Nynorsk",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "CALDARARU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935741971",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-06-24",
+     "registreringsdatoForetaksregisteret": "2025-06-24",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935732344"
+      }
+     },
+     "aktivitet": [
+      "Budtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Brynsveien 13"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0667",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "CALDARAS EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935732344",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-06-23",
+     "registreringsdatoForetaksregisteret": "2025-06-23",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935865611"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Kringveien 26D"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1084",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "CASIAN EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935865611",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-07-18",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-08-21",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-08-22",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936551440"
+      }
+     },
+     "aktivitet": [
+      "Budtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Markusløkka 8"
+      ],
+      "kommune": "ÅS",
+      "kommunenummer": "3218",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1407",
+      "poststed": "VINTERBRO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "CERNEANU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936551440",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-11-10",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-07-29",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-07-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936408877"
+      }
+     },
+     "aktivitet": [
+      "Matlevering frå butikkar og restaurantar."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Prestmåsan 14"
+      ],
+      "kommune": "LILLESTRØM",
+      "kommunenummer": "3205",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2020",
+      "poststed": "SKEDSMOKORSET"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Nynorsk",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "CHIRIAC EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936408877",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-10-22",
+     "registreringsdatoForetaksregisteret": "2025-10-22",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-10-23",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-10-23",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934523504"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Oscar Dahls vei 16"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1285",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "CIMPOESU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934523504",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-11-22",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936652506"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter.",
+      "Transport av gods på vei."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bentsebrugata 11B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0476",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "CIOBOTARU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936652506",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-11-26",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-12-04",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-12-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936366171"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter.",
+      "Transport av gods på vei."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Guttersrudveien 3"
+      ],
+      "kommune": "LILLESTRØM",
+      "kommunenummer": "3205",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1900",
+      "poststed": "FETSUND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "COBZARU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936366171",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-10-16",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-10-31",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-11-01",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933918335"
+      }
+     },
+     "aktivitet": [
+      "Matlevering."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Kongsveien 78"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1177",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "COJOCARU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933918335",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-08-14",
+     "registreringsdatoForetaksregisteret": "2024-08-14",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-08-20",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-08-21",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933781321"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Brynsveien 13"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0667",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "COLAC EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933781321",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-07-11",
+     "registreringsdatoForetaksregisteret": "2024-07-11",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935920639"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter.",
+      "Transport av gods på vei."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sinsenterrassen 11"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0574",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "COSTAN EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935920639",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-08-05",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-02-13",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935523257"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Granstangen 22A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1051",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "DRAGHIN EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935523257",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-05-19",
+     "registreringsdatoForetaksregisteret": "2025-05-19",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-05-22",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-05-22",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/835669262"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hagaveien 17B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0980",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "DROBOTA EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "835669262",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-06-12",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-06-13",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-06-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936668747"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter.",
+      "Transport av gods på vei."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bentsebrugata 11B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0476",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "DRUTU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936668747",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-11-28",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-11-29",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-12-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936488803"
+      }
+     },
+     "aktivitet": [
+      "Rengjøring av bygninger, bolighus, kontorer og lignende.",
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Skaugumveien 8"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3057",
+      "poststed": "SOLBERGELVA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Rengjøring av bygninger",
+      "kode": "81.210"
+     },
+     "navn": "DUMITRIU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936488803",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-10-30",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-10-31",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-11-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937430604"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Furuset allé 21C"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1053",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "DUMITRU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "937430604",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-03-26",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-04-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-04-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934263065"
+      }
+     },
+     "aktivitet": [
+      "Budtjenester.",
+      "Profesjonell trener/instruktør innen idrett."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hellemyrbakken 4"
+      ],
+      "kommune": "KRISTIANSAND",
+      "kommunenummer": "4204",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4628",
+      "poststed": "KRISTIANSAND S"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "EXPRESS ARSAEV",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934263065",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-10-12",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-04-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-06-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920760244"
+      }
+     },
+     "aktivitet": [
+      "Rekruttering og formidling av arbeidskraft."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Pilestredet 8"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0180",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 300,
+      "belop": 30000.0,
+      "innfortDato": "2018-04-20",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Rekruttering og formidling av arbeidskraft",
+      "kode": "78.100"
+     },
+     "navn": "EXPRESS AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "920760244",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2018-04-20",
+     "registreringsdatoForetaksregisteret": "2018-04-20",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2018-04-17",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2018-04-17",
+     "vedtektsfestetFormaal": [
+      "Drive formidling og rekruttering av arbeidskraft, undervisning og",
+      "konsulentvirksomhet, samt hva hermed står i forbindelse, ved",
+      "aksjetegning eller på annen måte å delta i andre foretagender, kjøp og",
+      "salg av i egen regning av fordringer og andre verdipapirer."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933671283"
+      }
+     },
+     "aktivitet": [
+      "Budtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Brynsveien 13"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0667",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "EXPRESS SIMINICEANU",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933671283",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-06-22",
+     "registreringsdatoForetaksregisteret": "2024-06-22",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-08-02",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-08-05",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937512384"
+      }
+     },
+     "aktivitet": [
+      "Drift av sommerskole for barn."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Holvigasvingen 41"
+      ],
+      "kommune": "GRIMSTAD",
+      "kommunenummer": "4202",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4879",
+      "poststed": "GRIMSTAD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen undervisning ellers",
+      "kode": "85.597"
+     },
+     "navn": "EXPRESS SOMMERSKOLE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "937512384",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-04-11",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-03-27",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935711770"
+      }
+     },
+     "aktivitet": [
+      "Transport og budtjenester. Diverse murertjenester, flislegging. Kjøp",
+      "og salg av varer."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bergerudåsen 15"
+      ],
+      "kommune": "INDRE ØSTFOLD",
+      "kommunenummer": "3118",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1866",
+      "poststed": "BÅSTAD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "EXPRESS WIECEK",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935711770",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-06-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/976264282"
+      }
+     },
+     "aktivitet": [
+      "Helse og ernæring. Musikkproduksjon."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hasselbakkvegen 1B"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7060",
+      "poststed": "CHARLOTTENLUND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1996-04-10 19:02:22",
+       "navn": "CONTAINER EXPRESS WORSØE",
+       "tilDato": "2013-06-04 20:37:54"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen undervisning ellers",
+      "kode": "85.597"
+     },
+     "navn": "EXPRESS WORSØE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "976264282",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1996-04-10",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "92 09 22 33",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/834980622"
+      }
+     },
+     "aktivitet": [
+      "Budtjenester.",
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hagaveien 17B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0980",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "FANARAGIU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "834980622",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Hagaveien 17"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0980",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2025-02-11",
+     "registreringsdatoForetaksregisteret": "2025-02-11",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-02-12",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-02-12",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938322171"
+      }
+     },
+     "aktivitet": [
+      "Matlevering frå butikkar og restaurantar."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sørumsgata 78"
+      ],
+      "kommune": "LILLESTRØM",
+      "kommunenummer": "3205",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2004",
+      "poststed": "LILLESTRØM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Nynorsk",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "GASPAREL EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938322171",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-08-22",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-08-28",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-08-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936533868"
+      }
+     },
+     "aktivitet": [
+      "Budtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Magna Ottersens vei 21A"
+      ],
+      "kommune": "HOLMESTRAND",
+      "kommunenummer": "3903",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3070",
+      "poststed": "SANDE I VESTFOLD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "GHEBRE EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936533868",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-11-06",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926050141"
+      }
+     },
+     "aktivitet": [
+      "Drosje."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Øvre Solhellinga 12"
+      ],
+      "kommune": "ULLENSAKER",
+      "kommunenummer": "3209",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2067",
+      "poststed": "JESSHEIM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Passasjertransport på forespørsel utført av fører med kjøretøy",
+      "kode": "49.330"
+     },
+     "navn": "GHULAM EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "926050141",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-11-27",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938792291"
+      }
+     },
+     "aktivitet": [
+      "Pakke- og budlevering."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Morvikveien 11"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5122",
+      "poststed": "MORVIK"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "GORSKI EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938792291",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-11-11",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935501849"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter.",
+      "Transport av gods på vei."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lønneveien 3"
+      ],
+      "kommune": "LØRENSKOG",
+      "kommunenummer": "3222",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1470",
+      "poststed": "LØRENSKOG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "GUGIU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935501849",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-05-15",
+     "registreringsdatoForetaksregisteret": "2025-06-03",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-06-02",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-06-03",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923686339"
+      }
+     },
+     "aktivitet": [
+      "Frilanser: film, foto og lyd relaterte oppdrag."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Glasskaråsen 75"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5106",
+      "poststed": "ØVRE ERVIK"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon av film, video og fjernsynsprogrammer",
+      "kode": "59.110"
+     },
+     "navn": "HJEMGAARD EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "923686339",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-10-25",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927712482"
+      }
+     },
+     "aktivitet": [
+      "Drosje/Transport."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Langes gate 6A"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3044",
+      "poststed": "DRAMMEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Passasjertransport på forespørsel utført av fører med kjøretøy",
+      "kode": "49.330"
+     },
+     "navn": "HUSSEIN EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "927712482",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-09-13",
+     "registreringsdatoForetaksregisteret": "2021-09-13",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935328039"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Stovnerveien 74D"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0982",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "IORDACHE EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935328039",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-04-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933490602"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [],
+      "kommune": "NANNESTAD",
+      "kommunenummer": "3238",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2034",
+      "poststed": "HOLTER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "ISVORANU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933490602",
+     "paategninger": [
+      {
+       "infotype": "FADR",
+       "innfoertDato": "2025-11-19",
+       "tekst": "Enhetsregisteret har grunn til å anta at forretningsadressen er feil. Virksomheten har fått pålegg om å melde endring."
+      }
+     ],
+     "registreringsdatoEnhetsregisteret": "2024-05-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930454125"
+      }
+     },
+     "aktivitet": [
+      "Varetransport, Mittanbud og hjemmelevering."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bjarne Haugens gate 21"
+      ],
+      "kommune": "LØRENSKOG",
+      "kommunenummer": "3222",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1475",
+      "poststed": "FINSTADJORDET"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "KARAIS EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "930454125",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-12-12",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931479237"
+      }
+     },
+     "aktivitet": [
+      "Transport av gods på vei."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nylenna 9"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3057",
+      "poststed": "SOLBERGELVA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Godstransport på vei",
+      "kode": "49.410"
+     },
+     "navn": "KARIMI EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "931479237",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-05-31",
+     "registreringsdatoForetaksregisteret": "2023-05-31",
+     "registreringsdatoMerverdiavgiftsregisteret": "2023-07-31",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-08-01",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937281447"
+      }
+     },
+     "aktivitet": [
+      "Transport av gods på vei."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Økern torgvei 16"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0580",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Godstransport på vei",
+      "kode": "49.410"
+     },
+     "navn": "KOURIS EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "937281447",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-03-03",
+     "registreringsdatoForetaksregisteret": "2026-03-03",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-03-13",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-18",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936038697"
+      }
+     },
+     "aktivitet": [
+      "Budtjenester.",
+      "Flyttetransport.",
+      "Matlevering fra butikker og restauranter.",
+      "Transport av gods på vei."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Kleivabakken 27"
+      ],
+      "kommune": "HOLMESTRAND",
+      "kommunenummer": "3903",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3070",
+      "poststed": "SANDE I VESTFOLD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "KUTSERA EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936038697",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-08-26",
+     "registreringsdatoForetaksregisteret": "2025-08-26",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936669328"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter.",
+      "Transport av gods på vei."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Guttersrudveien 3"
+      ],
+      "kommune": "LILLESTRØM",
+      "kommunenummer": "3205",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1900",
+      "poststed": "FETSUND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "LEFTER EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936669328",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-11-28",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-07-23",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-07-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934960467"
+      }
+     },
+     "aktivitet": [
+      "Budtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Brynsveien 13"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0667",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "LEONTE EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934960467",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
+     "registreringsdatoEnhetsregisteret": "2025-02-02",
+     "registreringsdatoForetaksregisteret": "2025-02-02",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-03-24",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-03-26",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934209680"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Markveien 26A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0554",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "LEPLOMB EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934209680",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-10-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927076896"
+      }
+     },
+     "aktivitet": [
+      "Følgebiltjeneste og ekspresstransport av småvarer. Direktesalg",
+      "av diverse utstyr på provisjonsbasis. Stand og messer og annen",
+      "reisevirksomhet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Østrovegen 24"
+      ],
+      "kommune": "LØTEN",
+      "kommunenummer": "3412",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2340",
+      "poststed": "LØTEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Formidlingstjenester tilknyttet detaljhandel med spesialisert vareutvalg",
+      "kode": "47.920"
+     },
+     "navn": "LINDSTAD EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "927076896",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-05-06",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938051658"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hagaveien 17B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0980",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "MAGUREANU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938051658",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-07-06",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937814283"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Kapellveien 17A"
+      ],
+      "kommune": "NORDRE FOLLO",
+      "kommunenummer": "3207",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1410",
+      "poststed": "KOLBOTN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "MALINCHE EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "937814283",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-06-15",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-08-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-08-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/825811222"
+      }
+     },
+     "aktivitet": [
+      "Transport, herunder frakt av diverse ting med bil og henger."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Stasjonsvegen 60"
+      ],
+      "kommune": "HÅ",
+      "kommunenummer": "1119",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4360",
+      "poststed": "VARHAUG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Godstransport på vei",
+      "kode": "49.410"
+     },
+     "navn": "MALMIN EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "825811222",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-10-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934257618"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Kongsveien 78"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1177",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Nynorsk",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "MANTU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934257618",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-10-11",
+     "registreringsdatoForetaksregisteret": "2024-10-11",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-10-17",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-10-17",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938657955"
+      }
+     },
+     "aktivitet": [
+      "Band."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Kirkeveien 16B"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1363",
+      "poststed": "HØVIK"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "kode": "90.201"
+     },
+     "navn": "MIDNIGHT EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "938657955",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Eythor Agustsson",
+       "Kirkeveien 16B"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1363",
+      "poststed": "HØVIK"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-10-30",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-10-06",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/921007779"
+      }
+     },
+     "aktivitet": [
+      "Levere aviser i Bergen område. Budtjenester og godstransport på vei.",
+      "Flyttetjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Osvegen 44",
+       "Osvegen 44"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5228",
+      "poststed": "NESTTUN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "MIKIS EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "921007779",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2018-06-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937635664"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Stuerødveien 14"
+      ],
+      "kommune": "TØNSBERG",
+      "kommunenummer": "3905",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3157",
+      "poststed": "BARKÅKER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "MYKYTIUK EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "937635664",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-04-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934050754"
+      }
+     },
+     "aktivitet": [
+      "Matleveringstjenester. Byggearbeid: Renovering, maling."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Furuset allé 19H"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1053",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "NAGY EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934050754",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-09-06",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-11-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/829577992"
+      }
+     },
+     "aktivitet": [
+      "Postbud."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Saturnvegen 29"
+      ],
+      "kommune": "PORSGRUNN",
+      "kommunenummer": "4001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3942",
+      "poststed": "PORSGRUNN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "NERLI EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "829577992",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-07-30",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938256691"
+      }
+     },
+     "aktivitet": [
+      "Budtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Ottobyen 8"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7024",
+      "poststed": "TRONDHEIM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "NILSEN EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938256691",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-08-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934950259"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Libakkfaret 2B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1184",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "OJOG EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934950259",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-02-06",
+     "registreringsdatoForetaksregisteret": "2025-02-06",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-02-10",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-02-10",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927014491"
+      }
+     },
+     "aktivitet": [
+      "Utkjøring av mat, varelevering på vei."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sarpsborgveien 1132C"
+      ],
+      "kommune": "FREDRIKSTAD",
+      "kommunenummer": "3107",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1659",
+      "poststed": "TORP"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "OLSEN EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "927014491",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-04-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930879770"
+      }
+     },
+     "aktivitet": [
+      "Drosjekjøring."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Dr. Dedichens vei 44"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0675",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Passasjertransport på forespørsel utført av fører med kjøretøy",
+      "kode": "49.330"
+     },
+     "navn": "PARIYAR EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "930879770",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-02-22",
+     "registreringsdatoForetaksregisteret": "2023-02-22",
+     "registreringsdatoMerverdiavgiftsregisteret": "2023-03-16",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-03-16",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934210905"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter.",
+      "Budtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Øyaveien 31A"
+      ],
+      "kommune": "LILLESTRØM",
+      "kommunenummer": "3205",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1900",
+      "poststed": "FETSUND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "PASCU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934210905",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-10-04",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-06-05",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-06-06",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933778223"
+      }
+     },
+     "aktivitet": [
+      "Budtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Østensjø Terrasse 16"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0686",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "PETRARIU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933778223",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-07-11",
+     "registreringsdatoForetaksregisteret": "2024-07-11",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-07-16",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-07-16",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/816181062"
+      }
+     },
+     "aktivitet": [
+      "Budtransport, varetransport, avislevering."
+     ],
+     "epostadresse": "junad_09@hotmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Isak H. Wiiks gate 9"
+      ],
+      "kommune": "LØRENSKOG",
+      "kommunenummer": "3222",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1461",
+      "poststed": "LØRENSKOG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "404 66 949",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "RAHMAN EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "816181062",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2015-11-06",
+     "registreringsdatoForetaksregisteret": "2015-11-06",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936889204"
+      }
+     },
+     "aktivitet": [
+      "Flyttetransport."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Garver Ytteborgs vei 133"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0977",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Flyttetransport",
+      "kode": "49.420"
+     },
+     "navn": "RANA EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936889204",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-12-30",
+     "registreringsdatoForetaksregisteret": "2025-12-30",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934322193"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Libakkfaret 2B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1184",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "RICHITEANU EXPRESS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934322193",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-10-22",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-01-13",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-01-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    }
+   ]
+  },
+  "_links": {
+   "first": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=AMERICAN%20EXPRESS%20EUROPE&page=0&size=100"
+   },
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=AMERICAN%20EXPRESS%20EUROPE&size=100&page=0"
+   },
+   "next": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=AMERICAN%20EXPRESS%20EUROPE&page=1&size=100"
+   },
+   "last": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=AMERICAN%20EXPRESS%20EUROPE&page=15&size=100"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 1512,
+   "totalPages": 16
+  }
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TPM+DATA&filter%5Bentity.legalAddress.country%5D=DK&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TPM+DATA&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TPM+DATA&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "5493007H015K5FTTC974",
+    "attributes": {
+     "lei": "5493007H015K5FTTC974",
+     "entity": {
+      "legalName": {
+       "name": "TPM DATA ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Rendebæksvej 19",
+        "Smørumnedre"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Smørum",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2765"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Rendebæksvej 19",
+        "Smørumnedre"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Smørum",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2765"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "25475585",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2000-06-26T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Rendebaeksvej 19",
+         "Smorumnedre"
+        ],
+        "city": "Smorum",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2765"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Rendebaeksvej 19",
+         "Smorumnedre"
+        ],
+        "city": "Smorum",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2765"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-12-12T15:35:00Z",
+      "lastUpdateDate": "2026-10-06T05:14:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-12-03T09:32:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "25475585",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/25475585",
+     "qcc": "QDKH07JK25",
+     "gem": null,
+     "spglobal": [
+      "594629054"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493007H015K5FTTC974/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493007H015K5FTTC974/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493007H015K5FTTC974/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493007H015K5FTTC974/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493007H015K5FTTC974/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/5493007H015K5FTTC974"
+    }
+   }
+  ]
+ }
+}

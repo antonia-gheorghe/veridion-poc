@@ -1,0 +1,171 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=KMD+VENTURE&filter%5Bentity.legalAddress.country%5D=DK&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=KMD+VENTURE&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=KMD+VENTURE&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "984500555T9290B83680",
+    "attributes": {
+     "lei": "984500555T9290B83680",
+     "entity": {
+      "legalName": {
+       "name": "KMD Venture A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Lautrupparken 40"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Ballerup",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2750"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Lautrupparken 40"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Ballerup",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2750"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "36985356",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "INACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": "KMD A/S."
+      },
+      "successorEntities": [
+       {
+        "name": "KMD A/S.",
+        "lang": "da"
+       }
+      ],
+      "creationDate": "2015-08-12T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2026-03-17T00:00:00Z",
+          "recordedDate": "2026-04-07T15:25:03Z",
+          "type": "ABSORPTION",
+          "status": "COMPLETED",
+          "affectedFields": [
+           {
+            "value": "KMD A/S.",
+            "xpath": "/lei:LEIData/lei:LEIRecords/lei:LEIRecord/lei:Entity/lei:SuccessorEntity/lei:SuccessorEntityName"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2021-10-01T08:31:30Z",
+      "lastUpdateDate": "2026-04-07T15:25:03Z",
+      "status": "RETIRED",
+      "nextRenewalDate": "2022-10-01T08:31:30Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "36985356",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/36985356",
+     "qcc": "QDKK0TP891",
+     "gem": null,
+     "spglobal": [
+      "669524767"
+     ],
+     "conformityFlag": "NOT_APPLICABLE"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500555T9290B83680/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500555T9290B83680/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500555T9290B83680/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500555T9290B83680/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500555T9290B83680/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/984500555T9290B83680"
+    }
+   }
+  ]
+ }
+}

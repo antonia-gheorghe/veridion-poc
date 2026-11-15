@@ -1,0 +1,244 @@
+{
+ "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=NOKIA+INNOVATIONS&page=1",
+ "response": {
+  "totalResults": 1,
+  "companies": [
+   {
+    "businessId": {
+     "value": "2102144-1",
+     "registrationDate": "2007-03-07",
+     "source": "3"
+    },
+    "euId": {
+     "value": "FIFPRO.2102144-1",
+     "source": "1"
+    },
+    "names": [
+     {
+      "name": "Nokia Innovations Oy",
+      "type": "1",
+      "registrationDate": "2018-04-05",
+      "version": 1,
+      "source": "1"
+     },
+     {
+      "name": "Dopplr Oy",
+      "type": "1",
+      "registrationDate": "2007-03-13",
+      "endDate": "2018-04-05",
+      "version": 2,
+      "source": "1"
+     },
+     {
+      "name": "Nokia Innovations Ltd",
+      "type": "2",
+      "registrationDate": "2018-04-05",
+      "version": 1,
+      "source": "1"
+     }
+    ],
+    "mainBusinessLine": {
+     "type": "62100",
+     "descriptions": [
+      {
+       "languageCode": "3",
+       "description": "Computer programming activities"
+      },
+      {
+       "languageCode": "2",
+       "description": "Dataprogrammering"
+      },
+      {
+       "languageCode": "1",
+       "description": "Ohjelmistojen suunnittelu ja valmistus"
+      }
+     ],
+     "typeCodeSet": "TOIMI4",
+     "registrationDate": "2026-01-01",
+     "source": "2"
+    },
+    "companyForms": [
+     {
+      "type": "16",
+      "descriptions": [
+       {
+        "languageCode": "2",
+        "description": "Aktiebolag"
+       },
+       {
+        "languageCode": "3",
+        "description": "Limited company"
+       },
+       {
+        "languageCode": "1",
+        "description": "Osakeyhtiö"
+       }
+      ],
+      "registrationDate": "2007-03-13",
+      "version": 1,
+      "source": "1"
+     }
+    ],
+    "companySituations": [],
+    "registeredEntries": [
+     {
+      "type": "0",
+      "descriptions": [
+       {
+        "languageCode": "2",
+        "description": "Oregistrerad"
+       },
+       {
+        "languageCode": "1",
+        "description": "Rekisteröimätön"
+       },
+       {
+        "languageCode": "3",
+        "description": "Unregistered"
+       }
+      ],
+      "registrationDate": "2007-03-07",
+      "endDate": "2007-03-12",
+      "register": "1",
+      "authority": "2"
+     },
+     {
+      "type": "1",
+      "descriptions": [
+       {
+        "languageCode": "3",
+        "description": "Registered"
+       },
+       {
+        "languageCode": "2",
+        "description": "Registrerad"
+       },
+       {
+        "languageCode": "1",
+        "description": "Rekisterissä"
+       }
+      ],
+      "registrationDate": "2007-03-13",
+      "register": "1",
+      "authority": "2"
+     },
+     {
+      "type": "1",
+      "descriptions": [
+       {
+        "languageCode": "3",
+        "description": "Registered"
+       },
+       {
+        "languageCode": "2",
+        "description": "Registrerad"
+       },
+       {
+        "languageCode": "1",
+        "description": "Rekisterissä"
+       }
+      ],
+      "registrationDate": "2007-05-03",
+      "register": "4",
+      "authority": "1"
+     },
+     {
+      "type": "55",
+      "descriptions": [
+       {
+        "languageCode": "3",
+        "description": "Registered"
+       },
+       {
+        "languageCode": "2",
+        "description": "Registrerad"
+       },
+       {
+        "languageCode": "1",
+        "description": "Rekisterissä"
+       }
+      ],
+      "registrationDate": "2018-04-05",
+      "register": "5",
+      "authority": "1"
+     },
+     {
+      "type": "80",
+      "descriptions": [
+       {
+        "languageCode": "1",
+        "description": "Liiketoiminnasta arvonlisäverovelvollinen"
+       },
+       {
+        "languageCode": "2",
+        "description": "Momsskyldig för rörelseverksamhet"
+       },
+       {
+        "languageCode": "3",
+        "description": "VAT-liable for business activity"
+       }
+      ],
+      "registrationDate": "2018-04-01",
+      "register": "6",
+      "authority": "1"
+     }
+    ],
+    "addresses": [
+     {
+      "type": 1,
+      "street": "Karakaari",
+      "postCode": "02610",
+      "postOffices": [
+       {
+        "city": "ESBO",
+        "languageCode": "2",
+        "municipalityCode": "049"
+       },
+       {
+        "city": "ESPOO",
+        "languageCode": "1",
+        "municipalityCode": "049"
+       }
+      ],
+      "buildingNumber": "7",
+      "entrance": "",
+      "apartmentNumber": "",
+      "apartmentIdSuffix": "",
+      "co": "",
+      "registrationDate": "2019-07-01",
+      "source": "0"
+     },
+     {
+      "type": 2,
+      "street": "Karakaari",
+      "postCode": "02610",
+      "postOffices": [
+       {
+        "city": "ESBO",
+        "languageCode": "2",
+        "municipalityCode": "049"
+       },
+       {
+        "city": "ESPOO",
+        "languageCode": "1",
+        "municipalityCode": "049"
+       }
+      ],
+      "postOfficeBox": "",
+      "buildingNumber": "7",
+      "entrance": "",
+      "apartmentNumber": "",
+      "apartmentIdSuffix": "",
+      "co": "",
+      "registrationDate": "2019-07-01",
+      "source": "0"
+     }
+    ],
+    "tradeRegisterStatus": "1",
+    "status": "2",
+    "registrationDate": "2007-03-13",
+    "lastModified": "2026-11-09T16:11:07"
+   }
+  ]
+ }
+}

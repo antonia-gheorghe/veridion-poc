@@ -1,0 +1,6333 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SAS+INSTITUTE&size=100&page=1",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/983813577"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "1 Quai Marcel Dassault"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "92150 SURESNES"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2001-10-17 16:31:25",
+       "navn": "STOLT OFFSHORE SA",
+       "tilDato": "2007-12-18 20:49:13"
+      },
+      {
+       "fraDato": "2007-12-18 20:49:13",
+       "navn": "ACERGY FRANCE S.A.",
+       "tilDato": "2016-11-01 08:03:44"
+      }
+     ],
+     "hjemmeside": "www.acergy-group.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACERGY FRANCE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "983813577",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2001-10-17",
+     "registreringsnummerIHjemlandet": "692007495",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "+33140976300",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "4 rue Pablo Néruda"
+      ],
+      "land": "Frankrike",
+      "poststed": "92020 Nanterre Cedex"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Nanterre"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/971418109"
+      }
+     },
+     "aktivitet": [
+      "Mannskap/personell som arbeider offshore."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-02-20 09:32:00",
+       "navn": "ETPM",
+       "tilDato": "2001-10-17 20:38:48"
+      },
+      {
+       "fraDato": "2001-10-17 20:38:48",
+       "navn": "STOLT OFFSHORE SA",
+       "tilDato": "2007-12-18 20:49:03"
+      },
+      {
+       "fraDato": "2007-12-18 20:49:03",
+       "navn": "ACERGY FRANCE S.A.",
+       "tilDato": "2016-11-01 10:04:59"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre tjenester tilknyttet utvinning av råolje og naturgass",
+      "kode": "09.109"
+     },
+     "navn": "ACERGY FRANCE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "971418109",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Subsea 7 Norway AS",
+       "Postboks 205"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4068",
+      "poststed": "STAVANGER"
+     },
+     "registreringsdatoEnhetsregisteret": "1995-02-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927105047"
+      }
+     },
+     "aktivitet": [
+      "Taxi."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Borggata 4"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0650",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Passasjertransport på forespørsel utført av fører med kjøretøy",
+      "kode": "49.330"
+     },
+     "navn": "ALI SAS TRANSPORT",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "927105047",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-05-12",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938001308"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "19 Quai Perrache"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-69002 LYON"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ALINTO GROUP SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938001308",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-06-29",
+     "registreringsnummerIHjemlandet": "823678255",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2016-11-14",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Nouveau palais de justice",
+       "44 rue de Bonnel"
+      ],
+      "land": "Frankrike",
+      "poststed": "69433 Lyon Cedex 03"
+     },
+     "utenlandskRegisterNavn": "Greffe du tribunal de Commerce de Lyon"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938354006"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "epostadresse": "contact@alstefgroup.com",
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "104 Boulevard de la Salle",
+       "Boigny-sur-Bionne BP 9018"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-45963 ORLEANS CEDEX 9"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.alstefgroup.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ALSTEF AUTOMATION SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938354006",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-08-26",
+     "registreringsdatoForetaksregisteret": "2026-08-26",
+     "registreringsnummerIHjemlandet": "421380866",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2000-06-02",
+     "telefon": "+33038784200",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "44 rue de la Bretonnerie",
+       "Palais de Justice"
+      ],
+      "land": "Frankrike",
+      "poststed": "45000 Orléans"
+     },
+     "utenlandskRegisterNavn": "Greffe du tribunal de commerce d'Orleans",
+     "vedtektsdato": "2024-08-06",
+     "vedtektsfestetFormaal": [
+      "Utenlandsk foretak"
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937553803"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "2 Rue Georges Besse"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-921960 ANTONY"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ANALOG WAY SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "937553803",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-04-17",
+     "registreringsnummerIHjemlandet": "349257063",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1989-01-01",
+     "telefon": "+33181890862",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "4 rue Pablo Néruda"
+      ],
+      "land": "Frankrike",
+      "poststed": "92020 Nanterre Cedex"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Nanterre"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/830598162"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "epostadresse": "magali.jegu@tecma-aries.com",
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "4 Av. Louis François Armand"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-10430 ROSIÈRES-PRÉS-TROYES"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.tecma-aries.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ARIES PACKAGING SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "830598162",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "4, avenue Louis Armand"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-10430 ROSIRES-PRES-TROYES"
+     },
+     "registreringsdatoEnhetsregisteret": "2023-01-18",
+     "registreringsnummerIHjemlandet": "387894835",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1992-06-29",
+     "telefon": "164045180",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "134 rue du Général de Gaulle"
+      ],
+      "land": "Frankrike",
+      "poststed": "10000 Troyes"
+     },
+     "utenlandskRegisterNavn": "Greffe du tribunal de commerce de Troyes"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/918742077"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "313 Terrasses de I'Arche"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "92727 NANTERRE CEDEX"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "clp.partners.axa/fr",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "AXA PARTNERS SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "918742077",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2017-03-22",
+     "registreringsdatoForetaksregisteret": "2017-03-22",
+     "registreringsnummerIHjemlandet": "813778412",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2015-09-20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "4 rue Pablo Néruda"
+      ],
+      "land": "Frankrike",
+      "poststed": "92020 Nanterre Cedex"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Nanterre",
+     "vedtektsdato": "2017-01-24",
+     "vedtektsfestetFormaal": [
+      "Utenlandsk foretak"
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935048877"
+      }
+     },
+     "aktivitet": [
+      "Vi tilbyr telekomtjenester og -løsninger."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "68 Rue Marjolin"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-92300 LEVALLOIS PERRET"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Telekommunikasjon ellers",
+      "kode": "61.900"
+     },
+     "navn": "AXIALYS SAS NUF",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "935048877",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-03-12",
+     "registreringsdatoForetaksregisteret": "2025-03-12",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934757467"
+      }
+     },
+     "aktivitet": [
+      "En verdensledende leverandør av mikroanalytisk og metrologisk",
+      "instrumentering for forskning og prosesskontroll. Instrumentene våre",
+      "måler elementær- og isotopsammensetning i materialer ned til",
+      "atomoppløsning og utstyrer regjerings- og universitetslaboratorier",
+      "samt høyteknologiske industribedrifter rundt om i verden."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "23-29 Quai de Grésillons"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-92622 GENNEVILLIERS CEDEX"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen teknisk konsulentvirksomhet",
+      "kode": "71.129"
+     },
+     "navn": "CAMECA SAS NUF",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "934757467",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-03-11",
+     "registreringsdatoForetaksregisteret": "2025-03-11",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-12-31",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-07-12",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/996492168"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak. Morselskap i konsern."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "30 av Carnot"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "91345 MASSY CEDEX"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "CONVERTEAM INTERNATIONAL SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "996492168",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 215",
+       "Conveream Nordic AS"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2011-01-28",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2005-03-02",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938738351"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "4 Rue du Vaulorin"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-91320 WISSOUS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "CRYO PUR SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938738351",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-10-23",
+     "registreringsdatoForetaksregisteret": "2026-10-23",
+     "registreringsnummerIHjemlandet": "811286178",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2015-05-05",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1 Rue de la Patinoire"
+      ],
+      "land": "Frankrike",
+      "poststed": "91011 Evry Cedex"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce d'Evry",
+     "vedtektsdato": "2024-07-01",
+     "vedtektsfestetFormaal": [
+      "Utenlandsk foretak"
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995878429"
+      }
+     },
+     "aktivitet": [
+      "Å bidra til å gi retning og grunnlag for forståelse av",
+      "DNL/SAS-historien. Å være en åpen, ideell og frittstående forening for",
+      "alle med interesse for DNL/SAS historie. Å holde regelmessige",
+      "medlemsmøter med foredrag, film m.m. Å arrangere museale og andre",
+      "relevante ekskursjoner for medlemmene. Å samle inn DNL/SAS-historiske",
+      "dokumenter og annet materiell, som tilrettelegges og overføres til SAS",
+      "Museet for registrering og eksponering/arkivering. Å utgi",
+      "egenproduserte skrifter/publikasjoner. Å bidra med DNL/SAS-historiske",
+      "foredrag /kåserier internt i selskapet, og i eksterne fora. Å stille",
+      "medlemmer til disposisjon for SAS Museet som medarbeidere i museets",
+      "drift."
+     ],
+     "epostadresse": "post@sasmuseet.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Gardermoen vest"
+      ],
+      "kommune": "ULLENSAKER",
+      "kommunenummer": "3209",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2060",
+      "poststed": "GARDERMOEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2010-08-31 20:12:38",
+       "navn": "DET NORSKE LUFTFARTSELSKAP/SCANDINAVIAN AIRLINES HISTORIELAG",
+       "tilDato": "2024-08-22 11:36:40"
+      }
+     ],
+     "hjemmeside": "www.sasmuseet.com",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "DNL/SAS HISTORIELAG",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "995878429",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Roald Amundsens veg 1"
+      ],
+      "kommune": "ULLENSAKER",
+      "kommunenummer": "3209",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2060",
+      "poststed": "GARDERMOEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2010-08-31",
+     "registreringsdatoFrivillighetsregisteret": "2010-08-31",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-02-25",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-02-25",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1989-11-20",
+     "telefon": "95 71 80 05",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997480899"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Zone Industrielle de Bastillac Nord",
+       "Rue Du 19 Mars 1962"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "65000 TARBES"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.eltekvalere.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ELLTEK VALERE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "997480899",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2011-11-02",
+     "registreringsnummerIHjemlandet": "662780162",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1966-05-13",
+     "telefon": "+33562340930",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "6 Rue Maréchal Foch"
+      ],
+      "land": "Frankrike",
+      "poststed": "65000 TARBES"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Tarbes"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997480880"
+      }
+     },
+     "aktivitet": [
+      "Tilbyr energikonverteringsløsninger, innenfor telekom, fornybar",
+      "energi, elektriske kjøretøy og industrielle applikasjoner."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen teknisk konsulentvirksomhet",
+      "kode": "71.129"
+     },
+     "navn": "ELTEK VALERE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "997480880",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Zone Industrielle de Bastillac Nord",
+       "Rue Du 19 Mars 1962"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "65000 TARBES"
+     },
+     "registreringsdatoEnhetsregisteret": "2011-11-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938498164"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Zac De La Moinerie 10",
+       "Impasse du Grand Jardin"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-35400 SAINT-MALO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "EMERALD COAST SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938498164",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-09-16",
+     "registreringsnummerIHjemlandet": "412730848",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2010-07-26",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1 rue de la Croix Désilles",
+       "Parc d'affaires Cap Sud"
+      ],
+      "land": "Frankrike",
+      "poststed": "35400 Saint-Malo"
+     },
+     "utenlandskRegisterNavn": "Greffe du tribunal de commerce de Saint Malo"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934018028"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "2 avenue de Montaspan"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-75016 PARIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ENTRUST GLOBAL SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "934018028",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-09-03",
+     "registreringsdatoForetaksregisteret": "2024-09-03",
+     "registreringsnummerIHjemlandet": "532384195",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2011-05-18",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1 Quai de la Corse"
+      ],
+      "land": "Frankrike",
+      "poststed": "75004 Paris"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Paris",
+     "vedtektsdato": "2023-06-26",
+     "vedtektsfestetFormaal": [
+      "Utenlandsk foretak"
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992737611"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "58 Rue Pottier"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "78150 LE CHESNAY"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "FALCONSTOR SOFTWARE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "992737611",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2008-07-25",
+     "registreringsnummerIHjemlandet": "441612223",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2002-04-02",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1 place André Mignot",
+       "RP 1125"
+      ],
+      "land": "Frankrike",
+      "poststed": "78000 Versailles"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Versailles"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/829643952"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "47 Boulevard de Courcelles"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-75008 PARIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.fenixys.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "+33650007484",
+     "navn": "FENIXYS CONSULTING SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "829643952",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-08-16",
+     "registreringsnummerIHjemlandet": "900760869",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2021-06-23",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1 Quai de la Corse"
+      ],
+      "land": "Frankrike",
+      "poststed": "75004 Paris"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Paris"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937194633"
+      }
+     },
+     "aktivitet": [
+      "mor i konsern"
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "24-26 Immeuble Caracas",
+       "24 Rue de Villeneuve"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "94150 Rungis"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "FINANCIÈRE ESTEREL SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "937194633",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Trescal Norway AS",
+       "Postboks 124"
+      ],
+      "kommune": "SOLA",
+      "kommunenummer": "1124",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4098",
+      "poststed": "TANANGER"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-02-18",
+     "registreringsnummerIHjemlandet": "524487642",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1 avenue du Général de Gaulle",
+       "Immeuble le Pascal"
+      ],
+      "land": "Frankrike",
+      "poststed": "94049 Creteil Cedex"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Creteil"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930000639"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "6-8 rue de Rome ZAC Val d'Europe"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-77144 MONTEVRAIN CEDEX"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.fivesgroup.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "FIVES CONVEYING SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "930000639",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-10-07",
+     "registreringsnummerIHjemlandet": "347914020",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1988-02-09",
+     "telefon": "+33160941400",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "56 rue Aristide Briand"
+      ],
+      "land": "Frankrike",
+      "poststed": "77100 Meaux"
+     },
+     "utenlandskRegisterNavn": "Greffe du tribunal de commerce de Meaux"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932216019"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "100 rue Chalant"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-59790 RONCHIN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "FIVES ECL SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "932216019",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-10-10",
+     "registreringsnummerIHjemlandet": "458503828",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1947-09-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "445 Bd Gambetta"
+      ],
+      "land": "Frankrike",
+      "poststed": "59200 TOURCOING"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Lille Metropole"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/998374065"
+      }
+     },
+     "aktivitet": [
+      "Import og leveranse av biogass anlegg og vannrensesystem."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o PWC Skatterådgivere AS",
+       "Dronning Eufemias gate 8"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0191",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med maskiner og utstyr til bergverksdrift, olje- og gassutvinning og bygge- og anleggsvirksomhet",
+      "kode": "46.630"
+     },
+     "navn": "FRANCE EVAPORATION SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "998374065",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o PWC Skatterådgivere AS",
+       "Postboks 748 Sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0106",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2012-05-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/998374324"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "rue René Cauche ZI de Seclin"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "59139 NOYELLES-LÉS-SECLIN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.evaporation.fr",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "FRANCE EVAPORATION SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "998374324",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2012-05-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2011-12-13",
+     "telefon": "+33320001750",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937411189"
+      }
+     },
+     "aktivitet": [
+      "Arbeid med vindkraft offshore."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "1 Route De La Croix Moriau,"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-44350 GUERANDE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen teknisk konsulentvirksomhet",
+      "kode": "71.129"
+     },
+     "navn": "GEPS TECHNO SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "937411189",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-03-24",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937416725"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "1 Route De La Croix Moriau,"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-44350 GUERANDE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "GEPS TECHNO SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "937416725",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-03-24",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/996144607"
+      }
+     },
+     "aktivitet": [
+      "Bygger transformatorstasjoner for høy og mellomspenning og utvikler",
+      "ulike teknikker for å håndtere kraftnett."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "102 Avenue de Paris"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-91300 MASSY"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2010-11-08 20:31:57",
+       "navn": "AREVA T&D SAS",
+       "tilDato": "2011-06-14 20:20:55"
+      },
+      {
+       "fraDato": "2011-06-14 20:20:55",
+       "navn": "ALSTOM GRID SAS",
+       "tilDato": "2019-11-11 12:14:24"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "GRID SOLUTIONS SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "996144607",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2010-11-08",
+     "registreringsdatoMerverdiavgiftsregisteret": "2021-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2022-12-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/996144623"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "102 Avenue de Paris"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR_91300 MASSY"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2010-11-08 13:44:57",
+       "navn": "AREVA T&D SAS",
+       "tilDato": "2011-06-14 20:21:07"
+      },
+      {
+       "fraDato": "2011-06-14 20:21:07",
+       "navn": "ALSTOM GRID SAS",
+       "tilDato": "2019-11-11 21:08:17"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "GRID SOLUTIONS SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "996144623",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2010-11-08",
+     "registreringsnummerIHjemlandet": "389191800",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1993-10-11",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "4 rue Pablo Néruda"
+      ],
+      "land": "Frankrike",
+      "poststed": "92020 Nanterre Cedex"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Nanterre"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936085938"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "2 Rue De La Roquette"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-75011 PARIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "HURTIGRUTEN FRANCE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "936085938",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-09-03",
+     "registreringsnummerIHjemlandet": "449035005",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1 Quai de la Corse"
+      ],
+      "land": "Frankrike",
+      "poststed": "75004 Paris"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Paris"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937181019"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "2 rue de la Roquette,",
+       "Passage du Cheval Blanc,"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-75011 PARIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "HX FR SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "937181019",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-02-17",
+     "registreringsnummerIHjemlandet": "931161186",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2024-07-22",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1 Quai de la Corse"
+      ],
+      "land": "Frankrike",
+      "poststed": "75004 Paris"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Paris"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937120524"
+      }
+     },
+     "aktivitet": [
+      "Crusevirksomhet og alt som dermed står i forbindelse."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "2 rue de la Roquette",
+       "Passage du Cheval Blanc"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-75011 PARIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Kysttrafikk med passasjerer ikke nevnt annet sted",
+      "kode": "50.109"
+     },
+     "navn": "HX FR SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "937120524",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o HX NO AS",
+       "Markveien 57"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0550",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-02-17",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-01-02",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-02-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/821555302"
+      }
+     },
+     "aktivitet": [
+      "Konsulenttjeneste innen geofaglige formål."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "43 Quai de Grenelle"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-75015 PARIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Geologiske undersøkelser",
+      "kode": "71.122"
+     },
+     "navn": "IMERYS SERVICES SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "821555302",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2018-10-22",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/921592981"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "43 Quai de Grenelle"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-75015 PARIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "IMERYS SERVICES SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "921592981",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2018-10-22",
+     "registreringsnummerIHjemlandet": "320750730",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1981-01-26",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1 Quai de la Corse"
+      ],
+      "land": "Frankrike",
+      "poststed": "75004 Paris"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Paris"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/928174689"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "62, rue du Faubourg Poissonnière"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-75010 PARIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ISWT 2.0 SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "928174689",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-11-19",
+     "registreringsnummerIHjemlandet": "812853919",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2015-07-30",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1 Quai de la Corse"
+      ],
+      "land": "Frankrike",
+      "poststed": "75004 Paris"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Paris"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937715862"
+      }
+     },
+     "aktivitet": [
+      "Produksjon og salg av ulike typer generatorer, elektriske motorer,",
+      "induksjonsmotorer, omformere osv., samt reparasjon, vedlikehold og",
+      "oppgradering, utføres enten i bedriftens egne lokaler eller hos",
+      "kunden."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "367 Rue de l'Industrie"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-59460 JEUMONT"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med maskiner og utstyr ellers",
+      "kode": "46.640"
+     },
+     "navn": "JEUMONT ELECTRIC SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "937715862",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-06-01",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937802900"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "epostadresse": "christophe.bouzere@jeumontelectric.com",
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "367 Rue de l'Industrie"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-59460 JEUMONT"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.jeumontelectric.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "JEUMONT ELECTRIC SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "937802900",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-06-01",
+     "registreringsnummerIHjemlandet": "444571772",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2007-02-08",
+     "telefon": "+33361999600",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "5 Place du Commerce"
+      ],
+      "land": "Frankrike",
+      "poststed": "59326 Valenciennes cedex"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal De Commerce de Vienne"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937947372"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "2, rue Charles Bachy"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-86530 AVAILLES-EN-CHATELLERAULT"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "johnsonscreens.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "JOHNSON SCREENS SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "937947372",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-06-22",
+     "registreringsdatoForetaksregisteret": "2026-06-22",
+     "registreringsnummerIHjemlandet": "826020141",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1960-11-28",
+     "telefon": "+33549021600",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "21 rue Saint Louis"
+      ],
+      "land": "Frankrike",
+      "poststed": "86036 Poitiers CEDEX"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Poitiers",
+     "vedtektsdato": "2025-07-07",
+     "vedtektsfestetFormaal": [
+      "Utenlandsk foretak"
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912614808"
+      }
+     },
+     "aktivitet": [
+      "Utleie av personell for alle typer oppdrag på skip, offshore og andre",
+      "fartøy."
+     ],
+     "epostadresse": "gudrun.soreng@no.pwc.com",
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "LD SAGET SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "912614808",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o PwC",
+       "v/G Søreng",
+       "Postboks 3984 Sandviken"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5035",
+      "poststed": "BERGEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2013-10-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912614832"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "28 Quai Gallieni"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-92158 SURESNES CEDEX"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "LD SAGET SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "912614832",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-10-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938826617"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "epostadresse": "info@m-s.fr",
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Pra De Serre 2 Rue Pierre Gilles",
+       "De Gennes"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR.63960 VEYRE-MONTON"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "M S SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938826617",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-11-06",
+     "registreringsnummerIHjemlandet": "399171826",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1994-12-15",
+     "telefon": "+33473285270",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "40 rue de l\\'Ange",
+       "BP 180"
+      ],
+      "land": "Frankrike",
+      "poststed": "63005 Clermont-Ferrand cedex 1"
+     },
+     "utenlandskRegisterNavn": "Greffe du tribunal de commerce de Clermont-Ferrand"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926922416"
+      }
+     },
+     "aktivitet": [
+      "Salg / distribusjon av miljøvennlige væsker til offshore-markedet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "15 Porte du Grand Lyon"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-01700 NEYRON"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med maskiner og utstyr til bergverksdrift, olje- og gassutvinning og bygge- og anleggsvirksomhet",
+      "kode": "46.630"
+     },
+     "navn": "MACDERMID EUROPE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "926922416",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-05-11",
+     "registreringsdatoMerverdiavgiftsregisteret": "2021-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-07-17",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927100126"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "15 Porte du Grand Lyon"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-01700 NEYRON"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.macdermid.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "MACDERMID EUROPE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "927100126",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-05-11",
+     "registreringsnummerIHjemlandet": "892000423",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2020-12-14",
+     "telefon": "+41799001825",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "32 AV ALSACE LORRAINE",
+       "Palais de Justice",
+       "CS 50317"
+      ],
+      "land": "Frankrike",
+      "poststed": "01011 Bourg-en-Bresse cedex"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Bourg-en-Bresse"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/837468752"
+      }
+     },
+     "aktivitet": [
+      "Arrangere og gjennomføre konferanse."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Villa Gaby 285 Corniche Kennedy"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-13007 MARSEILLE 7TH ARRONDISSEME"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter utført av utflukts- og eventarrangører",
+      "kode": "79.121"
+     },
+     "navn": "MCO CONGRES SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "837468752",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Momspartner Norway AS",
+       "Postboks 13,"
+      ],
+      "kommune": "NARVIK",
+      "kommunenummer": "1806",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8501",
+      "poststed": "NARVIK"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-04-14",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-09-13",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-09-17",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/819939632"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "231 Rue Saint-Honore"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-75001 PARIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "METAL VALOR SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "819939632",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2017-11-21",
+     "registreringsnummerIHjemlandet": "418560454",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1998-04-28",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1 Quai de la Corse"
+      ],
+      "land": "Frankrike",
+      "poststed": "75004 Paris"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Paris"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935781256"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "18/20 Avenue de la Pépinière"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-78220 VIROFLAY"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "METTLER TOLEDO SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "935781256",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-06-30",
+     "registreringsnummerIHjemlandet": "310370754",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1983-06-20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1 place André Mignot",
+       "RP 1125"
+      ],
+      "land": "Frankrike",
+      "poststed": "78000 Versailles"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Versailles"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935647037"
+      }
+     },
+     "aktivitet": [
+      "Spesialisert på presisjonsinstrumenter for bruk i lab, industri og",
+      "dagligvare."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "18/20 avenue de la Pépinière"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-78220 VIROFLAY"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med maskiner og utstyr ellers",
+      "kode": "46.640"
+     },
+     "navn": "METTLER TOLEDO SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "935647037",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-06-30",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/998191130"
+      }
+     },
+     "aktivitet": [
+      "Kontraktsarbeid i Norge."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Oppføring av bygninger",
+      "kode": "41.000"
+     },
+     "navn": "MOODY INTERNATIONAL SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "998191130",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "87 rue Damrémont"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "75018 PARIS"
+     },
+     "registreringsdatoEnhetsregisteret": "2012-04-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/998191157"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "87 rue Damrémont"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "75018 PARIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "MOODY INTERNATIONAL SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "998191157",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2012-04-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/827226602"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Rue De La Plaine De Ver"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-38890 ST. CHEF"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "MTB MANUFACTURING SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "827226602",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-06-09",
+     "registreringsnummerIHjemlandet": "844881284",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2011-02-18",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "27-31 rue de Bourgogne BP 247"
+      ],
+      "land": "Frankrike",
+      "poststed": "38217 VIENNE Cedex"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal De Commerce de Vienne"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/921977980"
+      }
+     },
+     "aktivitet": [
+      "Design, produksjon og salg av telekommunikasjonskabler."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "4 Allee de L'Arche"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-92400 COURBEVOIE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med informasjons- og kommunikasjonsteknologiutstyr",
+      "kode": "46.500"
+     },
+     "navn": "NEXANS FRANCE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "921977980",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Momspartner Representant AS",
+       "Postboks 13"
+      ],
+      "kommune": "NARVIK",
+      "kommunenummer": "1806",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8501",
+      "poststed": "NARVIK"
+     },
+     "registreringsdatoEnhetsregisteret": "2019-01-10",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2022",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922039100"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société anonyme",
+      "beskrivelseBokmaal": "Allment aksjeselskap",
+      "kode": "SA"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "4 Allee de L'Arche"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-92400 COURBEVOIE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "NEXANS FRANCE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "922039100",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "4 Allee de L'Arche CS 70088"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-92070 PARIS LA DEFENSE CEDEX"
+     },
+     "registreringsdatoEnhetsregisteret": "2019-01-10",
+     "registreringsnummerIHjemlandet": "428593230",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2000-12-26",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "4 rue Pablo Néruda"
+      ],
+      "land": "Frankrike",
+      "poststed": "92020 Nanterre Cedex"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Nanterre"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/996042685"
+      }
+     },
+     "aktivitet": [
+      "Sosiale aktiviteter."
+     ],
+     "epostadresse": "inerland@online.no",
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "924 99 264",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "NORSKE SAS FLYVERVETERANER",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "996042685",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Tore Inge Erlandsen",
+       "Isveien 30"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1390",
+      "poststed": "VOLLEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2010-11-02",
+     "registreringsdatoFrivillighetsregisteret": "2017-01-21",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1980-12-08",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/988605581"
+      }
+     },
+     "aktivitet": [
+      "Fagforening, bistå ansatte i SAS konsernet."
+     ],
+     "epostadresse": "hans.kleppa@sas.no",
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2005-09-20 20:32:37",
+       "navn": "SAS BRAATHENS PERSONALFORENING",
+       "tilDato": "2017-02-21 12:42:37"
+      },
+      {
+       "fraDato": "2017-02-21 12:42:37",
+       "navn": "PARAT SAS PERSONALFORENING",
+       "tilDato": "2019-03-14 17:02:47"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i arbeidstakerorganisasjoner",
+      "kode": "94.200"
+     },
+     "navn": "PARAT SAS PERSONALKLUBB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "988605581",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Hans M Kleppa",
+       "Postboks 104"
+      ],
+      "kommune": "ULLENSAKER",
+      "kommunenummer": "3209",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2061",
+      "poststed": "GARDERMOEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2005-09-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1976-05-25",
+     "telefon": "93 06 62 33",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994993348"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "8 Bis rue de Lourdes"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "Toulouse 31300"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "PETRIS TECHOLOGY SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "994993348",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2010-01-12",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994993372"
+      }
+     },
+     "aktivitet": [
+      "Oppdrag innen oljeindustrien."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen teknisk konsulentvirksomhet",
+      "kode": "71.129"
+     },
+     "navn": "PETRIS TECHOLOGY SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "994993372",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "8 Bis Rue de Lourdes"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "Toulouse 31300"
+     },
+     "registreringsdatoEnhetsregisteret": "2010-01-12",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923483055"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Service Comptabilité Fournisseurs",
+       "ZI Crolles, 132 rue du Pré Blanc Ci"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-38920 CROLLES"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "PETZI DISTRIBUTION SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "923483055",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-09-30",
+     "registreringsnummerIHjemlandet": "388381642",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1992-08-11",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Nouveau Palais de Justice",
+       "Place Firmin Gautier",
+       "CS90150"
+      ],
+      "land": "Frankrike",
+      "poststed": "38019 Grenoble Cedex 1"
+     },
+     "utenlandskRegisterNavn": "Greffe du tribunal de commerce de Grenoble"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923024220"
+      }
+     },
+     "aktivitet": [
+      "Produsere/distribuer tekniske løsninger for fjellsport."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Service Comptabilité Fournisseurs",
+       "ZI Crolles, 132 rue du Pré Blanc Ci"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-38920 CROLLES"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Industri-, produkt- og motedesignvirksomhet",
+      "kode": "74.110"
+     },
+     "navn": "PETZL DISTRIBUTION SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "923024220",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-09-30",
+     "registreringsdatoMerverdiavgiftsregisteret": "2020-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2019-11-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914515351"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak. Datterselskap i konsern."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "21 et 22 rue d'Algèrie"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "69001 Lyon"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "POLIGHT FRANCE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "914515351",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Polight AS",
+       "Postboks 163"
+      ],
+      "kommune": "HORTEN",
+      "kommunenummer": "3901",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3192",
+      "poststed": "HORTEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2014-11-24",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2014-11-24",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994677608"
+      }
+     },
+     "aktivitet": [
+      "Omsetning av varer og tjenester i tilknytning til maling og isolering",
+      "i Norge."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med tømmer, trelast, byggevarer og sanitærutstyr",
+      "kode": "46.830"
+     },
+     "navn": "PREZIOSO-TECHNILOR SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "994677608",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Chemin de Deaux Ponts"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR - 38370 ST CLAIR DU RHÔNE"
+     },
+     "registreringsdatoEnhetsregisteret": "2009-10-31",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994677632"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Chemin de Deaux Ponts"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "38370 ST CLAIR DU RHÔNE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "PREZIOSO-TECHNILOR SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "994677632",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2009-10-30",
+     "registreringsnummerIHjemlandet": "573680162",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1957-02-08",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "27-31 rue de Bourgogne BP 247"
+      ],
+      "land": "Frankrike",
+      "poststed": "38217 VIENNE Cedex"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal De Commerce de Vienne"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933192946"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Batiment B,",
+       "140 Avenue du 12 Juillet 1998"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-13290 LES MILLES AIX EN PROVENCE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "REEL ALESA SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "933192946",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-03-19",
+     "registreringsdatoForetaksregisteret": "2024-03-19",
+     "registreringsnummerIHjemlandet": "509628806",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2015-08-06",
+     "telefon": "+33442993649",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "38 cours Mirabeau",
+       "CS 70791"
+      ],
+      "land": "Frankrike",
+      "poststed": "13625 Aix-en-Provence cedex 1"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce D`aix en Provence",
+     "vedtektsdato": "2015-08-06",
+     "vedtektsfestetFormaal": [
+      "Utenlandsk foretak"
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936527213"
+      }
+     },
+     "aktivitet": [
+      "Leier ut lastbanker og tilbyr ingangkjøringsløsninger, personell og",
+      "leering, samt elektroniske og rørinstallasjoner. Selskapet leverer",
+      "også teknisk infrastruktur til datasentere, anlegg og fornybar energi,",
+      "olje- og gassinstallasjoner og kjernekraftanlegg."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "353 Rue De La Chapelle"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-69400 GLEIZE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie og leasing av andre maskiner og annet utstyr og materiell ikke nevnt annet sted",
+      "kode": "77.390"
+     },
+     "navn": "RENTALOAD SAS NUF",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "936527213",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-12-18",
+     "registreringsdatoForetaksregisteret": "2025-12-18",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-02-25",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927823330"
+      }
+     },
+     "aktivitet": [
+      "Levering og salg av kommunikasjon, samarbeid og kontaktsentertjenester",
+      "og relaterte varer og tjenester."
+     ],
+     "epostadresse": "legal.compliance@ringcentral.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "3-5 Rue Saint-Georges"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-5009 PARIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Telekommunikasjon ellers",
+      "kode": "61.900"
+     },
+     "navn": "RINGCENTRAL FRANCE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "927823330",
+     "paategninger": [
+      {
+       "infotype": "KONT",
+       "innfoertDato": "2025-02-19",
+       "tekst": "Kontaktperson mangler. Virksomheten har fått pålegg om å melde manglende rolle"
+      }
+     ],
+     "registreringsdatoEnhetsregisteret": "2021-10-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927931788"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "epostadresse": "legal.compliance@ringcentral.com",
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "3-5 Rue Saint-Georges"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-75009 PARIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "RINGCENTRAL FRANCE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "927931788",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-10-14",
+     "registreringsnummerIHjemlandet": "850332149",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "+18885287476",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1 Quai de la Corse"
+      ],
+      "land": "Frankrike",
+      "poststed": "75004 Paris"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Paris"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926161245"
+      }
+     },
+     "aktivitet": [
+      "Utleie av ansatte til fremstiling og salg av isolasjon til",
+      "byggebransjen."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "111 Rue du Chateau des Rentiers"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-75013 PARIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ROCKWOOL FRANCE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "926161245",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o AS Rockwool",
+       "Værlegata 56"
+      ],
+      "kommune": "MOSS",
+      "kommunenummer": "3103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1531",
+      "poststed": "MOSS"
+     },
+     "registreringsdatoEnhetsregisteret": "2021-03-01",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926695800"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "111 Rue du Chateau des Rentiers"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-75013 PARIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ROCKWOOL FRANCE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "926695800",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-03-01",
+     "registreringsnummerIHjemlandet": "305394397",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1978-02-24",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1 Quai de la Corse"
+      ],
+      "land": "Frankrike",
+      "poststed": "75004 Paris"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Paris"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930063045"
+      }
+     },
+     "aktivitet": [
+      "Installasjon og idriftsettelse av et batterienergilagringssystem i",
+      "forbindelse med det lokale kraftverket."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "26 Quai Charles Pasqua"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "92300 Levallois - Perret"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "SAFT SAS NUF",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "930063045",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-12-21",
+     "registreringsdatoForetaksregisteret": "2022-12-21",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937910878"
+      }
+     },
+     "aktivitet": [
+      "Selge varer og tjenester innen personbiler og annet som naturlig",
+      "sammenfaller med dette."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Kirkegata 19"
+      ],
+      "kommune": "SARPSBORG",
+      "kommunenummer": "3105",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1721",
+      "poststed": "SARPSBORG"
+     },
+     "fravalgRevisjonBeslutningsDato": "2026-04-21",
+     "fravalgRevisjonDato": "2026-06-17",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2026-06-17",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med motorvogner",
+      "kode": "47.810"
+     },
+     "navn": "SAS AUTO AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "937910878",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-06-17",
+     "registreringsdatoForetaksregisteret": "2026-06-17",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-04-21",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-04-21",
+     "vedtektsfestetFormaal": [
+      "Selge varer og tjenester innen personbiler og annet som naturlig",
+      "sammenfaller med dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937121288"
+      }
+     },
+     "aktivitet": [
+      "Erverve, eie, utvikle og drive fast eiendom."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Uranienborgveien 1B"
+      ],
+      "kommune": "SANDEFJORD",
+      "kommunenummer": "3907",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3217",
+      "poststed": "SANDEFJORD"
+     },
+     "fravalgRevisjonBeslutningsDato": "2026-01-07",
+     "fravalgRevisjonDato": "2026-02-09",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 100000.0,
+      "innfortDato": "2026-02-09",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "SAS BYGG AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "937121288",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-02-09",
+     "registreringsdatoForetaksregisteret": "2026-02-09",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-01-07",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-01-07",
+     "vedtektsfestetFormaal": [
+      "Erverve, eie, utvikle og drive fast eiendom."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/985779465"
+      }
+     },
+     "aktivitet": [
+      "Transport(flyfrakt)."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o SAS Cargo Norway AS",
+       "Edvard Griegsvei"
+      ],
+      "kommune": "ULLENSAKER",
+      "kommunenummer": "3209",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2060",
+      "poststed": "GARDERMOEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2003-06-21 14:59:42",
+       "navn": "SAS CARGO GROUP A/S",
+       "tilDato": "2008-01-07 20:47:19"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Lasting og lossing",
+      "kode": "52.240"
+     },
+     "navn": "SAS CARGO GROUP",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "985779465",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o SAS Cargo Norway AS",
+       "v/Morten Midtlien",
+       "Postboks 144"
+      ],
+      "kommune": "ULLENSAKER",
+      "kommunenummer": "3209",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2061",
+      "poststed": "GARDERMOEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2003-06-21",
+     "registreringsdatoMerverdiavgiftsregisteret": "2003-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2007-11-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932501856"
+      }
+     },
+     "aktivitet": [
+      "Rådgivning innen olje og gassutvinning."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Linderudlia 44"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1353",
+      "poststed": "BÆRUMS VERK"
+     },
+     "fravalgRevisjonBeslutningsDato": "2023-11-02",
+     "fravalgRevisjonDato": "2023-11-22",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2023-11-22",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen teknisk konsulentvirksomhet",
+      "kode": "71.129"
+     },
+     "navn": "SAS CTRL AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "932501856",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2025-09-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2025-09-10",
+     "registreringsdatoEnhetsregisteret": "2023-11-22",
+     "registreringsdatoForetaksregisteret": "2023-11-22",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-01-03",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2023-11-02",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2023-11-02",
+     "vedtektsfestetFormaal": [
+      "Selge varer og tjenester innen olje- og gassutvinningsrådgivning og",
+      "annet som naturlig sammenfaller med dette samt deltakelse i andre",
+      "selskaper, investeringer og nærliggende virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932439603"
+      }
+     },
+     "aktivitet": [
+      "Kjøp, salg, drift og utleie av bil, maskin og utstyr og andre",
+      "produkter og tjenester som hører til."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Alvimveien 58"
+      ],
+      "kommune": "SARPSBORG",
+      "kommunenummer": "3105",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1722",
+      "poststed": "SARPSBORG"
+     },
+     "fravalgRevisjonBeslutningsDato": "2023-09-18",
+     "fravalgRevisjonDato": "2023-11-10",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 30000.0,
+      "innfortDato": "2023-11-10",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med motorvogner",
+      "kode": "47.810"
+     },
+     "navn": "SAS DRIFT AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "932439603",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-11-10",
+     "registreringsdatoForetaksregisteret": "2023-11-10",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-03-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-05-29",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2023-09-18",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2023-09-18",
+     "vedtektsfestetFormaal": [
+      "Kjøp, salg, drift og utleie av bil, maskin og utstyr, og andre",
+      "produkter/tjenester som naturlig hører til dette, herunder å delta i",
+      "andre selskap med lignende virksomhet, og kjøp og salg av aksjer eller",
+      "på annen måte gjøre seg interessert i andre foretak. Selskapet kan",
+      "også drive med kjøp/drift av fast eiendom."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/915499333"
+      }
+     },
+     "aktivitet": [
+      "Eie andeler i Flesland Cargo ANS og Flesland Hangar ANS."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "SAS Teknisk base",
+       "Roald Amundsens veg 1"
+      ],
+      "kommune": "ULLENSAKER",
+      "kommunenummer": "3209",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2060",
+      "poststed": "GARDERMOEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2015-06-08 15:40:41",
+       "navn": "HERKULES INVEST 186 AS",
+       "tilDato": "2015-06-26 15:59:50"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 300,
+      "belop": 30000.0,
+      "innfortDato": "2015-06-08",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "SAS EIENDOM AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "915499333",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Roald Amundsens veg 1"
+      ],
+      "kommune": "ULLENSAKER",
+      "kommunenummer": "3209",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2060",
+      "poststed": "GARDERMOEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2015-06-08",
+     "registreringsdatoForetaksregisteret": "2015-06-08",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2015-05-28",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2022-09-22",
+     "vedtektsfestetFormaal": [
+      "Eie andeler i Flesland Cargo ANS og Flesland Hangar ANS."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/981568915"
+      }
+     },
+     "aktivitet": [
+      "Autorisert elektroinstallatør."
+     ],
+     "antallAnsatte": 17,
+     "epostadresse": "andreas@alelektro.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Uranienborgveien 1B"
+      ],
+      "kommune": "SANDEFJORD",
+      "kommunenummer": "3907",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3217",
+      "poststed": "SANDEFJORD"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2000-02-16 19:08:54",
+       "navn": "EL INSTALLATØR FRED M. OLAFSEN AS",
+       "tilDato": "2017-03-14 09:26:49"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 50000,
+      "belop": 50000.0,
+      "innfortDato": "2016-12-13",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "901 05 243",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "SAS ELEKTRO AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "981568915",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-09-10",
+     "registreringsdatoEnhetsregisteret": "2000-02-16",
+     "registreringsdatoForetaksregisteret": "2000-02-16",
+     "registreringsdatoMerverdiavgiftsregisteret": "2000-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2000-02-22",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2000-01-02",
+     "telefon": "33 45 00 20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2017-02-09",
+     "vedtektsfestetFormaal": [
+      "Drive virksomhet som autorisert elektro installatør, handelsvirksomhet",
+      "samt investeringer og dertilhørende virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922956170"
+      }
+     },
+     "aktivitet": [
+      "Elektroinstallasjon og alt som herved står i forbindelse."
+     ],
+     "antallAnsatte": 14,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sperrevikvegen 231"
+      ],
+      "kommune": "BJØRNAFJORDEN",
+      "kommunenummer": "4624",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5215",
+      "poststed": "LYSEKLOSTER"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 300,
+      "belop": 30000.0,
+      "innfortDato": "2020-07-17",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "SAS ELEKTROSERVICE AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "922956170",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-05-11",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-05-10",
+     "registreringsdatoEnhetsregisteret": "2019-06-24",
+     "registreringsdatoForetaksregisteret": "2019-06-24",
+     "registreringsdatoMerverdiavgiftsregisteret": "2020-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-02-08",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2019-03-26",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2020-03-16",
+     "vedtektsfestetFormaal": [
+      "Elektroinstallasjon og alt som herved står i forbindelse."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/989006169"
+      }
+     },
+     "aktivitet": [
+      "Investering i fast eiendom, aksjer og andre verdipapirer samt hva",
+      "hermed står i forbindelse, herunder å delta i andre selskaper med",
+      "liknende virksomhet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Velliveien 12B"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1358",
+      "poststed": "JAR"
+     },
+     "fravalgRevisjonBeslutningsDato": "2022-12-21",
+     "fravalgRevisjonDato": "2022-12-27",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Øvrige finansielle foretak unntatt forsikring",
+      "kode": "4900"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 100000.0,
+      "innfortDato": "2006-01-18",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre egeninvesteringsselskaper",
+      "kode": "64.323"
+     },
+     "navn": "SAS HOLDING AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "989006169",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2006-01-18",
+     "registreringsdatoForetaksregisteret": "2006-01-18",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2005-11-28",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2005-11-28",
+     "vedtektsfestetFormaal": [
+      "Investering i fast eiendom, aksjer og andre verdipapirer samt hva",
+      "hermed står i forbindelse, herunder å delta i andre selskaper med",
+      "liknende virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930810339"
+      }
+     },
+     "aktivitet": [
+      "Investere i selskaper og eiendom og alt annet som naturlig faller",
+      "sammen med dette, herunder å delta i andre selskaper med lignende",
+      "virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg",
+      "interessert i andre foretagende."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Grønnevikveien 3"
+      ],
+      "kommune": "SANDNES",
+      "kommunenummer": "1108",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4311",
+      "poststed": "HOMMERSÅK"
+     },
+     "fravalgRevisjonBeslutningsDato": "2023-01-06",
+     "fravalgRevisjonDato": "2023-02-10",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjelpeenhetskode": {
+      "beskrivelse": "Hovedkontortjenester",
+      "kode": "70.100"
+     },
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2023-02-10",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen teknisk konsulentvirksomhet",
+      "kode": "71.129"
+     },
+     "navn": "SAS INVEST AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "930810339",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-02-10",
+     "registreringsdatoForetaksregisteret": "2023-02-10",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2023-01-06",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2023-01-06",
+     "vedtektsfestetFormaal": [
+      "Investere i selskaper og eiendom og alt annet som naturlig faller",
+      "sammen med dette, herunder å delta i andre selskaper med lignende",
+      "virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg",
+      "interessert i andre foretagende."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927660768"
+      }
+     },
+     "aktivitet": [
+      "Investere i næringsvirksomhet, herunder aksjer og andeler, samt",
+      "deltagelse i andre selskaper med lignende virksomhet."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Alvimveien 58"
+      ],
+      "kommune": "SARPSBORG",
+      "kommunenummer": "3105",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1722",
+      "poststed": "SARPSBORG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjelpeenhetskode": {
+      "beskrivelse": "Hovedkontortjenester",
+      "kode": "70.100"
+     },
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 3000,
+      "belop": 390000.0,
+      "innfortDato": "2021-12-08",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen teknisk konsulentvirksomhet",
+      "kode": "71.129"
+     },
+     "navn": "SAS INVESTMENT AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "927660768",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-09-06",
+     "registreringsdatoForetaksregisteret": "2021-09-06",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-05-29",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-05-29",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2021-08-11",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2021-10-09",
+     "vedtektsfestetFormaal": [
+      "Investere i næringsvirksomhet, herunder aksjer og andeler, samt",
+      "deltagelse i andre selskaper med lignende virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/915168647"
+      }
+     },
+     "aktivitet": [
+      "Å stimulere interesse for og øke kjennskap til kunst og kultur blant",
+      "medlemmene, og i SAS Gruppen for øvrig, gjennom dertil egnede tiltak."
+     ],
+     "epostadresse": "post@saskunst.no",
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.saskunst.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "473 51 930",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "SAS KUNSTFORENING NORGE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "915168647",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Svein Elstad",
+       "Limsteinveien 2C"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1362",
+      "poststed": "HOSLE"
+     },
+     "registreringsdatoEnhetsregisteret": "2015-06-24",
+     "registreringsdatoFrivillighetsregisteret": "2015-06-24",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1987-03-03",
+     "telefon": "67 14 38 08",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/829865122"
+      }
+     },
+     "aktivitet": [
+      "Skal representere medlemmene overfor",
+      "arbeidsgiver og andre, i spørsmål som angår lønns- og arbeidsvilkår.",
+      "Skal ivareta medlemmenes interesser mht.",
+      "arbeidsmiljø, faglige, økonomiske og sosiale rettigheter, og herved",
+      "virke for forbedringer ved å søke å treffe avtaler og overenskomster",
+      "med arbeidsgiver. Skal videre være et bindeledd mellom",
+      "medlemmet og LO/KF, og bidra til kunnskaps- og informasjonsformidling",
+      "fra LO/KF, til medlemmene mv."
+     ],
+     "epostadresse": "kabinforening.link@sas.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Rebekka Helle Stensbø",
+       "Hardangervegen 1"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5224",
+      "poststed": "NESTTUN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2022-10-29 13:36:44",
+       "navn": "SAS LINK NORGES KABINFORENING",
+       "tilDato": "2024-01-08 15:24:18"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "+4745675362",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i arbeidstakerorganisasjoner",
+      "kode": "94.200"
+     },
+     "navn": "SAS LINK KABINFORENING",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "829865122",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-10-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2022-09-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/815300912"
+      }
+     },
+     "aktivitet": [
+      "Drifter verkstedlokale og utlånstilhengere for bruk av foreningens",
+      "medlemmer."
+     ],
+     "epostadresse": "sas-motorklubb@sas.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Roald Amundsens veg 1"
+      ],
+      "kommune": "ULLENSAKER",
+      "kommunenummer": "3209",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2060",
+      "poststed": "GARDERMOEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "SAS MOTORKLUBB NORGE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "815300912",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2015-06-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1960-04-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/811176702"
+      }
+     },
+     "aktivitet": [
+      "Drive luftfart og alt hva dermed står i",
+      "forbindelse, herunder hotell-, restaurant og annen",
+      "reiselivsnæring."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Henrik Ibsens vei",
+       "Teknisk Base, 2. etasje"
+      ],
+      "kommune": "ULLENSAKER",
+      "kommunenummer": "3209",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2060",
+      "poststed": "GARDERMOEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1996-01-22 21:06:00",
+       "navn": "Det Norske Luftfartselskap ASA (DNL)",
+       "tilDato": "1996-05-30 19:27:07"
+      },
+      {
+       "fraDato": "1996-05-30 19:27:07",
+       "navn": "SAS NORGE ASA",
+       "tilDato": "2002-01-28 20:18:20"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 47000000,
+      "belop": 517000000.0,
+      "innfortDato": "2015-04-22",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Lufttransport med passasjerer",
+      "kode": "51.100"
+     },
+     "navn": "SAS NORGE AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "811176702",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 144"
+      ],
+      "kommune": "ULLENSAKER",
+      "kommunenummer": "3209",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2061",
+      "poststed": "GARDERMOEN"
+     },
+     "registreringsdatoEnhetsregisteret": "1995-02-19",
+     "registreringsdatoForetaksregisteret": "1988-11-28",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "1946-07-02",
+     "telefon": "64 81 60 50",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-08-24",
+     "vedtektsfestetFormaal": [
+      "Drive luftfart og alt hva dermed står i",
+      "forbindelse, herunder hotell-, restaurant- og",
+      "annen reiselivsnæring."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/985300100"
+      }
+     },
+     "aktivitet": [
+      "Fagforening for kabinpersonalet i SAS Norge."
+     ],
+     "epostadresse": "styret@saskabin.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "OSL Terminalbygg 4 etasje",
+       "Scandinavian airlines SAS Norway"
+      ],
+      "kommune": "ULLENSAKER",
+      "kommunenummer": "3209",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2061",
+      "poststed": "GARDERMOEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2003-01-28 20:15:38",
+       "navn": "BRAATHENS KABINFORENING - BSK",
+       "tilDato": "2005-01-19 20:41:42"
+      },
+      {
+       "fraDato": "2005-01-19 20:41:42",
+       "navn": "SAS BRAATHENS KABINFORENING- BSK",
+       "tilDato": "2007-01-15 20:18:27"
+      },
+      {
+       "fraDato": "2007-01-15 20:18:27",
+       "navn": "SAS BRAATHENS KABINFORENING SBK",
+       "tilDato": "2007-12-10 20:22:44"
+      }
+     ],
+     "hjemmeside": "www.saskabin.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "995 50 640",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i arbeidstakerorganisasjoner",
+      "kode": "94.200"
+     },
+     "navn": "SAS NORGE KABINFORENING",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "985300100",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 120"
+      ],
+      "kommune": "ULLENSAKER",
+      "kommunenummer": "3209",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2061",
+      "poststed": "GARDERMOEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2003-01-28",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1961-11-02",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924760044"
+      }
+     },
+     "aktivitet": [
+      "Produksjon og salg av pizza og tilhørende produkter. Drift av",
+      "gatekjøkken."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "ØVREVEGEN 4"
+      ],
+      "kommune": "ØYSTRE SLIDRE",
+      "kommunenummer": "3453",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2953",
+      "poststed": "BEITOSTØLEN"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 150000.0,
+      "innfortDato": "2020-03-13",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+     },
+     "navn": "SAS PIZZA AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "924760044",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-11",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
+     "registreringsdatoEnhetsregisteret": "2020-03-13",
+     "registreringsdatoForetaksregisteret": "2020-03-13",
+     "registreringsdatoMerverdiavgiftsregisteret": "2020-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-08-22",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2020-02-10",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2020-02-10",
+     "vedtektsfestetFormaal": [
+      "Produksjon-, handel- & serveringsvirksomhet med hovedvekt på",
+      "pizzaprodukter samt hva hermed står i forbindelse, herunder å delta i",
+      "selskaper med lignende virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/928754901"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "356 Avenue de l'argonne"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-33700 MÉRIGNAC"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "SAS RHINOSHILD FRANCE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "928754901",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-03-14",
+     "registreringsnummerIHjemlandet": "830399853",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2017-06-21",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1 Quai de la Corse"
+      ],
+      "land": "Frankrike",
+      "poststed": "75004 Paris"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Paris"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995515075"
+      }
+     },
+     "aktivitet": [
+      "Forening for pensjonert personell i SAS Norge, hvor et godt og",
+      "trivelig miljø søkes utviklet medlemmene i mellom, gjennom ulike",
+      "aktiviteter av felles interesse. Dessuten i rimelig grad være til",
+      "gjensidig hjelp og støtte for hverandre. Foreningen er bindeleddet til",
+      "SAS i saker av felles interesse for medlemmene."
+     ],
+     "epostadresse": "g-hoeyvi@online.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Gro Høyvik",
+       "Øvre Smestadvei 14B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0378",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2010-06-26 14:50:56",
+       "navn": "SAS PENSJONISTFORENING NORGE",
+       "tilDato": "2011-04-05 20:11:15"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "934 33 021",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "SAS SENIORKLUBB OSL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "995515075",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 136"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0701",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2010-06-26",
+     "registreringsdatoFrivillighetsregisteret": "2010-06-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1980-11-06",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/979239211"
+      }
+     },
+     "aktivitet": [
+      "Driver næringsvirksomhet i Norge."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1997-11-10 16:45:49",
+       "navn": "S A S SVERIGE AB",
+       "tilDato": "2003-06-20 11:28:43"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "SAS SVERIGE AB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "979239211",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 7751"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "103 96 STOCKHOLM"
+     },
+     "registreringsdatoEnhetsregisteret": "1997-11-10",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/985808414"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "103 96 STOCKHOLM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "SAS SVERIGE AB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "985808414",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 7751"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "103 96 STOCKHOLM"
+     },
+     "registreringsdatoEnhetsregisteret": "2003-06-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931699350"
+      }
+     },
+     "aktivitet": [
+      "Allmennlege."
+     ],
+     "epostadresse": "emiliow@hotmail.se",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "H0401",
+       "Bjerregaards gate 13A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0172",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "+46735039926",
+     "naeringskode1": {
+      "beskrivelse": "Allmennlegetjenester",
+      "kode": "86.210"
+     },
+     "navn": "SAS WISLOCKI HEALTHCARE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "931699350",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-07-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926693956"
+      }
+     },
+     "aktivitet": [
+      "Paintball klubb."
+     ],
+     "epostadresse": "kontakt@sasnorway.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Kenneth Husvik",
+       "Vestrengåsen 4"
+      ],
+      "kommune": "AURSKOG-HØLAND",
+      "kommunenummer": "3226",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1960",
+      "poststed": "LØKEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.sasnorway.com",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "984 68 897",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i idrettslag og -klubber",
+      "kode": "93.120"
+     },
+     "navn": "SAS WOODSBALL NORWAY",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "926693956",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-03-12",
+     "registreringsdatoFrivillighetsregisteret": "2021-03-12",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2013-01-10",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923552677"
+      }
+     },
+     "aktivitet": [
+      "Investering i, kjøp, utvikling, forvaltning og salg av",
+      "forretningsvirksomhet, aksjer og andeler, eiendom samt annen aktivitet",
+      "som står i naturlig sammenheng med dette."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vatnbygdveien 23"
+      ],
+      "kommune": "FAUSKE",
+      "kommunenummer": "1841",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8210",
+      "poststed": "FAUSKE"
+     },
+     "fravalgRevisjonBeslutningsDato": "2019-09-24",
+     "fravalgRevisjonDato": "2019-10-07",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2019-10-07 11:52:34",
+       "navn": "PA NEWCO9 AS",
+       "tilDato": "2019-11-05 12:47:43"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 60000.0,
+      "innfortDato": "2021-11-25",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "954 83 984",
+     "naeringskode1": {
+      "beskrivelse": "Uoppgitt",
+      "kode": "00.000"
+     },
+     "navn": "SAS-HOLDING AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "923552677",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-10-07",
+     "registreringsdatoForetaksregisteret": "2019-10-07",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2019-09-24",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2021-07-01",
+     "vedtektsfestetFormaal": [
+      "Investering i, kjøp, utvikling, forvaltning og salg av",
+      "forretningsvirksomhet, aksjer og andeler, eiendom samt annen aktivitet",
+      "som står i naturlig sammenheng med dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937190484"
+      }
+     },
+     "aktivitet": [
+      "Mor i konsern."
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Z.A.E. les Dix Muids,",
+       "685 rue Lavoisier,"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "59770  Marly"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "SAVERTO FRANCE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "937190484",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Flamro Norway AS",
+       "Industrivegen 10"
+      ],
+      "kommune": "VERDAL",
+      "kommunenummer": "5038",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7652",
+      "poststed": "VERDAL"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-02-18",
+     "registreringsnummerIHjemlandet": "820890937",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "5 Place du Commerce"
+      ],
+      "land": "Frankrike",
+      "poststed": "59326 Valenciennes cedex"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal De Commerce de Vienne"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911832674"
+      }
+     },
+     "aktivitet": [
+      "Arbeidsformidling, utleie av personell."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "SEABED GEOSOLUTIONS SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "911832674",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "1 rue Galvani"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR - 91300 MASSY"
+     },
+     "registreringsdatoEnhetsregisteret": "2013-05-06",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911832712"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "1 rue Galvani"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR - 91 300  MASSY"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "SEABED GEOSOLUTIONS SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "911832712",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-05-06",
+     "registreringsnummerIHjemlandet": "790095681",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2012-12-20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1 Rue de la Patinoire"
+      ],
+      "land": "Frankrike",
+      "poststed": "91011 Evry Cedex"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce d'Evry"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/985146349"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "8 Rue Mercier"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "77290 Mitry-Mory"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2002-12-03 14:17:47",
+       "navn": "SERIMER DASA SAS",
+       "tilDato": "2008-09-10 10:23:57"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "SERIMAX DASA SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "985146349",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2002-12-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930821853"
+      }
+     },
+     "aktivitet": [
+      "Tilsyn med installasjonen, igangkjøring av en trefaset transformator",
+      "og gassisolerte-substasjoner-produkter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "40 Avenue Des Fruitiers"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-93527 SAINT-DENIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Installasjon av isoleringsmateriale",
+      "kode": "43.230"
+     },
+     "navn": "SIEMENS ENERGY SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "930821853",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o CCFN Services AS",
+       "Oscars gate 27"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0352",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2023-02-23",
+     "registreringsdatoMerverdiavgiftsregisteret": "2022-10-15",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-04-12",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930884146"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "40 Avenue Des Fruitiers"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-93527 SAINT-DENIS CEDEX"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "SIEMENS ENERGY SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "930884146",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-02-23",
+     "registreringsnummerIHjemlandet": "878482819",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2019-10-28",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1/13 rue Michel de lHospital"
+      ],
+      "land": "Frankrike",
+      "poststed": "93008 Bobigny"
+     },
+     "utenlandskRegisterNavn": "Greffe du tribunal de commerce Bobigny"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916848706"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "epostadresse": "contract@generalcable-fr.com",
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Rue de Varennes Prolongée"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-77876 MONTEREAU FAULT YONNE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.generalcable-fr.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "SILEC CABLE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "916848706",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-03-17",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2015-12-22",
+     "telefon": "+330160573107",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917555508"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "98 Rue Louise Barran"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "38430 St. Jean de Moirans"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "SKIS ROSSIGNOL SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "917555508",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-08-11",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917534551"
+      }
+     },
+     "aktivitet": [
+      "Salg av vintersportsartikler."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "98 rue Louis Barran",
+       "Service comptabilité Europe"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-38430 SAINT JEAN DE MOIRANS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med andre husholdningsvarer",
+      "kode": "46.490"
+     },
+     "navn": "SKIS ROSSIGNOL SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "917534551",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-08-11",
+     "registreringsdatoMerverdiavgiftsregisteret": "2016-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2016-08-27",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    }
+   ]
+  },
+  "_links": {
+   "first": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SAS%20INSTITUTE&page=0&size=100"
+   },
+   "prev": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SAS%20INSTITUTE&page=0&size=100"
+   },
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SAS%20INSTITUTE&size=100&page=1"
+   },
+   "next": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SAS%20INSTITUTE&page=2&size=100"
+   },
+   "last": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SAS%20INSTITUTE&page=4&size=100"
+   }
+  },
+  "page": {
+   "number": 1,
+   "size": 100,
+   "totalElements": 450,
+   "totalPages": 5
+  }
+ }
+}

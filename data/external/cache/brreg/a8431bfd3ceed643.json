@@ -1,0 +1,5894 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SYKES+ENTERPRISES&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935497272"
+      }
+     },
+     "aktivitet": [
+      "Psykologisk konsulentvirksomhet for kulturvirksomhet, utøvende",
+      "kunstnerisk virksomhet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Fløyen terrasse 13"
+      ],
+      "kommune": "FLEKKEFJORD",
+      "kommunenummer": "4207",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4407",
+      "poststed": "FLEKKEFJORD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Skapende kunstnerisk virksomhet innenfor visuell kunst",
+      "kode": "90.120"
+     },
+     "navn": "CATHERINE SYKES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935497272",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-05-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912033961"
+      }
+     },
+     "aktivitet": [
+      "Industriell maling og virksomhet innen landbruk."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Maler- og glassarbeid",
+      "kode": "43.340"
+     },
+     "navn": "M SYKES DEVELOPMENT LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "912033961",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Stokkamyrveien 18"
+      ],
+      "kommune": "SANDNES",
+      "kommunenummer": "1108",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4313",
+      "poststed": "SANDNES"
+     },
+     "registreringsdatoEnhetsregisteret": "2013-07-31",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912034003"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private limited company",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "18 Darrens Farm Fen road",
+       "Chesterton"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "CD4 1UN Cambridge"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "M SYKES DEVELOPMENTS LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "912034003",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-07-31",
+     "registreringsnummerIHjemlandet": "07391473",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Storbritannia",
+     "underlagtLovgivningLandKode": "GB",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Crown Way",
+       "Maindy"
+      ],
+      "land": "Storbritannia",
+      "poststed": "Cardiff CF14 3UZ"
+     },
+     "utenlandskRegisterNavn": "Companies House"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987456418"
+      }
+     },
+     "aktivitet": [
+      "Bankkonto i Norge, ingen virksomhet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "194 26 UPPLANDS VÄSBY"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Uoppgitt",
+      "kode": "00.000"
+     },
+     "navn": "SYKES DATASVAR SUPPORT AB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "987456418",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 615"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "194 26 UPPLANDS VÄSBY"
+     },
+     "registreringsdatoEnhetsregisteret": "2005-02-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987456442"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Privata Aktiebolag",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "AB"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Kanalvägen 16"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "194 26 UPPLANDS VÄSBY"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "SYKES DATASVAR SUPPORT AB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "987456442",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 615"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "194 26 UPPLANDS VÄSBY"
+     },
+     "registreringsdatoEnhetsregisteret": "2005-02-07",
+     "registreringsnummerIHjemlandet": "5564377439",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1991-12-03",
+     "telefon": "+46859009500",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Sverige",
+     "underlagtLovgivningLandKode": "SE",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Stuvarvägen 21"
+      ],
+      "land": "Sverige",
+      "poststed": "851 81 SUNDSVALL"
+     },
+     "utenlandskRegisterNavn": "Bolagsverket"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924010673"
+      }
+     },
+     "aktivitet": [
+      "Å investere i andre selskaper."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Tellusvegen 21"
+      ],
+      "kommune": "PORSGRUNN",
+      "kommunenummer": "4001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3942",
+      "poststed": "PORSGRUNN"
+     },
+     "fravalgRevisjonBeslutningsDato": "2019-10-10",
+     "fravalgRevisjonDato": "2019-12-09",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 30000.0,
+      "innfortDato": "2019-12-09",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Uoppgitt",
+      "kode": "00.000"
+     },
+     "navn": "SYKAR HOLDING AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "924010673",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-12-09",
+     "registreringsdatoForetaksregisteret": "2019-12-09",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2019-10-10",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2019-10-10",
+     "vedtektsfestetFormaal": [
+      "Å investere i andre selskaper."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/913067983"
+      }
+     },
+     "aktivitet": [
+      "Yte støtte sosial støtte til foreningens medlemmer i henhold til",
+      "vedlagte vedtekter."
+     ],
+     "epostadresse": "terje.byberg@christophersen.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Luramyrveien 67A"
+      ],
+      "kommune": "SANDNES",
+      "kommunenummer": "1108",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4313",
+      "poststed": "SANDNES"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "952 17 302",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "SYKE/SOSIALKASSE E.CHRISTOPHERSEN",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "913067983",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2014-01-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1970-01-28",
+     "telefon": "51 70 60 62",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933153665"
+      }
+     },
+     "aktivitet": [
+      "Holdingselskap."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Rognbudalen 32"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7092",
+      "poststed": "TILLER"
+     },
+     "fravalgRevisjonBeslutningsDato": "2024-03-05",
+     "fravalgRevisjonDato": "2024-03-11",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjelpeenhetskode": {
+      "beskrivelse": "Hovedkontortjenester",
+      "kode": "70.100"
+     },
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2024-03-11",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Allmennlegetjenester",
+      "kode": "86.210"
+     },
+     "navn": "DR SYK HOLDING AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "933153665",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-03-11",
+     "registreringsdatoForetaksregisteret": "2024-03-11",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2024-03-05",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-03-05",
+     "vedtektsfestetFormaal": [
+      "Investere i selskaper og eiendom og alt annet som naturlig faller",
+      "sammen med dette, herunder å delta i andre selskaper med lignende",
+      "virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg",
+      "interessert i andre foretagende."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935653703"
+      }
+     },
+     "aktivitet": [
+      "Støttegruppe for kronisk syke som vil jobbe for inkludering, sosiale",
+      "aktiviteter og støtte."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Ranveig Krogsgaard",
+       "Rømmesdiket 6"
+      ],
+      "kommune": "ORKLAND",
+      "kommunenummer": "5059",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7300",
+      "poststed": "ORKANGER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre sosialtjenester uten botilbud ellers",
+      "kode": "88.996"
+     },
+     "navn": "FORENINGEN FOR KRONISK SYKE ORKLAND",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "935653703",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-06-11",
+     "registreringsdatoFrivillighetsregisteret": "2025-06-27",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2025-02-03",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/819918562"
+      }
+     },
+     "aktivitet": [
+      "Formålet er å yte økonomisk støtte til utgiftene i forbindelse med",
+      "begravelse av medlemmene og ektefelle/samboer."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Øvre Fyllingsveien 81 B"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5161",
+      "poststed": "LAKSEVÅG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+      "kode": "82.990"
+     },
+     "navn": "MURMESTRENES SYKE- OG BEGRAVELSESKASSE BERGEN",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ANNA"
+       }
+      },
+      "beskrivelse": "Annen juridisk person",
+      "kode": "ANNA"
+     },
+     "organisasjonsnummer": "819918562",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-12-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1915-04-07",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932719681"
+      }
+     },
+     "aktivitet": [
+      "Ingeniør- og prosjektledertjenester innen byggeprosjekter.",
+      "Malertjenester.",
+      "Gulvlegging, flislegging og tapetsering."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Slorhøgda 24"
+      ],
+      "kommune": "ÅS",
+      "kommunenummer": "3218",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1407",
+      "poststed": "VINTERBRO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Byggeteknisk konsulentvirksomhet",
+      "kode": "71.121"
+     },
+     "navn": "ABBAS ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "932719681",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-12-22",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926075306"
+      }
+     },
+     "aktivitet": [
+      "Persontransport."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Tårnveien 24"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3047",
+      "poststed": "DRAMMEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Passasjertransport på forespørsel utført av fører med kjøretøy",
+      "kode": "49.330"
+     },
+     "navn": "AFZAL ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "926075306",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-12-01",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934918053"
+      }
+     },
+     "aktivitet": [
+      "Oversettelse- og tolketjenester.",
+      "Barnevernstjenester.",
+      "Butikkhandel med garn og tilbehør.",
+      "Netthandel med klær, sko, utstyrsvarer.",
+      "Butikkhandel med sportsutstyr."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lekvebakken 22"
+      ],
+      "kommune": "VOSS",
+      "kommunenummer": "4621",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5704",
+      "poststed": "VOSS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Oversettelses- og tolkevirksomhet",
+      "kode": "74.300"
+     },
+     "navn": "AHMADZAI ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934918053",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-01-25",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926488309"
+      }
+     },
+     "aktivitet": [
+      "Kjøp og selg brukte vesker, lommebøker, smykker og",
+      "husholdningsartikler."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Steinstemmyrå 1B"
+      ],
+      "kommune": "SANDNES",
+      "kommunenummer": "1108",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4313",
+      "poststed": "SANDNES"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med brukte varer",
+      "kode": "47.790"
+     },
+     "navn": "ALAGABAN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "926488309",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-01-29",
+     "registreringsdatoForetaksregisteret": "2021-01-29",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929847229"
+      }
+     },
+     "aktivitet": [
+      "Investering i aksjer og fast eiendom."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Østre Tromøyvei 301"
+      ],
+      "kommune": "ARENDAL",
+      "kommunenummer": "4203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4812",
+      "poststed": "KONGSHAVN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2022-09-15 11:14:43",
+       "navn": "ANDERSEN FRILUFT",
+       "tilDato": "2026-05-11 13:50:58"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "ANDERSEN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "929847229",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-09-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/832955302"
+      }
+     },
+     "aktivitet": [
+      "Utleie av fest- og bryllupsutstyr."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Langnestoppen 3"
+      ],
+      "kommune": "TROMSØ",
+      "kommunenummer": "5501",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9016",
+      "poststed": "TROMSØ"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie og leasing av andre husholdningsvarer og varer til personlig bruk",
+      "kode": "77.220"
+     },
+     "navn": "ARDEN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "832955302",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-02-05",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-08-21",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-08-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932946920"
+      }
+     },
+     "aktivitet": [
+      "Markedsføring og reklame."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o KRISTINA BAKKLAND",
+       "Smalgangen 11"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3045",
+      "poststed": "DRAMMEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reklamebyråvirksomhet",
+      "kode": "73.110"
+     },
+     "navn": "BAKKLAND ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "932946920",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-02-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920337295"
+      }
+     },
+     "aktivitet": [
+      "Konsulenttjenester innen bedriftsutvikling, personlig rådgivning."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Flaengrenda 17"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0953",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "BEATON ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "920337295",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2018-01-30",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/832895962"
+      }
+     },
+     "aktivitet": [
+      "Bedriftsrådgivning, administrativt."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Malerhaugveien 28D"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0661",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "BENACER ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "832895962",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-01-25",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-04-13",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-04-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938471703"
+      }
+     },
+     "aktivitet": [
+      "Netthandel med sportsutstyr."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Brennstubben 5A"
+      ],
+      "kommune": "EIDSVOLL",
+      "kommunenummer": "3240",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2080",
+      "poststed": "EIDSVOLL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med sportsvarer",
+      "kode": "47.631"
+     },
+     "navn": "BERG ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938471703",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-09-11",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923471669"
+      }
+     },
+     "aktivitet": [
+      "Reparasjon og vedlikehold av veteranbiler og sykler. Rådgiving",
+      "angående reparasjon av biler og sykler. Små vaktmestertjenester til",
+      "privatpersoner som malerarbeid, henge opp gjenstander inne og ute,",
+      "skifte av lyspærer og lysrør."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sønsterudveien 7A"
+      ],
+      "kommune": "NORDRE FOLLO",
+      "kommunenummer": "3207",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1410",
+      "poststed": "KOLBOTN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reparasjon og vedlikehold av motorvogner",
+      "kode": "95.310"
+     },
+     "navn": "BIERHOFF ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "923471669",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-10-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938593884"
+      }
+     },
+     "aktivitet": [
+      "Produksjon av musikk. Innspilling eller live oppreden."
+     ],
+     "epostadresse": "perbra@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lilleveien 44"
+      ],
+      "kommune": "MARKER",
+      "kommunenummer": "3122",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1870",
+      "poststed": "ØRJE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "+4791752652",
+     "navn": "BRAARUD ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938593884",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-10-06",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924820179"
+      }
+     },
+     "aktivitet": [
+      "Komponering/produksjon av musikk, tekst, salg av merchandise og",
+      "diverse relaterte aktiviteter/inntekter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Grefsenkollveien 12B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0490",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "kode": "90.201"
+     },
+     "navn": "BURHEIM ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "924820179",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-03-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938481598"
+      }
+     },
+     "aktivitet": [
+      "Kunstmaler.",
+      "Produksjon av film, video og fjernsynsprogram."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bergerveien 21"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1396",
+      "poststed": "BILLINGSTAD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Skapende kunstnerisk virksomhet innenfor visuell kunst",
+      "kode": "90.120"
+     },
+     "navn": "CARLSEN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938481598",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-09-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931522833"
+      }
+     },
+     "aktivitet": [
+      "Drift av restaurant/kafe."
+     ],
+     "epostadresse": "mario6500@ymail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bjørndalslia 9"
+      ],
+      "kommune": "BODØ",
+      "kommunenummer": "1804",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8029",
+      "poststed": "BODØ"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+     },
+     "navn": "CARPINELLI ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "931522833",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-06-06",
+     "registreringsdatoForetaksregisteret": "2023-06-06",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938790302"
+      }
+     },
+     "aktivitet": [
+      "Salg av mobilabonnement til bedrifter på provisjonsbasis."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hagevegen 7B"
+      ],
+      "kommune": "PORSGRUNN",
+      "kommunenummer": "4001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3941",
+      "poststed": "PORSGRUNN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "CLAUSEN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938790302",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-11-11",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936370039"
+      }
+     },
+     "aktivitet": [
+      "Sykkelreparatør, sykkeltrener og holde mekkekurs / sykkelteknikk."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bårlidalsvegen 48"
+      ],
+      "kommune": "EIDSVOLL",
+      "kommunenummer": "3240",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2080",
+      "poststed": "EIDSVOLL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reparasjon og vedlikehold av andre husholdningsvarer og varer til personlig bruk ikke nevnt annet sted",
+      "kode": "95.290"
+     },
+     "navn": "COOK ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936370039",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-10-16",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/915617794"
+      }
+     },
+     "aktivitet": [
+      "Konsert- og musikalske oppdrag i Norge og i utlandet.",
+      "Konsulentarbeid som tannlegeingeniør."
+     ],
+     "epostadresse": "raljoc@online.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Huldresvadet 20"
+      ],
+      "kommune": "STAD",
+      "kommunenummer": "4649",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "6770",
+      "poststed": "NORDFJORDEID"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "908 81 265",
+     "naeringskode1": {
+      "beskrivelse": "Skapende kunstnerisk virksomhet innenfor komposisjon av musikk",
+      "kode": "90.112"
+     },
+     "navn": "CUPPER ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "915617794",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2015-07-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "57 02 27 48",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933691640"
+      }
+     },
+     "aktivitet": [
+      "Musikkforlagsvirksomhet - herunder administrasjon og forvaltning av",
+      "opphavsrettigheter, samt innkreving av royalties. Låtskriving."
+     ],
+     "epostadresse": "bonfirepc@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Høleberggata 18"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4006",
+      "poststed": "STAVANGER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "900 66 884",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon og utgivelse av musikk- og lydopptak",
+      "kode": "59.200"
+     },
+     "navn": "CURTIS ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933691640",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Furenesveien 162"
+      ],
+      "kommune": "SANDNES",
+      "kommunenummer": "1108",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4308",
+      "poststed": "SANDNES"
+     },
+     "registreringsdatoEnhetsregisteret": "2024-06-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/834171422"
+      }
+     },
+     "aktivitet": [
+      "Konsulenttjenester innenfor salg og markedsføring."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Onglavikvegen 73"
+      ],
+      "kommune": "BØMLO",
+      "kommunenummer": "4613",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5440",
+      "poststed": "MOSTERHAMN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reklamebyråvirksomhet",
+      "kode": "73.110"
+     },
+     "navn": "DALAND ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "834171422",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-09-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925445037"
+      }
+     },
+     "aktivitet": [
+      "Designing av eget klesmerke."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Høylandsvegen 234"
+      ],
+      "kommune": "ALVER",
+      "kommunenummer": "4631",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5915",
+      "poststed": "HJELMÅS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Industri-, produkt- og motedesignvirksomhet",
+      "kode": "74.110"
+     },
+     "navn": "DIMITROV ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "925445037",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-08-10",
+     "registreringsdatoForetaksregisteret": "2020-08-10",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/999665705"
+      }
+     },
+     "aktivitet": [
+      "Musikk- og annen kunstnerisk virksomhet."
+     ],
+     "epostadresse": "mathias.dons@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Akersbakken 15"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0172",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2013-02-09 14:38:40",
+       "navn": "KARL MATHIAS DONS",
+       "tilDato": "2016-04-13 15:06:15"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "913 91 232",
+     "naeringskode1": {
+      "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "kode": "90.201"
+     },
+     "navn": "DONS ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "999665705",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-02-09",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933026450"
+      }
+     },
+     "aktivitet": [
+      "Guide og reiseleder.",
+      "Forfatter, alle typer litterære genre.",
+      "Utøvende musiker.",
+      "Komponist."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Skivebakken 25B"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5018",
+      "poststed": "BERGEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Guide- og reiseledervirksomhet",
+      "kode": "79.902"
+     },
+     "navn": "EDLAND ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933026450",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-02-16",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/961498090"
+      }
+     },
+     "aktivitet": [
+      "Salg av tekst-tjenester (artikler, bøker el. deler",
+      "av bøker, oversettelsesarbeid samt lettere",
+      "databehandling)."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Totengata 15"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0658",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Telefonvakttjenester og telefonsalg",
+      "kode": "82.200"
+     },
+     "navn": "EGGEN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "961498090",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1995-02-20",
+     "registreringsdatoForetaksregisteret": "1991-09-12",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930110493"
+      }
+     },
+     "aktivitet": [
+      "Guide og reiseleder.",
+      "Fotograf."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sørbyhaugen 10B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0379",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2022-10-27 15:16:48",
+       "navn": "ELKS",
+       "tilDato": "2024-04-18 11:04:42"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Guide- og reiseledervirksomhet",
+      "kode": "79.902"
+     },
+     "navn": "ELKS ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "930110493",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-10-27",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924752882"
+      }
+     },
+     "aktivitet": [
+      "Konsulent tjenester innen markedsføring og media, samt div. oppdrag",
+      "som arbeider."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vensåsveien 6"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1350",
+      "poststed": "LOMMEDALEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reklamebyråvirksomhet",
+      "kode": "73.110"
+     },
+     "navn": "ELVRUM ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "924752882",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-03-13",
+     "registreringsdatoMerverdiavgiftsregisteret": "2019-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-03-17",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916655002"
+      }
+     },
+     "aktivitet": [
+      "Underholdning- og arrangørtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bruskedalsreset 32B"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5115",
+      "poststed": "ULSET"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter utført av utflukts- og eventarrangører",
+      "kode": "79.121"
+     },
+     "navn": "ERDAL ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "916655002",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-01-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934662091"
+      }
+     },
+     "aktivitet": [
+      "Tilby rådgivning og agenttjenester innen forretningsutvikling og",
+      "samarbeid mellom aktører. Innholdsproduksjon og aktivitet på sosiale",
+      "medier, herunder publisering på plattformer som TikTok, med mål om å",
+      "oppnå inntekter gjennom samarbeid, markedsføring og sponsing.",
+      "Promotering av produkter og tjenester gjennom digitale kanaler."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nerbotnveien 11"
+      ],
+      "kommune": "HARSTAD",
+      "kommunenummer": "5503",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9407",
+      "poststed": "HARSTAD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "ERIKSEN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934662091",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Myrens verksted 1A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0473",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2024-12-16",
+     "registreringsdatoForetaksregisteret": "2024-12-16",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-03-25",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-03-26",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925778710"
+      }
+     },
+     "aktivitet": [
+      "Konsulenttjenester innen teknologi og digitalisering."
+     ],
+     "epostadresse": "jakeriksen@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hasle Hageby 19"
+      ],
+      "kommune": "SARPSBORG",
+      "kommunenummer": "3105",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1734",
+      "poststed": "HAFSLUNDSØY"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "454 49 484",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "ERIKSEN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "925778710",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Moerveien 12"
+      ],
+      "kommune": "ÅS",
+      "kommunenummer": "3218",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1430",
+      "poststed": "ÅS"
+     },
+     "registreringsdatoEnhetsregisteret": "2020-10-12",
+     "registreringsdatoMerverdiavgiftsregisteret": "2021-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-12-09",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/980277348"
+      }
+     },
+     "aktivitet": [
+      "Eiendomsformidling og annen virksomhet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Rosenkrantz' gate 52"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4010",
+      "poststed": "STAVANGER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Eiendomsforvaltning på oppdrag",
+      "kode": "68.320"
+     },
+     "navn": "FIELD ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "980277348",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 372"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4002",
+      "poststed": "STAVANGER"
+     },
+     "registreringsdatoEnhetsregisteret": "1998-11-17",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "51 53 41 90",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933770931"
+      }
+     },
+     "aktivitet": [
+      "Utøvende musikervirksomhet, inkludert komponering, innspilling,",
+      "fremføring og produksjon av musikk, samt deltakelse i konserter,",
+      "arrangementer og andre musikalske oppdrag. Netthandel med tilbehør og",
+      "beskyttelsesprodukter for samlekort (TCG), inkludert salg via",
+      "nettbutikk og andre digitale salgskanaler."
+     ],
+     "epostadresse": "eirikribefjelde@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Industrigata 71"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0357",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2024-07-10 11:17:09",
+       "navn": "SAXOFONIST EIRIK FJELDE",
+       "tilDato": "2026-03-26 14:16:10"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "484 46 372",
+     "naeringskode1": {
+      "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "kode": "90.201"
+     },
+     "navn": "FJELDE ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933770931",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-07-10",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-05-12",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-05-12",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930671932"
+      }
+     },
+     "aktivitet": [
+      "Telefonsalg, salg av mobilabonnement."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Johannes' gate 28"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4014",
+      "poststed": "STAVANGER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Telefonvakttjenester og telefonsalg",
+      "kode": "82.200"
+     },
+     "navn": "FJERDINGSTAD ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "930671932",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-01-18",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-07-15",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-07-16",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933853446"
+      }
+     },
+     "aktivitet": [
+      "Gressklipping av fellesområde."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Konvallveien 23"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1338",
+      "poststed": "SANDVIKA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre personlige tjenester ikke nevnt annet sted",
+      "kode": "96.990"
+     },
+     "navn": "GEACH ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933853446",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-07-31",
+     "registreringsdatoForetaksregisteret": "2024-07-31",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929392892"
+      }
+     },
+     "aktivitet": [
+      "Videoredigering, videografi og fotografering. Opplæringstjenester",
+      "innenfor videoredigering, videografi, fotografering og gitar."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Prøiserudbakken 6B"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3030",
+      "poststed": "DRAMMEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2022-06-21 16:32:43",
+       "navn": "PARMINDER GILL ENTERPRISES",
+       "tilDato": "2024-03-22 12:53:28"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Etterarbeid knyttet til produksjon av film, video og fjernsynsprogrammer",
+      "kode": "59.120"
+     },
+     "navn": "GILL ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "929392892",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-06-21",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930624012"
+      }
+     },
+     "aktivitet": [
+      "Vaskeritjenester og annet forefallende arbeid, småjobber."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Ekebergveien 152A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1177",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Vaskeri- og renserivirksomhet",
+      "kode": "96.100"
+     },
+     "navn": "GRANUNG ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "930624012",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-01-10",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931790110"
+      }
+     },
+     "aktivitet": [
+      "Rengjøring av bygninger utvendig, vinduer og lignende."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bestumveien 2B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0281",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utvendig rengjøring av bygninger og industriell rengjøring",
+      "kode": "81.220"
+     },
+     "navn": "GURUNG ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "931790110",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-07-28",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932839954"
+      }
+     },
+     "aktivitet": [
+      "Markedsføring og reklame."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bjerkliveien 5"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3055",
+      "poststed": "KROKSTADELVA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reklamebyråvirksomhet",
+      "kode": "73.110"
+     },
+     "navn": "HADI ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "932839954",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-01-19",
+     "registreringsdatoForetaksregisteret": "2024-01-19",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995481545"
+      }
+     },
+     "aktivitet": [
+      "Utvikling av Excel-basert ERP beslutningsstøtte."
+     ],
+     "epostadresse": "s011832@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Seilduksgata 26B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0553",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2010-05-05 20:10:08",
+       "navn": "ROLID HAGEN KONSULENTTJENESTER",
+       "tilDato": "2020-03-19 19:46:25"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "481 80 846",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "HAGEN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "995481545",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2010-05-05",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934544587"
+      }
+     },
+     "aktivitet": [
+      "Drosjetjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Skårersletta 10"
+      ],
+      "kommune": "LØRENSKOG",
+      "kommunenummer": "3222",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1473",
+      "poststed": "LØRENSKOG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Passasjertransport på forespørsel utført av fører med kjøretøy",
+      "kode": "49.330"
+     },
+     "navn": "HAMEED ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934544587",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 1"
+      ],
+      "kommune": "LØRENSKOG",
+      "kommunenummer": "3222",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1471",
+      "poststed": "LØRENSKOG"
+     },
+     "registreringsdatoEnhetsregisteret": "2024-11-26",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-04-13",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-04-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930142107"
+      }
+     },
+     "aktivitet": [
+      "Telefonsalg."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Stalsberg terrasse 34"
+      ],
+      "kommune": "LILLESTRØM",
+      "kommunenummer": "3205",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2010",
+      "poststed": "STRØMMEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Telefonvakttjenester og telefonsalg",
+      "kode": "82.200"
+     },
+     "navn": "HASSANPOUR ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "930142107",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-11-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935440610"
+      }
+     },
+     "aktivitet": [
+      "Produksjon av musikk."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Oscars gate 74"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0256",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon og utgivelse av musikk- og lydopptak",
+      "kode": "59.200"
+     },
+     "navn": "HEIBERG ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935440610",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-05-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/928149307"
+      }
+     },
+     "aktivitet": [
+      "Arbeid som utøvende musiker. Produksjon. Instrumentbygging og salg."
+     ],
+     "epostadresse": "kjetilheibert@yahoo.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Kjetil Heibert",
+       "Welhavens gate 21A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0350",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "476 84 661",
+     "naeringskode1": {
+      "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "kode": "90.201"
+     },
+     "navn": "HEIBERT ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "928149307",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-11-17",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931096443"
+      }
+     },
+     "aktivitet": [
+      "Drift av telefonapplikasjon."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Raudnova 25"
+      ],
+      "kommune": "ØYGARDEN",
+      "kommunenummer": "4626",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5337",
+      "poststed": "RONG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Datainfrastruktur, -behandling, -lagring og tilknyttede tjenester",
+      "kode": "63.100"
+     },
+     "navn": "HEMSTAD ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "931096443",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-03-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997962338"
+      }
+     },
+     "aktivitet": [
+      "Virksomhet relatert til utgivelse-, og fremføring av musikk, nettsalg",
+      "av diverse artikler, inntekter relatert til affiliate marketing."
+     ],
+     "epostadresse": "andreasemil@me.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bjerregaards gate 39"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0174",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2012-02-13 20:11:36",
+       "navn": "ANDREAS EMIL HJERTAKER",
+       "tilDato": "2016-01-04 15:28:26"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "932 02 073",
+     "naeringskode1": {
+      "beskrivelse": "Skapende kunstnerisk virksomhet innenfor komposisjon av musikk",
+      "kode": "90.112"
+     },
+     "navn": "HJERTAKER ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "997962338",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2012-02-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/921579268"
+      }
+     },
+     "aktivitet": [
+      "Rigging, assistanse ved arrangementer."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Harald Hardrådes gate 17"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7030",
+      "poststed": "TRONDHEIM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet",
+      "kode": "90.390"
+     },
+     "navn": "HOLM ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "921579268",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2018-10-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933927954"
+      }
+     },
+     "aktivitet": [
+      "Netthandel med klær, sko, utstyrsvarer."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bjørnstadveien 13"
+      ],
+      "kommune": "HOLMESTRAND",
+      "kommunenummer": "3903",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3077",
+      "poststed": "SANDE I VESTFOLD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med klær",
+      "kode": "47.710"
+     },
+     "navn": "HOSSEINI ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933927954",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-08-15",
+     "registreringsdatoForetaksregisteret": "2024-08-15",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/913887506"
+      }
+     },
+     "aktivitet": [
+      "E-handel med produkter innenfor egenomsorg og helse og skjønnhet."
+     ],
+     "epostadresse": "info@iceab.se",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Gåshaga Brygga 1"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "SE-18185 LIDINGÖ"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med kosmetikk og toalettartikler",
+      "kode": "47.750"
+     },
+     "navn": "IC ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "913887506",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Athene Vat Services",
+       "Postboks 4691 Nydalen"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0405",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2014-07-29",
+     "registreringsdatoMerverdiavgiftsregisteret": "2015-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2015-06-25",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/921652216"
+      }
+     },
+     "aktivitet": [
+      "Filmproduksjon og klipp/videoredigering. Klipping av filmer levert av",
+      "kunde. Diverse filmtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nyland 12"
+      ],
+      "kommune": "SVEIO",
+      "kommunenummer": "4612",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5551",
+      "poststed": "AUKLANDSHAMN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon av film, video og fjernsynsprogrammer",
+      "kode": "59.110"
+     },
+     "navn": "JACOBSEN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "921652216",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2018-11-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936115993"
+      }
+     },
+     "aktivitet": [
+      "Netthandel med samlekort, samleobjekter og populærkultur-produkter.",
+      "Fokus på Pokémon og lignende varer, men med fleksibilitet til å ta inn",
+      "andre typer samlevarer og trender."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Mosby ringvei 41"
+      ],
+      "kommune": "KRISTIANSAND",
+      "kommunenummer": "4204",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4619",
+      "poststed": "MOSBY"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen detaljhandel med andre nye varer",
+      "kode": "47.780"
+     },
+     "navn": "JOHANSEN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936115993",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-09-09",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-09-17",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-09-17",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929590279"
+      }
+     },
+     "aktivitet": [
+      "Telefonvakt-tjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5022",
+      "poststed": "BERGEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Telefonvakttjenester og telefonsalg",
+      "kode": "82.200"
+     },
+     "navn": "KHAN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "929590279",
+     "paategninger": [
+      {
+       "infotype": "FADR",
+       "innfoertDato": "2025-04-01",
+       "tekst": "Enhetsregisteret har grunn til å anta at forretningsadressen er feil. Virksomheten har fått pålegg om å melde endring."
+      }
+     ],
+     "registreringsdatoEnhetsregisteret": "2022-08-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935470803"
+      }
+     },
+     "aktivitet": [
+      "Biltransport."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bjørnebærstien 45"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1348",
+      "poststed": "RYKKINN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Godstransport på vei",
+      "kode": "49.410"
+     },
+     "navn": "KHAN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935470803",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-05-19",
+     "registreringsdatoForetaksregisteret": "2025-05-19",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-07-31",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-07-31",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938226210"
+      }
+     },
+     "aktivitet": [
+      "Budtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Ammerudveien 121A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0958",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "KNIGHT ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938226210",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-08-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925890871"
+      }
+     },
+     "aktivitet": [
+      "Budtjenester. Renhold - privat og næringsbygg m.m. Online virksomhet",
+      "med salg og markedsføring, Youtube-kanaler, affiliate marketing etc."
+     ],
+     "epostadresse": "thomas.koksvik@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bygdøy allé 37"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0265",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2020-11-02 16:46:47",
+       "navn": "KOKSVIK SERVICEMAN",
+       "tilDato": "2022-08-10 15:53:54"
+      }
+     ],
+     "hjemmeside": "www.koksvikserviceman.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "480 89 820",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "KOKSVIK ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "925890871",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-11-02",
+     "registreringsdatoMerverdiavgiftsregisteret": "2021-03-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-04-12",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933212165"
+      }
+     },
+     "aktivitet": [
+      "Produksjon av musikk.",
+      "Lydtekniker.",
+      "Utøvende musiker.",
+      "Utgivelse av musikk og lydopptak.",
+      "Komponist."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Maridalsveien 9C"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0178",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon og utgivelse av musikk- og lydopptak",
+      "kode": "59.200"
+     },
+     "navn": "KOUSOULAS ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933212165",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-04-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933814068"
+      }
+     },
+     "aktivitet": [
+      "Bedriftsrådgivning, administrativt."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sandgata 16"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7012",
+      "poststed": "TRONDHEIM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "LIEN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933814068",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-07-22",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-09-15",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-09-16",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923159630"
+      }
+     },
+     "aktivitet": [
+      "Byggetjenester: -Restaurering av gamle bygg og oppføring av nye",
+      "bodeler. Riving og demontering av utgåtte bygg."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "C/O Tommy Wiig",
+       "Knut Hamsuns veg 15D"
+      ],
+      "kommune": "VESTRE TOTEN",
+      "kommunenummer": "3443",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2830",
+      "poststed": "RAUFOSS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Oppføring av bygninger",
+      "kode": "41.000"
+     },
+     "navn": "LILLERØDBERGET ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "923159630",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-10-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933647579"
+      }
+     },
+     "aktivitet": [
+      "Promotering av musikkutgivelser.",
+      "Rådgivning i forbindelse med utgivelser og vedrørende søknadsskriving.",
+      " ",
+      "Konsultasjon og oppdrag innenfor musikkbransjen."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Østerdalsgata 1J"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0658",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",
+      "kode": "74.990"
+     },
+     "navn": "LINNES ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933647579",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-06-21",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-10-03",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-10-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938364028"
+      }
+     },
+     "aktivitet": [
+      "Netthandel med klær.",
+      "Netthandel med kunst."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Malmøyveien 22A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0198",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med klær",
+      "kode": "47.710"
+     },
+     "navn": "LOKREIM ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938364028",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-09-09",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/832820822"
+      }
+     },
+     "aktivitet": [
+      "Markedsføring og reklame.",
+      "Filmproduksjon."
+     ],
+     "epostadresse": "lotheenterprises@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lensmann Carlsens veg 82"
+      ],
+      "kommune": "KLEPP",
+      "kommunenummer": "1120",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4350",
+      "poststed": "KLEPPE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reklamebyråvirksomhet",
+      "kode": "73.110"
+     },
+     "navn": "LOTHE ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "832820822",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-01-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/829883872"
+      }
+     },
+     "aktivitet": [
+      "Konsulenttjenester innen ingeniørtjenester av ventiler,",
+      "vannreservoarer, korn- og bulklastsiloer."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lavangsnesveien 2039"
+      ],
+      "kommune": "SALANGEN",
+      "kommunenummer": "5522",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9350",
+      "poststed": "SJØVEGAN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Nynorsk",
+     "naeringskode1": {
+      "beskrivelse": "Annen teknisk konsulentvirksomhet",
+      "kode": "71.129"
+     },
+     "navn": "LUNDALL ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "829883872",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-09-26",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-12-20",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-04-09",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/981468864"
+      }
+     },
+     "aktivitet": [
+      "Import og salg av tekstil varer, detalj - engros - torghandel."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Smågangen 30 Grønlandstorg"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0188",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med tekstiler og utstyrsvarer",
+      "kode": "46.410"
+     },
+     "navn": "LYONS ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "981468864",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2000-01-19",
+     "registreringsdatoForetaksregisteret": "2000-01-19",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "93 67 62 30",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927132958"
+      }
+     },
+     "aktivitet": [
+      "Revisjonprosjekt og havforskning samt skriving."
+     ],
+     "epostadresse": "steve.martin345@otlook.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Skollenborgveien 18"
+      ],
+      "kommune": "KONGSBERG",
+      "kommunenummer": "3303",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3619",
+      "poststed": "SKOLLENBORG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "977 75 653",
+     "naeringskode1": {
+      "beskrivelse": "Forskning og eksperimentell utvikling innenfor naturvitenskap og teknikk",
+      "kode": "72.100"
+     },
+     "navn": "MARTIN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "927132958",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-05-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/990667527"
+      }
+     },
+     "aktivitet": [
+      "Kultur og underholdning, tilbyr rusfri diskotek til ungdom. Utleie av",
+      "nattklubb."
+     ],
+     "epostadresse": "winstonam@hotmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Laurits Grønlands vei 37A"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3035",
+      "poststed": "DRAMMEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "98024895",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "MORSON ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "990667527",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2007-01-06",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924427191"
+      }
+     },
+     "aktivitet": [
+      "Salg, formidling og kundestøtte gjennom salgsoppdrag, samt tilhørende",
+      "aktiviteter: strømavtale."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Fredensborgveien 13C"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0177",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Formidlingstjenester tilknyttet detaljhandel med spesialisert vareutvalg",
+      "kode": "47.920"
+     },
+     "navn": "MURRAY ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "924427191",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-01-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931890921"
+      }
+     },
+     "aktivitet": [
+      "Bedriftsrådgivning, administrativt."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Langnesveien 4"
+      ],
+      "kommune": "INDRE FOSEN",
+      "kommunenummer": "5054",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7125",
+      "poststed": "VANVIKAN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "MUSCH ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "931890921",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-08-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932757540"
+      }
+     },
+     "aktivitet": [
+      "Netthandel med klær."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Linderudveien 26"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0594",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med klær",
+      "kode": "47.710"
+     },
+     "navn": "NAEEM ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "932757540",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-01-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/928122751"
+      }
+     },
+     "aktivitet": [
+      "Markedsføringsbyrå: Forbedre bedrifters digitale markedsføring."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Arendalsveien 13"
+      ],
+      "kommune": "GRIMSTAD",
+      "kommunenummer": "4202",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4878",
+      "poststed": "GRIMSTAD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2021-11-17 15:53:46",
+       "navn": "NERGAARD ROSEMERA",
+       "tilDato": "2023-03-29 09:58:59"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reklamebyråvirksomhet",
+      "kode": "73.110"
+     },
+     "navn": "NERGAARD ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "928122751",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-11-17",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924024887"
+      }
+     },
+     "aktivitet": [
+      "Underholdningsbedrift som dekker mine personlige tjenester som DJ,",
+      "ekspert på whiskysmaking, og tilhørende utstyr."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Toverudveien 306"
+      ],
+      "kommune": "AURSKOG-HØLAND",
+      "kommunenummer": "3226",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1930",
+      "poststed": "AURSKOG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "kode": "90.201"
+     },
+     "navn": "PAPPLE ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "924024887",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-12-05",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938234167"
+      }
+     },
+     "aktivitet": [
+      "Programvareutvikling."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Notbasveien 19"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4083",
+      "poststed": "HUNDVÅG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "PEDERSEN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938234167",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-08-10",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935840740"
+      }
+     },
+     "aktivitet": [
+      "Budtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Ulleråsen 2"
+      ],
+      "kommune": "RÆLINGEN",
+      "kommunenummer": "3224",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2009",
+      "poststed": "NORDBY"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "RAZA ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935840740",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-07-11",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935864925"
+      }
+     },
+     "aktivitet": [
+      "Vaktmestertjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vestre Torggaten 12A"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5015",
+      "poststed": "BERGEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Kombinerte tjenester tilknyttet eiendomsdrift",
+      "kode": "81.100"
+     },
+     "navn": "REISTAD ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935864925",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-07-18",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922056196"
+      }
+     },
+     "aktivitet": [
+      "Administrasjonstjenester for Masterstudies AS."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Grenseveien 69B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0663",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "RODRIGUEZ ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "922056196",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-01-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927490390"
+      }
+     },
+     "aktivitet": [
+      "Salgsveiledning for kunder som søker elektriske motorsykler."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Marius H.D. Salvesen",
+       "Ekebergveien 100"
+      ],
+      "kommune": "FROGN",
+      "kommunenummer": "3214",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1449",
+      "poststed": "DRØBAK"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Nynorsk",
+     "naeringskode1": {
+      "beskrivelse": "Annen teknisk konsulentvirksomhet",
+      "kode": "71.129"
+     },
+     "navn": "SALVESEN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "927490390",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-07-30",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-08-20",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-08-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933595560"
+      }
+     },
+     "aktivitet": [
+      "Lager eventer og arrangementer for single."
+     ],
+     "epostadresse": "wendysandnes@hotmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Aspeveien 18"
+      ],
+      "kommune": "SARPSBORG",
+      "kommunenummer": "3105",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1718",
+      "poststed": "GREÅKER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "900 71 035",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter utført av utflukts- og eventarrangører",
+      "kode": "79.121"
+     },
+     "navn": "SANDNES ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933595560",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-06-12",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931201085"
+      }
+     },
+     "aktivitet": [
+      "Drift av web-portaler.",
+      "WEB-design.",
+      "Konsulenttjenester innen IT.",
+      "Programmering.",
+      "Frisering og skjønnhetspleie."
+     ],
+     "epostadresse": "sohail.shaikh1920@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Søster Mathildes gate 14C"
+      ],
+      "kommune": "LØRENSKOG",
+      "kommunenummer": "3222",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1461",
+      "poststed": "LØRENSKOG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "925 02 141",
+     "naeringskode1": {
+      "beskrivelse": "Annen virksomhet for distribuering av innhold",
+      "kode": "60.390"
+     },
+     "navn": "SHAIKH ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "931201085",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-04-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936303951"
+      }
+     },
+     "aktivitet": [
+      "Programvareutvikling.",
+      "Programmering.",
+      "Drift av web-portaler.",
+      "Konsulenttjenester innen IT."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Spilderhaugsmauet 1"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4014",
+      "poststed": "STAVANGER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "SHIFFMAN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936303951",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-10-03",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-02-25",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-12",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936481620"
+      }
+     },
+     "aktivitet": [
+      "Rådgivning innen industri."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Skullerudveien 15A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1188",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen teknisk konsulentvirksomhet",
+      "kode": "71.129"
+     },
+     "navn": "SIVAKUMAR ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936481620",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-11-05",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-03-03",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931740601"
+      }
+     },
+     "aktivitet": [
+      "Allmennlege."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Gamle Harestadveien 4B"
+      ],
+      "kommune": "RANDABERG",
+      "kommunenummer": "1127",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4072",
+      "poststed": "RANDABERG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Allmennlegetjenester",
+      "kode": "86.210"
+     },
+     "navn": "SKOGEN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "931740601",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-07-19",
+     "registreringsdatoForetaksregisteret": "2023-07-19",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/915136567"
+      }
+     },
+     "aktivitet": [
+      "Musikktjenester"
+     ],
+     "epostadresse": "mathiasas10@hotmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Maridalsveien 33L"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0175",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Nynorsk",
+     "mobil": "413 55 118",
+     "naeringskode1": {
+      "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "kode": "90.201"
+     },
+     "navn": "STEFFENSEN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "915136567",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2015-03-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997799658"
+      }
+     },
+     "aktivitet": [
+      "Produksjon og utgivelse av musikk- og lydopptak."
+     ],
+     "epostadresse": "selinastoane@mail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Lars Braaten",
+       "Stoane Enterprises",
+       "Dyvigodden 96"
+      ],
+      "kommune": "ARENDAL",
+      "kommunenummer": "4203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4841",
+      "poststed": "ARENDAL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "454 39 182",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon og utgivelse av musikk- og lydopptak",
+      "kode": "59.200"
+     },
+     "navn": "STOANE ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "997799658",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2012-01-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933403122"
+      }
+     },
+     "aktivitet": [
+      "Utøvende musiker."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Slalåmveien 3C"
+      ],
+      "kommune": "NORDRE FOLLO",
+      "kommunenummer": "3207",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1410",
+      "poststed": "KOLBOTN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "kode": "90.201"
+     },
+     "navn": "STRID ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933403122",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-05-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987767588"
+      }
+     },
+     "aktivitet": [
+      "Webutvikling og transportvirksomhet."
+     ],
+     "epostadresse": "christian@smartpost.ws",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sivert Nielsens gate 56B"
+      ],
+      "kommune": "BODØ",
+      "kommunenummer": "1804",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8007",
+      "poststed": "BODØ"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2005-01-24 20:27:59",
+       "navn": "CHRISTIAN STRØMHAUG",
+       "tilDato": "2008-09-24 20:24:21"
+      },
+      {
+       "fraDato": "2008-09-24 20:24:21",
+       "navn": "CHRISTIAN CONSULTING Strømhaug",
+       "tilDato": "2008-10-29 20:30:21"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "93881659",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "STRØMHAUG ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "987767588",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2005-01-24",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992603593"
+      }
+     },
+     "aktivitet": [
+      "Legevakt."
+     ],
+     "epostadresse": "athar.ali.tajik@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Askeladdveien 22"
+      ],
+      "kommune": "SANDNES",
+      "kommunenummer": "1108",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4315",
+      "poststed": "SANDNES"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "907 78 937",
+     "naeringskode1": {
+      "beskrivelse": "Allmennlegetjenester",
+      "kode": "86.210"
+     },
+     "navn": "TAJIK ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "992603593",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2008-04-28",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997932994"
+      }
+     },
+     "aktivitet": [
+      "Tannlegetjenester/Tannlegebransjen."
+     ],
+     "epostadresse": "vibe53@hotmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nordliveien 16"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1368",
+      "poststed": "STABEKK"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "952 03 828",
+     "naeringskode1": {
+      "beskrivelse": "Tannlegetjenester",
+      "kode": "86.230"
+     },
+     "navn": "THORMODSEN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "997932994",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2012-02-06",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937628625"
+      }
+     },
+     "aktivitet": [
+      "Quizmaster i underholdningsbransjen."
+     ],
+     "epostadresse": "fredrik.thorstensen@outlook.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sandakerveien 67F"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0477",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "45262992",
+     "naeringskode1": {
+      "beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet",
+      "kode": "90.390"
+     },
+     "navn": "THORSTENSEN ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "937628625",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-05-18",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/988530093"
+      }
+     },
+     "aktivitet": [
+      "Hagearbeid."
+     ],
+     "epostadresse": "selvtakk@yahoo.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Torvmyrveien 4"
+      ],
+      "kommune": "TØNSBERG",
+      "kommunenummer": "3905",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3170",
+      "poststed": "SEM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2005-08-27 14:43:15",
+       "navn": "THUNE SÅKLART",
+       "tilDato": "2023-02-09 15:04:54"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "48267806",
+     "naeringskode1": {
+      "beskrivelse": "Tjenester tilknyttet planteproduksjon",
+      "kode": "01.610"
+     },
+     "navn": "THUNE ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "988530093",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2005-08-27",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/826749652"
+      }
+     },
+     "aktivitet": [
+      "Elektrikertjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Stokke Ravei 200"
+      ],
+      "kommune": "SANDEFJORD",
+      "kommunenummer": "3907",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3160",
+      "poststed": "STOKKE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "TWILLEY ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "826749652",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-03-09",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917522596"
+      }
+     },
+     "aktivitet": [
+      "Tjenester for digital markedsføring."
+     ],
+     "epostadresse": "aizaumer8@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Olaves Hvervens vei 12"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1266",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre tjenester tilknyttet informasjonsteknologi",
+      "kode": "62.900"
+     },
+     "navn": "UMER ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "917522596",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Zainab Umer",
+       "Olaves Hvervens vei 12"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1266",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2016-08-02",
+     "registreringsdatoForetaksregisteret": "2016-08-02",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937200285"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Aspelundfaret 15"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1392",
+      "poststed": "VETTRE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "VASKO ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "937200285",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-02-19",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-08-03",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-08-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/928304361"
+      }
+     },
+     "aktivitet": [
+      "Skuespiller i blant annet reklame og filmer."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Wessels gate 14"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0165",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor scenekunst",
+      "kode": "90.202"
+     },
+     "navn": "VOLLSET ENTERPRISES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "928304361",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-12-08",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    }
+   ]
+  },
+  "_links": {
+   "first": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SYKES%20ENTERPRISES&page=0&size=100"
+   },
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SYKES%20ENTERPRISES&size=100&page=0"
+   },
+   "next": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SYKES%20ENTERPRISES&page=1&size=100"
+   },
+   "last": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SYKES%20ENTERPRISES&page=6&size=100"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 677,
+   "totalPages": 7
+  }
+ }
+}

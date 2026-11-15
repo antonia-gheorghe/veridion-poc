@@ -1,0 +1,7 @@
+{
+ "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=SMARTLY+HOLDING&page=1",
+ "response": {
+  "totalResults": 0,
+  "companies": []
+ }
+}

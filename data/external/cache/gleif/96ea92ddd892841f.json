@@ -1,0 +1,4679 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=DELOITTE&filter%5Bentity.legalAddress.country%5D=DK&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 34,
+    "total": 34,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=DELOITTE&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=DELOITTE&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "63670069XTNTNDL4MS81",
+    "attributes": {
+     "lei": "63670069XTNTNDL4MS81",
+     "entity": {
+      "legalName": {
+       "name": "THA 5871 ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34075581",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2011-12-05T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "c/o Deloitte",
+         "Weidekampsgade 6"
+        ],
+        "mailRouting": "c/o Deloitte",
+        "city": "Kobenhavn S",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2300"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "c/o Deloitte",
+         "Weidekampsgade 6"
+        ],
+        "mailRouting": "c/o Deloitte",
+        "city": "Kobenhavn S",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2300"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2023-07-10T12:07:00Z",
+      "lastUpdateDate": "2026-05-13T05:39:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-07-10T12:07:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34075581",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34075581",
+     "qcc": "QDKG6297HA",
+     "gem": null,
+     "spglobal": [
+      "686537551"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/63670069XTNTNDL4MS81/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/63670069XTNTNDL4MS81/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/63670069XTNTNDL4MS81/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/63670069XTNTNDL4MS81/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/63670069XTNTNDL4MS81/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/63670069XTNTNDL4MS81"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300NB0Q92XTXOLC23",
+    "attributes": {
+     "lei": "549300NB0Q92XTXOLC23",
+     "entity": {
+      "legalName": {
+       "name": "OSL 3338 ApS",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "OSL 3338 STATSAUTORISERET REVISIONSANPARTSSELSKAB",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34075220",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2011-12-05T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "c/o Deloitte",
+         "Weidekampsgade 6"
+        ],
+        "mailRouting": "c/o Deloitte",
+        "city": "Kobenhavn S",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2300"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "c/o Deloitte",
+         "Weidekampsgade 6"
+        ],
+        "mailRouting": "c/o Deloitte",
+        "city": "Kobenhavn S",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2300"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-11-30T21:30:00Z",
+      "lastUpdateDate": "2025-01-09T00:01:16Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2025-01-08T10:23:41Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34075220",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34075220",
+     "qcc": "QDKWQ9BUTH",
+     "gem": null,
+     "spglobal": [
+      "559128002"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300NB0Q92XTXOLC23/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300NB0Q92XTXOLC23/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300NB0Q92XTXOLC23/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300NB0Q92XTXOLC23/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300NB0Q92XTXOLC23/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300NB0Q92XTXOLC23"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300CBR72EHI5N7H83",
+    "attributes": {
+     "lei": "549300CBR72EHI5N7H83",
+     "entity": {
+      "legalName": {
+       "name": "LAK 6060 ApS",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "LAK 6060 STATSAUTORISERET REVISIONSANPARTSSELSKAB",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34075115",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2011-12-05T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-12-19T15:34:00Z",
+      "lastUpdateDate": "2023-12-11T00:03:04Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2023-12-10T09:43:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34075115",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34075115",
+     "qcc": "QDKC2V71EF",
+     "gem": null,
+     "spglobal": [
+      "553666313"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300CBR72EHI5N7H83/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300CBR72EHI5N7H83/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300CBR72EHI5N7H83/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300CBR72EHI5N7H83/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300CBR72EHI5N7H83/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300CBR72EHI5N7H83"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300HLJIN14IQZK226",
+    "attributes": {
+     "lei": "549300HLJIN14IQZK226",
+     "entity": {
+      "legalName": {
+       "name": "Stonehenge A/S",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "STONEHENGE FONDSMÆGLERSELSKAB A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "Stonehenge A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "Stonehenge Fondsmægleraktieselskab",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [
+       {
+        "name": "STONEHENGE FONDSMAEGLERSELSKAB A/S",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_NAME"
+       }
+      ],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Deloitte Statsautoriseret Revisionspartn",
+        "Værkmestergade 2"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O Deloitte Statsautoriseret Revisionspartn",
+       "city": "Aarhus C",
+       "region": "DK-82",
+       "country": "DK",
+       "postalCode": "8000"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Deloitte Statsautoriseret Revisionspartn",
+        "Værkmestergade 2"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O Deloitte Statsautoriseret Revisionspartn",
+       "city": "Aarhus C",
+       "region": "DK-82",
+       "country": "DK",
+       "postalCode": "8000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "32078397",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "INACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2009-02-04T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "C/O Deloitte Statsautoriseret Revisionspartn",
+         "Vaerkmestergade 2"
+        ],
+        "mailRouting": "C/O Deloitte Statsautoriseret Revisionspartn",
+        "city": "Aarhus C",
+        "region": "DK-82",
+        "country": "DK",
+        "postalCode": "8000"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "C/O Deloitte Statsautoriseret Revisionspartn",
+         "Vaerkmestergade 2"
+        ],
+        "mailRouting": "C/O Deloitte Statsautoriseret Revisionspartn",
+        "city": "Aarhus C",
+        "region": "DK-82",
+        "country": "DK",
+        "postalCode": "8000"
+       }
+      ],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2026-05-21T00:00:00Z",
+          "recordedDate": "2026-06-29T06:54:00Z",
+          "type": "LIQUIDATION",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "validationReference": "https://datacvr.virk.dk/enhed/virksomhed/32078397?fritekst=32078397&sideIndex=0&size=10",
+          "effectiveDate": "2025-09-30T00:00:00Z",
+          "recordedDate": "2025-10-27T00:00:00Z",
+          "type": "LIQUIDATION",
+          "status": "IN_PROGRESS"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "validationReference": "https://datacvr.virk.dk/enhed/virksomhed/32078397?fritekst=32078397&sideIndex=0&size=10",
+          "effectiveDate": "2024-08-20T00:00:00Z",
+          "recordedDate": "2025-07-22T00:00:00Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "validationReference": "https://datacvr.virk.dk/enhed/virksomhed/32078397?fritekst=32078397&sideIndex=0&size=10",
+          "effectiveDate": "2024-08-20T00:00:00Z",
+          "recordedDate": "2025-07-22T00:00:00Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-10-13T02:07:00Z",
+      "lastUpdateDate": "2026-06-29T06:54:00Z",
+      "status": "RETIRED",
+      "nextRenewalDate": "2026-09-17T07:48:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "32078397",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/32078397",
+     "qcc": "QDKV9C9U25",
+     "gem": null,
+     "spglobal": [
+      "268903258"
+     ],
+     "conformityFlag": "NOT_APPLICABLE"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300HLJIN14IQZK226/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300HLJIN14IQZK226/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300HLJIN14IQZK226/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300HLJIN14IQZK226/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300HLJIN14IQZK226/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300HLJIN14IQZK226"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "648800K9NJ2XRDJ63072",
+    "attributes": {
+     "lei": "648800K9NJ2XRDJ63072",
+     "entity": {
+      "legalName": {
+       "name": "IWJ Invest ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O Deloitte",
+       "city": "København S",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O Deloitte",
+       "city": "København S",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "46077148",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2025-12-01T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Weidekampsgade 6"
+        ],
+        "mailRouting": "C/O Deloitte",
+        "city": "Kobenhavn S",
+        "country": "DK",
+        "postalCode": "2300"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Weidekampsgade 6"
+        ],
+        "mailRouting": "C/O Deloitte",
+        "city": "Kobenhavn S",
+        "country": "DK",
+        "postalCode": "2300"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2026-11-12T09:17:54Z",
+      "lastUpdateDate": "2026-11-12T09:17:54Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-11-12T00:00:00Z",
+      "managingLou": "485100001PLJJ09NZT59",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "46077148",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": null,
+     "qcc": null,
+     "gem": null,
+     "spglobal": null,
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/648800K9NJ2XRDJ63072/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/648800K9NJ2XRDJ63072/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/648800K9NJ2XRDJ63072/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/648800K9NJ2XRDJ63072/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/648800K9NJ2XRDJ63072/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/648800K9NJ2XRDJ63072"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "894500GH971AOJXZLE48",
+    "attributes": {
+     "lei": "894500GH971AOJXZLE48",
+     "entity": {
+      "legalName": {
+       "name": "KAM 6029 ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34075085",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2011-12-04T23:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Weidekampsgade 6"
+        ],
+        "mailRouting": "c/o Deloitte",
+        "city": "Kobenhavn S",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2300"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Weidekampsgade 6"
+        ],
+        "mailRouting": "c/o Deloitte",
+        "city": "Kobenhavn S",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2300"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2019-06-18T16:13:00Z",
+      "lastUpdateDate": "2026-04-20T22:03:19Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-06-17T22:00:00Z",
+      "managingLou": "485100001PLJJ09NZT59",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34075085",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34075085",
+     "qcc": "QDK2R2HWYX",
+     "gem": null,
+     "spglobal": [
+      "625989977"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500GH971AOJXZLE48/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500GH971AOJXZLE48/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500GH971AOJXZLE48/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500GH971AOJXZLE48/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500GH971AOJXZLE48/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/894500GH971AOJXZLE48"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "8945003WVZ392PEG7J30",
+    "attributes": {
+     "lei": "8945003WVZ392PEG7J30",
+     "entity": {
+      "legalName": {
+       "name": "JAP 1059 ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34048398",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2011-12-04T23:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Weidekampsgade 6"
+        ],
+        "mailRouting": "c/o Deloitte",
+        "city": "Kobenhavn S",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2300"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Weidekampsgade 6"
+        ],
+        "mailRouting": "c/o Deloitte",
+        "city": "Kobenhavn S",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2300"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2019-02-28T09:07:00Z",
+      "lastUpdateDate": "2026-02-28T23:03:08Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-04-27T22:00:00Z",
+      "managingLou": "485100001PLJJ09NZT59",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34048398",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34048398",
+     "qcc": "QDKP2U3EJA",
+     "gem": null,
+     "spglobal": [
+      "605217791"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/8945003WVZ392PEG7J30/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/8945003WVZ392PEG7J30/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/8945003WVZ392PEG7J30/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/8945003WVZ392PEG7J30/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/8945003WVZ392PEG7J30/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/8945003WVZ392PEG7J30"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "894500OEKMUGIJC42751",
+    "attributes": {
+     "lei": "894500OEKMUGIJC42751",
+     "entity": {
+      "legalName": {
+       "name": "NIJ 11940 ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "36474521",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2014-12-22T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Weidekampsgade 6"
+        ],
+        "mailRouting": "c/o Deloitte",
+        "city": "Kobenhavn S",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2300"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Weidekampsgade 6"
+        ],
+        "mailRouting": "c/o Deloitte",
+        "city": "Kobenhavn S",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2300"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2018-11-23T15:03:00Z",
+      "lastUpdateDate": "2026-09-01T03:39:03Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-10-27T23:00:00Z",
+      "managingLou": "485100001PLJJ09NZT59",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "36474521",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/36474521",
+     "qcc": "QDKGR5BRS6",
+     "gem": null,
+     "spglobal": [
+      "593776549"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500OEKMUGIJC42751/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500OEKMUGIJC42751/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500OEKMUGIJC42751/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500OEKMUGIJC42751/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500OEKMUGIJC42751/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/894500OEKMUGIJC42751"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "9845001CC97722LD0D62",
+    "attributes": {
+     "lei": "9845001CC97722LD0D62",
+     "entity": {
+      "legalName": {
+       "name": "FreMaNo Holding ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O Deloitte",
+       "city": "København S",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O Deloitte",
+       "city": "København S",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "45635325",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2025-05-21T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2026-02-04T07:04:22Z",
+      "lastUpdateDate": "2026-02-04T07:04:22Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-02-04T07:04:24Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "45635325",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/45635325",
+     "qcc": "QDKE96F5MS",
+     "gem": null,
+     "spglobal": [
+      "1981516484"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/9845001CC97722LD0D62/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/9845001CC97722LD0D62/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/9845001CC97722LD0D62/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/9845001CC97722LD0D62/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/9845001CC97722LD0D62/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/9845001CC97722LD0D62"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "984500E5BF55WA8ZEB48",
+    "attributes": {
+     "lei": "984500E5BF55WA8ZEB48",
+     "entity": {
+      "legalName": {
+       "name": "LKSP Invest ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O Deloitte",
+       "city": "København S",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O Deloitte",
+       "city": "København S",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "38115448",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2016-10-17T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2023-01-16T16:03:48Z",
+      "lastUpdateDate": "2025-11-17T16:15:50Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-01-16T16:03:49Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "38115448",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/38115448",
+     "qcc": "QDKUFP81BS",
+     "gem": null,
+     "spglobal": [
+      "686646669"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500E5BF55WA8ZEB48/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500E5BF55WA8ZEB48/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500E5BF55WA8ZEB48/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500E5BF55WA8ZEB48/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500E5BF55WA8ZEB48/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/984500E5BF55WA8ZEB48"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "894500ONT0GYVY72B886",
+    "attributes": {
+     "lei": "894500ONT0GYVY72B886",
+     "entity": {
+      "legalName": {
+       "name": "JGH 7625 ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34074216",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2011-12-04T23:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2022-11-03T01:04:19Z",
+      "lastUpdateDate": "2023-11-03T02:30:38Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2023-11-03T01:04:20Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34074216",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34074216",
+     "qcc": "QDK9NS2VAG",
+     "gem": null,
+     "spglobal": [
+      "686349777"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500ONT0GYVY72B886/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500ONT0GYVY72B886/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500ONT0GYVY72B886/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500ONT0GYVY72B886/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500ONT0GYVY72B886/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/894500ONT0GYVY72B886"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "894500TIK1ICM660DT25",
+    "attributes": {
+     "lei": "894500TIK1ICM660DT25",
+     "entity": {
+      "legalName": {
+       "name": "HTR 7099 ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34048150",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "INACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2018-09-07T22:00:00Z",
+          "recordedDate": "2024-06-26T17:05:41Z",
+          "type": "DISSOLUTION",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2018-05-24T13:30:25Z",
+      "lastUpdateDate": "2024-06-26T17:05:41Z",
+      "status": "RETIRED",
+      "nextRenewalDate": "2019-05-24T13:30:26Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34048150",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34048150",
+     "qcc": "QDKC715GJ1",
+     "gem": null,
+     "spglobal": [
+      "569574836"
+     ],
+     "conformityFlag": "NOT_APPLICABLE"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500TIK1ICM660DT25/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500TIK1ICM660DT25/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500TIK1ICM660DT25/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500TIK1ICM660DT25/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500TIK1ICM660DT25/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/894500TIK1ICM660DT25"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "984500CO3D0A61A2K007",
+    "attributes": {
+     "lei": "984500CO3D0A61A2K007",
+     "entity": {
+      "legalName": {
+       "name": "GUW ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "43524097",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2022-09-12T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2023-01-09T01:42:58Z",
+      "lastUpdateDate": "2026-11-10T02:38:34Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2028-01-09T01:43:00Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "43524097",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/43524097",
+     "qcc": "QDKGD2C6VW",
+     "gem": null,
+     "spglobal": [
+      "1821343391"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500CO3D0A61A2K007/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500CO3D0A61A2K007/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500CO3D0A61A2K007/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500CO3D0A61A2K007/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500CO3D0A61A2K007/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/984500CO3D0A61A2K007"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "98450015638A02EE0C09",
+    "attributes": {
+     "lei": "98450015638A02EE0C09",
+     "entity": {
+      "legalName": {
+       "name": "HEK 5931 ApS",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "HEK 5931 STATSAUTORISERET REVISIONSANPARTSSELSKAB",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Hyrdehøj Bygade 255"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O Deloitte",
+       "city": "Roskilde",
+       "region": null,
+       "country": "DK",
+       "postalCode": "4000"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Hyrdehøj Bygade 255"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O Deloitte",
+       "city": "Roskilde",
+       "region": null,
+       "country": "DK",
+       "postalCode": "4000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34048282",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2011-12-04T23:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "validationReference": "https://datacvr.virk.dk/enhed/virksomhed/34048282?fritekst=34048282&sideIndex=0&size=10",
+          "effectiveDate": "2022-12-22T23:00:00Z",
+          "recordedDate": "2023-02-03T14:10:45Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "validationReference": "https://datacvr.virk.dk/enhed/virksomhed/34048282?fritekst=34048282&sideIndex=0&size=10",
+          "effectiveDate": "2022-12-22T23:00:00Z",
+          "recordedDate": "2023-02-02T23:00:00Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2021-11-09T15:25:59Z",
+      "lastUpdateDate": "2023-11-09T15:30:03Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2023-11-09T15:26:02Z",
+      "managingLou": "98450045AN5EB5FDC780",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34048282",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34048282",
+     "qcc": "QDKHNMW3X5",
+     "gem": null,
+     "spglobal": [
+      "686987914"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450015638A02EE0C09/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450015638A02EE0C09/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450015638A02EE0C09/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/98450015638A02EE0C09/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/98450015638A02EE0C09/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/98450015638A02EE0C09"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "5493003NYVSRRT7AXI60",
+    "attributes": {
+     "lei": "5493003NYVSRRT7AXI60",
+     "entity": {
+      "legalName": {
+       "name": "JES 3764 ApS",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "JES 3764 STATSAUTORISERET REVISIONSANPARTSSELSKAB",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte, Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København S",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte, Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København S",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34074402",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2011-12-05T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2023-10-25T21:00:00Z",
+          "recordedDate": "2023-11-06T09:29:01Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2023-10-25T21:00:00Z",
+          "recordedDate": "2023-11-06T09:29:01Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-10-19T22:47:00Z",
+      "lastUpdateDate": "2024-11-06T18:01:40Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2024-11-06T09:29:01Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34074402",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34074402",
+     "qcc": "QDKRPR9GB6",
+     "gem": null,
+     "spglobal": [
+      "546307019"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493003NYVSRRT7AXI60/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493003NYVSRRT7AXI60/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493003NYVSRRT7AXI60/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493003NYVSRRT7AXI60/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493003NYVSRRT7AXI60/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/5493003NYVSRRT7AXI60"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "9845009C2C56D1R3E015",
+    "attributes": {
+     "lei": "9845009C2C56D1R3E015",
+     "entity": {
+      "legalName": {
+       "name": "NPL 11597 ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Deloitte",
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "43983644",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2023-04-11T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2024-08-13T16:54:11Z",
+      "lastUpdateDate": "2026-06-16T03:45:16Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-08-13T16:54:13Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "43983644",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/43983644",
+     "qcc": "QDKM6PGJUP",
+     "gem": null,
+     "spglobal": [
+      "1891301368"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/9845009C2C56D1R3E015/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/9845009C2C56D1R3E015/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/9845009C2C56D1R3E015/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/9845009C2C56D1R3E015/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/9845009C2C56D1R3E015/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/9845009C2C56D1R3E015"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300MWOGYKVZ8HM378",
+    "attributes": {
+     "lei": "549300MWOGYKVZ8HM378",
+     "entity": {
+      "legalName": {
+       "name": "AVD 273 ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Deloitte",
+        "Weidekampsgade 6",
+        "København S"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Deloitte",
+        "Weidekampsgade 6",
+        "København S"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34047901",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2020-03-18T21:30:00Z",
+      "lastUpdateDate": "2023-08-02T13:09:00Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2021-03-18T10:17:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34047901",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34047901",
+     "qcc": "QDKHXX4PEH",
+     "gem": null,
+     "spglobal": [
+      "659405285"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300MWOGYKVZ8HM378/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300MWOGYKVZ8HM378/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300MWOGYKVZ8HM378/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300MWOGYKVZ8HM378/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300MWOGYKVZ8HM378/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300MWOGYKVZ8HM378"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "894500OG9AOWPOEQOF22",
+    "attributes": {
+     "lei": "894500OG9AOWPOEQOF22",
+     "entity": {
+      "legalName": {
+       "name": "EHJ 4316 ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34048045",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2011-12-05T10:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2018-07-10T14:33:53Z",
+      "lastUpdateDate": "2019-07-10T17:00:11Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2019-07-10T14:33:54Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34048045",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34048045",
+     "qcc": "QDK8HSK6EK",
+     "gem": null,
+     "spglobal": [
+      "574448488"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500OG9AOWPOEQOF22/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500OG9AOWPOEQOF22/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500OG9AOWPOEQOF22/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500OG9AOWPOEQOF22/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500OG9AOWPOEQOF22/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/894500OG9AOWPOEQOF22"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "894500ZAFFZS8P73AP83",
+    "attributes": {
+     "lei": "894500ZAFFZS8P73AP83",
+     "entity": {
+      "legalName": {
+       "name": "HHP 5200 ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34075433",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2011-12-05T10:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2018-01-29T17:14:29Z",
+      "lastUpdateDate": "2019-01-30T01:30:35Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2019-01-29T17:14:30Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34075433",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34075433",
+     "qcc": "QDKEE2B3EG",
+     "gem": null,
+     "spglobal": [
+      "564296744"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500ZAFFZS8P73AP83/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500ZAFFZS8P73AP83/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500ZAFFZS8P73AP83/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500ZAFFZS8P73AP83/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500ZAFFZS8P73AP83/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/894500ZAFFZS8P73AP83"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "254900A5L6JJLGANUC63",
+    "attributes": {
+     "lei": "254900A5L6JJLGANUC63",
+     "entity": {
+      "legalName": {
+       "name": "MIB 7986 ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34075182",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "INACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2011-12-05T10:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2021-07-16T22:00:00Z",
+          "recordedDate": "2024-05-03T09:31:09Z",
+          "type": "DISSOLUTION",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-12-22T17:40:51Z",
+      "lastUpdateDate": "2024-05-03T09:31:09Z",
+      "status": "RETIRED",
+      "nextRenewalDate": "2021-12-22T17:40:00Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34075182",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34075182",
+     "qcc": "QDK625XHR6",
+     "gem": null,
+     "spglobal": [
+      "557461591"
+     ],
+     "conformityFlag": "NOT_APPLICABLE"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900A5L6JJLGANUC63/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900A5L6JJLGANUC63/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900A5L6JJLGANUC63/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900A5L6JJLGANUC63/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900A5L6JJLGANUC63/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/254900A5L6JJLGANUC63"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "254900K968LYULGBOK22",
+    "attributes": {
+     "lei": "254900K968LYULGBOK22",
+     "entity": {
+      "legalName": {
+       "name": "LMO 5265 ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34075166",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "INACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2011-12-05T10:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2024-10-16T10:00:00Z",
+          "recordedDate": "2024-11-19T12:42:37Z",
+          "type": "DISSOLUTION",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-12-13T16:37:23Z",
+      "lastUpdateDate": "2024-11-19T12:42:37Z",
+      "status": "RETIRED",
+      "nextRenewalDate": "2024-12-13T16:37:14Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34075166",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34075166",
+     "qcc": "QDKHC40GBH",
+     "gem": null,
+     "spglobal": [
+      "557461455"
+     ],
+     "conformityFlag": "NOT_APPLICABLE"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900K968LYULGBOK22/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900K968LYULGBOK22/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900K968LYULGBOK22/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900K968LYULGBOK22/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900K968LYULGBOK22/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/254900K968LYULGBOK22"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300DXQDSCL0LJLZ75",
+    "attributes": {
+     "lei": "549300DXQDSCL0LJLZ75",
+     "entity": {
+      "legalName": {
+       "name": "PEM 2135 ApS",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "PEM 2135 STATSAUTORISERET REVISIONSANPARTSSELSKAB",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte, Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Deloitte, Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34075263",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-11-22T00:33:00Z",
+      "lastUpdateDate": "2023-08-02T14:46:00Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2022-12-10T10:01:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34075263",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34075263",
+     "qcc": "QDKXQ9MPGR",
+     "gem": null,
+     "spglobal": [
+      "554208731"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300DXQDSCL0LJLZ75/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300DXQDSCL0LJLZ75/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300DXQDSCL0LJLZ75/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300DXQDSCL0LJLZ75/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300DXQDSCL0LJLZ75/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300DXQDSCL0LJLZ75"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300U6UTTP7D7FVK82",
+    "attributes": {
+     "lei": "549300U6UTTP7D7FVK82",
+     "entity": {
+      "legalName": {
+       "name": "CLK 9002 ApS",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "CLK 9002 STATSAUTORISERET REVISIONSANPARTSSELSKAB",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34048029",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-11-10T22:23:00Z",
+      "lastUpdateDate": "2023-08-02T12:22:00Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2019-11-08T00:31:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34048029",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34048029",
+     "qcc": "QDK3X5HPRM",
+     "gem": null,
+     "spglobal": [
+      "548540414"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300U6UTTP7D7FVK82/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300U6UTTP7D7FVK82/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300U6UTTP7D7FVK82/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300U6UTTP7D7FVK82/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300U6UTTP7D7FVK82/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300U6UTTP7D7FVK82"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300B17CGPWKN6XV23",
+    "attributes": {
+     "lei": "549300B17CGPWKN6XV23",
+     "entity": {
+      "legalName": {
+       "name": "Frederik Larsens Fond",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Rev. Firm. Deloitte",
+        "Att. : Jan Larsen",
+        "Weidekampsgade 6",
+        "Postboks 1600"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "0900"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "23317915",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "9999",
+       "other": "FUND"
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2018-05-31T14:32:00Z",
+      "lastUpdateDate": "2023-10-20T09:27:00Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2019-05-31T08:04:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "23317915",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/23317915",
+     "qcc": "QDKF6S7GFJ",
+     "gem": null,
+     "spglobal": [
+      "569820443"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300B17CGPWKN6XV23/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300B17CGPWKN6XV23/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300B17CGPWKN6XV23/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300B17CGPWKN6XV23/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300B17CGPWKN6XV23/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300B17CGPWKN6XV23"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300ERDGS88SEFPT53",
+    "attributes": {
+     "lei": "549300ERDGS88SEFPT53",
+     "entity": {
+      "legalName": {
+       "name": "JLS 62 ApS",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "JLS 62 STATSAUTORISERET REVISIONSANPARTSSELSKAB",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Deloitte",
+        "Weidekampsgade 6",
+        "København S"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Deloitte",
+        "Weidekampsgade 6",
+        "København S"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34074348",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-12-28T15:33:00Z",
+      "lastUpdateDate": "2023-08-02T14:46:00Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2023-01-03T08:41:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34074348",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34074348",
+     "qcc": "QDKVT7MB7T",
+     "gem": null,
+     "spglobal": [
+      "553656300"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300ERDGS88SEFPT53/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300ERDGS88SEFPT53/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300ERDGS88SEFPT53/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300ERDGS88SEFPT53/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300ERDGS88SEFPT53/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300ERDGS88SEFPT53"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300PG3GAQQPXW8284",
+    "attributes": {
+     "lei": "549300PG3GAQQPXW8284",
+     "entity": {
+      "legalName": {
+       "name": "KTM 6056 ApS",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "KTM 6056 STATSAUTORISERET REVISIONSANPARTSSELSKAB",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Deloitte",
+        "Weidekampsgade 6",
+        "København S"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Deloitte",
+        "Weidekampsgade 6",
+        "København S"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34075077",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-12-27T15:32:00Z",
+      "lastUpdateDate": "2023-08-02T13:08:00Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2020-12-29T15:25:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34075077",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34075077",
+     "qcc": "QDKXQV6SXW",
+     "gem": null,
+     "spglobal": [
+      "553391053"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300PG3GAQQPXW8284/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300PG3GAQQPXW8284/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300PG3GAQQPXW8284/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300PG3GAQQPXW8284/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300PG3GAQQPXW8284/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300PG3GAQQPXW8284"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "5493003GCHGM86NYRD55",
+    "attributes": {
+     "lei": "5493003GCHGM86NYRD55",
+     "entity": {
+      "legalName": {
+       "name": "CVA 280 ApS",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "CVA 280 STATSAUTORISERET REVISIONSANPARTSSELSKAB",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34047987",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-12-15T21:30:00Z",
+      "lastUpdateDate": "2023-08-02T12:22:00Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2019-12-13T00:33:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34047987",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34047987",
+     "qcc": "QDK8JFACQR",
+     "gem": null,
+     "spglobal": [
+      "595030293"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493003GCHGM86NYRD55/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493003GCHGM86NYRD55/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493003GCHGM86NYRD55/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493003GCHGM86NYRD55/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493003GCHGM86NYRD55/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/5493003GCHGM86NYRD55"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300SDU4PYLU0J1C11",
+    "attributes": {
+     "lei": "549300SDU4PYLU0J1C11",
+     "entity": {
+      "legalName": {
+       "name": "JBJ 831 ApS",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "JBJ 831 STATSAUTORISERET REVISIONSANPARTSSELSKAB",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Deloitte",
+        "Weidekampsgade 6",
+        "København S"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Deloitte",
+        "Weidekampsgade 6",
+        "København S"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34074321",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-11-13T22:17:00Z",
+      "lastUpdateDate": "2023-08-02T13:58:00Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2021-12-17T00:00:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34074321",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34074321",
+     "qcc": "QDKQK2JEH0",
+     "gem": null,
+     "spglobal": [
+      "548589125"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300SDU4PYLU0J1C11/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300SDU4PYLU0J1C11/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300SDU4PYLU0J1C11/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300SDU4PYLU0J1C11/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300SDU4PYLU0J1C11/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300SDU4PYLU0J1C11"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "254900MBQR8OLCR65652",
+    "attributes": {
+     "lei": "254900MBQR8OLCR65652",
+     "entity": {
+      "legalName": {
+       "name": "CJ 10631 ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "C/O Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "45934934",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2025-09-28T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2026-05-05T07:19:43Z",
+      "lastUpdateDate": "2026-05-05T07:19:43Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-05-05T07:19:43Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "45934934",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/45934934",
+     "qcc": null,
+     "gem": null,
+     "spglobal": [
+      "1964909567"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900MBQR8OLCR65652/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900MBQR8OLCR65652/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900MBQR8OLCR65652/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900MBQR8OLCR65652/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900MBQR8OLCR65652/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/254900MBQR8OLCR65652"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300Z1SLSTFXO3TW68",
+    "attributes": {
+     "lei": "549300Z1SLSTFXO3TW68",
+     "entity": {
+      "legalName": {
+       "name": "MSN 6504 ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Deloitte",
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34075522",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2018-01-10T15:34:00Z",
+      "lastUpdateDate": "2023-08-02T11:43:00Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2019-01-09T15:09:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34075522",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34075522",
+     "qcc": "QDK0MM65RD",
+     "gem": null,
+     "spglobal": [
+      "549558109"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300Z1SLSTFXO3TW68/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300Z1SLSTFXO3TW68/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300Z1SLSTFXO3TW68/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300Z1SLSTFXO3TW68/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300Z1SLSTFXO3TW68/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300Z1SLSTFXO3TW68"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "5493004Y6XFH5C62QN78",
+    "attributes": {
+     "lei": "5493004Y6XFH5C62QN78",
+     "entity": {
+      "legalName": {
+       "name": "JJS 5016 STATSAUTORISERET REVISIONSANPARTSSELSKAB",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "JJS 5016 ApS",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Deloitte",
+        "Weidekampsgade 6",
+        "København S"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34074305",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-12-14T15:32:00Z",
+      "lastUpdateDate": "2023-08-02T11:13:00Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2018-12-13T15:29:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34074305",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34074305",
+     "qcc": "QDKU8R0MAS",
+     "gem": null,
+     "spglobal": [
+      "595331189"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493004Y6XFH5C62QN78/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493004Y6XFH5C62QN78/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493004Y6XFH5C62QN78/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493004Y6XFH5C62QN78/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493004Y6XFH5C62QN78/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/5493004Y6XFH5C62QN78"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "8945007YJ60Z7Z2ELU37",
+    "attributes": {
+     "lei": "8945007YJ60Z7Z2ELU37",
+     "entity": {
+      "legalName": {
+       "name": "KLP Weidekampsgade 6 A/S",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "DELOITTE HUSET A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Edvard Thomsens Vej 10"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Edvard Thomsens Vej 10"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "25484258",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2000-07-01T10:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2019-11-27T15:20:11Z",
+      "lastUpdateDate": "2022-04-25T08:18:40Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2020-11-27T15:20:13Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "25484258",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/25484258",
+     "qcc": "QDK0TH64RK",
+     "gem": null,
+     "spglobal": [
+      "222982646"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/8945007YJ60Z7Z2ELU37/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/8945007YJ60Z7Z2ELU37/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/8945007YJ60Z7Z2ELU37/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/8945007YJ60Z7Z2ELU37/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/8945007YJ60Z7Z2ELU37/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/8945007YJ60Z7Z2ELU37/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/8945007YJ60Z7Z2ELU37"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "254900MTWV7C805WA426",
+    "attributes": {
+     "lei": "254900MTWV7C805WA426",
+     "entity": {
+      "legalName": {
+       "name": "DELOITTE STATSAUTORISERET REVISIONSPARTNERSELSKAB",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Koebenhavn S",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Koebenhavn S",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "33963556",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "9KSX",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2011-10-13T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2024-02-19T09:28:41Z",
+      "lastUpdateDate": "2026-01-06T06:11:57Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-02-19T09:28:57Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "33963556",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/33963556",
+     "qcc": "QDKRBMGM3Q",
+     "gem": null,
+     "spglobal": [
+      "23699567"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900MTWV7C805WA426/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900MTWV7C805WA426/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900MTWV7C805WA426/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900MTWV7C805WA426/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900MTWV7C805WA426/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/254900MTWV7C805WA426"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "254900PEOUU9LM1FEI74",
+    "attributes": {
+     "lei": "254900PEOUU9LM1FEI74",
+     "entity": {
+      "legalName": {
+       "name": "DELOITTE FONDEN",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Koebenhavn S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Weidekampsgade 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Koebenhavn S",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2300"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "11718841",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "599X",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1999-10-16T10:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-12-19T17:38:51Z",
+      "lastUpdateDate": "2022-02-17T17:11:05Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2021-12-19T17:38:00Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "11718841",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/11718841",
+     "qcc": "QDKVW18A62",
+     "gem": null,
+     "spglobal": [
+      "53024612"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900PEOUU9LM1FEI74/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900PEOUU9LM1FEI74/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900PEOUU9LM1FEI74/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900PEOUU9LM1FEI74/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900PEOUU9LM1FEI74/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/254900PEOUU9LM1FEI74"
+    }
+   }
+  ]
+ }
+}

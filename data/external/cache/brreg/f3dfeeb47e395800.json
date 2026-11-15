@@ -1,0 +1,6014 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=ACCENTURE+SERVICES&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912517012"
+      }
+     },
+     "aktivitet": [
+      "Selskapets virksomhet er å levere tjenester innenfor rådgivning,",
+      "teknologi, design og outsourcing. Outsourcing av forretningsprosesser",
+      "inkluderer utvikling og forvaltning av applikasjoner, regnskapsføring",
+      "for andre, lønn, personaladministrasjon, innkjøp og kundeservice.",
+      "Videre inngår det i selskapets virksomhet å markedsføre og levere",
+      "maskin- og programvare, samt aktiviteter tilknyttet dette."
+     ],
+     "antallAnsatte": 7,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Rådhusgata 27"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0158",
+      "poststed": "OSLO"
+     },
+     "fravalgRevisjonBeslutningsDato": "2026-03-06",
+     "fravalgRevisjonDato": "2026-03-27",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1,
+      "belop": 1000000.0,
+      "innfortDato": "2018-10-01",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "ACCENTURE SERVICES AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "912517012",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 1167 Sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0107",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2024-10-14",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2024-10-10",
+     "registreringsdatoEnhetsregisteret": "2013-10-01",
+     "registreringsdatoForetaksregisteret": "2013-10-01",
+     "registreringsdatoMerverdiavgiftsregisteret": "2013-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2013-12-18",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2013-09-25",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2019-03-01",
+     "vedtektsfestetFormaal": [
+      "Levere tjenester innenfor rådgivning, teknologi, design og",
+      "outsourcing. Outsourcing av forretningsprosesser inkluderer utvikling",
+      "og forvaltning av applikasjoner, regnskapsføring for andre, lønn,",
+      "personaladministrasjon, innkjøp og kundeservice. Videre inngår det i",
+      "selskapets virksomhet å markedsføre og levere maskin- og programvare,",
+      "samt aktiviteter tilknyttet dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919664835"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Societate cu Raspundere Limitata",
+      "beskrivelseBokmaal": "Selskap med begrenset ansvar",
+      "kode": "SRL"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Westgate Park",
+       "Preciziei Blvd No 24"
+      ],
+      "land": "Romania",
+      "landkode": "RO",
+      "poststed": "RO-BI H1 BUCHAREST"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE SERVICES SRL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "919664835",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2017-10-04",
+     "registreringsnummerIHjemlandet": "18491628",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2006-03-17",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Romania",
+     "underlagtLovgivningLandKode": "RO",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Blvd. Unirii nr. 74",
+       "bl. J3b, sector 3"
+      ],
+      "land": "Romania",
+      "poststed": "030837 Bucuresti"
+     },
+     "utenlandskRegisterNavn": "Oficiul National al Registrului Comertului"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/986173390"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Organizacni Slozka",
+       "Jiraskovo nam 6"
+      ],
+      "land": "Tsjekkia",
+      "landkode": "CZ",
+      "poststed": "120 00 PRAHA 2"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE SERVICES SRO",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "986173390",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2003-10-28",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/886188242"
+      }
+     },
+     "aktivitet": [
+      "Driver næringsvirksomhet i Norge. Rapporteringsformål som",
+      "arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Organizacni Slozka,",
+       "Jiraskovo nam 6"
+      ],
+      "land": "Tsjekkia",
+      "landkode": "CZ",
+      "poststed": "CZ-120 00 PRAHA 2"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE SERVICES SRO",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "886188242",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2003-10-28",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/894430192"
+      }
+     },
+     "aktivitet": [
+      "Utleie av arbeidskraft til Accenture Norge."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "ul. Sienna, nr 39"
+      ],
+      "land": "Polen",
+      "landkode": "PL",
+      "poststed": "PL-00-121 WARSZAWA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE SERVICES SP ZOO",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "894430192",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2009-08-22",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994430262"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "spolka z organiczona odpowiedzialnoscia",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SP.Z.O.O"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Ul. Sienna, nr 39"
+      ],
+      "land": "Polen",
+      "landkode": "PL",
+      "poststed": "00-121 Warszawa"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2009-08-21 14:45:46",
+       "navn": "ACCENTURE SERVICES SP ZOO",
+       "tilDato": "2015-09-10 20:16:18"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE SERVICES SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "994430262",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2009-08-21",
+     "registreringsnummerIHjemlandet": "0000043465",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2001-09-12",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Polen",
+     "underlagtLovgivningLandKode": "PL",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Ministerstwo Sprawiedliwosci",
+       "ul. Czerniakowska 100"
+      ],
+      "land": "Polen",
+      "poststed": "00-454 Warszawa"
+     },
+     "utenlandskRegisterNavn": "Krajowy Rejestr Sadowy"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/971547235"
+      }
+     },
+     "aktivitet": [
+      "Driver næringsvirksomhet i Norge. Rapporteringsformål som",
+      "arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-02-20 09:32:00",
+       "navn": "ANDERSEN CONSULTING DANMARK C/O ANDERSEN CONSULTING ANS",
+       "tilDato": "2000-12-13 18:37:38"
+      },
+      {
+       "fraDato": "2000-12-13 18:37:38",
+       "navn": "ACCENTURE (DANMARK)",
+       "tilDato": "2009-12-19 14:50:51"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE (DANMARK)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "971547235",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Ernst & Young Tax & Law",
+       "v/ Kristin B Romnes",
+       "Postboks 1156 Sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0107",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "1995-02-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/982753570"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Oslo Plads 2"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "2100 COPENHAGEN Ø"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE (DANMARK)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "982753570",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2000-12-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/979986610"
+      }
+     },
+     "aktivitet": [
+      "Driver næringsvirksomhet i Norge. Rapporteringsformål som",
+      "arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1998-07-15 02:04:52",
+       "navn": "ANDERSEN CONSULTING (FINLAND)",
+       "tilDato": "2000-12-11 18:37:47"
+      },
+      {
+       "fraDato": "2000-12-11 18:37:47",
+       "navn": "ACCENTURE (FINLAND)",
+       "tilDato": "2009-12-19 14:50:56"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE (FINLAND)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "979986610",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Accenture AS v/ Mobility",
+       "Pb 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "1998-07-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/979986629"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Arthur Andersen & Co ANS",
+       "Drammensveien 134"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0277",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1998-07-14 10:57:09",
+       "navn": "ANDERSEN CONSULTING (FINLAND)",
+       "tilDato": "2000-12-11 18:37:47"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE (FINLAND)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "979986629",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1998-07-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/978648398"
+      }
+     },
+     "aktivitet": [
+      "Virksomhet innenfor informasjonsteknologi. Rapporteringsformål som",
+      "arbeidsgivere."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1997-06-24 20:33:41",
+       "navn": "ANDERSEN CONSULTING FRANKRIKE",
+       "tilDato": "2000-12-11 18:37:54"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE (FRANKRIKE)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "978648398",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Accenture AS",
+       "v/ Mobility",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "1997-06-24",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/978648428"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Arthur Andersen & Co ANS",
+       "Drammensveien 165"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0277",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1997-06-24 13:39:21",
+       "navn": "ANDERSEN CONSULTING FRANKRIKE",
+       "tilDato": "2000-12-11 18:37:55"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE (FRANKRIKE)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "978648428",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1997-06-24",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/981450736"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Regus House",
+       "Harcourt Road"
+      ],
+      "land": "Irland",
+      "landkode": "IE",
+      "poststed": "DUBLIN 2"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2000-01-20 12:21:29",
+       "navn": "ANDERSEN CONSULTING IRLAND",
+       "tilDato": "2000-12-11 18:37:50"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE (IRLAND)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "981450736",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2000-01-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/981473205"
+      }
+     },
+     "aktivitet": [
+      "Driver næringsvirksomhet i Norge. Rapporteringsformål som",
+      "arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Regus House",
+       "Harcourt Road"
+      ],
+      "land": "Irland",
+      "landkode": "IE",
+      "poststed": "DUBLIN 2"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2000-01-20 18:26:11",
+       "navn": "ANDERSEN CONSULTING IRLAND",
+       "tilDato": "2000-12-11 18:37:49"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE (IRLAND)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "981473205",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2000-01-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/982105706"
+      }
+     },
+     "aktivitet": [
+      "Virksomhet i Norge. Rapporteringsformål som arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Apollolaan 150"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "1077BG AMSTERDAM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2000-06-14 18:39:36",
+       "navn": "ANDERSEN CONSULTING NEDERLAND",
+       "tilDato": "2000-12-11 18:37:51"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE (NEDERLAND)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "982105706",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2000-06-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/881895382"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Apollolaan 150"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "1077 BG Amsterdam"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2000-06-14 10:31:10",
+       "navn": "ANDERSEN CONSULTING NEDERLAND",
+       "tilDato": "2000-12-11 18:37:51"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE (NEDERLAND)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "881895382",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2000-06-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/989790412"
+      }
+     },
+     "aktivitet": [
+      "Arbeidsgiver/rapportering for ansatte med midlertidige arbeidsforhold",
+      "i Norge innleid til Accenture AS."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "10 Anson Road International Plaza"
+      ],
+      "land": "Singapore",
+      "landkode": "SG",
+      "poststed": "SINGAPORE 079903"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2016-12-02 11:12:01",
+       "navn": "ACCENTURE PTE LTD (SIGNAPORE)",
+       "tilDato": "2016-12-05 20:10:35"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE (SINGAPORE)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "989790412",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2006-05-08",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/974808374"
+      }
+     },
+     "aktivitet": [
+      "Driver næringsvirksomhet i Norge. Rapporteringsformål som",
+      "arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Fraumunsterstrasse 16"
+      ],
+      "land": "Sveits",
+      "landkode": "CH",
+      "poststed": "CH-8001 ZURICH"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-08-11 16:04:00",
+       "navn": "ANDERSEN CONSULTING SVEITS C/O ANDERSEN CONSULTING ANS",
+       "tilDato": "2000-12-13 18:37:39"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE (SVEITS)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "974808374",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "1995-08-11",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/971557192"
+      }
+     },
+     "aktivitet": [
+      "Driver næringsvirksomhet i Norge. Rapporteringsformål som",
+      "arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sveavegen 25"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "SE-111 83 STOCKHOLM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-02-20 09:32:00",
+       "navn": "ANDERSEN CONSULTING SVERIGE C/O ANDERSENCONSULTING ANS",
+       "tilDato": "2000-12-13 18:37:40"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen teknisk konsulentvirksomhet",
+      "kode": "71.129"
+     },
+     "navn": "ACCENTURE (SVERIGE)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "971557192",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "1995-02-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/982754046"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sveavegen 25"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "SE-111 83 STOCKHOLM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE (SVERIGE)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "982754046",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2000-12-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/979536364"
+      }
+     },
+     "aktivitet": [
+      "Konsulentvirksomhet offshore. Rapporteringsformål som arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Kingsley Hall, 20 Bailey Lane,"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "MANCHESTER M22 5NR ENGLAND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1998-01-15 18:42:34",
+       "navn": "ANDERSEN CONSULTING",
+       "tilDato": "2000-12-08 18:34:15"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE (UK)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "979536364",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "1998-01-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/879536332"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Kingsley Hall",
+       "20 Bailey Lane"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "MANCHESTER M22 5NR  ENGLAND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1998-01-15 08:23:06",
+       "navn": "ANDERSEN CONSULTING",
+       "tilDato": "2000-12-08 18:34:15"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE (UK)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "879536332",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1998-01-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/979989482"
+      }
+     },
+     "aktivitet": [
+      "Informasjonsteknologi. Rapporteringsformål som arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Senn-Delaney",
+       "33 West Monroe Street",
+       "Twelve Floor"
+      ],
+      "land": "USA",
+      "landkode": "US",
+      "poststed": "CHICAGO ILLINOIS 60603"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1998-07-15 18:43:05",
+       "navn": "ANDERSEN CONSULTING USA",
+       "tilDato": "2000-12-11 18:37:53"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE (USA)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "979989482",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "1998-07-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/979989504"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Senn-Delaney",
+       "33 West Monroe Street",
+       "Twelve Floor"
+      ],
+      "land": "USA",
+      "landkode": "US",
+      "poststed": "CHICAGO ILLINOIS 60603"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1998-07-15 13:31:57",
+       "navn": "ANDERSEN CONSULTING USA",
+       "tilDato": "2000-12-11 18:37:53"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE (USA)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "979989504",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1998-07-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/982753899"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Aktiengesellschaft",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "AG"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Fraumunsterstrasse 16"
+      ],
+      "land": "Sveits",
+      "landkode": "CH",
+      "poststed": "8001 ZURICH"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2000-12-13 10:26:05",
+       "navn": "ACCENTURE (SVEITS)",
+       "tilDato": "2010-09-22 11:28:11"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE AG",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "982753899",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2000-12-13",
+     "registreringsnummerIHjemlandet": "CH-020.3.901.364-6",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1983-08-05",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Sveits",
+     "underlagtLovgivningLandKode": "CH",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Bleicherweg 5"
+      ],
+      "land": "Sveits",
+      "poststed": "8001 ZÜRICH"
+     },
+     "utenlandskRegisterNavn": "Handelsregisteramt des Kantons Zürich - Hauptregister"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992037601"
+      }
+     },
+     "aktivitet": [
+      "Levere tjenester innenfor rådgivning, engineering, teknologi, design",
+      "og outsourcing. Outsourcing av forretningsprosesser inkluderer",
+      "utvikling og forvaltning av applikasjoner, regnskapsføring for andre,",
+      "lønn, personaladministrasjon, innkjøp og kundeservice. Videre inngår",
+      "det i selskapets virksomhet å markedsføre og levere maskin- og",
+      "programvare, inkludert roboter,samt aktiviteter tilknyttet dette."
+     ],
+     "antallAnsatte": 872,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Rådhusgata 27"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0158",
+      "poststed": "OSLO"
+     },
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2007-12-06 20:39:32",
+       "navn": "TEKÅGEL INVEST 258 AS",
+       "tilDato": "2008-03-04 14:04:04"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 10000000.0,
+      "innfortDato": "2008-03-04",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "ACCENTURE AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "992037601",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 1167 Sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0107",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2007-12-06",
+     "registreringsdatoForetaksregisteret": "2007-12-06",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2021-03-08",
+     "registreringsdatoMerverdiavgiftsregisteret": "2008-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2008-03-17",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2007-11-26",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-03-25",
+     "vedtektsfestetFormaal": [
+      "Levere tjenester innenfor rådgivning, engineering, teknologi, design",
+      "og outsourcing. Outsourcing av forretningsprosesser inkluderer",
+      "utvikling og forvaltning av applikasjoner, regnskapsføring for andre,",
+      "lønn, personaladministrasjon, innkjøp og kundeservice. Videre inngår",
+      "det i selskapets virksomhet å markedsføre og levere maskin- og",
+      "programvare, inkludert roboter, samt aktiviteter tilknyttet dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/985133832"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Campus Kronberg 1"
+      ],
+      "land": "Tyskland",
+      "landkode": "DE",
+      "poststed": "D-61476 Kronberg"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE GMBH",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "985133832",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2002-12-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/996262200"
+      }
+     },
+     "aktivitet": [
+      "Konsulentvirksomhet tilknyttet informasjonsteknologi."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Makati Stock Enchange Bldg"
+      ],
+      "land": "Filippinene",
+      "landkode": "PH",
+      "poststed": "PH-68687 AYALA AVE MAKATI CITY"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "ACCENTURE INC",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "996262200",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2010-12-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 13 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/985830681"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Kr Valdemara iela 21"
+      ],
+      "land": "Latvia",
+      "landkode": "LV",
+      "poststed": "LV-1010 RIGA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE LATVIA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "985830681",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2003-07-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/985850631"
+      }
+     },
+     "aktivitet": [
+      "Utleie av arbeidskraft til Accenture Norge. Rapporteringsformål som",
+      "arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Kr Valdemara iela 21"
+      ],
+      "land": "Latvia",
+      "landkode": "LV",
+      "poststed": "LV-1010 RIGA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE LATVIA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "985850631",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2003-07-05",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934348168"
+      }
+     },
+     "aktivitet": [
+      "Arbeidskraft, registrering for rapporteringsformål."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Gedimino Ave. 20"
+      ],
+      "land": "Litauen",
+      "landkode": "LT",
+      "poststed": "LT-01103 VILNIUS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE LITAUEN",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "934348168",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2024-12-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923313184"
+      }
+     },
+     "aktivitet": [
+      "Rapporteringsformål som arbeidsgiver for midlertidige arbeidsforhold i",
+      "Norge."
+     ],
+     "epostadresse": "m.odegaard.hansen@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Rolfsbuktveien 2"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1364",
+      "poststed": "FORNEBU"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.accenture.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE MALAYSIA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "923313184",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2019-09-11",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919500662"
+      }
+     },
+     "aktivitet": [
+      "Rapporteringsformål som arbeidsgiver. Informasjonsteknologi."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Westgate Park",
+       "Preciziei Blvd No 24"
+      ],
+      "land": "Romania",
+      "landkode": "RO",
+      "poststed": "RO-BI H1 BUCHAREST"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.accenture.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE ROMANIA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "919500662",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2017-10-05",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987440120"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Sociedad de responsabilidad limitada",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "S.L."
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Pz Pablo Ruiz Picasso"
+      ],
+      "land": "Spania",
+      "landkode": "ES",
+      "poststed": "ES-28020 MADRID"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE SL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "987440120",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2004-11-02",
+     "registreringsnummerIHjemlandet": "000371878",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Spania",
+     "underlagtLovgivningLandKode": "ES",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Paseo de la Castellana, 44"
+      ],
+      "land": "Spania",
+      "poststed": "28046 MADRID"
+     },
+     "utenlandskRegisterNavn": "Registro Mercantil de Madrid"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917229007"
+      }
+     },
+     "aktivitet": [
+      "Rapporteringsformål som arbeidsgiver."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Building 19",
+       "Harrowdene Offive Park,",
+       "Woodmaed"
+      ],
+      "land": "Sør-Afrika",
+      "landkode": "ZA",
+      "poststed": "ZA-2054 KELVIN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.accenture.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE (SOUTH AFRICA)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "917229007",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 3693"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2016-06-21",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/985160910"
+      }
+     },
+     "aktivitet": [
+      "Næringsvirksomhet i Norge. Rapporteringsformål som arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE GMBH (TYSKLAND)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "985160910",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Accenture AS",
+       "v/ Mobility",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2002-12-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/996294196"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Incorporation",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "INC"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Makati Stock Enchange Bldg"
+      ],
+      "land": "Filippinene",
+      "landkode": "PH",
+      "poststed": "67687 AYALA AVE MAKATI CITY"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE INC (FILIPINNENE)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "996294196",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2010-12-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2010-02-02",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Filippinene",
+     "underlagtLovgivningLandKode": "PH"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992607165"
+      }
+     },
+     "aktivitet": [
+      "Utleie av personell."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE INC CANADA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "992607165",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Accenture AS",
+       "v/ Mobility",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2008-05-06",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/984892985"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Societá per Azioni",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "S.P.A."
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Piazza Cavour"
+      ],
+      "land": "Italia",
+      "landkode": "IT",
+      "poststed": "2 Cap 20121"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE ITALIA SPA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "984892985",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2002-09-24",
+     "registreringsnummerIHjemlandet": "13454210157",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Italia",
+     "underlagtLovgivningLandKode": "IT",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Unioncamere",
+       "Piazza Sallustio, 21"
+      ],
+      "land": "Italia",
+      "poststed": "00187 Roma"
+     },
+     "utenlandskRegisterNavn": "Registro delle imprese"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/984899416"
+      }
+     },
+     "aktivitet": [
+      "Virksomhet i Norge. Rapporteringsformål som arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Piazza Cavour"
+      ],
+      "land": "Italia",
+      "landkode": "IT",
+      "poststed": "IT-2 CAP 20121"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE ITALIA SPA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "984899416",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2002-09-24",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934286936"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "KK",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "KK"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "1-8-1 Akasaka, Minato Ward,"
+      ],
+      "land": "Japan",
+      "landkode": "JP",
+      "poststed": "JP-107-8672 TOKYO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE JAPAN LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "934286936",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-10-16",
+     "registreringsnummerIHjemlandet": "0101-01-001556",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1995-12-07",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Japan",
+     "underlagtLovgivningLandKode": "JP",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1-9-4 Kajicho Chiyoda-ku"
+      ],
+      "land": "Japan",
+      "poststed": "Tokyo"
+     },
+     "utenlandskRegisterNavn": "Tokyo Legal Affairs Bureau"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934187237"
+      }
+     },
+     "aktivitet": [
+      "Utleie av arbeidskraft, registrering for rapporteringsformål",
+      " "
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "1-8-1 Akasaka, Minato Ward,"
+      ],
+      "land": "Japan",
+      "landkode": "JP",
+      "poststed": "JP-107-8672 TOKYO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE JAPAN LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "934187237",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Accenture AS",
+       "v/Mobility",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2024-10-16",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/985390576"
+      }
+     },
+     "aktivitet": [
+      "Driver næringsvirksomhet i Norge. Rapporteringsformål som",
+      "arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE KFT (UNGARN)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "985390576",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Accenture AS",
+       "v/ Mobility",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2003-02-12",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/985403384"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Rakoczi Street 1-3"
+      ],
+      "land": "Ungarn",
+      "landkode": "HU",
+      "poststed": "1088 BUDAPEST"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE KFT (UNGARN)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "985403384",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2003-02-12",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "36 3273700",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934604288"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Uzdaroji akcine bendrove",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "UAB"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Gedimino Ave. 20"
+      ],
+      "land": "Litauen",
+      "landkode": "LT",
+      "poststed": "LT-01103 VILNIUS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE LITHUANIA UAB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "934604288",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-12-06",
+     "registreringsnummerIHjemlandet": "305832609",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2021-07-20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Litauen",
+     "underlagtLovgivningLandKode": "LT",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Vinco Kudirkos g. 18-3"
+      ],
+      "land": "Litauen",
+      "poststed": "03015 Vilnius"
+     },
+     "utenlandskRegisterNavn": " Juridiniy asmeny registras"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/989801589"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "250 North Bridge Road"
+      ],
+      "land": "Singapore",
+      "landkode": "SG",
+      "poststed": "33-00, Raffles City Tower"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE PTE LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "989801589",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Accenture ANS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2006-05-08",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1975-10-28",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912286096"
+      }
+     },
+     "aktivitet": [
+      "Arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "1, Arkadias Str."
+      ],
+      "land": "Hellas",
+      "landkode": "GR",
+      "poststed": "GR-14564 KIFISSIA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE S.A. (GREECE)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "912286096",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2013-08-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912286118"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Anonymes Eteries",
+      "beskrivelseBokmaal": "Offentlige selskap",
+      "kode": "A.E."
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "1, Arkadias Str."
+      ],
+      "land": "Hellas",
+      "landkode": "GR",
+      "poststed": "GR-14564 KIFISSIA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE S.A. (GREECE)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "912286118",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-08-13",
+     "registreringsnummerIHjemlandet": "002216501000",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1996-05-31",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Hellas",
+     "underlagtLovgivningLandKode": "GR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "6 Akadamias"
+      ],
+      "land": "Hellas",
+      "poststed": "GR-10671 Athens"
+     },
+     "utenlandskRegisterNavn": "Hellenic Business Registry Union of Hellenic Chambers"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/991454713"
+      }
+     },
+     "aktivitet": [
+      "Utleie av arbeidskraft. Rapporteringsformål som arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE SA (BELGIA)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "991454713",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Accenture AS",
+       "v/ Mobility",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2007-07-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/991470018"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet"
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Rue Royale 145"
+      ],
+      "land": "Belgia",
+      "landkode": "BE",
+      "poststed": "1000 BRUXELLES"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE SA (BELGIA)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "991470018",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2007-07-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987402040"
+      }
+     },
+     "aktivitet": [
+      "Revisjon/rådgivning. Rapporteringsformål som arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Pz Pablo Ruiz Picasso"
+      ],
+      "land": "Spania",
+      "landkode": "ES",
+      "poststed": "ES-28020 MADRID"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE SL (SPANIA)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "987402040",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2004-11-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/894877782"
+      }
+     },
+     "aktivitet": [
+      "Konsulentvirksomhet tilknyttet informasjonsteknologi."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "R. Alexandre Dumas 2051"
+      ],
+      "land": "Brasil",
+      "landkode": "BR",
+      "poststed": "BR-04717-004 CHAC STO ANTONIO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "ACCENTURE DO BRASIL LTDA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "894877782",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2010-01-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994877852"
+      }
+     },
+     "aktivitet": [
+      "Utanlandsk foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Sociedade Empresaria Limitada",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTDA"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "R. Alexandre Dumas 2051"
+      ],
+      "land": "Brasil",
+      "landkode": "BR",
+      "poststed": "04717-004 CHAC STO ANTONIO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE DO BRASIL LTDA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "994877852",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2010-01-13",
+     "registreringsnummerIHjemlandet": "96.534.094/0001-58",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1994-05-31",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Brasil",
+     "underlagtLovgivningLandKode": "BR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "SAS Qd. 03 Bloco O Tèrreo",
+       "CEP: 70.079-900"
+      ],
+      "land": "Brasil",
+      "poststed": "Brasilia/DF Brasil"
+     },
+     "utenlandskRegisterNavn": "Cadastro Nacional Da Pessoa Juridic"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/985039909"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private limited",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Mumbai 17th floor Express Towers",
+       "Nariman Point"
+      ],
+      "land": "India",
+      "landkode": "IN",
+      "poststed": "Mumbai 400 021"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE INDIA PRIVATE LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "985039909",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2002-11-07",
+     "registreringsnummerIHjemlandet": "11-120688",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1994-04-25",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "India",
+     "underlagtLovgivningLandKode": "IN",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "E' Wing, 2 Floor",
+       "Kendriya Sadana",
+       "Kormamangala Bangalore"
+      ],
+      "land": "India",
+      "poststed": "Bangalore"
+     },
+     "utenlandskRegisterNavn": "Registrar of Companies"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/985039933"
+      }
+     },
+     "aktivitet": [
+      "Arbeidsgiver/rapportering for ansatte med midlertidige arbeidsforhold",
+      "i Norge innleid til Accenture AS."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "4th Floor Tower II of Phase II",
+       "Logitech Park Andheri Kurla Road",
+       "Andheri(e)"
+      ],
+      "land": "India",
+      "landkode": "IN",
+      "poststed": "MUMBAI 400 072"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE INDIA PRIVATE LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "985039933",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2002-11-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/823382502"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private company Limited by shares",
+      "beskrivelseBokmaal": "Selskap med begrenset ansvar",
+      "kode": "SDN BHD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Level 35 The Gardens North Tower",
+       "Mid Valley City",
+       "Lingkaran Syed Putra"
+      ],
+      "land": "Malaysia",
+      "landkode": "MY",
+      "poststed": "MY-59200 KUALA LUMPUR"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.accenture.com/my-en",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE SOLUTIONS SDN. BHD.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "823382502",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-09-11",
+     "registreringsnummerIHjemlandet": "179903 H",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1989-03-18",
+     "telefon": "0060320884000",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Malaysia",
+     "underlagtLovgivningLandKode": "MY",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "No 7 Jalan Stensen Sentral 5",
+       "Kuala Lumpur Sentral"
+      ],
+      "land": "Malaysia",
+      "poststed": "MY - 50623 Kuala Lumpur"
+     },
+     "utenlandskRegisterNavn": "Menara SSM Sentral"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/991082239"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk foretak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Amoreiras/torre 1-16, Santa Isabel"
+      ],
+      "land": "Portugal",
+      "landkode": "PT",
+      "poststed": "1000 LISBOA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE CONSULTORES DE GESTAO SA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "991082239",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2007-03-28",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/913854616"
+      }
+     },
+     "aktivitet": [
+      "Arbeidsgiver/rapportering for ansatte med midlertidige arbeidsforhold",
+      "i Norge innleid til Accenture AS, Norge."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "GP House, Bashunhara,",
+       "Baridhara"
+      ],
+      "land": "Bangladesh",
+      "landkode": "BD",
+      "poststed": "BD-DHAKA 1215"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.accenture.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Kontortjenester",
+      "kode": "82.100"
+     },
+     "navn": "ACCENTURE COMMUNICATIONS INFRASTRUCTURE SOLUTIONS LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "913854616",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2014-08-06",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/913854624"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Limitied",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "GP House,",
+       "Bashunhara",
+       "Baridhara"
+      ],
+      "land": "Bangladesh",
+      "landkode": "BD",
+      "poststed": "DHAKA PO:1229"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE COMMUNICATIONS INFRASTRUCTURE SOLUTIONS LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "913854624",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2014-08-06",
+     "registreringsnummerIHjemlandet": "TIN 852238556307",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Bangladesh",
+     "underlagtLovgivningLandKode": "BD",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "TCB Bhaban (6th Floor)",
+       "1, Kawran Bazar"
+      ],
+      "land": "Bangladesh",
+      "poststed": "Dhaka - 1215"
+     },
+     "utenlandskRegisterNavn": "Registrar of Joint Stock Companies and Firms (RJSC)"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/817324932"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private Company",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "PTY LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Building 19",
+       "Harrowdene Offive Park",
+       "Woodmaed"
+      ],
+      "land": "Sør-Afrika",
+      "landkode": "ZA",
+      "poststed": "ZA-2054 KELVIN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE SOUTH AFRICA PTY LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "817324932",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "P O Box 1587"
+      ],
+      "land": "Sør-Afrika",
+      "landkode": "ZA",
+      "poststed": "ZA-2054 KELVIN"
+     },
+     "registreringsdatoEnhetsregisteret": "2016-06-21",
+     "registreringsnummerIHjemlandet": "2001/007340/07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1991-09-30",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Sør-Afrika",
+     "underlagtLovgivningLandKode": "ZA",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "P.O Box 429",
+       "Pretoria 0001"
+      ],
+      "land": "Sør-Afrika"
+     },
+     "utenlandskRegisterNavn": "Companies and Intellectual Property Commission (CIPC)"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/991753303"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk foretak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Mostova 2"
+      ],
+      "land": "Slovakia",
+      "landkode": "SK",
+      "poststed": "811 02 BRATISLAVA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE TECHNOLOGY SOLUTIONS SLOVAKIA SRO",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "991753303",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2007-09-28",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/991767428"
+      }
+     },
+     "aktivitet": [
+      "Innleie av personell. Rapporteringsformål som arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Mostova 2"
+      ],
+      "land": "Slovakia",
+      "landkode": "SK",
+      "poststed": "SK-811 02 BRATISLAVA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "ACCENTURE TECHNOLOGY SOLUTIONS SLOVAKIA SRO",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "991767428",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2007-09-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/991071970"
+      }
+     },
+     "aktivitet": [
+      "Utleie av arbeidskraft. Rapporteringsformål som arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE CONSULTORES DE GESTAO SA (PORTUGAL)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "991071970",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Accenture AS",
+       "v/ Mobility",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2007-03-28",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935912881"
+      }
+     },
+     "aktivitet": [
+      "Netthandel med hobby/leke."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Luftå 65"
+      ],
+      "kommune": "SANDNES",
+      "kommunenummer": "1108",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4322",
+      "poststed": "SANDNES"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med spill og leker",
+      "kode": "47.640"
+     },
+     "navn": "ABBASI SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935912881",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-08-11",
+     "registreringsdatoForetaksregisteret": "2025-08-11",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935194482"
+      }
+     },
+     "aktivitet": [
+      "Filmproduksjon."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Mustafa Ahmed",
+       "Tjernslia 68"
+      ],
+      "kommune": "NITTEDAL",
+      "kommunenummer": "3232",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1481",
+      "poststed": "HAGAN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon av film, video og fjernsynsprogrammer",
+      "kode": "59.110"
+     },
+     "navn": "AHMED SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935194482",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Tjernslia 68"
+      ],
+      "kommune": "NITTEDAL",
+      "kommunenummer": "3232",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1481",
+      "poststed": "HAGAN"
+     },
+     "registreringsdatoEnhetsregisteret": "2025-03-13",
+     "registreringsdatoForetaksregisteret": "2025-03-13",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935662745"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter.",
+      "Programmering.",
+      "Budtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Rubina Ranas gate 1"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0190",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "ALI SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935662745",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-06-12",
+     "registreringsdatoForetaksregisteret": "2025-06-12",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-09-12",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-09-16",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933907198"
+      }
+     },
+     "aktivitet": [
+      "Transport av gods på vei.",
+      "Rengjøring av bygninger, bolighus, kontorer og lignende."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bestumveien 86R"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0283",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Godstransport på vei",
+      "kode": "49.410"
+     },
+     "navn": "ALMENDARES SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933907198",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-08-09",
+     "registreringsdatoForetaksregisteret": "2024-08-09",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-02-25",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-07",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934114019"
+      }
+     },
+     "aktivitet": [
+      "Snekkerarbeid, montering av dører, vinduer, kjøkken med mer."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Tjørsvågstrand 16"
+      ],
+      "kommune": "FLEKKEFJORD",
+      "kommunenummer": "4207",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4400",
+      "poststed": "FLEKKEFJORD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Snekkerarbeid",
+      "kode": "43.320"
+     },
+     "navn": "ALTTOA SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934114019",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-09-17",
+     "registreringsdatoForetaksregisteret": "2024-09-17",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933641929"
+      }
+     },
+     "aktivitet": [
+      "Bedriftsrådgivning, administrativt."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sogneprest Munthe-Kaas vei 15"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1346",
+      "poststed": "GJETTUM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "AMIRKHOSRAVI SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933641929",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-06-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927694654"
+      }
+     },
+     "aktivitet": [
+      "Vitenskap: mikroskopi. Hold av planktonkultur. Havbruk: algedyrking.",
+      "Bygg og anlegg: transport og portering. Opprydningsarbeid."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Marius Selnæs Andersen",
+       "Mastadveien 139"
+      ],
+      "kommune": "HITRA",
+      "kommunenummer": "5056",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7242",
+      "poststed": "KNARRLAGSUND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Forskning og eksperimentell utvikling innenfor naturvitenskap og teknikk",
+      "kode": "72.100"
+     },
+     "navn": "ANDERSEN SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "927694654",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-09-09",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927069199"
+      }
+     },
+     "aktivitet": [
+      "Bud, pakkeutlevering."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Tressberga 16"
+      ],
+      "kommune": "ØYGARDEN",
+      "kommunenummer": "4626",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5354",
+      "poststed": "STRAUME"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "ANDERSEN SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "927069199",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-05-05",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923007385"
+      }
+     },
+     "aktivitet": [
+      "Kurs, opplæring og konsulenttjenester innen sikkerhetsopplæring for",
+      "maritim bransje, petroleumssektoren og landbaserte virksomheter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Thyholdtvegen 16A"
+      ],
+      "kommune": "TROMSØ",
+      "kommunenummer": "5501",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9010",
+      "poststed": "TROMSØ"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen undervisning ellers",
+      "kode": "85.597"
+     },
+     "navn": "ANDERSEN SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "923007385",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-07-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933601625"
+      }
+     },
+     "aktivitet": [
+      "Utleie av egen arbeidskraft til ulike bransjer. I oppstarten vil dette",
+      "i størst grad bestå av oppdrag innen biltransport. Ser også på oppdrag",
+      "innen restaurant/bar, styreverv og andre bransjer, som aktuelle."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Langbølgen 39C"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1150",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre personlige tjenester ikke nevnt annet sted",
+      "kode": "96.990"
+     },
+     "navn": "ANDERSSON SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933601625",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-06-12",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-03-12",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-04-10",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927453436"
+      }
+     },
+     "aktivitet": [
+      "Støtter kunder innen ulike aspekter av salg, markedsføring,",
+      "programstart og gjennomføring, teknisk support, opplæring,",
+      "programforbedringer og vekst. Produktplanlegging, administrere",
+      "produkter gjennom hele produktets livssyklus, samle og prioritere",
+      "produkt- og kundekrav, definere produktvisjonen og jobbe tett med",
+      "ingeniørfaget."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Brekkeveien 19"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0884",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Formidlingstjenester tilknyttet personlig tjenesteyting",
+      "kode": "96.400"
+     },
+     "navn": "ANDRIJEVIC SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "927453436",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-07-22",
+     "registreringsdatoMerverdiavgiftsregisteret": "2021-09-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-09-09",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/915031374"
+      }
+     },
+     "aktivitet": [
+      "Distribusjon av aviser."
+     ],
+     "epostadresse": "anfucharles@yahoo.co.uk",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Herman Krags veg 33"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7050",
+      "poststed": "TRONDHEIM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "953 61 007",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "ANFU'S SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "915031374",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2015-02-25",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922913544"
+      }
+     },
+     "aktivitet": [
+      "Engroshandel med frukt, grønnsaker og dagligvarer."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Muhammad Hamza Anjum",
+       "Asperudtoppen 54"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1258",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2019-06-18 11:59:29",
+       "navn": "ANJUM SERVICES",
+       "tilDato": "2021-01-12 12:57:41"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med frukt og grønnsaker",
+      "kode": "46.310"
+     },
+     "navn": "ANJUM SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "922913544",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-06-18",
+     "registreringsdatoForetaksregisteret": "2021-01-12",
+     "registreringsdatoMerverdiavgiftsregisteret": "2019-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2019-12-16",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937745974"
+      }
+     },
+     "aktivitet": [
+      "Rydding og organisering av private hjem."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Romsåslia 19"
+      ],
+      "kommune": "LYNGDAL",
+      "kommunenummer": "4225",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4580",
+      "poststed": "LYNGDAL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Personlig tjenesteyting i husholdninger",
+      "kode": "96.910"
+     },
+     "navn": "ANTON SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "937745974",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-06-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932063867"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Pilestredet Park 45"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0176",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "ARIF SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "932063867",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-09-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925891940"
+      }
+     },
+     "aktivitet": [
+      "Flyttehjelp, søppeltømming, transporttjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Viggo Hansteens vei 41"
+      ],
+      "kommune": "LØRENSKOG",
+      "kommunenummer": "3222",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1472",
+      "poststed": "FJELLHAMAR"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Flyttetransport",
+      "kode": "49.420"
+     },
+     "navn": "ARNESEN SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "925891940",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-11-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/828428152"
+      }
+     },
+     "aktivitet": [
+      "Transportservice, taxiservice."
+     ],
+     "epostadresse": "alwaysrich@wemail.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Trondheimsveien 187"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0570",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "986 10 163",
+     "naeringskode1": {
+      "beskrivelse": "Passasjertransport på forespørsel utført av fører med kjøretøy",
+      "kode": "49.330"
+     },
+     "navn": "ASANTE SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "828428152",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-03-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-03-10",
+     "registreringsdatoEnhetsregisteret": "2022-01-07",
+     "registreringsdatoForetaksregisteret": "2022-01-07",
+     "registreringsdatoMerverdiavgiftsregisteret": "2022-04-20",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2022-11-29",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938024162"
+      }
+     },
+     "aktivitet": [
+      "Rengjøring av bygninger, bolighus, kontorer og lignende."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Gangdalslia 13"
+      ],
+      "kommune": "KRISTIANSAND",
+      "kommunenummer": "4204",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4618",
+      "poststed": "KRISTIANSAND S"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Rengjøring av bygninger",
+      "kode": "81.210"
+     },
+     "navn": "ASHVIX SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938024162",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-07-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/831864982"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Grinisvingen 12"
+      ],
+      "kommune": "RÆLINGEN",
+      "kommunenummer": "3224",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2009",
+      "poststed": "NORDBY"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "ASUWATA SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "831864982",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-08-10",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/819704392"
+      }
+     },
+     "aktivitet": [
+      "Konsultasjon innen webdesign og utvikling, prototyping, fotografering",
+      "og Photoshop, integrasjon og testing, teknisk dokumentasjon samt andre",
+      "IT- og datarelaterte tjenester."
+     ],
+     "epostadresse": "jasveer.singh87@hotmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lianstubben 10"
+      ],
+      "kommune": "LIER",
+      "kommunenummer": "3312",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3413",
+      "poststed": "LIER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2017-11-27 11:29:24",
+       "navn": "JS ENGINEERING JASVEER SINGH AULAKH",
+       "tilDato": "2021-07-26 10:00:06"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "AULAKH SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "819704392",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2017-11-27",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/984714564"
+      }
+     },
+     "aktivitet": [
+      "Nettbutikk med salg av rekvisita, bøker, diverse varer. Konsulent,",
+      "rådgivning og prosjektledelse."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Ryums vei 46"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3036",
+      "poststed": "DRAMMEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2002-08-07 20:09:32",
+       "navn": "SOLVANG CONSULTING",
+       "tilDato": "2012-11-03 14:51:01"
+      }
+     ],
+     "hjemmeside": "www.jermund.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "902 06 427",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med kosmetikk og toalettartikler",
+      "kode": "47.750"
+     },
+     "navn": "AURSTAD SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "984714564",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2002-08-07",
+     "registreringsdatoForetaksregisteret": "2012-11-03",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927841150"
+      }
+     },
+     "aktivitet": [
+      "Markedsføring og reklame."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Albert Moeskaus vei 48A"
+      ],
+      "kommune": "SARPSBORG",
+      "kommunenummer": "3105",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1711",
+      "poststed": "SARPSBORG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reklamebyråvirksomhet",
+      "kode": "73.110"
+     },
+     "navn": "AYOUBI SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "927841150",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-10-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925869694"
+      }
+     },
+     "aktivitet": [
+      "Kreativt arbeid innen film, filmredigering, produksjon og",
+      "markedsførings tjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Trondheimsveien 159"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0570",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon av film, video og fjernsynsprogrammer",
+      "kode": "59.110"
+     },
+     "navn": "BAHADOR SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "925869694",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-10-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929134230"
+      }
+     },
+     "aktivitet": [
+      "Renovering av bygg, altmuligmann."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Årskogsteinen 21"
+      ],
+      "kommune": "ULSTEIN",
+      "kommunenummer": "1516",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "6065",
+      "poststed": "ULSTEINVIK"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Oppføring av bygninger",
+      "kode": "41.000"
+     },
+     "navn": "BAK SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "929134230",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-05-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916955154"
+      }
+     },
+     "aktivitet": [
+      "Eiendomsservice, entrepenørvirksomhet, undervisning,",
+      "konsulentvirksomhet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Reigstadvegen 105"
+      ],
+      "kommune": "OSTERØY",
+      "kommunenummer": "4630",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5281",
+      "poststed": "VALESTRANDSFOSSEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Kombinerte tjenester tilknyttet eiendomsdrift",
+      "kode": "81.100"
+     },
+     "navn": "BAKKEN SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "916955154",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-04-01",
+     "registreringsdatoMerverdiavgiftsregisteret": "2017-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2017-06-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934006690"
+      }
+     },
+     "aktivitet": [
+      "Salg, service, reparasjoner, konsulenttjenester, budtjenester og",
+      "transporttjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Koløyvegen 152"
+      ],
+      "kommune": "FITJAR",
+      "kommunenummer": "4615",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5419",
+      "poststed": "FITJAR"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reparasjon og vedlikehold av maskiner",
+      "kode": "33.120"
+     },
+     "navn": "BALDERSHEIM SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934006690",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-09-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938394164"
+      }
+     },
+     "aktivitet": [
+      "Budtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Grorudveien 96"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1053",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "BARISIANE SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938394164",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-09-12",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934267281"
+      }
+     },
+     "aktivitet": [
+      "Bedriftsrådgivning, administrativt."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Oskars gate 44"
+      ],
+      "kommune": "SARPSBORG",
+      "kommunenummer": "3105",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1706",
+      "poststed": "SARPSBORG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "BASHIROVA SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934267281",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-10-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931207709"
+      }
+     },
+     "aktivitet": [
+      "Bedriftsrådgivning, administrativt. Foredragsholder."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Kirkebylia 37"
+      ],
+      "kommune": "NITTEDAL",
+      "kommunenummer": "3232",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1484",
+      "poststed": "HAKADAL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "BAUMGARTNER SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "931207709",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-04-17",
+     "registreringsdatoMerverdiavgiftsregisteret": "2023-10-08",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-10-31",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938277753"
+      }
+     },
+     "aktivitet": [
+      "Bedriftsrådgivning, administrativt."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Økernveien 78"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0575",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "BECK SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938277753",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-08-17",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-09-03",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-09-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926334654"
+      }
+     },
+     "aktivitet": [
+      "Rengjøring og vedlikeholdstjenester. Oversettelsestjenester. Budbil",
+      "avisbud /distributør av aviser."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Leilighetsnummer 509",
+       "Langgata 102C"
+      ],
+      "kommune": "SANDNES",
+      "kommunenummer": "1108",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4306",
+      "poststed": "SANDNES"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Rengjøring av bygninger",
+      "kode": "81.210"
+     },
+     "navn": "BELOUSSOV SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "926334654",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-01-06",
+     "registreringsdatoMerverdiavgiftsregisteret": "2023-03-26",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-05-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929966635"
+      }
+     },
+     "aktivitet": [
+      "Distribusjon, produksjon og salg av matretter, desserter fra egen",
+      "nettside."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Clausegata 3"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4005",
+      "poststed": "STAVANGER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Catering for arrangementer",
+      "kode": "56.210"
+     },
+     "navn": "BERGENDAHL SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "929966635",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-09-30",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931461397"
+      }
+     },
+     "aktivitet": [
+      "Konsulenttjenester innen IT.",
+      "Markedsføring og reklame.",
+      "WEB-design.",
+      "Bedriftsrådgivning, administrativt.",
+      "Utleie av feriehus."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sofustrøa 1"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7070",
+      "poststed": "BOSBERG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "BERGESEN SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "931461397",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-05-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/838689132"
+      }
+     },
+     "aktivitet": [
+      "Bemmaning/utleie til byggebransjen/industribransjen."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lien 8G"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5057",
+      "poststed": "BERGEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "BERGHEIM SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "838689132",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Lilandsvegen 3"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5258",
+      "poststed": "BLOMSTERDALEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-10-22",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930930946"
+      }
+     },
+     "aktivitet": [
+      "Drosjekjøring. Drift av restaurant/kafe."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Ravnkroken 4A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1254",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Passasjertransport på forespørsel utført av fører med kjøretøy",
+      "kode": "49.330"
+     },
+     "navn": "BERHE SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "930930946",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-03-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925845981"
+      }
+     },
+     "aktivitet": [
+      "Logistikk og lager."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hjalmar Johansens gate 6"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4019",
+      "poststed": "STAVANGER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "947 11 833",
+     "naeringskode1": {
+      "beskrivelse": "Andre støttetjenester for transport",
+      "kode": "52.260"
+     },
+     "navn": "BIHI SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "925845981",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 1019 Hillevåg"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4095",
+      "poststed": "STAVANGER"
+     },
+     "registreringsdatoEnhetsregisteret": "2020-10-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/921056842"
+      }
+     },
+     "aktivitet": [
+      "Konsulentvirksomhet tilknyttet informasjonstjenester.",
+      "Cateringvirksomhet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Prinsegata 31D"
+      ],
+      "kommune": "LARVIK",
+      "kommunenummer": "3909",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3256",
+      "poststed": "LARVIK"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2018-06-25 17:05:52",
+       "navn": "DIZONBJERKE SERVICES ODD-ANDREAS BJERKE",
+       "tilDato": "2023-02-13 11:42:37"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "BJERKE SERVICES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "921056842",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2018-06-25",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    }
+   ]
+  },
+  "_links": {
+   "first": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=ACCENTURE%20SERVICES&page=0&size=100"
+   },
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=ACCENTURE%20SERVICES&size=100&page=0"
+   },
+   "next": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=ACCENTURE%20SERVICES&page=1&size=100"
+   },
+   "last": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=ACCENTURE%20SERVICES&page=154&size=100"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 15497,
+   "totalPages": 155
+  }
+ }
+}

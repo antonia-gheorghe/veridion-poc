@@ -1,0 +1,1202 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ERP&filter%5Bentity.legalAddress.country%5D=DK&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 9,
+    "total": 9,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ERP&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ERP&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "984500P2C951D7ADE475",
+    "attributes": {
+     "lei": "984500P2C951D7ADE475",
+     "entity": {
+      "legalName": {
+       "name": "Global ERP ApS",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "Global ERP IVS",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Storkevænget 10"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Kirke Såby",
+       "region": null,
+       "country": "DK",
+       "postalCode": "4060"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Storkevænget 10"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Kirke Såby",
+       "region": null,
+       "country": "DK",
+       "postalCode": "4060"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "39612887",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2018-06-01T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2025-04-06T13:50:48Z",
+      "lastUpdateDate": "2026-02-07T00:35:13Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-04-06T13:50:49Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "39612887",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/39612887",
+     "qcc": "QDKQ0T0PYH",
+     "gem": null,
+     "spglobal": [
+      "686934764"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500P2C951D7ADE475/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500P2C951D7ADE475/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500P2C951D7ADE475/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500P2C951D7ADE475/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500P2C951D7ADE475/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/984500P2C951D7ADE475"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "98450080G5C4C56E7B80",
+    "attributes": {
+     "lei": "98450080G5C4C56E7B80",
+     "entity": {
+      "legalName": {
+       "name": "AX ERP Invest ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Rebekkavej 16, st. th."
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Hellerup",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2900"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Rebekkavej 16, st. th."
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Hellerup",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2900"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "40123350",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2018-12-21T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2026-07-24T22:19:51Z",
+      "lastUpdateDate": "2026-07-24T22:19:51Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-07-24T22:19:54Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "40123350",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/40123350",
+     "qcc": "QDKKU7HPTX",
+     "gem": null,
+     "spglobal": [
+      "707987597"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450080G5C4C56E7B80/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450080G5C4C56E7B80/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450080G5C4C56E7B80/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/98450080G5C4C56E7B80/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/98450080G5C4C56E7B80/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/98450080G5C4C56E7B80"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "984500B64503E95AE098",
+    "attributes": {
+     "lei": "984500B64503E95AE098",
+     "entity": {
+      "legalName": {
+       "name": "Gaudium ERP ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Centervej 2 A",
+        "Bramdrupdam"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Kolding",
+       "region": null,
+       "country": "DK",
+       "postalCode": "6000"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Centervej 2 A",
+        "Bramdrupdam"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Kolding",
+       "region": null,
+       "country": "DK",
+       "postalCode": "6000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "44894564",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2024-06-12T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2025-03-17T06:14:23Z",
+      "lastUpdateDate": "2026-01-18T03:28:54Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-03-17T06:14:24Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "44894564",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/44894564",
+     "qcc": "QDKKBYR5S6",
+     "gem": null,
+     "spglobal": [
+      "1935472577"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500B64503E95AE098/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500B64503E95AE098/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500B64503E95AE098/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500B64503E95AE098/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500B64503E95AE098/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/984500B64503E95AE098"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300PJ85BLMPBSSN02",
+    "attributes": {
+     "lei": "549300PJ85BLMPBSSN02",
+     "entity": {
+      "legalName": {
+       "name": "ERP HOLDING ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Hjordalsvej 11"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Støvring",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9530"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Hjordalsvej 11"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Støvring",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9530"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "32666965",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2009-12-20T23:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-10-20T22:52:00Z",
+      "lastUpdateDate": "2026-08-14T05:09:35Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-09-27T08:11:35Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "32666965",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/32666965",
+     "qcc": "QDK39YYJT0",
+     "gem": null,
+     "spglobal": [
+      "547306477"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300PJ85BLMPBSSN02/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300PJ85BLMPBSSN02/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300PJ85BLMPBSSN02/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300PJ85BLMPBSSN02/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300PJ85BLMPBSSN02/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300PJ85BLMPBSSN02"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300SJ75JFUL124R61",
+    "attributes": {
+     "lei": "549300SJ75JFUL124R61",
+     "entity": {
+      "legalName": {
+       "name": "Familien ERP´s Fond",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Hjordalsvej 11"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Støvring",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9530"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Hjordalsvej 11"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Støvring",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9530"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "32211283",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "599X",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2009-03-23T22:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-10-18T03:18:00Z",
+      "lastUpdateDate": "2026-08-14T05:09:52Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-09-26T22:00:52Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "32211283",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/32211283",
+     "qcc": "QDKTJDUC0Y",
+     "gem": null,
+     "spglobal": [
+      "548732128"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300SJ75JFUL124R61/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300SJ75JFUL124R61/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300SJ75JFUL124R61/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300SJ75JFUL124R61/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300SJ75JFUL124R61/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300SJ75JFUL124R61"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "98450069813O368E9B87",
+    "attributes": {
+     "lei": "98450069813O368E9B87",
+     "entity": {
+      "legalName": {
+       "name": "ERP Nordic Consult ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Birkegårdsvej 9",
+        "Annisse"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Helsinge",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "3200"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Birkegårdsvej 9",
+        "Annisse"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Helsinge",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "3200"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "42587095",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2021-08-07T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2022-12-05T14:27:38Z",
+      "lastUpdateDate": "2026-10-06T14:47:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-12-05T14:27:40Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "42587095",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/42587095",
+     "qcc": "QDKUP3G25M",
+     "gem": null,
+     "spglobal": [
+      "1817586944"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450069813O368E9B87/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450069813O368E9B87/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450069813O368E9B87/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/98450069813O368E9B87/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/98450069813O368E9B87/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/98450069813O368E9B87"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "254900EKSNW6EVO71Q65",
+    "attributes": {
+     "lei": "254900EKSNW6EVO71Q65",
+     "entity": {
+      "legalName": {
+       "name": "ERP SYSTEMS ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "Noerre Alle 39"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Glostrup",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2600"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "Noerre Alle 39"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Glostrup",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2600"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "30071425",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2006-11-27T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2020-01-15T16:01:22Z",
+      "lastUpdateDate": "2026-08-08T13:30:00Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2026-08-08T11:43:08Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "30071425",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/30071425",
+     "qcc": "QDKV9895M3",
+     "gem": null,
+     "spglobal": [
+      "651223685"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900EKSNW6EVO71Q65/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900EKSNW6EVO71Q65/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900EKSNW6EVO71Q65/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900EKSNW6EVO71Q65/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900EKSNW6EVO71Q65/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/254900EKSNW6EVO71Q65"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "648800TRTM4RDXFTCY08",
+    "attributes": {
+     "lei": "648800TRTM4RDXFTCY08",
+     "entity": {
+      "legalName": {
+       "name": "ERP SYSTEMS HOLDING ApS",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Nørre Allé 39"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Glostrup",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2600"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Nørre Allé 39"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Glostrup",
+       "region": null,
+       "country": "DK",
+       "postalCode": "2600"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "28670907",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2006-11-21T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Norre Alle 39"
+        ],
+        "city": "Glostrup",
+        "country": "DK",
+        "postalCode": "2600"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Norre Alle 39"
+        ],
+        "city": "Glostrup",
+        "country": "DK",
+        "postalCode": "2600"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2026-07-23T06:45:32Z",
+      "lastUpdateDate": "2026-07-23T06:45:32Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-07-23T06:45:32Z",
+      "managingLou": "485100001PLJJ09NZT59",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "28670907",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/28670907",
+     "qcc": "QDKYQ77VPX",
+     "gem": null,
+     "spglobal": [
+      "710090312"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/648800TRTM4RDXFTCY08/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/648800TRTM4RDXFTCY08/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/648800TRTM4RDXFTCY08/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/648800TRTM4RDXFTCY08/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/648800TRTM4RDXFTCY08/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/648800TRTM4RDXFTCY08"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300IPO6XX2X3DEN42",
+    "attributes": {
+     "lei": "549300IPO6XX2X3DEN42",
+     "entity": {
+      "legalName": {
+       "name": "ERP EJENDOMME A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Østre Alle 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Business Park Nord",
+       "city": "Støvring",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9530"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Østre Alle 6"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Business Park Nord",
+       "city": "Støvring",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9530"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "13700494",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1989-11-30T23:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Ostre Alle 6"
+        ],
+        "mailRouting": "c/o Business Park Nord",
+        "city": "Stovring",
+        "country": "DK",
+        "postalCode": "9530"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Ostre Alle 6"
+        ],
+        "mailRouting": "c/o Business Park Nord",
+        "city": "Stovring",
+        "country": "DK",
+        "postalCode": "9530"
+       }
+      ],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2026-02-16T23:00:00Z",
+          "recordedDate": "2026-05-29T04:13:36Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2019-01-16T15:32:00Z",
+      "lastUpdateDate": "2026-05-29T06:13:36Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-01-14T23:00:00Z",
+      "managingLou": "485100001PLJJ09NZT59",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "13700494",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/13700494",
+     "qcc": "QDKWS2KFRJ",
+     "gem": null,
+     "spglobal": [
+      "598638440"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300IPO6XX2X3DEN42/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300IPO6XX2X3DEN42/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300IPO6XX2X3DEN42/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300IPO6XX2X3DEN42/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300IPO6XX2X3DEN42/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300IPO6XX2X3DEN42"
+    }
+   }
+  ]
+ }
+}

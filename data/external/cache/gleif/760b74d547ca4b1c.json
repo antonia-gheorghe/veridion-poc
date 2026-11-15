@@ -1,0 +1,511 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=IBM&filter%5Bentity.legalAddress.country%5D=DK&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 3,
+    "total": 3,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=IBM&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=IBM&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "0IYV3XWWG6HHPFIZHV87",
+    "attributes": {
+     "lei": "0IYV3XWWG6HHPFIZHV87",
+     "entity": {
+      "legalName": {
+       "name": "IBM DANMARK ApS",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "IBM DANMARK A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "Sundkrogsgade 11"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2100"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "Provensvej 1"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Brondby",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2605"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "65305216",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1949-02-18T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2012-09-27T21:41:00Z",
+      "lastUpdateDate": "2026-09-16T09:17:16Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-10-15T22:14:40Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "65305216",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/65305216",
+     "qcc": "QDKQG62HWA",
+     "gem": null,
+     "spglobal": [
+      "5874797"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/0IYV3XWWG6HHPFIZHV87/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/0IYV3XWWG6HHPFIZHV87/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/0IYV3XWWG6HHPFIZHV87/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/0IYV3XWWG6HHPFIZHV87/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/0IYV3XWWG6HHPFIZHV87/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/0IYV3XWWG6HHPFIZHV87/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/0IYV3XWWG6HHPFIZHV87/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/0IYV3XWWG6HHPFIZHV87"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300H5I2DBIPTDFN34",
+    "attributes": {
+     "lei": "549300H5I2DBIPTDFN34",
+     "entity": {
+      "legalName": {
+       "name": "IBM Hjælpe-og Understøttelsesfond",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [
+       {
+        "name": "IBM Hjaelpe-og Understottelsesfond",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_NAME"
+       }
+      ],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Sundkrogsgade 11"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København Ø",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2100"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Sundkrogsgade 11"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København Ø",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2100"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "17254030",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "599X",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1993-07-01T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Sundkrogsgade 11"
+        ],
+        "city": "Kobenhavn O",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2100"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Sundkrogsgade 11"
+        ],
+        "city": "Kobenhavn O",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2100"
+       }
+      ],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "validationReference": "https://datacvr.virk.dk/enhed/virksomhed/17254030?fritekst=17254030&sideIndex=0&size=10",
+          "effectiveDate": "2024-04-24T00:00:00Z",
+          "recordedDate": "2024-07-10T00:00:00Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "validationReference": "https://datacvr.virk.dk/enhed/virksomhed/17254030?fritekst=17254030&sideIndex=0&size=10",
+          "effectiveDate": "2024-04-24T00:00:00Z",
+          "recordedDate": "2024-07-10T00:00:00Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-10-20T23:53:00Z",
+      "lastUpdateDate": "2026-09-22T06:43:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-10-05T09:02:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "17254030",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/17254030",
+     "qcc": "QDKP8S6JWU",
+     "gem": null,
+     "spglobal": [
+      "547153829"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300H5I2DBIPTDFN34/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300H5I2DBIPTDFN34/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300H5I2DBIPTDFN34/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300H5I2DBIPTDFN34/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300H5I2DBIPTDFN34/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300H5I2DBIPTDFN34"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "8QNUBZJHHH4FU880V498",
+    "attributes": {
+     "lei": "8QNUBZJHHH4FU880V498",
+     "entity": {
+      "legalName": {
+       "name": "IBM PENSIONSFOND (PENSIONSKASSE)",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Sundkrogsgade 11"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København Ø",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2100"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Sundkrogsgade 11"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "København Ø",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2100"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "85752715",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "F7JY",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1992-03-31T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Sundkrogsgade 11"
+        ],
+        "city": "Kobenhavn O",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2100"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Sundkrogsgade 11"
+        ],
+        "city": "Kobenhavn O",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2100"
+       }
+      ],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "validationReference": "https://datacvr.virk.dk/enhed/virksomhed/85752715?fritekst=IBM%2520PENSIONSFOND%2520(PENSIONSKASSE)&sideIndex=0&size=10",
+          "effectiveDate": "2024-04-28T00:00:00Z",
+          "recordedDate": "2024-09-05T00:00:00Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "validationReference": "https://datacvr.virk.dk/enhed/virksomhed/85752715?fritekst=IBM%2520PENSIONSFOND%2520(PENSIONSKASSE)&sideIndex=0&size=10",
+          "effectiveDate": "2024-04-28T00:00:00Z",
+          "recordedDate": "2024-09-05T00:00:00Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2012-09-25T09:48:00Z",
+      "lastUpdateDate": "2026-08-27T05:06:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-09-09T18:00:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "85752715",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/85752715",
+     "qcc": "QDKA8D3PAB",
+     "gem": null,
+     "spglobal": [
+      "49644076"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/8QNUBZJHHH4FU880V498/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/8QNUBZJHHH4FU880V498/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/8QNUBZJHHH4FU880V498/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/8QNUBZJHHH4FU880V498/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/8QNUBZJHHH4FU880V498/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/8QNUBZJHHH4FU880V498"
+    }
+   }
+  ]
+ }
+}

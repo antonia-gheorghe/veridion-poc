@@ -1,0 +1,322 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=3+STEP+IT&filter%5Bentity.legalAddress.country%5D=SE&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 2,
+    "total": 2,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=3+STEP+IT&filter%5Bentity.legalAddress.country%5D=SE&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=3+STEP+IT&filter%5Bentity.legalAddress.country%5D=SE&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300OSI57RVL3FA094",
+    "attributes": {
+     "lei": "549300OSI57RVL3FA094",
+     "entity": {
+      "legalName": {
+       "name": "3 Step IT Sweden AB",
+       "language": "sv"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "sv",
+       "addressLines": [
+        "Drottninggatan 19"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Linköping",
+       "region": "SE-E",
+       "country": "SE",
+       "postalCode": "582 25"
+      },
+      "headquartersAddress": {
+       "language": "sv",
+       "addressLines": [
+        "Drottninggatan 19"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Linköping",
+       "region": "SE-E",
+       "country": "SE",
+       "postalCode": "582 25"
+      },
+      "registeredAt": {
+       "id": "RA000544",
+       "other": null
+      },
+      "registeredAs": "556488-0218",
+      "jurisdiction": "SE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "XJHM",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1994-06-29T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "sv",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Drottninggatan 19"
+        ],
+        "city": "Linkoping",
+        "region": "SE-E",
+        "country": "SE",
+        "postalCode": "582 25"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "sv",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Drottninggatan 19"
+        ],
+        "city": "Linkoping",
+        "region": "SE-E",
+        "country": "SE",
+        "postalCode": "582 25"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2021-05-04T15:30:00Z",
+      "lastUpdateDate": "2026-02-19T08:15:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-03-16T10:05:11Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000544",
+       "other": null
+      },
+      "validatedAs": "556488-0218",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "se/556488-0218",
+     "qcc": "QSEB8ET8VW",
+     "gem": null,
+     "spglobal": [
+      "30490191"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300OSI57RVL3FA094/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300OSI57RVL3FA094/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300OSI57RVL3FA094/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300OSI57RVL3FA094/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300OSI57RVL3FA094/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300OSI57RVL3FA094/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300OSI57RVL3FA094/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300OSI57RVL3FA094"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "5493002ZC8N9H1IJC409",
+    "attributes": {
+     "lei": "5493002ZC8N9H1IJC409",
+     "entity": {
+      "legalName": {
+       "name": "3 Step IT Trading AB",
+       "language": "sv"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "sv",
+       "addressLines": [
+        "Drottninggatan 19"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Linköping",
+       "region": "SE-E",
+       "country": "SE",
+       "postalCode": "582 25"
+      },
+      "headquartersAddress": {
+       "language": "sv",
+       "addressLines": [
+        "Drottninggatan 19"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Linköping",
+       "region": "SE-E",
+       "country": "SE",
+       "postalCode": "582 25"
+      },
+      "registeredAt": {
+       "id": "RA000544",
+       "other": null
+      },
+      "registeredAs": "559267-1738",
+      "jurisdiction": "SE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "XJHM",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2020-08-17T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "sv",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Drottninggatan 19"
+        ],
+        "city": "Linkoping",
+        "region": "SE-E",
+        "country": "SE",
+        "postalCode": "582 25"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "sv",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Drottninggatan 19"
+        ],
+        "city": "Linkoping",
+        "region": "SE-E",
+        "country": "SE",
+        "postalCode": "582 25"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2021-05-04T15:29:00Z",
+      "lastUpdateDate": "2026-09-24T10:14:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-09-24T10:14:47Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000544",
+       "other": null
+      },
+      "validatedAs": "559267-1738",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "se/559267-1738",
+     "qcc": "QSEJE8TB9U",
+     "gem": null,
+     "spglobal": [
+      "713682757"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493002ZC8N9H1IJC409/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493002ZC8N9H1IJC409/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493002ZC8N9H1IJC409/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493002ZC8N9H1IJC409/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493002ZC8N9H1IJC409/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/5493002ZC8N9H1IJC409"
+    }
+   }
+  ]
+ }
+}

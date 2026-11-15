@@ -1,0 +1,952 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=TELENOR+FIBER&size=100&page=2",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994328565"
+      }
+     },
+     "aktivitet": [
+      "Datterselskap i konsern."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Unit #33 Level 8 Two Exchange Squar",
+       "8 Connaght Place Centra"
+      ],
+      "land": "Hongkong",
+      "landkode": "HK",
+      "poststed": "HONG KONG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "TELENOR GLOBAL SERVICES HONG KONG LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "994328565",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Telenor Global Services AS",
+       "Postboks 800"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1331",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2009-07-17",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2009-06-09",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994743988"
+      }
+     },
+     "aktivitet": [
+      "Datterselskap i konsern."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "#24-02 Fuji Xerox Tower",
+       "80 Ansion Road"
+      ],
+      "land": "Singapore",
+      "landkode": "SG",
+      "poststed": "SINGAPORE 079907"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "TELENOR GLOBAL SERVICES SINGAPORE PTE LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "994743988",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Telenor Global Services AS",
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2009-11-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2009-09-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/991300678"
+      }
+     },
+     "aktivitet": [
+      "Datterselskap i konsern."
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Aktieselskap",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Skelagervej 9"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "DK-9000 AALBORG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2007-05-26 14:53:02",
+       "navn": "TELENOR KEY PARTNER DANMARK A/S",
+       "tilDato": "2011-11-23 14:40:09"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "TELENOR KEY PARTNER DANMARK A/S",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "991300678",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Telenor Key Partner AS",
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2007-05-26",
+     "registreringsnummerIHjemlandet": "28848838",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2005-06-14",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Danmark",
+     "underlagtLovgivningLandKode": "DK",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Langelinie Allé 17"
+      ],
+      "land": "Danmark",
+      "poststed": "2100 København Ø"
+     },
+     "utenlandskRegisterNavn": "Erhvervsstyrelsen"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/880473832"
+      }
+     },
+     "aktivitet": [
+      "Fagforbund."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vigvollåsen 39"
+      ],
+      "kommune": "KRISTIANSAND",
+      "kommunenummer": "4204",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4635",
+      "poststed": "KRISTIANSAND S"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1999-01-26 14:45:58",
+       "navn": "EL & IT FORBUNDET KLUBB TELENOR PRIVAT",
+       "tilDato": "2019-07-30 14:59:05"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i arbeidstakerorganisasjoner",
+      "kode": "94.200"
+     },
+     "navn": "EL OG IT FORBUNDET KLUBB TELENOR KUNDESERVICE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "880473832",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1999-01-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1996-10-31",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/976581164"
+      }
+     },
+     "aktivitet": [
+      "Fagforening: Foreningen omfatter Tele- og Dataforbundets medlemmer",
+      "ansatt i, eller pensjonerte fra stillinger i Telenor Nett bosatt i",
+      "fylkene Vest-Agder, Aust-Agder, Telemark, Vestfold og Buskerud, som",
+      "ikke er medlemmer i en annen forening i Tele- og Dataforbundet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Tele- og Dataforbundet",
+       "Møllergata 10"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0179",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1996-07-15 18:23:19",
+       "navn": "TELE- OG DATAFORBUNDET FORENING NETT REGION SØR",
+       "tilDato": "1998-03-20 20:38:01"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i arbeidstakerorganisasjoner",
+      "kode": "94.200"
+     },
+     "navn": "TELE- OG DATAFORBUNDET FORENING TELENOR NETT SØR",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "976581164",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1996-07-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1996-04-26",
+     "telefon": "22 20 88 20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925415634"
+      }
+     },
+     "aktivitet": [
+      "Eie, leie, kjøp, salg, forvaltning og drift",
+      "av fast eiendom og alt som står i forbindelse dermed, herunder tegne",
+      "aksjer og andeler i selskaper av lignende art."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "fravalgRevisjonBeslutningsDato": "2020-05-18",
+     "fravalgRevisjonDato": "2020-07-30",
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Statlig eide aksjeselskaper mv.",
+      "kode": "1120"
+     },
+     "kapital": {
+      "antallAksjer": 1,
+      "belop": 30000.0,
+      "innfortDato": "2020-07-30",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "TELENOR AGDER VESTFOLD OG TELEMARK 2 AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "925415634",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 800"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1331",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2020-07-30",
+     "registreringsdatoForetaksregisteret": "2020-07-30",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2021-08-31",
+     "registreringsdatoMerverdiavgiftsregisteret": "2020-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-08-04",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2020-05-18",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2020-05-18",
+     "vedtektsfestetFormaal": [
+      "Eie, leie, kjøp, salg, forvaltning og drift",
+      "av fast eiendom og alt som står i forbindelse dermed, herunder tegne",
+      "aksjer og andeler i selskaper av lignende art."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925415758"
+      }
+     },
+     "aktivitet": [
+      "Eie, leie, kjøp, salg, forvaltning og drift",
+      "av fast eiendom og alt som står i forbindelse dermed, herunder tegne",
+      "aksjer og andeler i selskaper av lignende art."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "fravalgRevisjonBeslutningsDato": "2020-04-20",
+     "fravalgRevisjonDato": "2020-07-30",
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Statlig eide aksjeselskaper mv.",
+      "kode": "1120"
+     },
+     "kapital": {
+      "antallAksjer": 1,
+      "belop": 40487.93,
+      "innfortDato": "2026-10-17",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "TELENOR MØRE OG ROMSDAL OG TRØNDELAG 2 AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "925415758",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 800"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1331",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2020-07-30",
+     "registreringsdatoForetaksregisteret": "2020-07-30",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2021-08-31",
+     "registreringsdatoMerverdiavgiftsregisteret": "2020-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-08-04",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2020-04-20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-10-02",
+     "vedtektsfestetFormaal": [
+      "Eie, leie, kjøp, salg, forvaltning og drift",
+      "av fast eiendom og alt som står i forbindelse dermed, herunder tegne",
+      "aksjer og andeler i selskaper av lignende art."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/877559432"
+      }
+     },
+     "aktivitet": [
+      "Fagforening."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Syver Andersens gate 2"
+      ],
+      "kommune": "HAMAR",
+      "kommunenummer": "3403",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2318",
+      "poststed": "HAMAR"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1997-05-26 20:32:43",
+       "navn": "TELE OG DATAFORBUNDET FORENING TELENOR NETT REGION ØST",
+       "tilDato": "2000-03-27 18:16:07"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private produsentorienterte organisasjoner uten profittformål",
+      "kode": "2500"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i næringslivs- og arbeidsgiverorganisasjoner",
+      "kode": "94.110"
+     },
+     "navn": "EL & IT FORBUNDET AVDELING TELENOR NETT ØST",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "877559432",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1997-05-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1996-12-04",
+     "telefon": "69 13 91 91",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987842318"
+      }
+     },
+     "aktivitet": [
+      "Fagforeningsarbeid på klubbnivå."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "916 98 250",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i arbeidstakerorganisasjoner",
+      "kode": "94.200"
+     },
+     "navn": "EL & IT FORBUNDET KLUBB TELENOR SENTRALE ENHETER",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "987842318",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2005-06-16",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1998-11-27",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/888937412"
+      }
+     },
+     "aktivitet": [
+      "Dette er en klubb (fagforening) i Telenor som ligger under El & IT",
+      "forbundet.",
+      " "
+     ],
+     "epostadresse": "esben.smistad@telenor.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 30D"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "919 99 692",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i arbeidstakerorganisasjoner",
+      "kode": "94.200"
+     },
+     "navn": "EL & IT FORBUNDET KLUBB TELENOR TELECOM SOLUTIONS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "888937412",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Esben Smistad",
+       "Telenor",
+       "Snarøyveien 30D"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2005-11-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "1997-10-03",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/918492771"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Limited",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "22-W Sardar Arcade Fazl-e-Haq road",
+       "Blue Area"
+      ],
+      "land": "Pakistan",
+      "landkode": "PK",
+      "poststed": "PK-44000 ISLAMABAD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "TELENOR GLOBAL SHARED SERVICES PAKISTAN (PRIVATE) LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "918492771",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2017-02-02",
+     "registreringsnummerIHjemlandet": "0069910",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2009-07-07",
+     "telefon": "9251111345700",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Pakistan",
+     "underlagtLovgivningLandKode": "PK",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Jinnah Avenue"
+      ],
+      "land": "Pakistan",
+      "poststed": "Islamabad - 44000"
+     },
+     "utenlandskRegisterNavn": "Securities & Exchange Commission of Pakistan Company Registration Office"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938054134"
+      }
+     },
+     "aktivitet": [
+      "Eie, leie, kjøpe, selge, forvalte og drifte fast eiendom."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "fravalgRevisjonBeslutningsDato": "2026-05-22",
+     "fravalgRevisjonDato": "2026-07-07",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2026-07-07 11:12:57",
+       "navn": "NFH 260580 AS",
+       "tilDato": "2026-10-19 16:54:57"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 3000,
+      "belop": 30000.0,
+      "innfortDato": "2026-07-07",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Kjøp og salg av egen fast eiendom",
+      "kode": "68.110"
+     },
+     "navn": "TELENOR MØRE OG ROMSDAL OG TRØNDELAG OG NORD 3 AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "938054134",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 800"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1331",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-07-07",
+     "registreringsdatoForetaksregisteret": "2026-07-07",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-05-22",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-09-16",
+     "vedtektsfestetFormaal": [
+      "Å eie, leie, kjøp, salg, forvaltning og drift av fast eiendom og alt",
+      "som står i forbindelse dermed, herunder tegne aksjer og andeler i",
+      "selskaper av lignende art."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/996415392"
+      }
+     },
+     "aktivitet": [
+      "Freelance musiker og lærer for fiolin og bratsj. Forberedelse av noter",
+      "innenfor musikk. Produksjon og salg av håndarbeid relaterte produkter",
+      "som selges på internett og messer. Samt det som naturlig henhører til",
+      "de ulike segmentene."
+     ],
+     "epostadresse": "karenw@omegacs.net",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Karen Walthinsen",
+       "Boen 3"
+      ],
+      "kommune": "KRISTIANSAND",
+      "kommunenummer": "4204",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4658",
+      "poststed": "TVEIT"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2011-01-17 20:31:14",
+       "navn": "KAREN ANN WALTHINSEN-ZEPPEZAUER",
+       "tilDato": "2019-03-21 13:57:15"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "41573848",
+     "naeringskode1": {
+      "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "kode": "90.201"
+     },
+     "navn": "ENCHANTED FOREST FIBERS V/KAREN ANN WALTHINSEN",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "996415392",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2011-01-17",
+     "registreringsdatoMerverdiavgiftsregisteret": "2019-03-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2019-04-27",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    }
+   ]
+  },
+  "_links": {
+   "first": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=TELENOR%20FIBER&page=0&size=100"
+   },
+   "prev": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=TELENOR%20FIBER&page=1&size=100"
+   },
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=TELENOR%20FIBER&size=100&page=2"
+   },
+   "last": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=TELENOR%20FIBER&page=2&size=100"
+   }
+  },
+  "page": {
+   "number": 2,
+   "size": 100,
+   "totalElements": 213,
+   "totalPages": 3
+  }
+ }
+}

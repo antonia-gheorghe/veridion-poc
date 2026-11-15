@@ -1,0 +1,147 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TATA+CONSULTANCY+SERVICES&filter%5Bentity.legalAddress.country%5D=SE&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TATA+CONSULTANCY+SERVICES&filter%5Bentity.legalAddress.country%5D=SE&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TATA+CONSULTANCY+SERVICES&filter%5Bentity.legalAddress.country%5D=SE&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "254900ZD89HVNJWFJO25",
+    "attributes": {
+     "lei": "254900ZD89HVNJWFJO25",
+     "entity": {
+      "legalName": {
+       "name": "Tata Consultancy Services Sverige Aktiebolag",
+       "language": "sv"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "Master Samuelsg 42 Hotorgs"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Stockholm",
+       "region": "SE-AB",
+       "country": "SE",
+       "postalCode": "111 57"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "Master Samuelsg 42 Hotorgs"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Stockholm",
+       "region": "SE-AB",
+       "country": "SE",
+       "postalCode": "111 57"
+      },
+      "registeredAt": {
+       "id": "RA000544",
+       "other": null
+      },
+      "registeredAs": "556559-4008",
+      "jurisdiction": "SE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "XJHM",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1998-08-26T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2024-10-15T18:40:38Z",
+      "lastUpdateDate": "2026-03-04T09:29:34Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-03-15T18:40:38Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000544",
+       "other": null
+      },
+      "validatedAs": "556559-4008",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "se/556559-4008",
+     "qcc": "QSEG6JJ01M",
+     "gem": null,
+     "spglobal": [
+      "32882454"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900ZD89HVNJWFJO25/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900ZD89HVNJWFJO25/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900ZD89HVNJWFJO25/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900ZD89HVNJWFJO25/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900ZD89HVNJWFJO25/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/254900ZD89HVNJWFJO25"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,151 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=NTT+ASIA+PACIFIC+HOLDINGS&filter%5Bentity.legalAddress.country%5D=SG&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=NTT+ASIA+PACIFIC+HOLDINGS&filter%5Bentity.legalAddress.country%5D=SG&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=NTT+ASIA+PACIFIC+HOLDINGS&filter%5Bentity.legalAddress.country%5D=SG&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "213800S5ZSO671Q7XQ76",
+    "attributes": {
+     "lei": "213800S5ZSO671Q7XQ76",
+     "entity": {
+      "legalName": {
+       "name": "NTT ASIA PACIFIC HOLDINGS PTE. LIMITED",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "8, KALLANG AVENUE",
+        "#15-01/09"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "SINGAPORE",
+       "region": "SG-01",
+       "country": "SG",
+       "postalCode": "339509"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "8, KALLANG AVENUE",
+        "#15-01/09"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "SINGAPORE",
+       "region": "SG-01",
+       "country": "SG",
+       "postalCode": "339509"
+      },
+      "registeredAt": {
+       "id": "RA000523",
+       "other": null
+      },
+      "registeredAs": "199301842Z",
+      "jurisdiction": "SG",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "IWZF",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2019-03-07T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2019-03-07T00:00:00Z",
+      "lastUpdateDate": "2026-07-07T16:12:40Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-03-07T00:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000523",
+       "other": null
+      },
+      "validatedAs": "199301842Z",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "sg/199301842Z",
+     "qcc": "QSGAP9E4PR",
+     "gem": null,
+     "spglobal": [
+      "816090"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800S5ZSO671Q7XQ76/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800S5ZSO671Q7XQ76/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800S5ZSO671Q7XQ76/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/213800S5ZSO671Q7XQ76/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/213800S5ZSO671Q7XQ76/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/213800S5ZSO671Q7XQ76/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/213800S5ZSO671Q7XQ76/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/213800S5ZSO671Q7XQ76"
+    }
+   }
+  ]
+ }
+}

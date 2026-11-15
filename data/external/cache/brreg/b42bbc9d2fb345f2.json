@@ -1,0 +1,421 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=ACCENTURE+SERVICES&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912517012"
+      }
+     },
+     "aktivitet": [
+      "Selskapets virksomhet er å levere tjenester innenfor rådgivning,",
+      "teknologi, design og outsourcing. Outsourcing av forretningsprosesser",
+      "inkluderer utvikling og forvaltning av applikasjoner, regnskapsføring",
+      "for andre, lønn, personaladministrasjon, innkjøp og kundeservice.",
+      "Videre inngår det i selskapets virksomhet å markedsføre og levere",
+      "maskin- og programvare, samt aktiviteter tilknyttet dette."
+     ],
+     "antallAnsatte": 7,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Rådhusgata 27"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0158",
+      "poststed": "OSLO"
+     },
+     "fravalgRevisjonBeslutningsDato": "2026-03-06",
+     "fravalgRevisjonDato": "2026-03-27",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1,
+      "belop": 1000000.0,
+      "innfortDato": "2018-10-01",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "ACCENTURE SERVICES AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "912517012",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 1167 Sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0107",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2024-10-14",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2024-10-10",
+     "registreringsdatoEnhetsregisteret": "2013-10-01",
+     "registreringsdatoForetaksregisteret": "2013-10-01",
+     "registreringsdatoMerverdiavgiftsregisteret": "2013-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2013-12-18",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2013-09-25",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2019-03-01",
+     "vedtektsfestetFormaal": [
+      "Levere tjenester innenfor rådgivning, teknologi, design og",
+      "outsourcing. Outsourcing av forretningsprosesser inkluderer utvikling",
+      "og forvaltning av applikasjoner, regnskapsføring for andre, lønn,",
+      "personaladministrasjon, innkjøp og kundeservice. Videre inngår det i",
+      "selskapets virksomhet å markedsføre og levere maskin- og programvare,",
+      "samt aktiviteter tilknyttet dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/894430192"
+      }
+     },
+     "aktivitet": [
+      "Utleie av arbeidskraft til Accenture Norge."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "ul. Sienna, nr 39"
+      ],
+      "land": "Polen",
+      "landkode": "PL",
+      "poststed": "PL-00-121 WARSZAWA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE SERVICES SP ZOO",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "894430192",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2009-08-22",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994430262"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "spolka z organiczona odpowiedzialnoscia",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SP.Z.O.O"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Ul. Sienna, nr 39"
+      ],
+      "land": "Polen",
+      "landkode": "PL",
+      "poststed": "00-121 Warszawa"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2009-08-21 14:45:46",
+       "navn": "ACCENTURE SERVICES SP ZOO",
+       "tilDato": "2015-09-10 20:16:18"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE SERVICES SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "994430262",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2009-08-21",
+     "registreringsnummerIHjemlandet": "0000043465",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2001-09-12",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Polen",
+     "underlagtLovgivningLandKode": "PL",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Ministerstwo Sprawiedliwosci",
+       "ul. Czerniakowska 100"
+      ],
+      "land": "Polen",
+      "poststed": "00-454 Warszawa"
+     },
+     "utenlandskRegisterNavn": "Krajowy Rejestr Sadowy"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919664835"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Societate cu Raspundere Limitata",
+      "beskrivelseBokmaal": "Selskap med begrenset ansvar",
+      "kode": "SRL"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Westgate Park",
+       "Preciziei Blvd No 24"
+      ],
+      "land": "Romania",
+      "landkode": "RO",
+      "poststed": "RO-BI H1 BUCHAREST"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE SERVICES SRL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "919664835",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2017-10-04",
+     "registreringsnummerIHjemlandet": "18491628",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2006-03-17",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Romania",
+     "underlagtLovgivningLandKode": "RO",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Blvd. Unirii nr. 74",
+       "bl. J3b, sector 3"
+      ],
+      "land": "Romania",
+      "poststed": "030837 Bucuresti"
+     },
+     "utenlandskRegisterNavn": "Oficiul National al Registrului Comertului"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/986173390"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Organizacni Slozka",
+       "Jiraskovo nam 6"
+      ],
+      "land": "Tsjekkia",
+      "landkode": "CZ",
+      "poststed": "120 00 PRAHA 2"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ACCENTURE SERVICES SRO",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "986173390",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2003-10-28",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/886188242"
+      }
+     },
+     "aktivitet": [
+      "Driver næringsvirksomhet i Norge. Rapporteringsformål som",
+      "arbeidsgiver."
+     ],
+     "epostadresse": "marianne.odegaard@accenture.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Organizacni Slozka,",
+       "Jiraskovo nam 6"
+      ],
+      "land": "Tsjekkia",
+      "landkode": "CZ",
+      "poststed": "CZ-120 00 PRAHA 2"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ACCENTURE SERVICES SRO",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "886188242",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Mobility",
+       "c/o Accenture AS",
+       "Postboks 363"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2003-10-28",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 12 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=ACCENTURE%20SERVICES&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 6,
+   "totalPages": 1
+  }
+ }
+}

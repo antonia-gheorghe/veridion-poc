@@ -1,0 +1,300 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ZALARIS+HR+SERVICES&filter%5Bentity.legalAddress.country%5D=NO&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 2,
+    "total": 2,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ZALARIS+HR+SERVICES&filter%5Bentity.legalAddress.country%5D=NO&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ZALARIS+HR+SERVICES&filter%5Bentity.legalAddress.country%5D=NO&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300XBITM62HH7HW18",
+    "attributes": {
+     "lei": "549300XBITM62HH7HW18",
+     "entity": {
+      "legalName": {
+       "name": "ZALARIS ASA",
+       "language": "no"
+      },
+      "otherNames": [
+       {
+        "name": "ZALARIS BUSINESS SERVICES AS",
+        "language": "no",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "ZALARIS HR SERVICES AS",
+        "language": "no",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "no",
+       "addressLines": [
+        "Hoffsveien 4"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Oslo",
+       "region": "NO-03",
+       "country": "NO",
+       "postalCode": "0275"
+      },
+      "headquartersAddress": {
+       "language": "no",
+       "addressLines": [
+        "Hoffsveien 4"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Oslo",
+       "region": "NO-03",
+       "country": "NO",
+       "postalCode": "0275"
+      },
+      "registeredAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "registeredAs": "981 953 134",
+      "jurisdiction": "NO",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "IQGE",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2000-04-14T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-06-02T01:53:00Z",
+      "lastUpdateDate": "2026-04-28T14:47:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-06-10T08:58:10Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "validatedAs": "981 953 134",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "no/981953134",
+     "qcc": "QNOGTPJY7E",
+     "gem": null,
+     "spglobal": [
+      "8064584"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300XBITM62HH7HW18/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300XBITM62HH7HW18/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300XBITM62HH7HW18/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300XBITM62HH7HW18/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300XBITM62HH7HW18/ultimate-parent-reporting-exception"
+      }
+     },
+     "direct-children": {
+      "links": {
+       "relationship-records": "https://api.gleif.org/api/v1/lei-records/549300XBITM62HH7HW18/direct-child-relationships",
+       "related": "https://api.gleif.org/api/v1/lei-records/549300XBITM62HH7HW18/direct-children"
+      }
+     },
+     "ultimate-children": {
+      "links": {
+       "relationship-records": "https://api.gleif.org/api/v1/lei-records/549300XBITM62HH7HW18/ultimate-child-relationships",
+       "related": "https://api.gleif.org/api/v1/lei-records/549300XBITM62HH7HW18/ultimate-children"
+      }
+     },
+     "isins": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300XBITM62HH7HW18/isins"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300XBITM62HH7HW18"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "98450058E6F4DA6BA426",
+    "attributes": {
+     "lei": "98450058E6F4DA6BA426",
+     "entity": {
+      "legalName": {
+       "name": "ZALARIS HR SERVICES NORWAY AS",
+       "language": "no"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "no",
+       "addressLines": [
+        "Televeien 2"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "LØDINGEN",
+       "region": "NO-18",
+       "country": "NO",
+       "postalCode": "8410"
+      },
+      "headquartersAddress": {
+       "language": "no",
+       "addressLines": [
+        "Televeien 2"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "LØDINGEN",
+       "region": "NO-18",
+       "country": "NO",
+       "postalCode": "8410"
+      },
+      "registeredAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "registeredAs": "990 796 378",
+      "jurisdiction": "NO",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "YI42",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2006-11-30T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2023-03-30T11:41:00Z",
+      "lastUpdateDate": "2026-07-07T14:09:39Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-07-23T11:46:45Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "validatedAs": "990 796 378",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "no/990796378",
+     "qcc": "QNO5KM4UWX",
+     "gem": null,
+     "spglobal": [
+      "81848848"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450058E6F4DA6BA426/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450058E6F4DA6BA426/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450058E6F4DA6BA426/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/98450058E6F4DA6BA426/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/98450058E6F4DA6BA426/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/98450058E6F4DA6BA426/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/98450058E6F4DA6BA426/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/98450058E6F4DA6BA426"
+    }
+   }
+  ]
+ }
+}

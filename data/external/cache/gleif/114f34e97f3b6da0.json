@@ -1,0 +1,182 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=GBT+TRAVEL+SERVICES&filter%5Bentity.legalAddress.country%5D=GB&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=GBT+TRAVEL+SERVICES&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=GBT+TRAVEL+SERVICES&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300BETUFXG0055F45",
+    "attributes": {
+     "lei": "549300BETUFXG0055F45",
+     "entity": {
+      "legalName": {
+       "name": "GBT TRAVEL SERVICES UK LIMITED",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "33 Charterhouse Street",
+        "Farringdon"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "London",
+       "region": null,
+       "country": "GB",
+       "postalCode": "EC1M 6HA"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "33 Charterhouse Street",
+        "Farringdon"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "London",
+       "region": null,
+       "country": "GB",
+       "postalCode": "EC1M 6HA"
+      },
+      "registeredAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "registeredAs": "08774160",
+      "jurisdiction": "GB",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H0PO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2013-11-13T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "REGULATORY_FILING",
+          "effectiveDate": "2025-03-06T00:00:00Z",
+          "recordedDate": "2025-07-21T09:42:32Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "REGULATORY_FILING",
+          "effectiveDate": "2025-03-06T00:00:00Z",
+          "recordedDate": "2025-07-21T09:42:32Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-07-31T01:41:00Z",
+      "lastUpdateDate": "2026-06-23T17:28:04Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-07-22T15:56:49Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "validatedAs": "08774160",
+      "otherValidationAuthorities": []
+     },
+     "bic": [
+      "GBTTGB2LXXX"
+     ],
+     "mic": null,
+     "ocid": "gb/08774160",
+     "qcc": "QGBS1NHP17",
+     "gem": null,
+     "spglobal": [
+      "269396470"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300BETUFXG0055F45/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300BETUFXG0055F45/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300BETUFXG0055F45/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300BETUFXG0055F45/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300BETUFXG0055F45/ultimate-parent-reporting-exception"
+      }
+     },
+     "direct-children": {
+      "links": {
+       "relationship-records": "https://api.gleif.org/api/v1/lei-records/549300BETUFXG0055F45/direct-child-relationships",
+       "related": "https://api.gleif.org/api/v1/lei-records/549300BETUFXG0055F45/direct-children"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300BETUFXG0055F45"
+    }
+   }
+  ]
+ }
+}

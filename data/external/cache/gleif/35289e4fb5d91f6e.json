@@ -1,0 +1,703 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=GOOGLE&filter%5Bentity.legalAddress.country%5D=IE&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 5,
+    "total": 5,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=GOOGLE&filter%5Bentity.legalAddress.country%5D=IE&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=GOOGLE&filter%5Bentity.legalAddress.country%5D=IE&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "1FN51LDHILXJ06W1QN20",
+    "attributes": {
+     "lei": "1FN51LDHILXJ06W1QN20",
+     "entity": {
+      "legalName": {
+       "name": "GOOGLE IRELAND HOLDINGS UNLIMITED COMPANY",
+       "language": "en"
+      },
+      "otherNames": [
+       {
+        "name": "Google Ireland Holdings",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "GOOGLE IRELAND HOLDING LIMITED",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "70 SIR JOHN ROGERSON'S QUAY",
+        "DUBLIN 2"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DUBLIN",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D02 R296"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "70 SIR JOHN ROGERSON'S QUAY",
+        "DUBLIN 2"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DUBLIN",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D02 R296"
+      },
+      "registeredAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "registeredAs": "369511",
+      "jurisdiction": "IE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "KMFX",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2003-04-04T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2006-09-19T00:00:00Z",
+          "recordedDate": "2025-03-12T00:00:00Z",
+          "type": "CHANGE_LEGAL_NAME",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2003-04-04T00:00:00Z",
+          "recordedDate": "2025-03-12T00:00:00Z",
+          "type": "CHANGE_LEGAL_NAME",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2012-11-14T01:26:00Z",
+      "lastUpdateDate": "2026-06-16T11:54:37Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-03-25T00:00:00Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "validatedAs": "369511",
+      "otherValidationAuthorities": []
+     },
+     "bic": [
+      "GOOGIE21XXX"
+     ],
+     "mic": null,
+     "ocid": "ie/369511",
+     "qcc": "QIESFPXPY0",
+     "gem": null,
+     "spglobal": [
+      "224260963"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/1FN51LDHILXJ06W1QN20/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/1FN51LDHILXJ06W1QN20/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/1FN51LDHILXJ06W1QN20/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/1FN51LDHILXJ06W1QN20/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/1FN51LDHILXJ06W1QN20/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/1FN51LDHILXJ06W1QN20/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/1FN51LDHILXJ06W1QN20/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/1FN51LDHILXJ06W1QN20"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "9845003AA4F14A013C44",
+    "attributes": {
+     "lei": "9845003AA4F14A013C44",
+     "entity": {
+      "legalName": {
+       "name": "GOOGLE PAYMENT IRELAND LIMITED",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "70 SIR JOHN ROGERSON'S QUAY"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DUBLIN",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D02 R296"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "70 SIR JOHN ROGERSON'S QUAY"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DUBLIN",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D02 R296"
+      },
+      "registeredAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "registeredAs": "598776",
+      "jurisdiction": "IE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "MNQ7",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2017-02-17T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2025-03-18T13:42:10Z",
+      "lastUpdateDate": "2026-06-17T12:03:05Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-03-18T13:42:11Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "validatedAs": "598776",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "ie/598776",
+     "qcc": "QIEQ61VUH6",
+     "gem": null,
+     "spglobal": [
+      "698824469"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/9845003AA4F14A013C44/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/9845003AA4F14A013C44/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/9845003AA4F14A013C44/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/9845003AA4F14A013C44/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/9845003AA4F14A013C44/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/9845003AA4F14A013C44/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/9845003AA4F14A013C44/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/9845003AA4F14A013C44"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "98450052CF14CFEB6435",
+    "attributes": {
+     "lei": "98450052CF14CFEB6435",
+     "entity": {
+      "legalName": {
+       "name": "GOOGLE CLOUD EMEA LIMITED",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "70 SIR JOHN ROGERSON'S QUAY"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DUBLIN",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D02 R296"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "70 SIR JOHN ROGERSON'S QUAY"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DUBLIN",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D02 R296"
+      },
+      "registeredAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "registeredAs": "660412",
+      "jurisdiction": "IE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "MNQ7",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2019-11-11T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2025-02-18T13:05:23Z",
+      "lastUpdateDate": "2026-06-16T11:04:18Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-02-18T13:05:24Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "validatedAs": "660412",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "ie/660412",
+     "qcc": "QIEUT120QV",
+     "gem": null,
+     "spglobal": [
+      "1828691223"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/ultimate-parent"
+      }
+     },
+     "direct-children": {
+      "links": {
+       "relationship-records": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/direct-child-relationships",
+       "related": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435/direct-children"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "YYPPRNO5HB304LHFVG31",
+    "attributes": {
+     "lei": "YYPPRNO5HB304LHFVG31",
+     "entity": {
+      "legalName": {
+       "name": "GOOGLE IRELAND LIMITED",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "GORDON HOUSE",
+        "BARROW STREET",
+        "DUBLIN 4"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DUBLIN",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D04 E5W5"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "GORDON HOUSE",
+        "BARROW STREET",
+        "DUBLIN 4"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DUBLIN",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D04 E5W5"
+      },
+      "registeredAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "registeredAs": "368047",
+      "jurisdiction": "IE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "MNQ7",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2003-02-28T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2012-11-14T01:26:00Z",
+      "lastUpdateDate": "2026-05-18T05:48:09Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-05-31T19:52:00Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "validatedAs": "368047",
+      "otherValidationAuthorities": []
+     },
+     "bic": [
+      "GOOGIE31XXX"
+     ],
+     "mic": null,
+     "ocid": "ie/368047",
+     "qcc": "QIE1T2722W",
+     "gem": null,
+     "spglobal": [
+      "26427657"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/YYPPRNO5HB304LHFVG31/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/YYPPRNO5HB304LHFVG31/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/YYPPRNO5HB304LHFVG31/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/YYPPRNO5HB304LHFVG31/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/YYPPRNO5HB304LHFVG31/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/YYPPRNO5HB304LHFVG31/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/YYPPRNO5HB304LHFVG31/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/YYPPRNO5HB304LHFVG31"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300YY0W0QP4SZAG19",
+    "attributes": {
+     "lei": "549300YY0W0QP4SZAG19",
+     "entity": {
+      "legalName": {
+       "name": "GOOGLE EUROPE, MIDDLE EAST AND AFRICA UNLIMITED COMPANY",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "70 SIR JOHN ROGERSON'S QUAY",
+        "DUBLIN 2"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DUBLIN",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D02 R296"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "70 SIR JOHN ROGERSON'S QUAY",
+        "DUBLIN 2"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DUBLIN",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D02 R296"
+      },
+      "registeredAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "registeredAs": "657921",
+      "jurisdiction": "IE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "KMFX",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2019-09-30T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2019-10-25T14:32:00Z",
+      "lastUpdateDate": "2026-10-14T16:52:55Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-11-13T17:53:12Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "validatedAs": "657921",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "ie/657921",
+     "qcc": "QIEJAESD8J",
+     "gem": null,
+     "spglobal": [
+      "641912297"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300YY0W0QP4SZAG19/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300YY0W0QP4SZAG19/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300YY0W0QP4SZAG19/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300YY0W0QP4SZAG19/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300YY0W0QP4SZAG19/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300YY0W0QP4SZAG19/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300YY0W0QP4SZAG19/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300YY0W0QP4SZAG19"
+    }
+   }
+  ]
+ }
+}

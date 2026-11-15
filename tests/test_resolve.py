@@ -16,11 +16,14 @@ BASE = {
 
 MANUAL_COLUMNS = ["input_row_key", "decision", "veridion_id", "related_veridion_id", "reason", "reviewer_note", "source"]
 MANUAL = pd.DataFrame(columns=MANUAL_COLUMNS)
+EXTERNAL_COLUMNS = ["input_row_key", "source", "veridion_id", "company_name", "website", "country_code", "evidence_url",
+                    "note", "registry_id", "registry_status", "match_basis", "confidence"]
+EXTERNAL = pd.DataFrame(columns=EXTERNAL_COLUMNS)
 
 
 def run(*candidates):
     rows = [BASE | {"cand_idx": i, "veridion_id": f"v{i}"} | c for i, c in enumerate(candidates)]
-    return r.resolve(pd.DataFrame(rows), manual=MANUAL).iloc[0]
+    return r.resolve(pd.DataFrame(rows), manual=MANUAL, external=EXTERNAL).iloc[0]
 
 
 @pytest.mark.parametrize("sort, set_, inp, cand, expected", [
@@ -245,9 +248,9 @@ def manual_row(**fields):
     return pd.DataFrame([dict.fromkeys(MANUAL_COLUMNS, "") | {"input_row_key": "1", "source": "test"} | fields])
 
 
-def run_with_manual(manual, *candidates):
+def run_with_manual(manual, *candidates, external=EXTERNAL):
     rows = [BASE | {"cand_idx": i, "veridion_id": f"v{i}"} | c for i, c in enumerate(candidates)]
-    return r.resolve(pd.DataFrame(rows), manual=manual).iloc[0]
+    return r.resolve(pd.DataFrame(rows), manual=manual, external=external).iloc[0]
 
 
 def test_manual_match_overrides_rules():  # D50
@@ -265,3 +268,19 @@ def test_manual_unmatched_clears_pick():  # D50
 def test_manual_pick_must_be_a_candidate():
     with pytest.raises(ValueError, match="not a candidate"):
         run_with_manual(manual_row(decision="match", veridion_id="v9"), {})
+
+
+def external_row(**fields):
+    return pd.DataFrame([dict.fromkeys(EXTERNAL_COLUMNS, "") | {"input_row_key": "1", "source": "brreg",
+                         "registry_id": "brreg:111", "confidence": "medium"} | fields])
+
+
+def test_external_match_resolves_unmatched_input():  # D54
+    out = run_with_manual(MANUAL, {"name_sort": 30, "name_set": 30, "cand_core": "ZETA"}, external=external_row())
+    assert (out.decision, out.rule, out.confidence, out.registry_id) == ("external", "E1", "medium", "brreg:111")
+    assert pd.isna(out.get("veridion_id"))
+
+
+def test_external_match_cannot_override_a_veridion_pick():  # D54
+    with pytest.raises(ValueError, match="already has decision"):
+        run_with_manual(MANUAL, {}, external=external_row())

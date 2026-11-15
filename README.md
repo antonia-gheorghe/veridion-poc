@@ -10,6 +10,7 @@ analysis, cost savings and (later) sustainability.
 | `data/raw/` | Client sample as received. Never modified. |
 | `data/manual/match_review.csv` | Human match decisions (override rules), with reasons. |
 | `data/manual/external_matches.csv` | Companies found outside the 5 candidates (Veridion Search API / web). |
+| `data/external/` | Registry lookup log and cached registry responses (Brreg, PRH, GLEIF). |
 | `data/output/` | Generated: final dataset, QC flags, summary. |
 | `notebooks/` | Exploration. Findings that hold up move into `src/`. |
 | `src/` | Pipeline steps: normalize → score → resolve → qc → export. |
@@ -19,6 +20,7 @@ analysis, cost savings and (later) sustainability.
 ```bash
 python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 cp .env.example .env   # add Veridion API key (optional, only for external lookups)
+.venv/bin/python -m src.registry   # optional: registry lookup for unmatched rows (network, cached)
 .venv/bin/python run.py
 ```
 
@@ -41,6 +43,7 @@ and a `confidence`. Rules are in `docs/decisions.md`; sample checks with sources
 | U2 | unmatched | none | 0 of 10 were the company (5 related, 1 wrong, 4 unverified) |
 | U3 | unmatched | none | 0 of 5 were the company (5 group or parent records) |
 | U4 | unmatched | none | alias picks right 2 of 5; the right company was another candidate or missing |
+| E1 | external | high if registry city = input city, else medium | not sampled |
 | M2 | unmatched | none | user review or sourced research per row |
 | R3 | no candidate | none | not sampled |
 

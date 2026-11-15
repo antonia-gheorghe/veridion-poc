@@ -1,0 +1,149 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SAS+INSTITUTE&filter%5Bentity.legalAddress.country%5D=NO&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SAS+INSTITUTE&filter%5Bentity.legalAddress.country%5D=NO&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SAS+INSTITUTE&filter%5Bentity.legalAddress.country%5D=NO&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "254900DVCF8J2HOLPT71",
+    "attributes": {
+     "lei": "254900DVCF8J2HOLPT71",
+     "entity": {
+      "legalName": {
+       "name": "SAS Institute AS",
+       "language": "no"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "Parkveien 55"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Oslo",
+       "region": "NO-03",
+       "country": "NO",
+       "postalCode": "0256"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "Parkveien 55"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Oslo",
+       "region": "NO-03",
+       "country": "NO",
+       "postalCode": "0256"
+      },
+      "registeredAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "registeredAs": "940 957 443",
+      "jurisdiction": "NO",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "YI42",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1986-06-02T12:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2025-02-04T19:08:38Z",
+      "lastUpdateDate": "2026-01-20T13:29:45Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-02-04T19:08:38Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "validatedAs": "940 957 443",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "no/940957443",
+     "qcc": "QNOM71KAVK",
+     "gem": null,
+     "spglobal": [
+      "49701413"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900DVCF8J2HOLPT71/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900DVCF8J2HOLPT71/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900DVCF8J2HOLPT71/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/254900DVCF8J2HOLPT71/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/254900DVCF8J2HOLPT71/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/254900DVCF8J2HOLPT71/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/254900DVCF8J2HOLPT71/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/254900DVCF8J2HOLPT71"
+    }
+   }
+  ]
+ }
+}

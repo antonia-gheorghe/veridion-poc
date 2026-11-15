@@ -1,0 +1,362 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SFDC&filter%5Bentity.legalAddress.country%5D=IE&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 2,
+    "total": 2,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SFDC&filter%5Bentity.legalAddress.country%5D=IE&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SFDC&filter%5Bentity.legalAddress.country%5D=IE&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300J010H1QCSQD388",
+    "attributes": {
+     "lei": "549300J010H1QCSQD388",
+     "entity": {
+      "legalName": {
+       "name": "SFDC INTERNATIONAL UNLIMITED COMPANY",
+       "language": "en"
+      },
+      "otherNames": [
+       {
+        "name": "SFDC INTERNATIONAL LIMITED",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "70 SIR JOHN ROGERSON'S QUAY",
+        "DUBLIN 2"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DUBLIN",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D02 R296"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "33/37 ATHOL STREET"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DOUGLAS",
+       "region": null,
+       "country": "IM",
+       "postalCode": "IM1 1LB"
+      },
+      "registeredAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "registeredAs": "320467",
+      "jurisdiction": "IE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "KMFX",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "INACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2000-02-14T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2021-03-15T00:00:00Z",
+          "recordedDate": "2022-06-14T14:04:27Z",
+          "type": "DISSOLUTION",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2012-12-22T02:32:00Z",
+      "lastUpdateDate": "2026-10-26T17:28:30Z",
+      "status": "RETIRED",
+      "nextRenewalDate": "2022-07-26T21:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "validatedAs": "320467",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "ie/320467",
+     "qcc": "QIEJT1V6UC",
+     "gem": null,
+     "spglobal": [
+      "141703621"
+     ],
+     "conformityFlag": "NOT_APPLICABLE"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300J010H1QCSQD388/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300J010H1QCSQD388/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300J010H1QCSQD388/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300J010H1QCSQD388/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300J010H1QCSQD388/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300J010H1QCSQD388"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300UONRKY537S9629",
+    "attributes": {
+     "lei": "549300UONRKY537S9629",
+     "entity": {
+      "legalName": {
+       "name": "SFDC IRELAND LIMITED",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "Salesforce Tower",
+        "Spencer Place",
+        "Dublin 1"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Dublin",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D01 W2Y3"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "Salesforce Tower",
+        "Spencer Place",
+        "Dublin 1"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Dublin",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D01 W2Y3"
+      },
+      "registeredAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "registeredAs": "394272",
+      "jurisdiction": "IE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "MNQ7",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2004-11-26T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "OTHER_OFFICIAL_DOCUMENTS",
+          "effectiveDate": "2025-10-20T00:00:00Z",
+          "recordedDate": "2026-10-22T21:46:50Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "OTHER_OFFICIAL_DOCUMENTS",
+          "effectiveDate": "2025-10-20T00:00:00Z",
+          "recordedDate": "2026-10-22T21:46:50Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2022-08-01T00:00:00Z",
+          "recordedDate": "2022-08-08T12:35:30Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "OTHER_OFFICIAL_DOCUMENTS",
+          "effectiveDate": "2022-08-01T00:00:00Z",
+          "recordedDate": "2023-11-11T00:58:48Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "OTHER_OFFICIAL_DOCUMENTS",
+          "effectiveDate": "2022-08-01T00:00:00Z",
+          "recordedDate": "2023-11-11T00:58:48Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-07-29T01:52:00Z",
+      "lastUpdateDate": "2026-10-26T10:15:22Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-11-01T18:28:02Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "validatedAs": "394272",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "ie/394272",
+     "qcc": "QIEB0JXUS7",
+     "gem": null,
+     "spglobal": [
+      "52747155"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/ultimate-parent"
+      }
+     },
+     "direct-children": {
+      "links": {
+       "relationship-records": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/direct-child-relationships",
+       "related": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/direct-children"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629"
+    }
+   }
+  ]
+ }
+}

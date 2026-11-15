@@ -1,0 +1,235 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=EWORK+GROUP&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934120655"
+      }
+     },
+     "aktivitet": [
+      "mor i konsern"
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Vasagatan 16"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "11120 Stockholm"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "EWORK GROUP AB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "934120655",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Akersgata 16"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0158",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2024-09-18",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2000-04-03",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933150569"
+      }
+     },
+     "aktivitet": [
+      "Utleie av arbeidskraft."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Øvre Slottsgate 2B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0157",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2024-03-11",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "EWORK GROUP CONSULTING NORWAY AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "933150569",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-03-11",
+     "registreringsdatoForetaksregisteret": "2024-03-11",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2024-01-17",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-01-17",
+     "vedtektsfestetFormaal": [
+      "Konsulentvirksomhet, rådgivende tjenester, bistå med spesialister inn",
+      "mot næringsliv. Konsulentvirksomhet og salg av konsulenttjenester",
+      "tilknyttet spesialister og behov for kompetanse innen",
+      "informasjonsteknologi, energi og andre tjenesteområder, herunder andre",
+      "tjenester som naturlig faller sammen med dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/989958135"
+      }
+     },
+     "aktivitet": [
+      "Utleie av arbeidskraft, formidling av konsulenttjenester og dertil",
+      "knyttet virksomhet."
+     ],
+     "antallAnsatte": 23,
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Øvre Slottsgate 2B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0157",
+      "poststed": "OSLO"
+     },
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2006-07-05 20:24:31",
+       "navn": "EWORK NORGE AS",
+       "tilDato": "2016-06-04 14:33:01"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 110000.0,
+      "innfortDato": "2008-04-09",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Rekruttering og formidling av arbeidskraft",
+      "kode": "78.100"
+     },
+     "navn": "EWORK GROUP NORWAY AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "989958135",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2006-07-05",
+     "registreringsdatoForetaksregisteret": "2006-07-05",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2019-09-21",
+     "registreringsdatoMerverdiavgiftsregisteret": "2007-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2007-05-05",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2006-05-25",
+     "telefon": "22 40 36 20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2016-05-13",
+     "vedtektsfestetFormaal": [
+      "Formidler av konsulenttjenester og dertil knyttet virksomhet."
+     ]
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=EWORK%20GROUP&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 3,
+   "totalPages": 1
+  }
+ }
+}

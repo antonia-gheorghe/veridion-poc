@@ -1,0 +1,312 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=INTRUM+DEBT+FINANCE&filter%5Bentity.legalAddress.country%5D=CH&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 2,
+    "total": 2,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=INTRUM+DEBT+FINANCE&filter%5Bentity.legalAddress.country%5D=CH&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=INTRUM+DEBT+FINANCE&filter%5Bentity.legalAddress.country%5D=CH&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300LFFC2XJOZ3GG70",
+    "attributes": {
+     "lei": "549300LFFC2XJOZ3GG70",
+     "entity": {
+      "legalName": {
+       "name": "INTRUM DEBT FINANCE AG",
+       "language": "de"
+      },
+      "otherNames": [
+       {
+        "name": "INTRUM JUSTITIA DEBT FINANCE AG",
+        "language": "de",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "INTRUM CREDITCONTROL AG",
+        "language": "de",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "INTRUM BONITÄTS- UND CREDITCONTROL AG",
+        "language": "de",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "de",
+       "addressLines": [
+        "NEUHOFSTRASSE 4"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "BAAR",
+       "region": "CH-ZG",
+       "country": "CH",
+       "postalCode": "6340"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "HESSELMANSTORG 14"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "STOCKHOLM",
+       "region": "SE-AB",
+       "country": "SE",
+       "postalCode": "105 24"
+      },
+      "registeredAt": {
+       "id": "RA000549",
+       "other": null
+      },
+      "registeredAs": "CHE-100.023.266",
+      "jurisdiction": "CH",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "MVII",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1998-06-29T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "ACCOUNTS_FILING",
+          "effectiveDate": "2024-03-19T00:00:00Z",
+          "recordedDate": "2024-03-19T13:27:34Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-01-21T03:07:00Z",
+      "lastUpdateDate": "2026-10-26T11:00:17Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-03-19T00:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000549",
+       "other": null
+      },
+      "validatedAs": "CHE-100.023.266",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": null,
+     "qcc": "QCHY1MAWM4",
+     "gem": null,
+     "spglobal": [
+      "254491359"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300LFFC2XJOZ3GG70/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300LFFC2XJOZ3GG70/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300LFFC2XJOZ3GG70/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300LFFC2XJOZ3GG70/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300LFFC2XJOZ3GG70/ultimate-parent-reporting-exception"
+      }
+     },
+     "isins": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300LFFC2XJOZ3GG70/isins"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300LFFC2XJOZ3GG70"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300TXNEBLRNFZQV74",
+    "attributes": {
+     "lei": "549300TXNEBLRNFZQV74",
+     "entity": {
+      "legalName": {
+       "name": "INTRUM DEBT FINANCE DOMESTIC AG",
+       "language": "de"
+      },
+      "otherNames": [
+       {
+        "name": "Intrum Justitia Debt Finance Domestic AG",
+        "language": "de",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "de",
+       "addressLines": [
+        "INDUSTRIESTRASSE 13C"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "ZUG",
+       "region": "CH-ZG",
+       "country": "CH",
+       "postalCode": "6300"
+      },
+      "headquartersAddress": {
+       "language": "de",
+       "addressLines": [
+        "HESSELMANSTORG 14"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "STOCKHOLM",
+       "region": "SE-AB",
+       "country": "SE",
+       "postalCode": "105 24"
+      },
+      "registeredAt": {
+       "id": "RA000549",
+       "other": null
+      },
+      "registeredAs": "CHE-109.880.638",
+      "jurisdiction": "CH",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "MVII",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-01-21T03:01:00Z",
+      "lastUpdateDate": "2023-07-31T17:11:36Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2021-04-13T18:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000549",
+       "other": null
+      },
+      "validatedAs": "CHE-109.880.638",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": null,
+     "qcc": "QCHJ1FW2BH",
+     "gem": null,
+     "spglobal": [
+      "254483480"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300TXNEBLRNFZQV74/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300TXNEBLRNFZQV74/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300TXNEBLRNFZQV74/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300TXNEBLRNFZQV74/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300TXNEBLRNFZQV74/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300TXNEBLRNFZQV74/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300TXNEBLRNFZQV74/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300TXNEBLRNFZQV74"
+    }
+   }
+  ]
+ }
+}

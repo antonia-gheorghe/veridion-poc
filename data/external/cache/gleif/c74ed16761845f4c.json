@@ -1,0 +1,149 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SMART+TECHNOLOGIES+BD&filter%5Bentity.legalAddress.country%5D=BD&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SMART+TECHNOLOGIES+BD&filter%5Bentity.legalAddress.country%5D=BD&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SMART+TECHNOLOGIES+BD&filter%5Bentity.legalAddress.country%5D=BD&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300ZRE95T49F0RP19",
+    "attributes": {
+     "lei": "549300ZRE95T49F0RP19",
+     "entity": {
+      "legalName": {
+       "name": "SMART TECHNOLOGIES (BD) LIMITED",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "bn",
+       "addressLines": [
+        "205/1/A, BEGUM ROKEYA SARANI",
+        "AGARGAON TALTOLA"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DHAKA",
+       "region": "BD-C",
+       "country": "BD",
+       "postalCode": "1207"
+      },
+      "headquartersAddress": {
+       "language": "bn",
+       "addressLines": [
+        "205/1/A, BEGUM ROKEYA SARANI",
+        "AGARGAON TALTOLA"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DHAKA",
+       "region": "BD-C",
+       "country": "BD",
+       "postalCode": "1207"
+      },
+      "registeredAt": {
+       "id": "RA999999",
+       "other": null
+      },
+      "registeredAs": null,
+      "jurisdiction": "BD",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "9999",
+       "other": "COMPANY"
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2022-07-07T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2022-08-18T21:31:00Z",
+      "lastUpdateDate": "2023-09-13T00:10:27Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2023-09-12T00:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "ENTITY_SUPPLIED_ONLY",
+      "validatedAt": {
+       "id": "RA999999",
+       "other": null
+      },
+      "validatedAs": null,
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": null,
+     "qcc": null,
+     "gem": null,
+     "spglobal": [
+      "413143210"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300ZRE95T49F0RP19/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300ZRE95T49F0RP19/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300ZRE95T49F0RP19/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300ZRE95T49F0RP19/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300ZRE95T49F0RP19/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300ZRE95T49F0RP19"
+    }
+   }
+  ]
+ }
+}

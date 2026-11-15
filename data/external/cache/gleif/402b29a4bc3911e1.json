@@ -1,0 +1,148 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=FACEBOOK&filter%5Bentity.legalAddress.country%5D=IE&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=FACEBOOK&filter%5Bentity.legalAddress.country%5D=IE&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=FACEBOOK&filter%5Bentity.legalAddress.country%5D=IE&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "635400XSFNRXSVRFGR47",
+    "attributes": {
+     "lei": "635400XSFNRXSVRFGR47",
+     "entity": {
+      "legalName": {
+       "name": "FACEBOOK INTERNATIONAL TREASURY OPERATIONS LIMITED",
+       "language": "en-IE"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en-IE",
+       "addressLines": [
+        "Merrion Road"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Dublin",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D04 X2K5"
+      },
+      "headquartersAddress": {
+       "language": "en-IE",
+       "addressLines": [
+        "6 Serpentine Ave"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Dublin",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D04 H0C9"
+      },
+      "registeredAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "registeredAs": "628410",
+      "jurisdiction": "IE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "MNQ7",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2018-06-12T23:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2024-12-17T00:00:00Z",
+      "lastUpdateDate": "2025-12-03T00:00:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2026-12-17T00:00:00Z",
+      "managingLou": "635400DZBUIMTBCXGA12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "validatedAs": "628410",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "ie/628410",
+     "qcc": "QIEDSFS145",
+     "gem": null,
+     "spglobal": [
+      "687368952"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/635400XSFNRXSVRFGR47/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/635400XSFNRXSVRFGR47/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/635400XSFNRXSVRFGR47/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/635400XSFNRXSVRFGR47/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/635400XSFNRXSVRFGR47/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/635400XSFNRXSVRFGR47/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/635400XSFNRXSVRFGR47"
+    }
+   }
+  ]
+ }
+}

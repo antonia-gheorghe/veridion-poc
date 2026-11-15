@@ -1,0 +1,162 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=APPDYNAMICS&filter%5Bentity.legalAddress.country%5D=GB&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=APPDYNAMICS&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=APPDYNAMICS&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300VMMR8UR8M51R87",
+    "attributes": {
+     "lei": "549300VMMR8UR8M51R87",
+     "entity": {
+      "legalName": {
+       "name": "APPDYNAMICS INTERNATIONAL LTD",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "9-11 NEW SQUARE BEDFONT LAKES"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Feltham",
+       "region": null,
+       "country": "GB",
+       "postalCode": "TW14 8HA"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "ONE ARLINGTON SQUARE",
+        "DOWNSHIRE WAY"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Bracknell",
+       "region": null,
+       "country": "GB",
+       "postalCode": "RG12 1WA"
+      },
+      "registeredAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "registeredAs": "09004916",
+      "jurisdiction": "GB",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H0PO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2014-04-22T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "ACCOUNTS_FILING",
+          "effectiveDate": "2024-07-31T00:00:00Z",
+          "recordedDate": "2026-02-27T15:46:04Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2016-08-27T01:50:00Z",
+      "lastUpdateDate": "2026-03-05T08:47:16Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-03-05T08:47:16Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "validatedAs": "09004916",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "gb/09004916",
+     "qcc": "QGB89576G7",
+     "gem": null,
+     "spglobal": [
+      "382035547"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300VMMR8UR8M51R87/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300VMMR8UR8M51R87/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300VMMR8UR8M51R87/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300VMMR8UR8M51R87/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300VMMR8UR8M51R87/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300VMMR8UR8M51R87/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300VMMR8UR8M51R87"
+    }
+   }
+  ]
+ }
+}

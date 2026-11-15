@@ -1,0 +1,228 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TECH+MAHINDRA&filter%5Bentity.legalAddress.country%5D=TH&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TECH+MAHINDRA&filter%5Bentity.legalAddress.country%5D=TH&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TECH+MAHINDRA&filter%5Bentity.legalAddress.country%5D=TH&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "254900JRNF3KBCP9UK70",
+    "attributes": {
+     "lei": "254900JRNF3KBCP9UK70",
+     "entity": {
+      "legalName": {
+       "name": "บริษัท เทค มาฮินดร้า (ไทยแลนด์) จำกัด",
+       "language": "th"
+      },
+      "otherNames": [
+       {
+        "name": "MBT (Thailand) Ltd.",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "บริษัท เทค มหินทรา (ประเทศไทย) จำกัด",
+        "language": "th",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [
+       {
+        "name": "Tech Mahindra (Thailand) Ltd.",
+        "language": "th",
+        "type": "PREFERRED_ASCII_TRANSLITERATED_LEGAL_NAME"
+       }
+      ],
+      "legalAddress": {
+       "language": "th",
+       "addressLines": [
+        "54 อาคารบีบี ชั้น 13 ห้อง",
+        "1304 ถนนสุขุมวิท 21",
+        "(อโศก) แขวงคลองเตย",
+        "เหนือ เขตวัฒนา"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "กรุงเทพมหานคร",
+       "region": "TH-10",
+       "country": "TH",
+       "postalCode": "10110"
+      },
+      "headquartersAddress": {
+       "language": "th",
+       "addressLines": [
+        "อาคารบีบี ชั้น 13 ห้องเลขที่ 1304",
+        "ถนนสุขุมวิท 21 (อโศก)",
+        "ต.คลองเตยเหนือ",
+        "เขตวัฒนา"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "กรุงเทพฯ",
+       "region": "TH-10",
+       "country": "TH",
+       "postalCode": "10110"
+      },
+      "registeredAt": {
+       "id": "RA000554",
+       "other": null
+      },
+      "registeredAs": "0105548112651",
+      "jurisdiction": "TH",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "K09K",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2005-08-26T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "OtherAddress",
+        "language": "en",
+        "type": "ALTERNATIVE_LANGUAGE_LEGAL_ADDRESS",
+        "addressLines": [
+         "54 BB Building",
+         "13th Floor, Room 1304",
+         "Sukhumvit 21 (Asoke)",
+         "Khlong Toei Nuea, Watthana"
+        ],
+        "city": "Bangkok",
+        "region": "TH-10",
+        "country": "TH",
+        "postalCode": "10110"
+       },
+       {
+        "fieldType": "OtherAddress",
+        "language": "en",
+        "type": "ALTERNATIVE_LANGUAGE_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "BB Building, 13th Floor, Unit No. 1304",
+         "Sukhumvit 21 Road (Asok)",
+         "North Klongteoy Sub-district",
+         "Wattana District"
+        ],
+        "city": "Bangkok",
+        "region": "TH-10",
+        "country": "TH",
+        "postalCode": "10110"
+       }
+      ],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2024-11-15T00:00:00Z",
+          "recordedDate": "2024-11-15T00:00:00Z",
+          "type": "CHANGE_LEGAL_NAME",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2023-11-15T00:00:00Z",
+          "recordedDate": "2024-11-15T00:00:00Z",
+          "type": "CHANGE_LEGAL_NAME",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2022-12-01T17:41:00Z",
+      "lastUpdateDate": "2025-11-12T17:52:07Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2026-12-01T17:41:00Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000554",
+       "other": null
+      },
+      "validatedAs": "0105548112651",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "th/0105548112651",
+     "qcc": "QTH2BWAS40",
+     "gem": null,
+     "spglobal": [
+      "234134626"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900JRNF3KBCP9UK70/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900JRNF3KBCP9UK70/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900JRNF3KBCP9UK70/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/254900JRNF3KBCP9UK70/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/254900JRNF3KBCP9UK70/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/254900JRNF3KBCP9UK70/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/254900JRNF3KBCP9UK70/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/254900JRNF3KBCP9UK70"
+    }
+   }
+  ]
+ }
+}

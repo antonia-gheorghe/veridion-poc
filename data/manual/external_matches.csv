@@ -1,1 +1,76 @@
-input_row_key,source,veridion_id,company_name,website,country_code,evidence_url,note
+input_row_key,source,veridion_id,company_name,website,country_code,evidence_url,note,registry_id,registry_status,match_basis,confidence
+3,brreg,,3 STEP IT AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/878703812,,brreg:878703812,active,current name,high
+4,gleif,,3 Step IT Sweden AB,,SE,https://api.gleif.org/api/v1/lei-records/549300OSI57RVL3FA094,,gleif:549300OSI57RVL3FA094,active,current name,high
+10,brreg,,ACCENTURE SERVICES AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/912517012,,brreg:912517012,active,current name,medium
+32,gleif,,AMDOCS DEVELOPMENT LIMITED,,CY,https://api.gleif.org/api/v1/lei-records/549300XCN1XI07CX7056,,gleif:549300XCN1XI07CX7056,active,current name,high
+35,brreg,,ANALYSYS MASON AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/813564572,,brreg:813564572,active,current name,high
+40,gleif,,ANRITSU A/S,,DK,https://api.gleif.org/api/v1/lei-records/213800AUGYU856JITX86,,gleif:213800AUGYU856JITX86,active,current name,medium
+48,brreg,,ARELION NORWAY AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/981946685,,brreg:981946685,active,current name,high
+83,gleif,,C&W SERVICES (S) PTE. LTD.,,SG,https://api.gleif.org/api/v1/lei-records/549300JZ6C6QEY7MBO86,,gleif:549300JZ6C6QEY7MBO86,active,current name,high
+95,gleif,,CISCO INTERNATIONAL LIMITED,,GB,https://api.gleif.org/api/v1/lei-records/549300RLPYGTS2E0G254,,gleif:549300RLPYGTS2E0G254,active,current name,high
+104,gleif,,COMMSCOPE TECHNOLOGIES LLC,,US,https://api.gleif.org/api/v1/lei-records/M4TWC4QDOKW45N7T6Y12,,gleif:M4TWC4QDOKW45N7T6Y12,active,current name,medium
+130,brreg,,DELOITTE ADVOKATFIRMA AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/994116177,,brreg:994116177,active,current name,high
+133,gleif,,DELOITTE STATSAUTORISERET REVISIONSPARTNERSELSKAB,,DK,https://api.gleif.org/api/v1/lei-records/254900MTWV7C805WA426,,gleif:254900MTWV7C805WA426,active,current name,medium
+134,gleif,,"DELTA EJENDOM, AALBORG A/S",,DK,https://api.gleif.org/api/v1/lei-records/213800WPZZEEGC15HA15,,gleif:213800WPZZEEGC15HA15,active,current name,high
+142,gleif,,Punktum dk A/S,,DK,https://api.gleif.org/api/v1/lei-records/549300DNDS23KOL7E454,,gleif:549300DNDS23KOL7E454,active,former name,medium
+160,gleif,,EGENCIA LLC,,US,https://api.gleif.org/api/v1/lei-records/254900MMJXZ8BFHVNN65,,gleif:254900MMJXZ8BFHVNN65,active,current name,medium
+182,brreg,,EWORK GROUP NORWAY AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/989958135,,brreg:989958135,active,current name,high
+184,brreg,,EXIDE TECHNOLOGIES AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/939099093,,brreg:939099093,active,current name,medium
+191,gleif,,FAVRO HOLDING AB,,SE,https://api.gleif.org/api/v1/lei-records/213800GS2QKN1G9T3V97,,gleif:213800GS2QKN1G9T3V97,active,current name,high
+199,gleif,,GBT TRAVEL SERVICES UK LIMITED,,GB,https://api.gleif.org/api/v1/lei-records/549300BETUFXG0055F45,,gleif:549300BETUFXG0055F45,active,current name,high
+208,gleif,,GOOGLE CLOUD EMEA LIMITED,,IE,https://api.gleif.org/api/v1/lei-records/98450052CF14CFEB6435,,gleif:98450052CF14CFEB6435,active,current name,medium
+210,gleif,,GOOGLE IRELAND LIMITED,,IE,https://api.gleif.org/api/v1/lei-records/YYPPRNO5HB304LHFVG31,,gleif:YYPPRNO5HB304LHFVG31,active,current name,medium
+217,gleif,,哈尔滨昆宇新能源有限公司,,CN,https://api.gleif.org/api/v1/lei-records/836800ZSJ5O8251ZJ568,,gleif:836800ZSJ5O8251ZJ568,active,current name,medium
+228,brreg+gleif,,HEWLETT-PACKARD NORGE AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/918891919 https://api.gleif.org/api/v1/lei-records/549300ESPENLHSSHNX46,,brreg:918891919; gleif:549300ESPENLHSSHNX46,active,current name,medium
+229,gleif,,Hewlett-Packard Singapore (Sales) Pte. Ltd.,,SG,https://api.gleif.org/api/v1/lei-records/549300Y364WLODHG3072,,gleif:549300Y364WLODHG3072,active,current name,high
+249,gleif,,HUBER+SUHNER ELECTRONICS PRIVATE LIMITED,,IN,https://api.gleif.org/api/v1/lei-records/3358001PFC5B2XD2GC58,,gleif:3358001PFC5B2XD2GC58,active,current name,high
+252,brreg+gleif,,HYDRO ENERGI AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/930187240 https://api.gleif.org/api/v1/lei-records/549300UBLOMF800LIC19,,brreg:930187240; gleif:549300UBLOMF800LIC19,active,current name,high
+253,gleif,,IBM DANMARK ApS,,DK,https://api.gleif.org/api/v1/lei-records/0IYV3XWWG6HHPFIZHV87,,gleif:0IYV3XWWG6HHPFIZHV87,active,former name,medium
+268,gleif,,INTRUM DEBT FINANCE AG,,CH,https://api.gleif.org/api/v1/lei-records/549300LFFC2XJOZ3GG70,,gleif:549300LFFC2XJOZ3GG70,active,current name,medium
+291,brreg,,KINLY HOLDING AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/919422335,,brreg:919422335,active,current name,high
+295,gleif,,KMD Venture A/S,,DK,https://api.gleif.org/api/v1/lei-records/984500555T9290B83680,,gleif:984500555T9290B83680,inactive,current name,high
+301,gleif,,KROLL ASSOCIATES U.K. LIMITED,,GB,https://api.gleif.org/api/v1/lei-records/254900SVEIIPGVP6XD12,,gleif:254900SVEIIPGVP6XD12,active,current name,high
+308,gleif,,LinkedIn Singapore Pte. Ltd.,,SG,https://api.gleif.org/api/v1/lei-records/549300I3UEC4HXUCH839,,gleif:549300I3UEC4HXUCH839,active,current name,high
+325,brreg+gleif,,MEISEL EIENDOM AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/815369432 https://api.gleif.org/api/v1/lei-records/254900GZU88JLOW60290,,brreg:815369432; gleif:254900GZU88JLOW60290,active,current name,medium
+326,gleif,,META PLATFORMS IRELAND LIMITED,,IE,https://api.gleif.org/api/v1/lei-records/635400IRYI5QC7GUYI75,,gleif:635400IRYI5QC7GUYI75,active,current name,medium
+339,brreg,,NAGARRO AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/980394573,,brreg:980394573,active,current name,high
+340,gleif,,NAGARRO ENTERPRISE SERVICES PRIVATE LIMITED,,IN,https://api.gleif.org/api/v1/lei-records/335800XYRJFEOCWN7U58,,gleif:335800XYRJFEOCWN7U58,active,current name,medium
+343,gleif,,NEC Scandinavia Aktiebolag,,SE,https://api.gleif.org/api/v1/lei-records/549300SNO518GFU7EX36,,gleif:549300SNO518GFU7EX36,active,current name,medium
+355,prh,,Nokia Innovations Oy,,FI,https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=NOKIA+INNOVATIONS,,prh:2102144-1,prh status=2 tradeRegisterStatus=1,current name,high
+366,gleif,,NTT ASIA PACIFIC HOLDINGS PTE. LIMITED,,SG,https://api.gleif.org/api/v1/lei-records/213800S5ZSO671Q7XQ76,,gleif:213800S5ZSO671Q7XQ76,active,current name,high
+368,gleif,,NTT DATA Business Solutions A/S,,DK,https://api.gleif.org/api/v1/lei-records/549300PCCHQG7FHTF604,,gleif:549300PCCHQG7FHTF604,active,former name,medium
+369,gleif,,NTT MALAYSIA SOLUTIONS SDN. BHD.,,MY,https://api.gleif.org/api/v1/lei-records/213800T25UQB2UU93J67,,gleif:213800T25UQB2UU93J67,active,current name,high
+388,gleif,,"ORRICK, HERRINGTON & SUTCLIFFE (UK) LLP",,GB,https://api.gleif.org/api/v1/lei-records/2138005AW7M4EG4J6950,,gleif:2138005AW7M4EG4J6950,active,current name,high
+393,gleif,,PELATRO LIMITED,,GB,https://api.gleif.org/api/v1/lei-records/213800U45T7TEZX38V60,,gleif:213800U45T7TEZX38V60,active,current name,high
+398,gleif,,PLP EJENDOMME A/S,,DK,https://api.gleif.org/api/v1/lei-records/213800AJTL2RPVGR5R66,,gleif:213800AJTL2RPVGR5R66,active,former name,medium
+409,gleif,,PUBLICIS GROUPE HOLDINGS B.V.,,NL,https://api.gleif.org/api/v1/lei-records/2138008XNLSR4MGFOW40,,gleif:2138008XNLSR4MGFOW40,active,current name,medium
+419,gleif,,Rapid7 International Limited,,GB,https://api.gleif.org/api/v1/lei-records/254900CDHBGLOUFR7C41,,gleif:254900CDHBGLOUFR7C41,active,current name,high
+421,gleif,,RED HAT LIMITED,,IE,https://api.gleif.org/api/v1/lei-records/5493001TVDI7HN3NXF23,,gleif:5493001TVDI7HN3NXF23,active,current name,high
+433,gleif,,SALESFORCE UK LIMITED,,GB,https://api.gleif.org/api/v1/lei-records/549300BXHM0AJAH4V368,,gleif:549300BXHM0AJAH4V368,active,current name,high
+439,gleif,,SAP DANMARK A/S,,DK,https://api.gleif.org/api/v1/lei-records/529900HW16UFI8GWKN49,,gleif:529900HW16UFI8GWKN49,active,current name,medium
+440,brreg+gleif,,SAS INSTITUTE AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/940957443 https://api.gleif.org/api/v1/lei-records/254900DVCF8J2HOLPT71,,brreg:940957443; gleif:254900DVCF8J2HOLPT71,active,current name,high
+445,gleif,,SFDC IRELAND LIMITED,,IE,https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629,,gleif:549300UONRKY537S9629,active,current name,high
+458,gleif,,Singtel Global Investment Pte. Ltd.,,SG,https://api.gleif.org/api/v1/lei-records/254900DRZYMOO2W3MV72,,gleif:254900DRZYMOO2W3MV72,active,current name,high
+462,gleif,,SMART MEDIA4U TECHNOLOGY PTE. LTD.,,SG,https://api.gleif.org/api/v1/lei-records/549300P5ERVZI1M72O83,,gleif:549300P5ERVZI1M72O83,active,current name,high
+463,gleif,,SMART TECHNOLOGIES (BD) LIMITED,,BD,https://api.gleif.org/api/v1/lei-records/549300ZRE95T49F0RP19,,gleif:549300ZRE95T49F0RP19,active,current name,high
+467,brreg+gleif,,SNOW AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/922936595 https://api.gleif.org/api/v1/lei-records/636700DBKG3QFAK87224,,brreg:922936595; gleif:636700DBKG3QFAK87224,active,current name,medium
+468,gleif,,บริษัท ซอฟต์แวร์วัน จำกัด,,TH,https://api.gleif.org/api/v1/lei-records/52990044YDMO1Y0R5N94,,gleif:52990044YDMO1Y0R5N94,active,current name,medium
+471,gleif,,SONY MOBILE COMMUNICATIONS AB,,SE,https://api.gleif.org/api/v1/lei-records/549300EWDLT4SXFEFA76,,gleif:549300EWDLT4SXFEFA76,active,current name,high
+476,gleif,,SQUARETRADE EUROPE LIMITED,,MT,https://api.gleif.org/api/v1/lei-records/984500BC67086DFDF759,,gleif:984500BC67086DFDF759,active,current name,medium
+480,gleif,,Stena Recycling Holding AB,,SE,https://api.gleif.org/api/v1/lei-records/894500LGN129BCB5VW96,,gleif:894500LGN129BCB5VW96,active,current name,medium
+490,brreg,,T/A POL AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/912671941,,brreg:912671941,active,current name,high
+497,gleif,,"TATA CONSULTANCY SERVICES LIMITED, FILIAL AF TATA CONSULTANCY SERVICES LTD.,INDIEN",,DK,https://api.gleif.org/api/v1/lei-records/254900FIYQF8E8C5E810,,gleif:254900FIYQF8E8C5E810,active,current name,high
+498,gleif,,Tata Consultancy Services Sverige Aktiebolag,,SE,https://api.gleif.org/api/v1/lei-records/254900ZD89HVNJWFJO25,,gleif:254900ZD89HVNJWFJO25,active,current name,medium
+499,gleif,,TCT MOBILE INTERNATIONAL LIMITED,,HK,https://api.gleif.org/api/v1/lei-records/549300X4CFDFTG2RRJ19,,gleif:549300X4CFDFTG2RRJ19,active,current name,medium
+500,gleif,,TD SYNNEX Denmark ApS,,DK,https://api.gleif.org/api/v1/lei-records/549300PCT3CDVHYOTX35,,gleif:549300PCT3CDVHYOTX35,active,current name,medium
+504,gleif,,Tech Mahindra ICT Services (Malaysia) SDN. BHD.,,MY,https://api.gleif.org/api/v1/lei-records/2549005FIK6M4Y94U205,,gleif:2549005FIK6M4Y94U205,active,current name,high
+513,gleif,,TELENOR DANMARK HOLDING A/S,,DK,https://api.gleif.org/api/v1/lei-records/549300C2V8P06WK2JI38,,gleif:549300C2V8P06WK2JI38,active,current name,high
+515,brreg,,TELENOR FIBER AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/929340272,,brreg:929340272,active,current name,medium
+517,gleif,,TELENOR GO PTE. LTD.,,SG,https://api.gleif.org/api/v1/lei-records/549300OXB3G6KRJBUB51,,gleif:549300OXB3G6KRJBUB51,active,current name,high
+523,gleif,,TELENOR PROCUREMENT COMPANY PTE. LTD.,,SG,https://api.gleif.org/api/v1/lei-records/549300WG6085PUB5S782,,gleif:549300WG6085PUB5S782,active,current name,high
+524,brreg,,TELENOR REAL ESTATE AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/814344282,,brreg:814344282,active,current name,medium
+525,brreg,,TELENOR SHARED SERVICES AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/983337406,,brreg:983337406,active,current name,medium
+527,brreg,,TELENOR SVALBARD AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/975908739,,brreg:975908739,active,current name,medium
+541,gleif,,TPM DATA ApS,,DK,https://api.gleif.org/api/v1/lei-records/5493007H015K5FTTC974,,gleif:5493007H015K5FTTC974,active,current name,medium
+581,prh+gleif,,Zalaris HR Services Finland Oy,,FI,https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=ZALARIS+HR+SERVICES https://api.gleif.org/api/v1/lei-records/9845007BB50DF43A7716,,prh:1846808-2; gleif:9845007BB50DF43A7716,prh status=2 tradeRegisterStatus=1,current name,medium
+591,brreg,,ZTE NORWAY AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/990526184,,brreg:990526184,active,current name,medium

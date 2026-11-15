@@ -1,0 +1,159 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=HARBIN+COSLIGHT+NEW+ENERGY&filter%5Bentity.legalAddress.country%5D=CN&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=HARBIN+COSLIGHT+NEW+ENERGY&filter%5Bentity.legalAddress.country%5D=CN&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=HARBIN+COSLIGHT+NEW+ENERGY&filter%5Bentity.legalAddress.country%5D=CN&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "836800ZSJ5O8251ZJ568",
+    "attributes": {
+     "lei": "836800ZSJ5O8251ZJ568",
+     "entity": {
+      "legalName": {
+       "name": "哈尔滨昆宇新能源有限公司",
+       "language": "zh"
+      },
+      "otherNames": [
+       {
+        "name": "HARBIN COSLIGHT NEW ENERGY CO., LTD.",
+        "language": "en",
+        "type": "ALTERNATIVE_LANGUAGE_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [
+       {
+        "name": "ha er bin kun yu xin neng yuan you xian gong si",
+        "language": "zh",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_NAME"
+       }
+      ],
+      "legalAddress": {
+       "language": "zh",
+       "addressLines": [
+        "哈尔滨高新技术产业开发区迎宾路集中区南湖街1栋202室"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "哈尔滨市",
+       "region": "CN-HL",
+       "country": "CN",
+       "postalCode": "150078"
+      },
+      "headquartersAddress": {
+       "language": "zh",
+       "addressLines": [
+        "哈尔滨高新技术产业开发区迎宾路集中区南湖街1栋202室"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "哈尔滨市",
+       "region": "CN-HL",
+       "country": "CN",
+       "postalCode": "150078"
+      },
+      "registeredAt": {
+       "id": "RA000092",
+       "other": null
+      },
+      "registeredAs": "91230109MA1BN9HR8Q",
+      "jurisdiction": "CN",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ECAK",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2019-07-04T16:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2023-03-15T08:50:33Z",
+      "lastUpdateDate": "2026-03-12T06:07:05Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-03-25T02:16:03Z",
+      "managingLou": "655600IJ8LS3CCDA4421",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000092",
+       "other": null
+      },
+      "validatedAs": "91230109MA1BN9HR8Q",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": null,
+     "qcc": "QCNW61RAHM",
+     "gem": null,
+     "spglobal": [
+      "1829812945"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/836800ZSJ5O8251ZJ568/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/836800ZSJ5O8251ZJ568/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/836800ZSJ5O8251ZJ568/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/836800ZSJ5O8251ZJ568/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/836800ZSJ5O8251ZJ568/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/836800ZSJ5O8251ZJ568"
+    }
+   }
+  ]
+ }
+}

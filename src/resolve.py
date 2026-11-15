@@ -10,8 +10,12 @@ from src import config
 from src.score import DIFFERENT, EXACT, SAME, STREET_ONLY, UNKNOWN
 
 AUTO, PROBABLE, NO_CANDIDATE, REVIEW, UNMATCHED = "auto", "probable", "no_candidate", "review", "unmatched"
-MANUAL = "manual"
+MANUAL, EXTERNAL = "manual", "external"
 CONFIDENCE = {AUTO: "high", MANUAL: "high", PROBABLE: "medium", REVIEW: "none", UNMATCHED: "none", NO_CANDIDATE: "none"}
+# Registry or research matches for inputs with no Veridion pick (D54); confidence comes from the file.
+EXTERNAL_FIELDS = {"source": "external_source", "registry_id": "registry_id", "company_name": "external_company_name",
+                   "registry_status": "registry_status", "match_basis": "external_match_basis",
+                   "evidence_url": "external_evidence_url"}
 MANUAL_MATCH, MANUAL_UNMATCHED = "match", "unmatched"
 # Rules whose sample check found an error keep their decision but get a lower confidence (D51).
 CONFIDENCE_BY_RULE = {"R5": "medium"}
@@ -220,7 +224,8 @@ def code_version() -> str:
     return f"{commit}-dirty" if git("status", "--porcelain", "--", ".", f":!{config.OUTPUT.relative_to(config.ROOT)}") else commit
 
 
-def resolve(features: pd.DataFrame, manual: pd.DataFrame | None = None) -> pd.DataFrame:
+def resolve(features: pd.DataFrame, manual: pd.DataFrame | None = None,
+            external: pd.DataFrame | None = None) -> pd.DataFrame:
     """One row per input: decision, rule, reason, chosen candidate and its layer outcomes."""
     f = features.copy()
     f["name_outcome"] = f.apply(name_outcome, axis=1)
@@ -231,9 +236,12 @@ def resolve(features: pd.DataFrame, manual: pd.DataFrame | None = None) -> pd.Da
     rows = [_resolve_input(g) for _, g in f.groupby("input_row_key", sort=True)]
     if manual is None:
         manual = pd.read_csv(config.MATCH_REVIEW, dtype=str, keep_default_na=False)
+    if external is None:
+        external = pd.read_csv(config.EXTERNAL_MATCHES, dtype=str, keep_default_na=False)
     decisions = apply_manual(pd.DataFrame(rows), f, manual)
     confidence = decisions.rule.map(CONFIDENCE_BY_RULE).fillna(decisions.decision.map(CONFIDENCE))
     decisions.insert(decisions.columns.get_loc("decision") + 1, "confidence", confidence)
+    decisions = apply_external(decisions, external)
     decisions["code_version"] = code_version()
     return decisions
 
@@ -264,4 +272,23 @@ def apply_manual(decisions: pd.DataFrame, features: pd.DataFrame, manual: pd.Dat
         else:
             raise ValueError(f"Unknown manual decision {m.decision!r} for input {key}")
         decisions.loc[row, ["reason", "related_veridion_id"]] = [f"manual ({m.source})", m.related_veridion_id]
+    return decisions
+
+
+def apply_external(decisions: pd.DataFrame, external: pd.DataFrame) -> pd.DataFrame:
+    """External matches (data/manual/external_matches.csv) resolve inputs that have no Veridion pick (D54)."""
+    decisions = decisions.copy()
+    for column in EXTERNAL_FIELDS.values():
+        decisions[column] = ""
+    for e in external.itertuples():
+        key = int(e.input_row_key)
+        rows = decisions.index[decisions.input_row_key == key]
+        if len(rows) != 1:
+            raise ValueError(f"External match for unknown input {key}")
+        row = rows[0]
+        if decisions.loc[row, "decision"] not in (UNMATCHED, NO_CANDIDATE):
+            raise ValueError(f"External match for input {key}, which already has decision {decisions.loc[row, 'decision']}")
+        decisions.loc[row, ["decision", "rule", "confidence"]] = [EXTERNAL, "E1", e.confidence]
+        decisions.loc[row, "reason"] = f"external ({e.source})"
+        decisions.loc[row, list(EXTERNAL_FIELDS.values())] = [getattr(e, field) for field in EXTERNAL_FIELDS]
     return decisions

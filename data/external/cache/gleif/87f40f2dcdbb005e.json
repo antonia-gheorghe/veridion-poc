@@ -1,0 +1,174 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=LINKEDIN&filter%5Bentity.legalAddress.country%5D=SG&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=LINKEDIN&filter%5Bentity.legalAddress.country%5D=SG&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=LINKEDIN&filter%5Bentity.legalAddress.country%5D=SG&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300I3UEC4HXUCH839",
+    "attributes": {
+     "lei": "549300I3UEC4HXUCH839",
+     "entity": {
+      "legalName": {
+       "name": "LinkedIn Singapore Pte. Ltd.",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "1 RAFFLES QUAY #18-00"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Singapore",
+       "region": "SG-01",
+       "country": "SG",
+       "postalCode": "048583"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "1000 West Maude Avenue"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Sunnyvale",
+       "region": "US-CA",
+       "country": "US",
+       "postalCode": "94085"
+      },
+      "registeredAt": {
+       "id": "RA000523",
+       "other": null
+      },
+      "registeredAs": "201109821G",
+      "jurisdiction": "SG",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "IWZF",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2011-04-25T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2024-03-07T16:00:00Z",
+          "recordedDate": "2024-04-08T19:26:51Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2024-01-17T16:00:00Z",
+          "recordedDate": "2024-04-08T19:42:24Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2015-12-09T02:10:00Z",
+      "lastUpdateDate": "2026-04-16T06:08:23Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-04-12T09:14:18Z",
+      "managingLou": "52990034RLKT0WSOAM90",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000523",
+       "other": null
+      },
+      "validatedAs": "201109821G",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "sg/201109821G",
+     "qcc": "QSGNKQMR6K",
+     "gem": null,
+     "spglobal": [
+      "319681104"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300I3UEC4HXUCH839/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300I3UEC4HXUCH839/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300I3UEC4HXUCH839/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300I3UEC4HXUCH839/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300I3UEC4HXUCH839/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300I3UEC4HXUCH839/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300I3UEC4HXUCH839/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300I3UEC4HXUCH839"
+    }
+   }
+  ]
+ }
+}

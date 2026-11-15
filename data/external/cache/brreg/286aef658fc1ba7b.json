@@ -1,0 +1,117 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=EXIDE+TECHNOLOGIES&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/939099093"
+      }
+     },
+     "aktivitet": [
+      "Handel og industri, å eie, drive eller være inter-",
+      "essert i industrielle virksomheter, faste eien-",
+      "dommer eller byggeforetagender, samt å drive eller",
+      "på lignende måte være interessert i foretagender",
+      "som står i forbindelse med eller kan antas å være",
+      "til støtte for selskapets øvrige virksomhet."
+     ],
+     "antallAnsatte": 35,
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Dyrskuevegen 3"
+      ],
+      "kommune": "ULLENSAKER",
+      "kommunenummer": "3209",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2040",
+      "poststed": "KLØFTA"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-03-12 16:42:00",
+       "navn": "TUDOR SØNNAK AS",
+       "tilDato": "1996-07-31 18:12:38"
+      },
+      {
+       "fraDato": "1996-07-31 18:12:38",
+       "navn": "EXIDE SØNNAK AS",
+       "tilDato": "2008-06-07 15:14:05"
+      }
+     ],
+     "hjemmeside": "www.sonnak.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 10694,
+      "belop": 10694000.0,
+      "innfortDato": "2003-02-11",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med deler og utstyr for motorvogner",
+      "kode": "46.720"
+     },
+     "navn": "EXIDE TECHNOLOGIES AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "939099093",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "1995-03-12",
+     "registreringsdatoForetaksregisteret": "1988-11-16",
+     "registreringsdatoMerverdiavgiftsregisteret": "1986-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1995-03-12",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2026",
+     "stiftelsesdato": "1986-05-06",
+     "telefon": "33 02 06 66",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2015-02-05",
+     "vedtektsfestetFormaal": [
+      "Handel og industri, å eie, drive eller være inter-",
+      "essert i industrielle virksomheter, faste eien-",
+      "dommer eller byggeforetagender, samt å drive eller",
+      "på lignende måte være interessert i foretagender",
+      "som står i forbindelse med eller kan antas å være",
+      "til støtte for selskapets øvrige virksomhet."
+     ]
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=EXIDE%20TECHNOLOGIES&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 1,
+   "totalPages": 1
+  }
+ }
+}

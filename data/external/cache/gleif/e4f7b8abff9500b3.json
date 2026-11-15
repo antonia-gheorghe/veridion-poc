@@ -1,0 +1,145 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TATA+CONSULTANCY+SERVICES&filter%5Bentity.legalAddress.country%5D=DK&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TATA+CONSULTANCY+SERVICES&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TATA+CONSULTANCY+SERVICES&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "254900FIYQF8E8C5E810",
+    "attributes": {
+     "lei": "254900FIYQF8E8C5E810",
+     "entity": {
+      "legalName": {
+       "name": "TATA CONSULTANCY SERVICES LIMITED, FILIAL AF TATA CONSULTANCY SERVICES LTD.,INDIEN",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "Kalvebod Brygge 45"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": null,
+       "country": "DK",
+       "postalCode": "1560"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "9th Floor",
+        "Nirmal Building",
+        "Nariman Point"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Mumbai",
+       "region": "IN-MH",
+       "country": "IN",
+       "postalCode": "400021"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "28115938",
+      "jurisdiction": "IN",
+      "category": "BRANCH",
+      "legalForm": {
+       "id": "DDKQ",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2004-09-28T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2025-02-14T13:35:56Z",
+      "lastUpdateDate": "2026-02-04T18:01:41Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-02-14T13:35:56Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "28115938",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": null,
+     "qcc": "QDK890YHJE",
+     "gem": null,
+     "spglobal": [
+      "257029386"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900FIYQF8E8C5E810/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900FIYQF8E8C5E810/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900FIYQF8E8C5E810/field-modifications"
+      }
+     },
+     "head-office": {
+      "links": {
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/254900FIYQF8E8C5E810/head-office",
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/254900FIYQF8E8C5E810/head-office-relationship"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/254900FIYQF8E8C5E810"
+    }
+   }
+  ]
+ }
+}

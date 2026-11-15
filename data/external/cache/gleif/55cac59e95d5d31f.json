@@ -1,0 +1,177 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=C+AND+W+SERVICES&filter%5Bentity.legalAddress.country%5D=SG&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=C+AND+W+SERVICES&filter%5Bentity.legalAddress.country%5D=SG&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=C+AND+W+SERVICES&filter%5Bentity.legalAddress.country%5D=SG&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300JZ6C6QEY7MBO86",
+    "attributes": {
+     "lei": "549300JZ6C6QEY7MBO86",
+     "entity": {
+      "legalName": {
+       "name": "C&W SERVICES (S) PTE. LTD.",
+       "language": "en"
+      },
+      "otherNames": [
+       {
+        "name": "C&W SERVICES (S) LTD.",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "CUSHMAN & WAKEFIELD FACILITIES & ENGINEERING (S) LTD.",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "DTZ FACILITIES & ENGINEERING (S) LIMITED",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "UGL SERVICES PREMAS OPERATIONS LIMITED",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "UNITED PREMAS LIMITED",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "750A CHAI CHEE ROAD",
+        "#05-01",
+        "ESR BIZPARK @ CHAI CHEE"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "SINGAPORE",
+       "region": "SG-01",
+       "country": "SG",
+       "postalCode": "469001"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "750A CHAI CHEE ROAD",
+        "#05-01",
+        "ESR BIZPARK @ CHAI CHEE"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "SINGAPORE",
+       "region": "SG-01",
+       "country": "SG",
+       "postalCode": "469001"
+      },
+      "registeredAt": {
+       "id": "RA000523",
+       "other": null
+      },
+      "registeredAs": "199805375C",
+      "jurisdiction": "SG",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "IWZF",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1998-10-31T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2015-01-20T01:59:00Z",
+      "lastUpdateDate": "2026-03-04T19:34:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-02-21T16:21:19Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000523",
+       "other": null
+      },
+      "validatedAs": "199805375C",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "sg/199805375C",
+     "qcc": "QSG7QRMVCB",
+     "gem": null,
+     "spglobal": [
+      "5460285"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300JZ6C6QEY7MBO86/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300JZ6C6QEY7MBO86/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300JZ6C6QEY7MBO86/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300JZ6C6QEY7MBO86/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300JZ6C6QEY7MBO86/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300JZ6C6QEY7MBO86"
+    }
+   }
+  ]
+ }
+}

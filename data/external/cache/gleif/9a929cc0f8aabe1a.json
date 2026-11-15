@@ -1,0 +1,151 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=AMDOCS+DEVELOPMENT&filter%5Bentity.legalAddress.country%5D=CY&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=AMDOCS+DEVELOPMENT&filter%5Bentity.legalAddress.country%5D=CY&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=AMDOCS+DEVELOPMENT&filter%5Bentity.legalAddress.country%5D=CY&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300XCN1XI07CX7056",
+    "attributes": {
+     "lei": "549300XCN1XI07CX7056",
+     "entity": {
+      "legalName": {
+       "name": "AMDOCS DEVELOPMENT LIMITED",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "141 Omonoias Avenue",
+        "The Maritime Center",
+        "PO Box 50483"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Limassol",
+       "region": "CY-02",
+       "country": "CY",
+       "postalCode": "3506"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "Tower Hill House",
+        "Le Bordage",
+        "Suite 5"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Saint Peter Port",
+       "region": null,
+       "country": "GG",
+       "postalCode": "GY1 3QT"
+      },
+      "registeredAt": {
+       "id": "RA000161",
+       "other": null
+      },
+      "registeredAs": "ΗΕ 87152",
+      "jurisdiction": "CY",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "RCPI",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1997-07-04T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2016-12-20T01:51:00Z",
+      "lastUpdateDate": "2026-09-04T14:45:50Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-09-09T18:00:00Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000161",
+       "other": null
+      },
+      "validatedAs": "ΗΕ 87152",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "cy/HE87152",
+     "qcc": "QCYHV5FXJ6",
+     "gem": null,
+     "spglobal": [
+      "9570708"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300XCN1XI07CX7056/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300XCN1XI07CX7056/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300XCN1XI07CX7056/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300XCN1XI07CX7056/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300XCN1XI07CX7056/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300XCN1XI07CX7056"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,149 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=NAGARRO+ENTERPRISE+SERVICES&filter%5Bentity.legalAddress.country%5D=IN&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=NAGARRO+ENTERPRISE+SERVICES&filter%5Bentity.legalAddress.country%5D=IN&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=NAGARRO+ENTERPRISE+SERVICES&filter%5Bentity.legalAddress.country%5D=IN&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "335800XYRJFEOCWN7U58",
+    "attributes": {
+     "lei": "335800XYRJFEOCWN7U58",
+     "entity": {
+      "legalName": {
+       "name": "NAGARRO ENTERPRISE SERVICES PRIVATE LIMITED",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "19/20, PUNJABI BAGH EAST PUNJABI BAGH DELHI"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "NEW DELHI",
+       "region": "IN-DL",
+       "country": "IN",
+       "postalCode": "110026"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "19/20, PUNJABI BAGH EAST PUNJABI BAGH DELHI"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "NEW DELHI",
+       "region": "IN-DL",
+       "country": "IN",
+       "postalCode": "110026"
+      },
+      "registeredAt": {
+       "id": "RA000394",
+       "other": null
+      },
+      "registeredAs": "U72200DL2008PTC172755",
+      "jurisdiction": "IN",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "YSP9",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2008-01-15T18:30:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2018-08-06T12:14:14Z",
+      "lastUpdateDate": "2026-07-22T11:49:19Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-08-05T18:30:00Z",
+      "managingLou": "335800FVH4MOKZS9VH40",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000394",
+       "other": null
+      },
+      "validatedAs": "U72200DL2008PTC172755",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "in/U72200DL2008PTC172755",
+     "qcc": "QINMHE88C2",
+     "gem": null,
+     "spglobal": [
+      "577855052"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/335800XYRJFEOCWN7U58/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/335800XYRJFEOCWN7U58/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/335800XYRJFEOCWN7U58/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/335800XYRJFEOCWN7U58/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/335800XYRJFEOCWN7U58/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/335800XYRJFEOCWN7U58/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/335800XYRJFEOCWN7U58/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/335800XYRJFEOCWN7U58"
+    }
+   }
+  ]
+ }
+}

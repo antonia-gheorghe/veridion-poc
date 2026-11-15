@@ -1,0 +1,3057 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SNOW&size=100&page=1",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/971120827"
+      }
+     },
+     "aktivitet": [
+      "Forlagsvirksomhet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Svaneveien 29"
+      ],
+      "kommune": "ALTA",
+      "kommunenummer": "5601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9512",
+      "poststed": "ALTA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-02-20 04:06:00",
+       "navn": "TIMA PRESS-SNOWMOBILE",
+       "tilDato": "1999-03-24 23:45:15"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utgivelsesvirksomhet ellers, unntatt utgivelse av programvare",
+      "kode": "58.190"
+     },
+     "navn": "TIMA PRESS SNOWMOBILE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "971120827",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 110"
+      ],
+      "kommune": "ALTA",
+      "kommunenummer": "5601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9501",
+      "poststed": "ALTA"
+     },
+     "registreringsdatoEnhetsregisteret": "1995-02-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "78 44 51 44",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924053658"
+      }
+     },
+     "aktivitet": [
+      "Markedsføringstjenester, samt salg av egenprodusert grafisk design og",
+      "lignende."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sundby",
+       "Gammelveien 252"
+      ],
+      "kommune": "SALTDAL",
+      "kommunenummer": "1840",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8252",
+      "poststed": "ROGNAN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2019-12-10 11:55:43",
+       "navn": "STOKVIK MARKETING",
+       "tilDato": "2020-03-04 13:31:01"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reklamebyråvirksomhet",
+      "kode": "73.110"
+     },
+     "navn": "SNOWBERRY DESIGN JANNE STOKVIK",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "924053658",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-12-10",
+     "registreringsdatoMerverdiavgiftsregisteret": "2022-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2022-01-31",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/980431487"
+      }
+     },
+     "aktivitet": [
+      "Plateselskap, innspilling og utgivelse av egenprodusert musikk."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Drivavegen 12"
+      ],
+      "kommune": "SUNNDAL",
+      "kommunenummer": "1563",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "6600",
+      "poststed": "SUNNDALSØRA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon og utgivelse av musikk- og lydopptak",
+      "kode": "59.200"
+     },
+     "navn": "SNOWCOAST MUSIC Øyvind Vådahl",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "980431487",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1999-02-08",
+     "registreringsdatoForetaksregisteret": "1999-02-08",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "71 69 52 08",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916770847"
+      }
+     },
+     "aktivitet": [
+      "Import og salg av sportsartikler og tekstil."
+     ],
+     "epostadresse": "kristina@fjellsnowboards.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Kongens Gate 10B"
+      ],
+      "kommune": "ÅLESUND",
+      "kommunenummer": "1508",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "6002",
+      "poststed": "ÅLESUND"
+     },
+     "fravalgRevisjonDato": "2016-02-19",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2016-02-19 16:51:52",
+       "navn": "EKKO LØYPE AS",
+       "tilDato": "2018-07-24 14:03:20"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 10712,
+      "belop": 32136.0,
+      "innfortDato": "2024-04-16",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "917 56 835",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med andre husholdningsvarer",
+      "kode": "46.490"
+     },
+     "navn": "FJELL SNOWBOARDS AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "916770847",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Flisnestua 11"
+      ],
+      "kommune": "ÅLESUND",
+      "kommunenummer": "1508",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "6013",
+      "poststed": "ÅLESUND"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2025-07-14",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2025-07-10",
+     "registreringsdatoEnhetsregisteret": "2016-02-19",
+     "registreringsdatoForetaksregisteret": "2016-02-19",
+     "registreringsdatoMerverdiavgiftsregisteret": "2016-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2016-05-10",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2016-02-10",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-03-01",
+     "vedtektsfestetFormaal": [
+      "Import og salg av snowboards, klær og tilbehør."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912294439"
+      }
+     },
+     "aktivitet": [
+      "Handel og utvikling av sportsutstyr."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Skahaug 5"
+      ],
+      "kommune": "SOGNDAL",
+      "kommunenummer": "4640",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "6863",
+      "poststed": "LEIKANGER"
+     },
+     "fravalgRevisjonBeslutningsDato": "2017-12-11",
+     "fravalgRevisjonDato": "2017-12-20",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 3000,
+      "belop": 30000.0,
+      "innfortDato": "2013-08-12",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Industri-, produkt- og motedesignvirksomhet",
+      "kode": "74.110"
+     },
+     "navn": "FURBERG SNOWBOARDS AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "912294439",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-08-12",
+     "registreringsdatoForetaksregisteret": "2013-08-12",
+     "registreringsdatoMerverdiavgiftsregisteret": "2013-09-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2013-12-03",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2013-06-19",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2017-11-01",
+     "vedtektsfestetFormaal": [
+      "Selskapets virksomhet er utvikling og produksjon av utstyr for bruk i",
+      "sport og fritidsmarkedet, handel samt hva hermed står i forbindelse.",
+      "Selskapet kan også delta i andre virksomheter."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936379451"
+      }
+     },
+     "aktivitet": [
+      "Butikkhandel med sportsutstyr."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Petter Steinmos vei 3"
+      ],
+      "kommune": "ÅMOT",
+      "kommunenummer": "3422",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2460",
+      "poststed": "OSEN"
+     },
+     "fravalgRevisjonBeslutningsDato": "2025-10-02",
+     "fravalgRevisjonDato": "2025-10-15",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2025-10-15",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med sportsvarer",
+      "kode": "47.631"
+     },
+     "navn": "HOLMEN SNOWBOARDS AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "936379451",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-10-15",
+     "registreringsdatoForetaksregisteret": "2025-10-15",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-12-15",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2025-10-02",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-10-02",
+     "vedtektsfestetFormaal": [
+      "Butikkhandel med sportsutstyr, herunder, men ikke begrenset til, salg",
+      "av utstyr og klær til ulike sportsgrener, treningsutstyr, tilbehør og",
+      "sikkerhetsutstyr, samt rådgivning og kundestøtte relatert til sports-",
+      "og treningsprodukter."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930328340"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Privata Aktiebolag",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "AB"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Snösundsvägen 40"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "SE-134 66 INGARÖ"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "strandasnowboards.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "STRANDA SNOWBOARDS AB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "930328340",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-11-29",
+     "registreringsnummerIHjemlandet": "5590485255",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2016-01-25",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Sverige",
+     "underlagtLovgivningLandKode": "SE",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Stuvarvägen 21"
+      ],
+      "land": "Sverige",
+      "poststed": "851 81 SUNDSVALL"
+     },
+     "utenlandskRegisterNavn": "Bolagsverket"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930207713"
+      }
+     },
+     "aktivitet": [
+      "Nettsalg av vintersportsutstyr til privatpersoner i Norge. Står selv",
+      "som importør i Norge."
+     ],
+     "epostadresse": "vatreturn@momsfinans.se",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snösundsvägen 40"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "SE-13466 INGARÖ"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med klær",
+      "kode": "47.710"
+     },
+     "navn": "STRANDA SNOWBOARDS AB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "930207713",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Moms Finans Sweden AB",
+       "Floragränd 3"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "SE-89150 ÖRNSKÖLDSVIK"
+     },
+     "registreringsdatoEnhetsregisteret": "2022-11-30",
+     "registreringsdatoMerverdiavgiftsregisteret": "2022-12-12",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2022-12-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/838499252"
+      }
+     },
+     "aktivitet": [
+      "Bedriftsrådgivning, administrativt."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Stavikbakken 5B"
+      ],
+      "kommune": "LØRENSKOG",
+      "kommunenummer": "3222",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1462",
+      "poststed": "FJELLHAMAR"
+     },
+     "fravalgRevisjonBeslutningsDato": "2026-09-14",
+     "fravalgRevisjonDato": "2026-09-16",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2026-09-16",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "SNOWBALL ADVISORY AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "838499252",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-09-16",
+     "registreringsdatoForetaksregisteret": "2026-09-16",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-09-14",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-09-14",
+     "vedtektsfestetFormaal": [
+      "Bedriftsrådgivning og administrasjon for andre selskaper"
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934657640"
+      }
+     },
+     "aktivitet": [
+      "Investering i aksjer og verdipapirer."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Arild Bentsen",
+       "Industrigata 31D"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0357",
+      "poststed": "OSLO"
+     },
+     "fravalgRevisjonBeslutningsDato": "2024-11-01",
+     "fravalgRevisjonDato": "2024-12-16",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2024-12-16",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Uoppgitt",
+      "kode": "00.000"
+     },
+     "navn": "SNOWBALL CAPITAL AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "934657640",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-12-16",
+     "registreringsdatoForetaksregisteret": "2024-12-16",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2024-11-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-11-01",
+     "vedtektsfestetFormaal": [
+      "Investeringer i finansielle instrumenter, fast eiendom og annet som",
+      "står i naturlig forbindelse med dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917790477"
+      }
+     },
+     "aktivitet": [
+      "Yte digitale tjenester til selskaper, så som utarbeidelse av",
+      "hjemmesider, nettbutikker, digitale medier og publikasjoner."
+     ],
+     "antallAnsatte": 9,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Kverndalsgata 8"
+      ],
+      "kommune": "SKIEN",
+      "kommunenummer": "4003",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3717",
+      "poststed": "SKIEN"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 3000,
+      "belop": 300000.0,
+      "innfortDato": "2016-09-27",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "SNOWBALL DIGITAL AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "917790477",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-09-10",
+     "registreringsdatoEnhetsregisteret": "2016-09-27",
+     "registreringsdatoForetaksregisteret": "2016-09-27",
+     "registreringsdatoMerverdiavgiftsregisteret": "2016-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2016-11-12",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2016-09-12",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2016-09-12",
+     "vedtektsfestetFormaal": [
+      "Levere digitale tjenester."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/826578602"
+      }
+     },
+     "aktivitet": [
+      "Holdingselskap."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Nedre gate 8A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0551",
+      "poststed": "OSLO"
+     },
+     "fravalgRevisjonBeslutningsDato": "2021-02-03",
+     "fravalgRevisjonDato": "2021-02-11",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjelpeenhetskode": {
+      "beskrivelse": "Hovedkontortjenester",
+      "kode": "70.100"
+     },
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 105000,
+      "belop": 105000.0,
+      "innfortDato": "2024-02-06",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "SNOWBALL HOLDING AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "826578602",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Haakon Hammarbeck",
+       "Nedre gate 8A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0551",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2021-02-11",
+     "registreringsdatoForetaksregisteret": "2021-02-11",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2021-02-03",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2023-12-20",
+     "vedtektsfestetFormaal": [
+      "Å investere i selskaper og eiendom og alt annet som naturlig faller",
+      "sammen med dette, herunder å delta i andre selskaper med lignende",
+      "virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg",
+      "interessert i andre foretagende. Kjøp, hold, gjenta."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935338700"
+      }
+     },
+     "aktivitet": [
+      "Utleie av fast eiendom."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vei 401 30A"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "fravalgRevisjonBeslutningsDato": "2025-03-15",
+     "fravalgRevisjonDato": "2025-04-08",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 3420000.0,
+      "innfortDato": "2026-01-22",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "SNOWFOX PROPERTY AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "935338700",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-04-08",
+     "registreringsdatoForetaksregisteret": "2025-04-08",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2025-03-15",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-12-21",
+     "vedtektsfestetFormaal": [
+      "Tilby utleie av fast eiendom, inkludert, men ikke begrenset til,",
+      "utleie av boliger, kontorer, kommersielle eiendommer, lagerplasser, og",
+      "andre typer fast eiendom."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936281516"
+      }
+     },
+     "aktivitet": [
+      "Guide og reiseleder."
+     ],
+     "antallAnsatte": 13,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vei 401 30A"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2025-09-30 15:47:56",
+       "navn": "NYE SNOWFOX TRAVEL AS",
+       "tilDato": "2025-12-17 10:15:03"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30,
+      "belop": 30000.0,
+      "innfortDato": "2025-09-30",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reisebyråvirksomhet",
+      "kode": "79.110"
+     },
+     "navn": "SNOWFOX TRAVEL AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "936281516",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2025-09-30",
+     "registreringsdatoForetaksregisteret": "2025-09-30",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2025-09-22",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-12-08",
+     "vedtektsfestetFormaal": [
+      "Tilby guide- og reiseledertjenester, herunder, men ikke begrenset til,",
+      "omvisninger, turplanlegging, koordinering av reiseaktiviteter og",
+      "formidling av informasjon om lokale attraksjoner, historie og kultur",
+      "og annet som hører naturlig til."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925758477"
+      }
+     },
+     "aktivitet": [
+      "Freelancerarbeid i utlandet.",
+      "Drosje- og transporttjenester (persontransport og tilknyttede",
+      "tjenester).",
+      "Legekontortjenester og IT- og IKT-tjenester.",
+      "Montering og demontering av møbler.",
+      "Bedriftsøkonomisk rådgivning samt annen administrativ rådgivning",
+      "(unntatt regnskap)."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bergensveien 4A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0963",
+      "poststed": "OSLO"
+     },
+     "fravalgRevisjonBeslutningsDato": "2024-09-11",
+     "fravalgRevisjonDato": "2024-09-12",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2020-10-07 16:37:20",
+       "navn": "LINGO AS",
+       "tilDato": "2024-02-19 15:08:29"
+      },
+      {
+       "fraDato": "2024-02-19 15:08:29",
+       "navn": "REGNSKAPSKAMPEN AS",
+       "tilDato": "2024-09-12 09:16:52"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 30000.0,
+      "innfortDato": "2020-10-07",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Passasjertransport på forespørsel utført av fører med kjøretøy",
+      "kode": "49.330"
+     },
+     "navn": "SNOWBRIDGE ECONOMIC SOLUTIONS AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "925758477",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-07-15",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-07-10",
+     "registreringsdatoEnhetsregisteret": "2020-10-07",
+     "registreringsdatoForetaksregisteret": "2020-10-07",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-11-15",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-02-11",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2020-07-06",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-04-21",
+     "vedtektsfestetFormaal": [
+      "Freelancerarbeid i utlandet.",
+      "Drosje- og transporttjenester (persontransport og tilknyttede",
+      "tjenester).",
+      "Legekontortjenester og IT- og IKT-tjenester.",
+      "Montering og demontering av møbler.",
+      "Bedriftsøkonomisk rådgivning samt annen administrativ rådgivning",
+      "(unntatt regnskap)."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916349254"
+      }
+     },
+     "aktivitet": [
+      "Idrettsklubb for alle grener",
+      "innenfor alpint. Skal jobbe for å utdanne trenere, arrangere",
+      "treninger, kurs og konkurranser."
+     ],
+     "epostadresse": "abarthol@online.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Jeanette Emdal",
+       "Bregneveien 37"
+      ],
+      "kommune": "ALTA",
+      "kommunenummer": "5601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9516",
+      "poststed": "ALTA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i idrettslag og -klubber",
+      "kode": "93.120"
+     },
+     "navn": "ALTA ALPIN & SNOWBOARDKLUBB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "916349254",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-01-06",
+     "registreringsdatoFrivillighetsregisteret": "2016-01-06",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2015-09-14",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911726416"
+      }
+     },
+     "aktivitet": [
+      "Verve og ta vare på medlemmene i alle aldre, og samle dem",
+      "slik at snowboarding ikke forsvinner fra Narvik by. Årlig skal det",
+      "holdes store og små konkurranser, både i regi av Norges",
+      "Snowboardforbund og av egen regi. Det skal arbeides aktivt for å",
+      "skaffe sponsorer."
+     ],
+     "epostadresse": "nask@live.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Jørgen Haug Eide",
+       "Stormyrveien 27"
+      ],
+      "kommune": "NARVIK",
+      "kommunenummer": "1806",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8516",
+      "poststed": "NARVIK"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.narviksnowboardklubb.wordpress.com",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "997 40 041",
+     "naeringskode1": {
+      "beskrivelse": "Sportsaktiviteter ikke nevnt annet sted",
+      "kode": "93.190"
+     },
+     "navn": "NARVIK SNOWBOARDKLUBB (NASK)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "911726416",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-03-20",
+     "registreringsdatoFrivillighetsregisteret": "2013-03-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2006-09-18",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929783824"
+      }
+     },
+     "aktivitet": [
+      "Vintersport - Bygge ski- og snowboardanlegg på skisteder."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lille Karlsrud 19"
+      ],
+      "kommune": "NORDRE FOLLO",
+      "kommunenummer": "3207",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1425",
+      "poststed": "SKI"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bygging av andre anlegg ikke nevnt annet sted",
+      "kode": "42.990"
+     },
+     "navn": "MIKE MCKERNAN SNOWPARK CONSTRUCTION",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "929783824",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-09-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930849820"
+      }
+     },
+     "aktivitet": [
+      "Kurs og instruksjon i ski og snowboard."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Paulus' plass 2A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0554",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Undervisning innenfor idrett og rekreasjon",
+      "kode": "85.510"
+     },
+     "navn": "SKI- OG SNOWBOARDINSTRUKTØR KNUTSEN",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "930849820",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-02-17",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934873459"
+      }
+     },
+     "aktivitet": [
+      "Utleie av feriehus."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Ustedalen 172"
+      ],
+      "kommune": "HOL",
+      "kommunenummer": "3330",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3580",
+      "poststed": "GEILO"
+     },
+     "fravalgRevisjonBeslutningsDato": "2024-12-08",
+     "fravalgRevisjonDato": "2025-01-17",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 30000.0,
+      "innfortDato": "2025-01-17",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av vandrerhjem og ferieleiligheter",
+      "kode": "55.200"
+     },
+     "navn": "UPWIND SNOWKITING EIENDOM AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "934873459",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
+     "registreringsdatoEnhetsregisteret": "2025-01-17",
+     "registreringsdatoForetaksregisteret": "2025-01-17",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-02-17",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-02-17",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2024-12-08",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-12-08",
+     "vedtektsfestetFormaal": [
+      "Eie, drive, utleie og utvikling av eiendommen. Turistvirksomhet med",
+      "overnatting og servering, inkludert persontransport. Kjøp, salg og",
+      "utleie av varer innenfor bransjen."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934856295"
+      }
+     },
+     "aktivitet": [
+      "Undervisning innen sport og idrett."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Ustedalen 172"
+      ],
+      "kommune": "HOL",
+      "kommunenummer": "3330",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3580",
+      "poststed": "GEILO"
+     },
+     "fravalgRevisjonBeslutningsDato": "2024-12-08",
+     "fravalgRevisjonDato": "2025-01-15",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 30000.0,
+      "innfortDato": "2025-01-15",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Undervisning innenfor idrett og rekreasjon",
+      "kode": "85.510"
+     },
+     "navn": "UPWIND SNOWKITING SCHOOL AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "934856295",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-01-15",
+     "registreringsdatoForetaksregisteret": "2025-01-15",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2024-12-08",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-12-08",
+     "vedtektsfestetFormaal": [
+      "Opplæring og trening i snøkiting, samt organisering av leirer, kurs,",
+      "guidede turer og ekspedisjoner. Selskapet tilbyr også utleie av utstyr",
+      "for å støtte deltakerne og selger både nytt og brukt utstyr samt",
+      "tilbud om persontransport samt virksomheter som står i forbindelse med",
+      "dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992878991"
+      }
+     },
+     "aktivitet": [
+      "Selv, gjennom hel- eller deleide selskaper eller ved samarbeid med",
+      "andre virksomheter å forestå investeringsvirksomhet, herunder",
+      "investeringer i aksjer, selskapsandeler, finansielle instrumenter og",
+      "annen virksomhet som hører naturlig til dette."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Uranienborg terrasse 9"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0351",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2008-07-09 20:46:07",
+       "navn": "TEKÅGEL INVEST 336 AS",
+       "tilDato": "2008-09-20 14:48:47"
+      },
+      {
+       "fraDato": "2008-09-20 14:48:47",
+       "navn": "GJØVIK ENERGI AS",
+       "tilDato": "2010-06-16 20:13:45"
+      },
+      {
+       "fraDato": "2010-06-16 20:13:45",
+       "navn": "DAIMYO ENERGI AS",
+       "tilDato": "2014-04-16 10:40:43"
+      },
+      {
+       "fraDato": "2014-04-16 10:40:43",
+       "navn": "KVITEBJØRN ENERGI AS",
+       "tilDato": "2022-12-02 14:49:04"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 3000,
+      "belop": 271451.0,
+      "innfortDato": "2025-12-13",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "95929000",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "SNOWFLAKE CAPITAL AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "992878991",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2008-07-09",
+     "registreringsdatoForetaksregisteret": "2008-07-09",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2008-07-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-09-26",
+     "vedtektsfestetFormaal": [
+      "Selv, gjennom hel- eller deleide selskaper eller ved samarbeid med",
+      "andre virksomheter å forestå investeringsvirksomhet, herunder",
+      "investeringer i aksjer, selskapsandeler, finansielle instrumenter og",
+      "annen virksomhet som hører naturlig til dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997525132"
+      }
+     },
+     "aktivitet": [
+      "Erverve, forvalte og selge aksjer, andeler og faste eiendommer."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Roald Amundsens veg 1"
+      ],
+      "kommune": "GJØVIK",
+      "kommunenummer": "3407",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2816",
+      "poststed": "GJØVIK"
+     },
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "hjelpeenhetskode": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1700,
+      "belop": 2890000.0,
+      "innfortDato": "2011-10-29",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon av maskiner og utstyr til bergverksdrift og bygge- og anleggsvirksomhet",
+      "kode": "28.920"
+     },
+     "navn": "SNOWFLAKE INVEST AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "997525132",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2012-05-16",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2012-04-16",
+     "registreringsdatoEnhetsregisteret": "2011-10-29",
+     "registreringsdatoForetaksregisteret": "2011-10-29",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2014-02-05",
+     "registreringsdatoMerverdiavgiftsregisteret": "2012-03-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2012-04-25",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2011-06-28",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2011-06-28",
+     "vedtektsfestetFormaal": [
+      "Erverve, forvalte og selge aksjer, andeler og faste eiendommer."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934159225"
+      }
+     },
+     "aktivitet": [
+      "Aktiviteter relatert til markedsføring, forhåndssalg og salg av",
+      "skybasert plattform, og andre aktiviteter i den forbindelse."
+     ],
+     "antallAnsatte": 13,
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o CSC (Norway) AS",
+       "Bryggegata 6"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0250",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2024-09-25 10:31:23",
+       "navn": "NFH 240954 AS",
+       "tilDato": "2025-02-08 14:26:32"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 40000,
+      "belop": 40000.0,
+      "innfortDato": "2025-08-15",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reklamebyråvirksomhet",
+      "kode": "73.110"
+     },
+     "navn": "SNOWFLAKE NORWAY AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "934159225",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
+     "registreringsdatoEnhetsregisteret": "2024-09-25",
+     "registreringsdatoForetaksregisteret": "2024-09-25",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-03-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-06-07",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2026",
+     "stiftelsesdato": "2024-09-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-06-30",
+     "vedtektsfestetFormaal": [
+      "Aktiviteter relatert til markedsføring, forhåndssalg og salg av",
+      "skybasert plattform, og andre aktiviteter i den forbindelse."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/959918457"
+      }
+     },
+     "aktivitet": [
+      "Utleie av snøscootere m/tilbehør, samt stå som",
+      "arrangør av snøscooter-safarier, og ellers annen",
+      "virksomhet som måtte falle naturlig sammen med",
+      "dette."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Storengveien 26"
+      ],
+      "kommune": "ALTA",
+      "kommunenummer": "5601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9515",
+      "poststed": "ALTA"
+     },
+     "fravalgRevisjonDato": "2011-11-08",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "hjemmeside": "www.snowmobile-safari.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 683,
+      "belop": 768375.0,
+      "innfortDato": "2024-04-05",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Opplevelsesaktiviteter",
+      "kode": "93.291"
+     },
+     "navn": "FINNMARK SNOWMOBILE SAFARI AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "959918457",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2023-02-14",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2023-02-10",
+     "registreringsdatoEnhetsregisteret": "1995-02-20",
+     "registreringsdatoForetaksregisteret": "1991-02-22",
+     "registreringsdatoMerverdiavgiftsregisteret": "2005-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2006-02-21",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "1991-02-06",
+     "telefon": "78 44 94 44",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2023-12-22",
+     "vedtektsfestetFormaal": [
+      "Drive utleie av kjøretøy med tilbehør samt å stå som arrangør av",
+      "snøscooter-safari og andre produkter/tjenester som naturlig hører",
+      "sammen med dette. Selskapet skal videre drive med reparasjon av egne",
+      "og andres kjøretøy i egne verkstedlokaler. Selskapet skal også delta i",
+      "andre selskap med lignende virksomhet, og kjøp og salg av aksjer eller",
+      "på annen måte gjøre seg interessert i andre foretak."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/979555938"
+      }
+     },
+     "aktivitet": [
+      "Sportsklubb."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Sven Garås",
+       "Inkognito terrasse 5A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0256",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "926 80 980",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i idrettslag og -klubber",
+      "kode": "93.120"
+     },
+     "navn": "OSLO SNOWBOARD KLUBB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "979555938",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1998-02-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1990-10-05",
+     "telefon": "90 69 76 70",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/999609589"
+      }
+     },
+     "aktivitet": [
+      "Virksomheten er idrett, herunder profesjonell internasjonal",
+      "snowboardkjøring, kursing og alt som står i sammenheng med dette."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Solvikveien 29B"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1363",
+      "poststed": "HØVIK"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Undervisning innenfor idrett og rekreasjon",
+      "kode": "85.510"
+     },
+     "navn": "STÅLE SANDBECH SNOWBOARD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "999609589",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-01-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995501341"
+      }
+     },
+     "aktivitet": [
+      "Butikkhandel med sportsutstyr."
+     ],
+     "epostadresse": "anita@iakta.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Storgata 42A"
+      ],
+      "kommune": "LILLEHAMMER",
+      "kommunenummer": "3405",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2609",
+      "poststed": "LILLEHAMMER"
+     },
+     "fravalgRevisjonDato": "2014-09-16",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2010-05-10 12:55:44",
+       "navn": "SANDVOLD MASKIN AS",
+       "tilDato": "2021-02-18 11:21:22"
+      },
+      {
+       "fraDato": "2021-02-18 11:21:22",
+       "navn": "IAKTA CLOUD COMPUTING AS",
+       "tilDato": "2024-09-16 14:59:13"
+      }
+     ],
+     "hjemmeside": "www.proshopgolf.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 100000.0,
+      "innfortDato": "2010-05-10",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "957 85 162",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med sportsvarer",
+      "kode": "47.631"
+     },
+     "navn": "IAKTA PROSHOP GOLF & SNOWGEAR AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "995501341",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Sundgata 7"
+      ],
+      "kommune": "LILLEHAMMER",
+      "kommunenummer": "3405",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2609",
+      "poststed": "LILLEHAMMER"
+     },
+     "registreringsdatoEnhetsregisteret": "2010-05-10",
+     "registreringsdatoForetaksregisteret": "2010-05-10",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-04-07",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-04-07",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2010-05-01",
+     "telefon": "61 40 14 44",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-08-29",
+     "vedtektsfestetFormaal": [
+      "Salg av golfartikler og konfeksjon både fysisk handel og e-handel,",
+      "samt handle med verdipapirer samt med dertil tilhørende virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911922533"
+      }
+     },
+     "aktivitet": [
+      "Verdensomspennende fjellguide-service ."
+     ],
+     "epostadresse": "mr.steuren@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Blakstad hageby 35A"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1392",
+      "poststed": "VETTRE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2013-05-08 20:31:26",
+       "navn": "SNOWBOUND ADVENTURES ALEXANDER KONRAD STEURENTHALER",
+       "tilDato": "2014-02-04 20:56:06"
+      },
+      {
+       "fraDato": "2014-02-04 20:56:06",
+       "navn": "NORTHERN HOBO PRESS STEURENTHALER",
+       "tilDato": "2016-02-08 16:46:37"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "925 11 113",
+     "naeringskode1": {
+      "beskrivelse": "Guide- og reiseledervirksomhet",
+      "kode": "79.902"
+     },
+     "navn": "SNOWBOUND ADVENTURES ALEXANDER KONRAD STEURENTHALER",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "911922533",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-05-08",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935762081"
+      }
+     },
+     "aktivitet": [
+      "Konkursbo."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Kjellstadveien 5"
+      ],
+      "kommune": "LIER",
+      "kommunenummer": "3312",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3402",
+      "poststed": "LIER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med andre husholdningsvarer",
+      "kode": "46.490"
+     },
+     "navn": "SNOWBIZ - PETER HOLM AS KONKURSBO",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+       }
+      },
+      "beskrivelse": "Konkursbo",
+      "kode": "KBO"
+     },
+     "organisasjonsnummer": "935762081",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/Adv. Lene Margrete Lysaker",
+       "Postboks 9733 Torget Vest"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3010",
+      "poststed": "DRAMMEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2025-06-27",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2025-06-27",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922182795"
+      }
+     },
+     "aktivitet": [
+      "Rådgivningstjenester samt investering i, og underhold av,",
+      "forretningsdrift og driftsfremmede midler, samt alt hva hermed står i",
+      "forbindelse. Selskapet kan interessere seg økonomisk og/eller",
+      "styrelsesmessig i andre nasjonale og internasjonale foretak med samme",
+      "eller liknende formål."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bygdøy allé 23"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0262",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2019-02-08 11:04:32",
+       "navn": "AAECO SPV AS",
+       "tilDato": "2019-02-20 15:35:45"
+      },
+      {
+       "fraDato": "2019-02-20 15:35:45",
+       "navn": "JOTTA GROUP AS",
+       "tilDato": "2023-01-25 15:29:17"
+      },
+      {
+       "fraDato": "2023-01-25 15:29:17",
+       "navn": "HAWK INFINITY SOFTWARE AS",
+       "tilDato": "2026-01-26 13:48:39"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 212065353,
+      "belop": 2120653.53,
+      "innfortDato": "2026-01-23",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "SNOWBALL SOFTWARE GROUP AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "922182795",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-11",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
+     "registreringsdatoEnhetsregisteret": "2019-02-08",
+     "registreringsdatoForetaksregisteret": "2019-02-08",
+     "registreringsdatoMerverdiavgiftsregisteret": "2021-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-05-31",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2019-01-11",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-12-17",
+     "vedtektsfestetFormaal": [
+      "Rådgivningstjenester samt investering i, og underhold av,",
+      "forretningsdrift og driftsfremmede midler, samt alt hva hermed står i",
+      "forbindelse. Selskapet kan interessere seg økonomisk og/eller",
+      "styrelsesmessig i andre nasjonale og internasjonale foretak med samme",
+      "eller liknende formål."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934539702"
+      }
+     },
+     "aktivitet": [
+      "Holdingselskap."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vei 401 30A"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjelpeenhetskode": {
+      "beskrivelse": "Hovedkontortjenester",
+      "kode": "70.100"
+     },
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 60000.0,
+      "innfortDato": "2025-12-16",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "SNOWFOX ADVENTURE GROUP AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "934539702",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-11-26",
+     "registreringsdatoForetaksregisteret": "2024-11-26",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2024",
+     "stiftelsesdato": "2024-11-20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-10-08",
+     "vedtektsfestetFormaal": [
+      "Investere i andre selskaper og eiendom og annet som naturlig faller",
+      "sammen med dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937493940"
+      }
+     },
+     "aktivitet": [
+      "Utleie av båt (uten fører)."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vei 401 30A"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9170",
+      "poststed": "LONGYEARBYEN"
+     },
+     "fravalgRevisjonBeslutningsDato": "2026-03-26",
+     "fravalgRevisjonDato": "2026-04-09",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2026-04-09",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie og leasing av sjøtransportmateriell",
+      "kode": "77.340"
+     },
+     "navn": "SNOWFOX BOAT CHARTER AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "937493940",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-04-09",
+     "registreringsdatoForetaksregisteret": "2026-04-09",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-03-26",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-03-26",
+     "vedtektsfestetFormaal": [
+      "Leie av båt."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930651982"
+      }
+     },
+     "aktivitet": [
+      "Uavhengig tjenesteleverandør som tilbyr ski- og snowboard timer og",
+      "fysiske aktiviteter, teori og råd knyttet til disse praksisene for",
+      "enkeltpersoner eller grupper."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Thereses gate 6B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0452",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Undervisning innenfor idrett og rekreasjon",
+      "kode": "85.510"
+     },
+     "navn": "LOUIS YVERNAY SKI OG SNOWBOARDINSTRUKTØR",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "930651982",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-01-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938185409"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk virksomhet/foretak. Konsernmor."
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Corporation",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "CORP"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "106 East Babcock street, suite 3A"
+      ],
+      "land": "USA",
+      "landkode": "US",
+      "poststed": "Bozeman MT 59715"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "SNOWFLAKE INTERNATIONAL HOLDINGS INC",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938185409",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/Snowflake Norway AS",
+       "c/o CSC (Norway) AS",
+       "Bryggegata 6"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0250",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-08-03",
+     "registreringsnummerIHjemlandet": "7458549",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "USA",
+     "underlagtLovgivningLandKode": "US",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1823 March Road"
+      ],
+      "land": "USA",
+      "poststed": "Wilmington, Delaware, 19810"
+     },
+     "utenlandskRegisterNavn": "State of Delaware The Delaware Company"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924808535"
+      }
+     },
+     "aktivitet": [
+      "Kunstarbeid med film. Levering av tjenester innen film- og tv-kunst."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snorres vei 26B"
+      ],
+      "kommune": "LØRENSKOG",
+      "kommunenummer": "3222",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1461",
+      "poststed": "LØRENSKOG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2020-03-20 13:33:18",
+       "navn": "NORDISK MEDIA SHAN QURESHI",
+       "tilDato": "2025-02-12 11:54:15"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon av film, video og fjernsynsprogrammer",
+      "kode": "59.110"
+     },
+     "navn": "SNOWFLAKE PICTURES BY QURESHI",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "924808535",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-03-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926811967"
+      }
+     },
+     "aktivitet": [
+      "Legge tilrette for positive vinteroppleveser på ski og snowboard for",
+      "barn og voksne i alle aldre (skiskole, skilek, trening, mangfold,",
+      "inkludering)"
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Johan Nygaard",
+       "Kjelsrudvegen 20"
+      ],
+      "kommune": "LØTEN",
+      "kommunenummer": "3412",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2340",
+      "poststed": "LØTEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i idrettslag og -klubber",
+      "kode": "93.120"
+     },
+     "navn": "BUDOR SKI OG SNOWBOARD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "926811967",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-03-17",
+     "registreringsdatoFrivillighetsregisteret": "2021-03-17",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2021-03-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/818845502"
+      }
+     },
+     "aktivitet": [
+      "Planlegging, konstruksjon og konsulentarbeid i forbindelse med",
+      "snowparker."
+     ],
+     "epostadresse": "selleristen@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lienvegen 111A"
+      ],
+      "kommune": "HOL",
+      "kommunenummer": "3330",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3580",
+      "poststed": "GEILO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "485 03 161",
+     "naeringskode1": {
+      "beskrivelse": "Arkitektvirksomhet",
+      "kode": "71.110"
+     },
+     "navn": "WIEGAND SNOWPARK SERVICES CARSTEN WIEGAND HANSEN",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "818845502",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2017-04-10",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/815230582"
+      }
+     },
+     "aktivitet": [
+      "Filmproduksjon."
+     ],
+     "epostadresse": "anja_celine@hotmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Frysjaveien 42J"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0884",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.anjaceline.net",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "452 28 997",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon av film, video og fjernsynsprogrammer",
+      "kode": "59.110"
+     },
+     "navn": "SNOWMOTION PRODUCTION ANJA CELINE PEDERSEN AASHEIM",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "815230582",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2015-04-13",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-01-30",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-03-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/988054410"
+      }
+     },
+     "aktivitet": [
+      "Drift av alpinanlegg, samt utvikle arrangement som kan utvikle",
+      "vinterturismen i lofoten."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Alpinhytta Stamsund"
+      ],
+      "kommune": "VESTVÅGØY",
+      "kommunenummer": "1860",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8340",
+      "poststed": "STAMSUND"
+     },
+     "fravalgRevisjonDato": "2011-10-13",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 1000000.0,
+      "innfortDato": "2007-12-01",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av idrettsanlegg",
+      "kode": "93.110"
+     },
+     "navn": "LOFOTEN SNOWBOARD OG ALPINSENTER AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "988054410",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 331"
+      ],
+      "kommune": "VESTVÅGØY",
+      "kommunenummer": "1860",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8376",
+      "poststed": "LEKNES"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-07-15",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-07-10",
+     "registreringsdatoEnhetsregisteret": "2005-04-12",
+     "registreringsdatoForetaksregisteret": "2005-04-12",
+     "registreringsdatoFrivillighetsregisteret": "2020-08-10",
+     "registreringsdatoMerverdiavgiftsregisteret": "2005-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2005-04-28",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2005-01-20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2020-08-10",
+     "vedtektsfestetFormaal": [
+      "Kollektiv transport mot vederlag av alpinister i skitrekk. Utvikling",
+      "av arrangement og event som i samarbeid med reiselivsbedrifter, lokalt",
+      "næringsliv og andre, kan bidra til å utvikle vinterturismen i Lofoten,",
+      "samt markedsføre Nord- Norge internasjonalt."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/982749433"
+      }
+     },
+     "aktivitet": [
+      "Konsulentvirksomhet innen leirskolevirksomhet, action show,",
+      "snowboardinstruktør."
+     ],
+     "epostadresse": "post@folgefonna.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hagasandveien 13"
+      ],
+      "kommune": "HOLMESTRAND",
+      "kommunenummer": "3903",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3077",
+      "poststed": "SANDE I VESTFOLD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2000-12-20 18:32:30",
+       "navn": "PÅL BENTSRUD",
+       "tilDato": "2005-09-26 20:39:40"
+      },
+      {
+       "fraDato": "2005-09-26 20:39:40",
+       "navn": "STAR DISTRIBUTION PÅL BENTSRUD",
+       "tilDato": "2012-03-21 20:36:19"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Undervisning innenfor idrett og rekreasjon",
+      "kode": "85.510"
+     },
+     "navn": "FOLGEFONNA SNOWBOARD & SKI CAMP, PÅL BENTSRUD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "982749433",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2000-12-20",
+     "registreringsdatoForetaksregisteret": "2005-09-26",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "32 82 60 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/981428927"
+      }
+     },
+     "aktivitet": [
+      "Skiskole undervisning med tilhørende aktivitet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Svøovegen 85"
+      ],
+      "kommune": "HEMSEDAL",
+      "kommunenummer": "3326",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3560",
+      "poststed": "HEMSEDAL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlige foretak",
+      "kode": "2300"
+     },
+     "konkurs": false,
+     "maalform": "Nynorsk",
+     "mobil": "98828806",
+     "naeringskode1": {
+      "beskrivelse": "Undervisning innenfor idrett og rekreasjon",
+      "kode": "85.510"
+     },
+     "navn": "SOLHEISEN SKI OG SNOWBOARD SKOLE DA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/DA"
+       }
+      },
+      "beskrivelse": "Ansvarlig selskap med delt ansvar",
+      "kode": "DA"
+     },
+     "organisasjonsnummer": "981428927",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2000-01-24",
+     "registreringsdatoForetaksregisteret": "2000-01-24",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1999-12-22",
+     "telefon": "32 06 18 83",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2003-12-10",
+     "vedtektsfestetFormaal": [
+      "Drive ski og snowboardskole med tilhørende aktiviteter."
+     ]
+    }
+   ]
+  },
+  "_links": {
+   "first": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SNOW&page=0&size=100"
+   },
+   "prev": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SNOW&page=0&size=100"
+   },
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SNOW&size=100&page=1"
+   },
+   "last": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SNOW&page=1&size=100"
+   }
+  },
+  "page": {
+   "number": 1,
+   "size": 100,
+   "totalElements": 142,
+   "totalPages": 2
+  }
+ }
+}
