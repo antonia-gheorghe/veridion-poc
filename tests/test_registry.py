@@ -1,4 +1,6 @@
-from src.registry import CURRENT, FORMER, Record, accept
+import pandas as pd
+
+from src.registry import CURRENT, FORMER, Record, accept, in_queue
 
 
 def record(name, source="brreg", registry_id="111", cities=("OSLO",), status="active", former=(), national_id=None):
@@ -59,3 +61,11 @@ def test_gleif_alone_matches():  # D54
     lei = record("ACME PTE. LTD.", source="gleif", registry_id="LEI1", cities=("SINGAPORE",))
     out = accept("Acme Pte Ltd", "SINGAPORE", [], [lei])
     assert (out["outcome"], out["registry_id"], out["confidence"]) == ("matched", "gleif:LEI1", "high")
+
+
+def test_rerun_queue_keeps_earlier_registry_matches():  # D54
+    decisions = pd.DataFrame({
+        "decision": ["unmatched", "no_candidate", "external", "external", "auto"],
+        "external_source": ["", "", "brreg+gleif", "research", ""],
+    })
+    assert in_queue(decisions).tolist() == [True, True, True, False, False]

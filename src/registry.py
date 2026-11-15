@@ -218,10 +218,16 @@ def _lookup(query, *args) -> tuple[list[Record], str]:
         return [], f"{ERROR_PREFIX} {exc}"
 
 
+def in_queue(decisions: pd.DataFrame) -> pd.Series:
+    """Inputs without a Veridion pick, including those resolved by an earlier registry lookup."""
+    registry = decisions.external_source.fillna("").str.split("+").map(lambda parts: set(parts) <= REGISTRY_SOURCES)
+    return decisions.decision.isin(QUEUE_DECISIONS) | ((decisions.decision == "external") & registry)
+
+
 def lookup_queue(decisions: pd.DataFrame, features: pd.DataFrame) -> pd.DataFrame:
     cities = features.drop_duplicates("input_row_key").set_index("input_row_key").input_city_norm
     rows = []
-    for d in decisions[decisions.decision.isin(QUEUE_DECISIONS)].itertuples():
+    for d in decisions[in_queue(decisions)].itertuples():
         core, country = split_name(d.input_name).core, d.input_country_code
         base = {"input_row_key": d.input_row_key, "input_name": d.input_name, "country_code": country, "query": core}
         if not split_name(d.input_name).legal_forms:

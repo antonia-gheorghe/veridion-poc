@@ -30,6 +30,7 @@ input_row_key,source,veridion_id,company_name,website,country_code,evidence_url,
 291,brreg,,KINLY HOLDING AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/919422335,,brreg:919422335,active,current name,high
 295,gleif,,KMD Venture A/S,,DK,https://api.gleif.org/api/v1/lei-records/984500555T9290B83680,,gleif:984500555T9290B83680,inactive,current name,high
 301,gleif,,KROLL ASSOCIATES U.K. LIMITED,,GB,https://api.gleif.org/api/v1/lei-records/254900SVEIIPGVP6XD12,,gleif:254900SVEIIPGVP6XD12,active,current name,high
+307,gleif,,LINKEDIN IRELAND UNLIMITED COMPANY,,IE,https://api.gleif.org/api/v1/lei-records/549300RZ6VN2Y8WIYZ07,,gleif:549300RZ6VN2Y8WIYZ07,active,current name,medium
 308,gleif,,LinkedIn Singapore Pte. Ltd.,,SG,https://api.gleif.org/api/v1/lei-records/549300I3UEC4HXUCH839,,gleif:549300I3UEC4HXUCH839,active,current name,high
 325,brreg+gleif,,MEISEL EIENDOM AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/815369432 https://api.gleif.org/api/v1/lei-records/254900GZU88JLOW60290,,brreg:815369432; gleif:254900GZU88JLOW60290,active,current name,medium
 326,gleif,,META PLATFORMS IRELAND LIMITED,,IE,https://api.gleif.org/api/v1/lei-records/635400IRYI5QC7GUYI75,,gleif:635400IRYI5QC7GUYI75,active,current name,medium

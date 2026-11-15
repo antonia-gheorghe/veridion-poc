@@ -104,3 +104,19 @@ def test_split_name_nationality_before_branch():
 @pytest.mark.parametrize("name", ["Campana Group Private Limited", "Example Private Ltd"])
 def test_private_limited_is_valid_in_singapore_and_malaysia(name):  # D52
     assert {"SG", "MY"} <= split_name(name).legal_countries
+
+
+@pytest.mark.parametrize("name, core, legal, country", [
+    ("ATREBO SL", "ATREBO", "SL", "ES"),
+    ("AWAN DISTRIBUTION FZC", "AWAN DISTRIBUTION", "FZC", "AE"),
+    ("CENTERFORENINGEN FISKETORVET F.M.B.A.", "CENTERFORENINGEN FISKETORVET", "FMBA", "DK"),
+    ("Tradium Randers S/I", "TRADIUM RANDERS", "S/I", "DK"),
+    ("ENETEK POWER SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA", "ENETEK POWER", "SP Z OO", "PL"),
+    ("Radio Frequency Systems Gesellschaft mit beschrankter Haftung", "RADIO FREQUENCY SYSTEMS", "GMBH", "DE"),
+    ("ACME UNLIMITED COMPANY", "ACME", "UC", "IE"),
+    ("Telenor Magyarorszag Zrt.", "TELENOR MAGYARORSZAG", "ZRT", "HU"),
+])
+def test_more_legal_forms(name, core, legal, country):  # D56
+    parts = split_name(name)
+    assert (parts.core, parts.legal_forms) == (core, (legal,))
+    assert country in parts.legal_countries

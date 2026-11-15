@@ -1,0 +1,179 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=LINKEDIN&filter%5Bentity.legalAddress.country%5D=IE&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-15T16:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=LINKEDIN&filter%5Bentity.legalAddress.country%5D=IE&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=LINKEDIN&filter%5Bentity.legalAddress.country%5D=IE&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300RZ6VN2Y8WIYZ07",
+    "attributes": {
+     "lei": "549300RZ6VN2Y8WIYZ07",
+     "entity": {
+      "legalName": {
+       "name": "LINKEDIN IRELAND UNLIMITED COMPANY",
+       "language": "en"
+      },
+      "otherNames": [
+       {
+        "name": "LINKEDIN IRELAND LIMITED",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "LINKEDIN IRELAND",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "70 SIR JOHN ROGERSON'S QUAY"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DUBLIN",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D02 R296"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "70 SIR JOHN ROGERSON'S QUAY"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "DUBLIN",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D02 R296"
+      },
+      "registeredAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "registeredAs": "477441",
+      "jurisdiction": "IE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "KMFX",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2009-11-11T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "ACCOUNTS_FILING",
+          "effectiveDate": "2025-08-28T00:00:00Z",
+          "recordedDate": "2025-08-28T15:26:01Z",
+          "type": "CHANGE_LEGAL_NAME",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2012-12-01T01:27:00Z",
+      "lastUpdateDate": "2026-10-26T17:28:30Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-09-01T00:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "validatedAs": "477441",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "ie/477441",
+     "qcc": "QIEWE5BBX5",
+     "gem": null,
+     "spglobal": [
+      "224061281"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300RZ6VN2Y8WIYZ07/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300RZ6VN2Y8WIYZ07/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300RZ6VN2Y8WIYZ07/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300RZ6VN2Y8WIYZ07/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300RZ6VN2Y8WIYZ07/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300RZ6VN2Y8WIYZ07/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300RZ6VN2Y8WIYZ07/ultimate-parent"
+      }
+     },
+     "direct-children": {
+      "links": {
+       "relationship-records": "https://api.gleif.org/api/v1/lei-records/549300RZ6VN2Y8WIYZ07/direct-child-relationships",
+       "related": "https://api.gleif.org/api/v1/lei-records/549300RZ6VN2Y8WIYZ07/direct-children"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300RZ6VN2Y8WIYZ07"
+    }
+   }
+  ]
+ }
+}

@@ -56,3 +56,5 @@ Counts are from the raw sample unless stated otherwise.
 | Right entity present only under a former name | Sinal A/S appears as "Eniig Energi Naturgas" (key 168) | 1 seen | manual review |
 | Auto-match picks an alias-named record over the main record | Nokia Solutions and Networks Oy -> HEXA-X Consortium; Johnson Controls Denmark ApS -> Sabroe; Telekom Malaysia Berhad -> TM Global | 10 of 141 auto-matches matched via a legal or commercial name while another exact/strong same-country candidate exists | Phase B |
 | No candidate in the input's country | | 26 inputs, about half due to missing country | notebook 02, s.8 |
+| Record carries the old legal name of a renamed company | GegeStore (Debrecen reseller) holds "Telenor Magyarország Zrt.", renamed Yettel Magyarország Zrt. in 2022 (key 520) | 1 seen | legal form update (D56) |
+| Registries know renames that the candidates miss | DK Hostmaster -> Punktum dk (142), itelligence -> NTT DATA Business Solutions (368), IBM Danmark A/S -> ApS (253) | 4 of 76 registry matches via a former name | registry lookup (D54) |
