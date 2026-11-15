@@ -96,6 +96,7 @@ def score_candidates(df: pd.DataFrame) -> pd.DataFrame:
             "cand_core": cand.core,
             "cand_legal_forms": " ".join(sorted(cand_legal)),
             "cand_legal_countries": " ".join(sorted(cand_legal_countries)),
+            "cand_country_words": " ".join(cand.country_words),
             "cand_country_code": cand_country,
             "name_sort": name_sort,
             "name_set": name_set,

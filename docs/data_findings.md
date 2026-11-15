@@ -39,6 +39,8 @@ Counts are from the raw sample unless stated otherwise.
 | Division record next to the company record | TM Global (division, 250 employees) and Telekom Malaysia (group, 24,000) both returned (507) | 1 seen | Phase B |
 | Singapore postcode 178957 used as a filler on unrelated addresses | Delta Electronics (Saint George's Road), Eastcompeace (Ang Mo Kio Ave 5), Gartner (Straits View) all 178957 | 50 candidate rows | Phase C, probable sample |
 | Commercial names that belong to another company | Telefiber AS (org 990331367) lists 'Telenor Fiber AS' (org 929340272) as a commercial name (515) | 1 seen | Phase C, probable sample |
+| Main country set from a foreign branch | SystemTeknik A/S (Nørresundby HQ) filed under Poland via its Szczecin office (489) | 1 seen | Phase C, U1 sample |
+| Address belongs to another organisation | Neras Direkte AS record carries the address of NERAS B.I.L, a sports club (346) | 1 seen | Phase C, P2 sample |
 | Industry missing on the correct candidate | Leaseplan Sweden (key 305) | 1 seen | manual review |
 
 ## Matching engine

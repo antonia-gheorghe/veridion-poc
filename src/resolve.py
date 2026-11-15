@@ -9,13 +9,13 @@ import pandas as pd
 from src import config
 from src.score import DIFFERENT, EXACT, SAME, STREET_ONLY, UNKNOWN
 
-AUTO, PROBABLE, NO_CANDIDATE, REVIEW = "auto", "probable", "no_candidate", "review"
+AUTO, PROBABLE, NO_CANDIDATE, REVIEW, UNMATCHED = "auto", "probable", "no_candidate", "review", "unmatched"
+CONFIDENCE = {AUTO: "high", PROBABLE: "medium", REVIEW: "none", UNMATCHED: "none", NO_CANDIDATE: "none"}
 # Reasons that only describe an address gap; a pick failing on these alone is "probable" (P1).
 LOCATION_REASONS = ("street:", "city:", "postcode:")
 NAME_EXACT, NAME_STRONG, NAME_WEAK, NAME_NONE = "exact", "strong", "weak", "none"
 NAME_RANK = {NAME_EXACT: 3, NAME_STRONG: 2, NAME_WEAK: 1, NAME_NONE: 0}
 EXACT_SCORE = 100
-STRONG_MIN = 90
 WEAK_MIN = 50
 CONFLICT, NO_CONFLICT = "conflict", "no_conflict"
 PRIMARY_NAME_SOURCE = "company_name"
@@ -31,8 +31,6 @@ def name_outcome(row) -> str:
         return NAME_STRONG
     if row.name_set == EXACT_SCORE:
         return NAME_WEAK
-    if row.name_sort >= STRONG_MIN:
-        return NAME_STRONG
     if row.name_sort >= WEAK_MIN:
         return NAME_WEAK
     return NAME_NONE
@@ -49,11 +47,19 @@ def legal_outcome(row) -> str:
     return NO_CONFLICT if inp & cand else CONFLICT
 
 
-def country_word_outcome(row) -> str:
-    words = _codes(row.input_country_words)
-    if not words or not isinstance(row.cand_country_code, str):
+def _word_vs_country(words: set[str], country) -> str:
+    if not words or not isinstance(country, str):
         return UNKNOWN
-    return NO_CONFLICT if row.cand_country_code in words else CONFLICT
+    return NO_CONFLICT if country in words else CONFLICT
+
+
+def country_word_outcome(row) -> str:
+    """Country words in either name must agree with the other side's country (D21, D35)."""
+    outcomes = {_word_vs_country(_codes(row.input_country_words), row.cand_country_code),
+                _word_vs_country(_codes(row.cand_country_words), row.input_country_code)}
+    if CONFLICT in outcomes:
+        return CONFLICT
+    return NO_CONFLICT if NO_CONFLICT in outcomes else UNKNOWN
 
 
 def location_rank(row) -> int:
@@ -92,6 +98,12 @@ def _failing_layers(best) -> list[str]:
     return reasons
 
 
+def _is_duplicate(a, b) -> bool:
+    """Same core name at the same street and city: likely one company stored twice."""
+    return (a.cand_core == b.cand_core and _has_value(a.cand_street_norm)
+            and a.cand_street_norm == b.cand_street_norm and a.cand_city_norm == b.cand_city_norm)
+
+
 def _resolve_input(group: pd.DataFrame) -> dict:
     first = group.iloc[0]
     out = {
@@ -109,6 +121,11 @@ def _resolve_input(group: pd.DataFrame) -> dict:
     if same_country.empty:
         return out | {"decision": REVIEW, "rule": "R4", "reason": "no_same_country_candidate"}
 
+    good = same_country.name_outcome.isin([NAME_EXACT, NAME_STRONG])
+    primary = same_country.cand_matched_source == PRIMARY_NAME_SOURCE
+    if (good & primary).any():  # D31: alias-only matches neither win nor rival a main-name match
+        same_country = same_country[~(good & ~primary)]
+
     ranked = same_country.assign(neg_idx=-same_country.cand_idx).sort_values(
         ["name_rank", "loc_rank", "name_sort", "neg_idx"], ascending=False)
     best = ranked.iloc[0]
@@ -119,11 +136,16 @@ def _resolve_input(group: pd.DataFrame) -> dict:
     else:
         rivals = others[good_name]
 
+    duplicates = not rivals.empty and all(_is_duplicate(best, rival) for rival in rivals.itertuples())
+    if duplicates:  # D33: keep the engine's first record of the duplicate set
+        best = pd.concat([best.to_frame().T, rivals]).sort_values("cand_idx").iloc[0]
+
     out |= {
         "cand_idx": best.cand_idx,
         "veridion_id": best.veridion_id,
         "cand_name": best.cand_name,
         "cand_matched_name": best.cand_matched_name,
+        "cand_matched_source": best.cand_matched_source,
         "name_outcome": best.name_outcome,
         "name_sort": best.name_sort,
         "legal": best.legal,
@@ -137,13 +159,25 @@ def _resolve_input(group: pd.DataFrame) -> dict:
         "street_in_other_locations": best.street_in_other_locations,
     }
 
+    supported = same_country.name_outcome.isin([NAME_EXACT, NAME_STRONG]) | (
+        (same_country.name_outcome == NAME_WEAK) & (same_country.loc_rank >= LOC_CITY))
+    if not supported.any():  # D32
+        return out | {"decision": UNMATCHED, "rule": "U1", "reason": f"name:{best.name_outcome} no address support"}
+
     reasons = _failing_layers(best)
     if not rivals.empty:
-        reasons.append(f"rival:{len(rivals)}")
+        reasons.append(f"duplicate:{len(rivals)}" if duplicates else f"rival:{len(rivals)}")
     if _has_value(first.input_branch):
         reasons.append("branch")
-    if reasons and all(r.startswith(LOCATION_REASONS) for r in reasons) and best.city != DIFFERENT:
+
+    location_only = all(r.startswith(LOCATION_REASONS) for r in reasons if not r.startswith("duplicate:"))
+    is_primary = best.cand_matched_source == PRIMARY_NAME_SOURCE
+    if location_only and duplicates:
+        return out | {"decision": PROBABLE, "rule": "P3", "reason": " ".join(reasons)}
+    if reasons and location_only and best.city != DIFFERENT:
         return out | {"decision": PROBABLE, "rule": "P1", "reason": " ".join(reasons)}
+    if reasons and location_only and is_primary:
+        return out | {"decision": PROBABLE, "rule": "P2", "reason": " ".join(reasons)}
     if reasons:
         return out | {"decision": REVIEW, "rule": "R4", "reason": " ".join(reasons)}
     rule = "R1" if _has_value(best.input_street_norm) else "R2"
@@ -167,5 +201,6 @@ def resolve(features: pd.DataFrame) -> pd.DataFrame:
     f["loc_rank"] = f.apply(location_rank, axis=1)
     rows = [_resolve_input(g) for _, g in f.groupby("input_row_key", sort=True)]
     decisions = pd.DataFrame(rows)
+    decisions.insert(decisions.columns.get_loc("decision") + 1, "confidence", decisions.decision.map(CONFIDENCE))
     decisions["code_version"] = code_version()
     return decisions

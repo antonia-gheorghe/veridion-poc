@@ -25,5 +25,19 @@ cp .env.example .env   # add Veridion API key (optional, only for external looku
 ## Approach
 _TBD_
 
+## Match confidence
+Each input in `data/output/phase_a_decisions.csv` has a `decision`, the `rule` that produced it, a `reason`
+and a `confidence`. Rules are in `docs/decisions.md`; sample checks with sources are in `data/manual/`.
+
+| Rule | Decision | Confidence | Sample check |
+|---|---|---|---|
+| R1, R2 | auto | high | 12 of 14 confirmed, 1 unverified, 1 wrong (fixed by D25); 2 more wrong found later (fixed by D35) |
+| P1 | probable | medium | 8 of 8 correct |
+| P2 | probable | medium | first sample 2 wrong (fixed by D35, D36); second sample 8 correct, 2 unverified |
+| P3 | probable | medium | not sampled |
+| U1 | unmatched | none | 7 of 10 correctly rejected, 1 missed match, 2 unverified |
+| R3 | no candidate | none | not sampled |
+| R4 | review | none | manual research |
+
 ## Findings
 _TBD_

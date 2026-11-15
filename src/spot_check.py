@@ -57,6 +57,26 @@ def draw_probable(decisions: pd.DataFrame, features: pd.DataFrame) -> pd.DataFra
                      for kind, n in PROBABLE_SAMPLE.items())
 
 
+RULE_SAMPLE_SIZE = 10
+
+
+def draw_rule(decisions: pd.DataFrame, rule: str, exclude: set[int] = frozenset()) -> pd.DataFrame:
+    pool = decisions[(decisions.rule == rule) & ~decisions.input_row_key.isin(exclude)]
+    return pool.sample(n=RULE_SAMPLE_SIZE, random_state=SEED)
+
+
+def main_rule(rule: str, name: str | None = None, exclude_files: tuple[str, ...] = ()):
+    decisions = pd.read_csv(config.DECISIONS_FILE)
+    exclude = set()
+    for file in exclude_files:
+        exclude |= set(pd.read_csv(config.MANUAL / file).input_row_key)
+    keep = ["input_row_key", "rule", "reason", "cand_idx", "veridion_id", "cand_matched_source",
+            "city_in_other_locations", "street_in_other_locations", "code_version"]
+    out = _with_details(draw_rule(decisions, rule, exclude), keep)
+    out.to_csv(config.MANUAL / f"{name or 'rule_check_' + rule}.csv", index=False)
+    print(f"{rule}: {len(out)} rows")
+
+
 def _with_details(sample: pd.DataFrame, keep: list[str]) -> pd.DataFrame:
     raw = load_raw()
     raw = raw.assign(cand_idx=raw.groupby("input_row_key").cumcount())
