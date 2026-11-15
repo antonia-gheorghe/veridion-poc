@@ -143,7 +143,7 @@ def code_version() -> str:
     def git(*args):
         return subprocess.run(["git", *args], cwd=config.ROOT, capture_output=True, text=True, check=True).stdout.strip()
     commit = git("rev-parse", "--short", "HEAD")
-    return f"{commit}-dirty" if git("status", "--porcelain") else commit
+    return f"{commit}-dirty" if git("status", "--porcelain", "--", ".", f":!{config.OUTPUT.relative_to(config.ROOT)}") else commit
 
 
 def resolve(features: pd.DataFrame) -> pd.DataFrame:
