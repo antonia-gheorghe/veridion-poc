@@ -5,3 +5,4 @@ requests==2.34.2
 python-dotenv==1.2.4
 jupyterlab==4.6.6
 ipykernel==7.4.0
+pytest==8.4.2

@@ -7,7 +7,8 @@ Counts are from the raw sample unless stated otherwise.
 
 | Finding | Example | Count | Source |
 |---|---|---|---|
-| Norwegian postcodes lost their leading zero (stored as numbers) | "668" for 0668 | 47 of 90 NO inputs | notebook 02, s.3 |
+| Postcodes lost their leading zero; the xlsx stores most postcodes as numbers | "668" for 0668 (NO), "68804" for 068804 (SG), "2610" for 02610 (FI) | NO 47 of 90, SG 21 of 41, FI 6 of 10, MY 1, US 1 inputs | notebook 02, s.3; postcode check per country |
+| Placeholder postcode | "0" for a Hong Kong input; Hong Kong has no postcodes | 1 | postcode check per country |
 | Outdated company names after rebrands or mergers | ENERGI HOBRO TELE A/S, now a former name of Sinal A/S (key 168); LeasePlan Sverige AB, LeasePlan now Ayvens (key 305) | 2 seen so far | manual review |
 | Address updated but name not | key 168 has the Norlys HQ address with the pre-2022 name | 1 seen so far | manual review |
 | Branch-of-foreign-company names | "KLM-ROYAL DUTCH AIRLINES Filial av utenlandsk foretak" | 11 inputs | notebook 02, s.6b |
@@ -20,6 +21,8 @@ Counts are from the raw sample unless stated otherwise.
 |---|---|---|---|
 | Norwegian candidate postcodes also lost their leading zero | TINEX Group "668" (key 537) | 129 of 296 NO candidate rows | notebook 02, s.3 |
 | Candidates with no country | | 145 candidate rows; 13 of the 26 "no candidate in country" inputs include one | notebook 02, s.8 |
+| `locations` entries that do not split into the 9 documented fields | probably commas inside street or city names | 86 entries in 76 candidate rows | `src/score.py`, column `locations_unparsed` |
+| Company names with broken spacing | "DAILY JURR AT", "E WORKGROUP" | 2 seen | notebook 03 |
 | Implausible employee count | Leaseplan Sweden: 1 employee (key 305) | 1 seen | manual review |
 | Revenue inconsistent with size | Norlys: 2,500 employees, revenue 4M (key 168) | 1 seen | manual review |
 | Identical values on sibling entities, possibly copied | TINEX Group and TINEX AS both founded 1991 with 6 employees (key 537); Norlys and Eniig both 2,500 employees (key 168) | 2 seen | manual review |
@@ -27,6 +30,7 @@ Counts are from the raw sample unless stated otherwise.
 | Outdated names and domains | eniig.com, a retired brand (key 168) | 1 seen | manual review |
 | Scraped text used as description | Norlys description is a sentence about trees shading solar panels (key 168) | 1 seen | manual review |
 | Website belongs to another company | 3Step IT Oy with domain karei.dev (key 2) | 1 seen | profiling |
+| Possible duplicate records: two candidates with the same name at the same address | ANNALECT and Annalect (key 38); two "Citero" records (key 97) | up to 33 inputs have 2+ exact/strong candidates in the same city; duplicates not yet separated from sibling entities | rival check, D19 |
 | Industry missing on the correct candidate | Leaseplan Sweden (key 305) | 1 seen | manual review |
 
 ## Matching engine

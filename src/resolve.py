@@ -1,4 +1,160 @@
-"""Pick one match per input: rules for clear cases, data/manual/*.csv for human decisions.
+"""Pick one match per input with fail-safe rules R1 to R4 (docs/decisions.md D12 to D22).
 
-Manual decisions always override rules. Every row ends with a decision + reason.
+Every input gets a decision, the rule that produced it, and the layer outcomes behind it.
 """
+import subprocess
+
+import pandas as pd
+
+from src import config
+from src.score import DIFFERENT, EXACT, SAME, STREET_ONLY, UNKNOWN
+
+AUTO, NO_CANDIDATE, REVIEW = "auto", "no_candidate", "review"
+NAME_EXACT, NAME_STRONG, NAME_WEAK, NAME_NONE = "exact", "strong", "weak", "none"
+NAME_RANK = {NAME_EXACT: 3, NAME_STRONG: 2, NAME_WEAK: 1, NAME_NONE: 0}
+EXACT_SCORE = 100
+STRONG_MIN = 90
+WEAK_MIN = 50
+CONFLICT, NO_CONFLICT = "conflict", "no_conflict"
+
+# Address match ranking used for best pick and rival check (D19).
+LOC_EXACT_STREET, LOC_STREET_POSTCODE, LOC_CITY, LOC_COUNTRY = 3, 2, 1, 0
+
+
+def name_outcome(row) -> str:
+    if row.name_sort == EXACT_SCORE:
+        return NAME_EXACT
+    if row.input_core.replace(" ", "") == row.cand_core.replace(" ", ""):
+        return NAME_STRONG
+    if row.name_set == EXACT_SCORE:
+        return NAME_WEAK
+    if row.name_sort >= STRONG_MIN:
+        return NAME_STRONG
+    if row.name_sort >= WEAK_MIN:
+        return NAME_WEAK
+    return NAME_NONE
+
+
+def _codes(value) -> set[str]:
+    return set(value.split()) if isinstance(value, str) else set()
+
+
+def legal_outcome(row) -> str:
+    inp, cand = _codes(row.input_legal_countries), _codes(row.cand_legal_countries)
+    if not inp or not cand:
+        return UNKNOWN
+    return NO_CONFLICT if inp & cand else CONFLICT
+
+
+def country_word_outcome(row) -> str:
+    words = _codes(row.input_country_words)
+    if not words or not isinstance(row.cand_country_code, str):
+        return UNKNOWN
+    return NO_CONFLICT if row.cand_country_code in words else CONFLICT
+
+
+def location_rank(row) -> int:
+    if row.street == EXACT:
+        return LOC_EXACT_STREET
+    if row.street == STREET_ONLY and row.postcode == SAME:
+        return LOC_STREET_POSTCODE
+    if row.city == SAME:
+        return LOC_CITY
+    return LOC_COUNTRY
+
+
+def _has_value(value) -> bool:
+    return isinstance(value, str) and value != ""
+
+
+def _failing_layers(best) -> list[str]:
+    reasons = []
+    if best.name_outcome not in (NAME_EXACT, NAME_STRONG):
+        reasons.append(f"name:{best.name_outcome}")
+    if best.legal == CONFLICT:
+        reasons.append("legal:conflict")
+    if best.country_word == CONFLICT:
+        reasons.append("country_word:conflict")
+    if _has_value(best.input_street_norm):
+        if not _has_value(best.cand_street_norm):
+            reasons.append("street:candidate_missing")
+        elif best.loc_rank < LOC_STREET_POSTCODE:
+            reasons.append(f"street:{best.street}")
+            if best.street == STREET_ONLY and best.postcode != DIFFERENT:
+                reasons.append(f"postcode:{best.postcode}")
+    elif best.city != SAME:
+        reasons.append(f"city:{best.city}")
+    if best.postcode == DIFFERENT:
+        reasons.append("postcode:different")
+    return reasons
+
+
+def _resolve_input(group: pd.DataFrame) -> dict:
+    first = group.iloc[0]
+    out = {
+        "input_row_key": first.input_row_key,
+        "input_name": first.input_name,
+        "input_country_code": first.input_country_code,
+        "n_candidates": len(group),
+    }
+
+    has_candidate = (group.name_outcome != NAME_NONE) & group.country.isin([SAME, UNKNOWN])
+    if not has_candidate.any():
+        return out | {"decision": NO_CANDIDATE, "rule": "R3", "reason": "no weak-or-better name in same or unknown country"}
+
+    same_country = group[group.country == SAME]
+    if same_country.empty:
+        return out | {"decision": REVIEW, "rule": "R4", "reason": "no_same_country_candidate"}
+
+    ranked = same_country.assign(neg_idx=-same_country.cand_idx).sort_values(
+        ["name_rank", "loc_rank", "name_sort", "neg_idx"], ascending=False)
+    best = ranked.iloc[0]
+    others = ranked.iloc[1:]
+    rivals = others[others.name_outcome.isin([NAME_EXACT, NAME_STRONG]) & (others.loc_rank >= best.loc_rank)]
+
+    out |= {
+        "cand_idx": best.cand_idx,
+        "veridion_id": best.veridion_id,
+        "cand_name": best.cand_name,
+        "cand_matched_name": best.cand_matched_name,
+        "name_outcome": best.name_outcome,
+        "name_sort": best.name_sort,
+        "legal": best.legal,
+        "country_word": best.country_word,
+        "country": best.country,
+        "city": best.city,
+        "postcode": best.postcode,
+        "street": best.street,
+        "rival_ids": "|".join(rivals.veridion_id.astype(str)),
+    }
+
+    reasons = _failing_layers(best)
+    if not rivals.empty:
+        reasons.append(f"rival:{len(rivals)}")
+    if _has_value(first.input_branch):
+        reasons.append("branch")
+    if reasons:
+        return out | {"decision": REVIEW, "rule": "R4", "reason": " ".join(reasons)}
+    rule = "R1" if _has_value(best.input_street_norm) else "R2"
+    return out | {"decision": AUTO, "rule": rule, "reason": ""}
+
+
+def code_version() -> str:
+    def git(*args):
+        return subprocess.run(["git", *args], cwd=config.ROOT, capture_output=True, text=True, check=True).stdout.strip()
+    commit = git("rev-parse", "--short", "HEAD")
+    return f"{commit}-dirty" if git("status", "--porcelain") else commit
+
+
+def resolve(features: pd.DataFrame) -> pd.DataFrame:
+    """One row per input: decision, rule, reason, chosen candidate and its layer outcomes."""
+    f = features.copy()
+    f["name_outcome"] = f.apply(name_outcome, axis=1)
+    f["name_rank"] = f.name_outcome.map(NAME_RANK)
+    f["legal"] = f.apply(legal_outcome, axis=1)
+    f["country_word"] = f.apply(country_word_outcome, axis=1)
+    f["loc_rank"] = f.apply(location_rank, axis=1)
+    rows = [_resolve_input(g) for _, g in f.groupby("input_row_key", sort=True)]
+    decisions = pd.DataFrame(rows)
+    decisions["code_version"] = code_version()
+    return decisions
