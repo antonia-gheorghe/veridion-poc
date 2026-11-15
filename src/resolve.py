@@ -9,7 +9,9 @@ import pandas as pd
 from src import config
 from src.score import DIFFERENT, EXACT, SAME, STREET_ONLY, UNKNOWN
 
-AUTO, NO_CANDIDATE, REVIEW = "auto", "no_candidate", "review"
+AUTO, PROBABLE, NO_CANDIDATE, REVIEW = "auto", "probable", "no_candidate", "review"
+# Reasons that only describe an address gap; a pick failing on these alone is "probable" (P1).
+LOCATION_REASONS = ("street:", "city:", "postcode:")
 NAME_EXACT, NAME_STRONG, NAME_WEAK, NAME_NONE = "exact", "strong", "weak", "none"
 NAME_RANK = {NAME_EXACT: 3, NAME_STRONG: 2, NAME_WEAK: 1, NAME_NONE: 0}
 EXACT_SCORE = 100
@@ -83,7 +85,7 @@ def _failing_layers(best) -> list[str]:
             reasons.append(f"street:{best.street}")
             if best.street == STREET_ONLY and best.postcode != DIFFERENT:
                 reasons.append(f"postcode:{best.postcode}")
-    elif best.city != SAME:
+    if best.city == DIFFERENT or (not _has_value(best.input_street_norm) and best.city != SAME):
         reasons.append(f"city:{best.city}")
     if best.postcode == DIFFERENT:
         reasons.append("postcode:different")
@@ -131,6 +133,8 @@ def _resolve_input(group: pd.DataFrame) -> dict:
         "postcode": best.postcode,
         "street": best.street,
         "rival_ids": "|".join(rivals.veridion_id.astype(str)),
+        "city_in_other_locations": best.city_in_other_locations,
+        "street_in_other_locations": best.street_in_other_locations,
     }
 
     reasons = _failing_layers(best)
@@ -138,6 +142,8 @@ def _resolve_input(group: pd.DataFrame) -> dict:
         reasons.append(f"rival:{len(rivals)}")
     if _has_value(first.input_branch):
         reasons.append("branch")
+    if reasons and all(r.startswith(LOCATION_REASONS) for r in reasons) and best.city != DIFFERENT:
+        return out | {"decision": PROBABLE, "rule": "P1", "reason": " ".join(reasons)}
     if reasons:
         return out | {"decision": REVIEW, "rule": "R4", "reason": " ".join(reasons)}
     rule = "R1" if _has_value(best.input_street_norm) else "R2"

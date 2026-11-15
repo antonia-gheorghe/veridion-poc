@@ -112,6 +112,8 @@ def score_candidates(df: pd.DataFrame) -> pd.DataFrame:
             "cand_street_norm": c_st,
             "city_in_other_locations": in_city is not None and any(
                 cc == country and city == in_city for cc, city, _ in locs),
+            "street_in_other_locations": in_st is not None and any(
+                cc == country and st == in_st for cc, _, st in locs),
             "locations_unparsed": unparsed,
         })
     return pd.DataFrame(rows)

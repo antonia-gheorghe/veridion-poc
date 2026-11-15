@@ -37,6 +37,8 @@ Counts are from the raw sample unless stated otherwise.
 | Dissolved company still listed | eCapacity A/S, CVR 30814037, dissolved after merger June 2024 per aggregator (154) | 1 seen | Phase B |
 | Outdated main address | A&O Shearman at Bishops Square; registered office now 2 Broadgate (27) | 1 seen | Phase B |
 | Division record next to the company record | TM Global (division, 250 employees) and Telekom Malaysia (group, 24,000) both returned (507) | 1 seen | Phase B |
+| Singapore postcode 178957 used as a filler on unrelated addresses | Delta Electronics (Saint George's Road), Eastcompeace (Ang Mo Kio Ave 5), Gartner (Straits View) all 178957 | 50 candidate rows | Phase C, probable sample |
+| Commercial names that belong to another company | Telefiber AS (org 990331367) lists 'Telenor Fiber AS' (org 929340272) as a commercial name (515) | 1 seen | Phase C, probable sample |
 | Industry missing on the correct candidate | Leaseplan Sweden (key 305) | 1 seen | manual review |
 
 ## Matching engine
