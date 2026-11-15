@@ -43,7 +43,7 @@ and a `confidence`. Rules are in `docs/decisions.md`; sample checks with sources
 | U2 | unmatched | none | 0 of 10 were the company (5 related, 1 wrong, 4 unverified) |
 | U3 | unmatched | none | 0 of 5 were the company (5 group or parent records) |
 | U4 | unmatched | none | alias picks right 2 of 5; the right company was another candidate or missing |
-| E1 | external | high if registry city = input city, else medium | not sampled |
+| E1 | external | high if registry city = input city, else medium | 8 of 10 correct (address agrees), 2 unverified (no or different input address) |
 | M2 | unmatched | none | user review or sourced research per row |
 | R3 | no candidate | none | not sampled |
 
