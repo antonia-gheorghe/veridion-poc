@@ -13,6 +13,7 @@ Counts are from the raw sample unless stated otherwise.
 | Address updated but name not | key 168 has the Norlys HQ address with the pre-2022 name | 1 seen so far | manual review |
 | Branch-of-foreign-company names | "KLM-ROYAL DUTCH AIRLINES Filial av utenlandsk foretak" | 11 inputs | notebook 02, s.6b |
 | Country words inside names | "DANMARK A/S", "NORWAY AS" | 153 inputs | notebook 02, s.2 |
+| Input names of legal entities that were renamed and demerged | KANTAR TNS AS = org 924319623, now FIFTY5BLUE NORGE AS; business moved to KANTAR NORGE AS in 2023 (287) | 1 seen | Phase B |
 | Near-duplicate inputs | 592 inputs, 591 unique names | 1 | profiling |
 
 ## Veridion data
@@ -31,6 +32,11 @@ Counts are from the raw sample unless stated otherwise.
 | Scraped text used as description | Norlys description is a sentence about trees shading solar panels (key 168) | 1 seen | manual review |
 | Website belongs to another company | 3Step IT Oy with domain karei.dev (key 2) | 1 seen | profiling |
 | Possible duplicate records: two candidates with the same name at the same address | ANNALECT and Annalect (key 38); two "Citero" records (key 97) | up to 33 inputs have 2+ exact/strong candidates in the same city; duplicates not yet separated from sibling entities | rival check, D19 |
+| Legal names that belong to other entities | TM Global: 'Telekom Malaysia UK Ltd.' (507); ACOME: 'ACOME GmbH' (12); China Telecom Global: 'Innovic Technology Corporation Limited' (90); Telenor Linx: 'Telenor Pakistan Private Limited' (519) | 4 of 14 spot-check rows | Phase B |
+| Street number stored as a date | CBRE Teknisk servicepartner: '2026-01-07 00:00:00' for Blytækkervej 3-7 (86) | 1 seen | Phase B |
+| Dissolved company still listed | eCapacity A/S, CVR 30814037, dissolved after merger June 2024 per aggregator (154) | 1 seen | Phase B |
+| Outdated main address | A&O Shearman at Bishops Square; registered office now 2 Broadgate (27) | 1 seen | Phase B |
+| Division record next to the company record | TM Global (division, 250 employees) and Telekom Malaysia (group, 24,000) both returned (507) | 1 seen | Phase B |
 | Industry missing on the correct candidate | Leaseplan Sweden (key 305) | 1 seen | manual review |
 
 ## Matching engine
@@ -41,4 +47,5 @@ Counts are from the raw sample unless stated otherwise.
 | Parent, sibling and foreign entities returned alongside the right one | TINEX (key 537), LeasePlan (key 305) | 2 seen | manual review |
 | Several candidates at the input's exact street | Norlys HQ, three candidates (key 168) | 111 inputs | notebook 02, s.7 |
 | Right entity present only under a former name | Sinal A/S appears as "Eniig Energi Naturgas" (key 168) | 1 seen | manual review |
+| Auto-match picks an alias-named record over the main record | Nokia Solutions and Networks Oy -> HEXA-X Consortium; Johnson Controls Denmark ApS -> Sabroe; Telekom Malaysia Berhad -> TM Global | 10 of 141 auto-matches matched via a legal or commercial name while another exact/strong same-country candidate exists | Phase B |
 | No candidate in the input's country | | 26 inputs, about half due to missing country | notebook 02, s.8 |

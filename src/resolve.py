@@ -16,6 +16,7 @@ EXACT_SCORE = 100
 STRONG_MIN = 90
 WEAK_MIN = 50
 CONFLICT, NO_CONFLICT = "conflict", "no_conflict"
+PRIMARY_NAME_SOURCE = "company_name"
 
 # Address match ranking used for best pick and rival check (D19).
 LOC_EXACT_STREET, LOC_STREET_POSTCODE, LOC_CITY, LOC_COUNTRY = 3, 2, 1, 0
@@ -110,7 +111,11 @@ def _resolve_input(group: pd.DataFrame) -> dict:
         ["name_rank", "loc_rank", "name_sort", "neg_idx"], ascending=False)
     best = ranked.iloc[0]
     others = ranked.iloc[1:]
-    rivals = others[others.name_outcome.isin([NAME_EXACT, NAME_STRONG]) & (others.loc_rank >= best.loc_rank)]
+    good_name = others.name_outcome.isin([NAME_EXACT, NAME_STRONG])
+    if best.cand_matched_source == PRIMARY_NAME_SOURCE:
+        rivals = others[good_name & (others.loc_rank >= best.loc_rank)]
+    else:
+        rivals = others[good_name]
 
     out |= {
         "cand_idx": best.cand_idx,

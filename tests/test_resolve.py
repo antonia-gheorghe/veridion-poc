@@ -6,7 +6,7 @@ from src import resolve as r
 BASE = {
     "input_row_key": 1, "input_name": "ACME AS", "input_country_code": "NO", "input_core": "ACME",
     "input_legal_countries": "NO", "input_country_words": None, "input_branch": None,
-    "cand_name": "Acme", "cand_matched_name": "Acme", "cand_core": "ACME",
+    "cand_name": "Acme", "cand_matched_name": "Acme", "cand_matched_source": "company_name", "cand_core": "ACME",
     "cand_legal_countries": None, "cand_country_code": "NO",
     "name_sort": 100, "name_set": 100, "country": "same", "city": "same", "postcode": "same",
     "street": "exact", "input_street_norm": "STORGATA", "cand_street_norm": "STORGATA",
@@ -100,3 +100,14 @@ def test_only_foreign_candidates_with_good_name():
 def test_unknown_country_candidate_goes_to_review():
     out = run({"country": "unknown", "cand_country_code": None})
     assert out.reason == "no_same_country_candidate"
+
+
+def test_alias_match_with_other_good_name_is_rival():  # D25
+    out = run({"cand_matched_source": "company_legal_names"}, {"street": "different", "city": "different"})
+    assert out.decision == "review" and out.reason == "rival:1"
+
+
+def test_alias_match_without_other_good_name_is_auto():
+    out = run({"cand_matched_source": "company_commercial_names"},
+              {"name_sort": 30, "name_set": 30, "cand_core": "ZETA"})
+    assert out.decision == "auto"
