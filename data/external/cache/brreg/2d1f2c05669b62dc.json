@@ -1,0 +1,125 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SIGNICAT&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/989584022"
+      }
+     },
+     "aktivitet": [
+      "Forskning og utvikling innen informasjonsteknologi, utvikling av",
+      "dataprogrammer, drift av IT-tjenester samt tilhørende",
+      "konsulenttjenester.",
+      " "
+     ],
+     "antallAnsatte": 129,
+     "epostadresse": "info@signicat.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Beddingen 16"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7042",
+      "poststed": "TRONDHEIM"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2006-03-15 20:22:22",
+       "navn": "KANTEGA SECURE IDENTITY AS",
+       "tilDato": "2007-09-20 20:42:48"
+      }
+     ],
+     "hjemmeside": "www.signicat.com",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 2937026,
+      "belop": 3230728.6,
+      "innfortDato": "2025-08-25",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "930 60 408",
+     "naeringskode1": {
+      "beskrivelse": "Utgivelse av annen programvare",
+      "kode": "58.290"
+     },
+     "naeringskode2": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "SIGNICAT AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "989584022",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 4084 Bakklandet"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7454",
+      "poststed": "TRONDHEIM"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2006-03-15",
+     "registreringsdatoForetaksregisteret": "2006-03-15",
+     "registreringsdatoMerverdiavgiftsregisteret": "2006-03-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2006-05-16",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2006-02-17",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-08-12",
+     "vedtektsfestetFormaal": [
+      "Virksomhet er forskning og utvikling innen",
+      "informasjonsteknologi, utvikling av dataprogrammer, drift av",
+      "IT-tjenester, konsulentvirksomhet og lignende virksomhet, samt",
+      "deltagelse i andre virksomheter og selskaper.",
+      " "
+     ]
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SIGNICAT&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 1,
+   "totalPages": 1
+  }
+ }
+}

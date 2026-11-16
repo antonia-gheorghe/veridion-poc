@@ -1,0 +1,2849 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=ELTEK&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/978658571"
+      }
+     },
+     "aktivitet": [
+      "Svakstrøm.",
+      "Datterselskap i konsern."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Eltek House Maxted Road",
+       "Hemel Hempstead"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "Hertsfordshire  HP2 7 DX England"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1997-06-27 13:40:20",
+       "navn": "ELTEK (UK) LTD",
+       "tilDato": "2004-11-30 20:21:11"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ELTEK  ENERGY (UK) LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "978658571",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Eltek ASA",
+       "Postboks 2340 Strømsø"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3003",
+      "poststed": "DRAMMEN"
+     },
+     "registreringsdatoEnhetsregisteret": "1997-06-27",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1993-10-10",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/833912682"
+      }
+     },
+     "aktivitet": [
+      "Elektrikertjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Olahagen 16"
+      ],
+      "kommune": "KVINNHERAD",
+      "kommunenummer": "4617",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5455",
+      "poststed": "HALSNØY KLOSTER"
+     },
+     "fravalgRevisjonBeslutningsDato": "2024-06-03",
+     "fravalgRevisjonDato": "2024-08-12",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2024-08-12",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "ELTEK AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "833912682",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-08-12",
+     "registreringsdatoForetaksregisteret": "2024-08-12",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2024-06-03",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-06-03",
+     "vedtektsfestetFormaal": [
+      "Selge varer og tjenester innen elektrikerarbeid - og annet som",
+      "naturlig sammenfaller med dette - samt deltakelse i andre selskaper,",
+      "investeringer og nærliggende virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/993831883"
+      }
+     },
+     "aktivitet": [
+      "Fagforening."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Honeywell Life Safety AS",
+       "Solbråveien 23"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1383",
+      "poststed": "ASKER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i yrkessammenslutninger",
+      "kode": "94.120"
+     },
+     "navn": "ELTEK EL & IT",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "993831883",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 263"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1372",
+      "poststed": "ASKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2009-03-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2009-01-15",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/878658442"
+      }
+     },
+     "aktivitet": [
+      "Svakstrøm.",
+      "Datterselskap i konsern."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Rm 812 eight Commercial Tower",
+       "8 Sun Yip Street"
+      ],
+      "land": "Hongkong",
+      "landkode": "HK",
+      "poststed": "CHAI WAN HONG KONG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1997-06-27 13:29:54",
+       "navn": "ELTEK (FAR EAST) LTD",
+       "tilDato": "2004-11-30 20:21:43"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ELTEK ENERGY LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "878658442",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Eltek ASA",
+       "Postboks 1500"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3003",
+      "poststed": "DRAMMEN"
+     },
+     "registreringsdatoEnhetsregisteret": "1997-06-27",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1994-04-30",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/980504255"
+      }
+     },
+     "aktivitet": [
+      "Datterselskap i konsern."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "192 Pandan  Loop # 06-02/04",
+       "Pantech Industrial Complex"
+      ],
+      "land": "Singapore",
+      "landkode": "SG",
+      "poststed": "SINGAPORE 128381"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1999-02-08 13:02:26",
+       "navn": "ELTEK POWER SUPPLIES PTE LTD (SINGAPORE)",
+       "tilDato": "2004-11-30 20:21:49"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ELTEK ENERGY PTE LTD (SINGAPORE)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "980504255",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Eltek ASA",
+       "Postboks 2340 Strømsø"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3003",
+      "poststed": "DRAMMEN"
+     },
+     "registreringsdatoEnhetsregisteret": "1999-02-08",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1998-01-08",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987555718"
+      }
+     },
+     "aktivitet": [
+      "Datterselskap i konsern."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Sjøänsvägen 9"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "192 72 SOLLENTUNA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ELTEK HOLDING AB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "987555718",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 2340 Strømsø",
+       "co Eltek ASA"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3003",
+      "poststed": "DRAMMEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2004-11-30",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2000-08-30",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/982370280"
+      }
+     },
+     "aktivitet": [
+      "Investering i verdipapirer og fast eiendom."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sommerrogata 15"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0255",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2000-09-16 16:51:44",
+       "navn": "BIMO INVEST AS",
+       "tilDato": "2017-07-10 16:26:21"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1,
+      "belop": 1110000.0,
+      "innfortDato": "2025-12-16",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "ELTEK HOLDING AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "982370280",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 1618 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0119",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2000-09-16",
+     "registreringsdatoForetaksregisteret": "2000-09-16",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2000-09-01",
+     "telefon": "32 20 32 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-12-01",
+     "vedtektsfestetFormaal": [
+      "Investering i verdipapirer, fast eiendom og det som ellers hører",
+      "naturlig med i denne forbindelse."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/977529964"
+      }
+     },
+     "aktivitet": [
+      "Utvikling, produksjon og salg av utstyr og tjenester innen",
+      "energiforsyning, data- og telekommunikasjon og annen virksomhet, også",
+      "gjennom eierskap og deltagelse i andre selskaper."
+     ],
+     "antallAnsatte": 127,
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Gråterudveien 8"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3036",
+      "poststed": "DRAMMEN"
+     },
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "1997-05-28 19:47:49",
+       "navn": "ELTEK ENERGY AS",
+       "tilDato": "2007-07-25 20:21:47"
+      },
+      {
+       "fraDato": "2007-07-25 20:21:47",
+       "navn": "ELTEK VALERE AS",
+       "tilDato": "2011-12-08 13:11:42"
+      },
+      {
+       "fraDato": "2011-12-08 13:11:42",
+       "navn": "ELTEK AS",
+       "tilDato": "2023-03-28 10:26:58"
+      },
+      {
+       "fraDato": "2023-03-28 10:26:58",
+       "navn": "DELTA ELECTRONICS (NORWAY) AS",
+       "tilDato": "2026-06-11 16:52:56"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 93531101,
+      "belop": 46765550.5,
+      "innfortDato": "2008-12-10",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon av elektromotorer, generatorer og transformatorer",
+      "kode": "27.110"
+     },
+     "navn": "ELTEK NORWAY AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "977529964",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 2340 Strømsø"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3003",
+      "poststed": "DRAMMEN"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
+     "registreringsdatoEnhetsregisteret": "1997-05-14",
+     "registreringsdatoForetaksregisteret": "1997-05-27",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2016-05-28",
+     "registreringsdatoMerverdiavgiftsregisteret": "1997-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2003-03-12",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "1997-05-09",
+     "telefon": "32 20 32 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-04-16",
+     "vedtektsfestetFormaal": [
+      "Utvikling, produksjon og salg av utstyr og tjenester innen",
+      "energiforsyning, data- og telekommunikasjon og annen virksomhet, også",
+      "gjennom eierskap og deltagelse i andre selskaper."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987555653"
+      }
+     },
+     "aktivitet": [
+      "Datterselskap i konsern"
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Unit 1 22 Narabang Way"
+      ],
+      "land": "Australia",
+      "landkode": "AU",
+      "poststed": "BELROSE NSW 2085"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ELTEK PACIFIC PTY LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "987555653",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 2340 Strømsø",
+       "co Eltek ASA"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3003",
+      "poststed": "DRAMMEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2004-11-30",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1996-02-08",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/978658741"
+      }
+     },
+     "aktivitet": [
+      "Svakstrøm.",
+      "Datterselskap i konsern."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Ul Gorlicka 2"
+      ],
+      "land": "Polen",
+      "landkode": "PL",
+      "poststed": "71-042 SZCZECIN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ELTEK POLSKA LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "978658741",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Eltek ASA",
+       "Postboks 2340 Srtømsø"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3003",
+      "poststed": "DRAMMEN"
+     },
+     "registreringsdatoEnhetsregisteret": "1997-06-27",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1996-05-30",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997857216"
+      }
+     },
+     "aktivitet": [
+      "Energikonverterings løsninger innenfor telecom, fornybar energi,",
+      "elektriske kjøretøy og industrielle applikasjoner."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Byggeteknisk konsulentvirksomhet",
+      "kode": "71.121"
+     },
+     "navn": "ELTEK POWER (UK) LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "997857216",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Eltek AS",
+       "v/Michael Rasmussen",
+       "Gråterudveien 8"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3036",
+      "poststed": "DRAMMEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2012-01-21",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997857275"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private limited company",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Eltek House Maxted Road",
+       "Hemel Hempstead"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "HERTFORDSHIRE HP2 7DX"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.eltek.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ELTEK POWER (UK) LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "997857275",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2012-01-20",
+     "registreringsnummerIHjemlandet": "01755876",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1983-09-23",
+     "telefon": "+441442219355",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Storbritannia",
+     "underlagtLovgivningLandKode": "GB",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Crown Way",
+       "Maindy"
+      ],
+      "land": "Storbritannia",
+      "poststed": "Cardiff CF14 3UZ"
+     },
+     "utenlandskRegisterNavn": "Companies House"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987555602"
+      }
+     },
+     "aktivitet": [
+      "Datterselsakp i konsern."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Z I de Bastillac-Nord"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "65000 TARBES"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ELTEK SFEE SA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "987555602",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 2340 Strømsø",
+       "co Eltek ASA"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3003",
+      "poststed": "DRAMMEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2004-11-30",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1966-04-15",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/980504298"
+      }
+     },
+     "aktivitet": [
+      "Datterselskap i konsern."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "362 Pace City - II",
+       "Sector - 37"
+      ],
+      "land": "India",
+      "landkode": "IN",
+      "poststed": "GURGAON - HARYANA INDIA 122 001"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ELTEK SGS PVT LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "980504298",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Eltek ASA",
+       "Postboks 2340 Strømsø"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3003",
+      "poststed": "DRAMMEN"
+     },
+     "registreringsdatoEnhetsregisteret": "1999-02-08",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1996-09-20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997480880"
+      }
+     },
+     "aktivitet": [
+      "Tilbyr energikonverteringsløsninger, innenfor telekom, fornybar",
+      "energi, elektriske kjøretøy og industrielle applikasjoner."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen teknisk konsulentvirksomhet",
+      "kode": "71.129"
+     },
+     "navn": "ELTEK VALERE SAS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "997480880",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Zone Industrielle de Bastillac Nord",
+       "Rue Du 19 Mars 1962"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "65000 TARBES"
+     },
+     "registreringsdatoEnhetsregisteret": "2011-11-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/998593263"
+      }
+     },
+     "aktivitet": [
+      "Tilbyr energikonverteringsløsninger innenfor telecom, fornybar energi,",
+      "elektriske kjøretøy og industrielle applikasjoner."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Formidlingstjenester tilknyttet detaljhandel med spesialisert vareutvalg",
+      "kode": "47.920"
+     },
+     "navn": "ELTEK, INC",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "998593263",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "1303 East Arapaho Road"
+      ],
+      "land": "USA",
+      "landkode": "US",
+      "poststed": "Richardson, TX 75081"
+     },
+     "registreringsdatoEnhetsregisteret": "2012-07-24",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/998593271"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Incorporation",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "INC"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "1303 East Arapaho Road"
+      ],
+      "land": "USA",
+      "landkode": "US",
+      "poststed": "Richardson, TX 75081"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ELTEK, INC",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "998593271",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2012-07-24",
+     "registreringsnummerIHjemlandet": "104226/0999",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2012-03-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "USA",
+     "underlagtLovgivningLandKode": "US",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "401 Federal Street Suite 4"
+      ],
+      "land": "USA",
+      "poststed": "Dover Delaware 19901"
+     },
+     "utenlandskRegisterNavn": "State of Delaware Division of Corporations"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/827928852"
+      }
+     },
+     "aktivitet": [
+      "Elektro, automasjon, bygningsteknologi og andre produkter/tjenester",
+      "som naturlig hører til dette."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nordlysveien 686"
+      ],
+      "kommune": "BALSFJORD",
+      "kommunenummer": "5532",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9042",
+      "poststed": "LAKSVATN"
+     },
+     "fravalgRevisjonBeslutningsDato": "2021-09-14",
+     "fravalgRevisjonDato": "2021-10-13",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2021-10-13 17:12:23",
+       "navn": "FRONT PROPTECH AS",
+       "tilDato": "2024-06-22 14:38:49"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 300,
+      "belop": 30000.0,
+      "innfortDato": "2021-10-13",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "ELTEK1KW AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "827928852",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2022-01-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2022-01-10",
+     "registreringsdatoEnhetsregisteret": "2021-10-13",
+     "registreringsdatoForetaksregisteret": "2021-10-13",
+     "registreringsdatoMerverdiavgiftsregisteret": "2021-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-12-06",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2021-09-14",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-06-10",
+     "vedtektsfestetFormaal": [
+      "Elektro, automasjon, bygningsteknologi og andre produkter/tjenester",
+      "som naturlig hører til dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917646716"
+      }
+     },
+     "aktivitet": [
+      "Yte tjenester innen elektriske ledninger installasjon, reparasjon",
+      "herunder andre produkter som naturlig faller sammen med dette,",
+      "herunder å delta i andre selskaper med lignende virksomhet, kjøp og",
+      "salg av aksjer."
+     ],
+     "epostadresse": "jonas.megaelektro@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Selma Ellefsens vei 6"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0581",
+      "poststed": "OSLO"
+     },
+     "fravalgRevisjonDato": "2016-09-06",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 30000.0,
+      "innfortDato": "2016-09-06",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "477 21 956",
+     "naeringskode1": {
+      "beskrivelse": "Snekkerarbeid",
+      "kode": "43.320"
+     },
+     "navn": "ELTEKA AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "917646716",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
+     "registreringsdatoEnhetsregisteret": "2016-09-06",
+     "registreringsdatoForetaksregisteret": "2016-09-06",
+     "registreringsdatoMerverdiavgiftsregisteret": "2016-09-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2016-09-28",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2016-08-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2016-08-01",
+     "vedtektsfestetFormaal": [
+      "Yte tjenester innen elektriske ledninger installasjon, reparasjon",
+      "herunder andre produkter som naturlig faller sammen med dette,",
+      "herunder å delta i andre selskaper med lignende virksomhet, kjøp og",
+      "salg av aksjer."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935789052"
+      }
+     },
+     "aktivitet": [
+      "Vaktmestertjenester.",
+      "Malertjenester.",
+      "Snekkerarbeid, montering av dører, vinduer, kjøkken med mer.",
+      "Reparasjon av møbler, omtrekking og restaurering."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Asgautvegen 9"
+      ],
+      "kommune": "STRAND",
+      "kommunenummer": "1130",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4100",
+      "poststed": "JØRPELAND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Kombinerte tjenester tilknyttet eiendomsdrift",
+      "kode": "81.100"
+     },
+     "navn": "ELTEKA VAKTMESTER OTANO WILSON",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935789052",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-07-01",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-03-18",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924726547"
+      }
+     },
+     "aktivitet": [
+      "Elektrisk installasjonsarbeid."
+     ],
+     "epostadresse": "leifk.nilsen@outlook.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Raipasveien 68"
+      ],
+      "kommune": "ALTA",
+      "kommunenummer": "5601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9516",
+      "poststed": "ALTA"
+     },
+     "fravalgRevisjonBeslutningsDato": "2020-02-23",
+     "fravalgRevisjonDato": "2020-03-10",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30,
+      "belop": 30000.0,
+      "innfortDato": "2020-03-10",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "908 47 335",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "ELTEKNIKK ALTA AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "924726547",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-03-10",
+     "registreringsdatoForetaksregisteret": "2020-03-10",
+     "registreringsdatoMerverdiavgiftsregisteret": "2021-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-05-25",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2020-02-23",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2020-02-23",
+     "vedtektsfestetFormaal": [
+      "Elektrisk installasjonsarbeid."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995822504"
+      }
+     },
+     "aktivitet": [
+      "Elektroinstallasjoner for privatpersoner og næringslivet, herunder",
+      "handel med varer i denne forbindelse."
+     ],
+     "antallAnsatte": 16,
+     "epostadresse": "post@elteknikk.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Møllendalsbakken 9"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5009",
+      "poststed": "BERGEN"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "hjemmeside": "www.elteknikk.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 100000.0,
+      "innfortDato": "2010-08-31",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "455 11 555",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "ELTEKNIKK AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "995822504",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
+     "registreringsdatoEnhetsregisteret": "2010-08-31",
+     "registreringsdatoForetaksregisteret": "2010-08-31",
+     "registreringsdatoMerverdiavgiftsregisteret": "2010-09-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2010-11-09",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2010-08-02",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2010-08-02",
+     "vedtektsfestetFormaal": [
+      "Elektroinstallasjoner for privatpersoner og næringslivet, herunder",
+      "handel med varer i denne forbindelse."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/989333194"
+      }
+     },
+     "aktivitet": [
+      "Elinstallasjon, salg av handelsvarer og rådgivning i tilknytning til",
+      "elinstallasjon."
+     ],
+     "epostadresse": "geirove@elteknikk-klabu.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Skarpsnoveien 5"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7540",
+      "poststed": "KLÆBU"
+     },
+     "fravalgRevisjonBeslutningsDato": "2023-11-23",
+     "fravalgRevisjonDato": "2023-12-12",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 100000.0,
+      "innfortDato": "2006-02-16",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "ELTEKNIKK KLÆBU AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "989333194",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2006-02-16",
+     "registreringsdatoForetaksregisteret": "2006-02-16",
+     "registreringsdatoMerverdiavgiftsregisteret": "2006-03-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2006-07-20",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2006-01-05",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2006-01-05",
+     "vedtektsfestetFormaal": [
+      "Elinstallasjon, salg av handelsvarer og rådgivning i tilknytning til",
+      "elinstallasjon og deltagelse i andre virksomheter."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912599582"
+      }
+     },
+     "aktivitet": [
+      "Elektroinstallasjoner med dertil tilhørende virksomhet."
+     ],
+     "antallAnsatte": 44,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Østre Rosten 84G"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7075",
+      "poststed": "TILLER"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2013-10-23 11:44:51",
+       "navn": "TOTALTEK TRØNDELAG AS",
+       "tilDato": "2024-01-24 12:46:47"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 3958,
+      "belop": 3958000.0,
+      "innfortDato": "2025-10-08",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "ELTEKNIKK TRONDHEIM AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "912599582",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-11",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2013-10-23",
+     "registreringsdatoForetaksregisteret": "2013-10-23",
+     "registreringsdatoMerverdiavgiftsregisteret": "2013-09-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2013-11-19",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2013-10-03",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-06-25",
+     "vedtektsfestetFormaal": [
+      "Elektroinstallasjoner med dertil tilhørende virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933079775"
+      }
+     },
+     "aktivitet": [
+      "Produsering og salg av mat og bakevarer."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Mikael Elias Eide",
+       "Bregneveien 33"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1397",
+      "poststed": "NESØYA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon av brød og ferske konditorvarer",
+      "kode": "10.710"
+     },
+     "navn": "ELTEKROKEN SURDEIGSBAKERI - EIDE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933079775",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-02-27",
+     "registreringsdatoForetaksregisteret": "2024-02-27",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-09-29",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-05-03",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926906690"
+      }
+     },
+     "aktivitet": [
+      "Installasjoner av smarthus, sikkerhetssystemer, brannalarmanlegg,",
+      "HIFI-anlegg."
+     ],
+     "antallAnsatte": 5,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "St. Olavs vei 3B"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5052",
+      "poststed": "BERGEN"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 10000,
+      "belop": 1100000.0,
+      "innfortDato": "2024-12-16",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "FRISK ELTEKNIKK AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "926906690",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-11",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
+     "registreringsdatoEnhetsregisteret": "2021-04-07",
+     "registreringsdatoForetaksregisteret": "2021-04-07",
+     "registreringsdatoMerverdiavgiftsregisteret": "2021-03-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-04-26",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2021-02-19",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-11-21",
+     "vedtektsfestetFormaal": [
+      "Elektrotekniske installasjoner."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919966947"
+      }
+     },
+     "aktivitet": [
+      "Prosjektering av elektriske anlegg. Bygging av elektriske anlegg."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nesnaveien 1326"
+      ],
+      "kommune": "RANA",
+      "kommunenummer": "1833",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8725",
+      "poststed": "UTSKARPEN"
+     },
+     "fravalgRevisjonDato": "2017-11-24",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 30000.0,
+      "innfortDato": "2017-11-24",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "GEBE ELTEKNIKK AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "919966947",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2020-10-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2020-10-10",
+     "registreringsdatoEnhetsregisteret": "2017-11-24",
+     "registreringsdatoForetaksregisteret": "2017-11-24",
+     "registreringsdatoMerverdiavgiftsregisteret": "2018-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2018-08-02",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2017-11-04",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2017-11-04",
+     "vedtektsfestetFormaal": [
+      "Elektrotekniske tjenester."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917873895"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "epostadresse": "mats@gelnet.se",
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Privata Aktiebolag",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "AB"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Industrivägen 41"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "SE-433 61  SÄVEDALEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.gelnet.se",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "+46708296950",
+     "navn": "GELNET ELTEKNIK",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "917873895",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-10-13",
+     "registreringsnummerIHjemlandet": "5565218210",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1995-07-20",
+     "telefon": "+4631296950",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Sverige",
+     "underlagtLovgivningLandKode": "SE",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Stuvarvägen 21"
+      ],
+      "land": "Sverige",
+      "poststed": "851 81 SUNDSVALL"
+     },
+     "utenlandskRegisterNavn": "Bolagsverket"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917832323"
+      }
+     },
+     "aktivitet": [
+      "Driftsettelse, service og vedlikehold av styringssystemer for",
+      "belysnings- og eiendomsautomasjon."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Industrivägen 41"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "SE-433 61  SÄVEDALEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Installasjon av industrimaskiner og -utstyr",
+      "kode": "33.200"
+     },
+     "navn": "GELNET ELTEKNIK",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "917832323",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-10-13",
+     "registreringsdatoMerverdiavgiftsregisteret": "2018-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2018-12-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911832070"
+      }
+     },
+     "aktivitet": [
+      "Renovering, vedlikehold og service av elektrisitet. elektroarbeid samt",
+      "beslektet arbeid innenfor elektro."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Winthersmøllevej 3"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "DK-7700 THISTED"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2013-04-23 20:50:00",
+       "navn": "THISTED EL-FORRETNING APS",
+       "tilDato": "2019-02-19 15:16:53"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "JYSK ELTEKNIK",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "911832070",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-04-23",
+     "registreringsdatoMerverdiavgiftsregisteret": "2023-04-19",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-01-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911832119"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Aktieselskap",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Wintersmøllevej 3"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "DK-7700 THISTED"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2013-04-23 11:42:37",
+       "navn": "THISTED EL-FORRETNING APS THISTED",
+       "tilDato": "2019-02-19 13:15:54"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "JYSK ELTEKNIK A/S",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "911832119",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-04-23",
+     "registreringsnummerIHjemlandet": "56410910",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1976-06-23",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Danmark",
+     "underlagtLovgivningLandKode": "DK",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Langelinie Allé 17"
+      ],
+      "land": "Danmark",
+      "poststed": "2100 København Ø"
+     },
+     "utenlandskRegisterNavn": "Erhvervsstyrelsen"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/984178123"
+      }
+     },
+     "aktivitet": [
+      "Partihandel med elektriske artikler samt installasjon og service av",
+      "elektriske anlegg."
+     ],
+     "epostadresse": "kleab@klaveness.nu",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Örngränd 3"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "SE-681 43 KRISTINEHAMN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2002-06-19 11:50:02",
+       "navn": "KLEAB KLAVENESS ALARM & ELTEKNIKK NORSK AVDELING AV UTENLANDSK FORETAK",
+       "tilDato": "2002-11-18 20:27:46"
+      }
+     ],
+     "hjemmeside": "kleab.klaveness.nu",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "+46705987266",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "KLEAB KLAVENESS ALARM & ELTEKNIKK AS NORSK AVDELING AV UTENLANDSK FORETAK NUF",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "984178123",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2002-06-19",
+     "registreringsdatoForetaksregisteret": "2002-11-18",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/884416582"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetaket."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Privata Aktiebolag",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "AB"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Ekgatan 7B"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "SE-213 63 MALMÖ"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2002-06-19 11:48:36",
+       "navn": "KLEAB KLAVENESS LARM & ELTEKNIK AB",
+       "tilDato": "2009-08-18 20:33:52"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "KLEAB KLAVENESS LARM & ELTEKNIK AB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "884416582",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2002-06-19",
+     "registreringsdatoForetaksregisteret": "2009-08-18",
+     "registreringsnummerIHjemlandet": "5563582211",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1989-04-09",
+     "telefon": "46 7059 87266",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Sverige",
+     "underlagtLovgivningLandKode": "SE",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Stuvarvägen 21"
+      ],
+      "land": "Sverige",
+      "poststed": "851 81 SUNDSVALL"
+     },
+     "utenlandskRegisterNavn": "Bolagsverket",
+     "vedtektsdato": "1989-04-09",
+     "vedtektsfestetFormaal": [
+      "Utenlandsk foretak."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934569628"
+      }
+     },
+     "aktivitet": [
+      "Reparasjon av maskiner til landbruk/skogbruk, bygg- og anlegg og",
+      "industri ellers.",
+      "Reparasjon av husholdningsvarer og hageredskaper."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nedre Fiksnesvika 9A"
+      ],
+      "kommune": "ØYGARDEN",
+      "kommunenummer": "4626",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5378",
+      "poststed": "KLOKKARVIK"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reparasjon og vedlikehold av maskiner",
+      "kode": "33.120"
+     },
+     "navn": "LINDBERG ELTEKNIKK",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934569628",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-12-02",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-07-31",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-08-11",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930691852"
+      }
+     },
+     "aktivitet": [
+      "Elektrisk installasjonsarbeid. Prosjektering og kontroll av elektriske",
+      "installasjoner. Arbeid med lyd- og sceneteknisk utstyr og",
+      "arrangementer."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Mjåtveitvegen 17B"
+      ],
+      "kommune": "ALVER",
+      "kommunenummer": "4631",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5918",
+      "poststed": "FREKHAUG"
+     },
+     "fravalgRevisjonBeslutningsDato": "2023-01-03",
+     "fravalgRevisjonDato": "2023-01-23",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30,
+      "belop": 30000.0,
+      "innfortDato": "2023-01-23",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "NORHEIM ELTEKNIKK AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "930691852",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2023-03-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2023-03-10",
+     "registreringsdatoEnhetsregisteret": "2023-01-23",
+     "registreringsdatoForetaksregisteret": "2023-01-23",
+     "registreringsdatoMerverdiavgiftsregisteret": "2023-01-31",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-01-31",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2023-01-03",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2023-01-03",
+     "vedtektsfestetFormaal": [
+      "Elektrisk installasjonsarbeid. Prosjektering og kontroll av elektriske",
+      "installasjoner. Arbeid med lyd- og sceneteknisk utstyr og",
+      "arrangementer."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938541795"
+      }
+     },
+     "aktivitet": [
+      "Elektrikertjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Møllendalsbakken 9"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5009",
+      "poststed": "BERGEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 30000.0,
+      "innfortDato": "2026-09-22",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "NYE ELTEKNIKK AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "938541795",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-09-22",
+     "registreringsdatoForetaksregisteret": "2026-09-22",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-08-24",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-08-24",
+     "vedtektsfestetFormaal": [
+      "Elektroinstallasjoner for privatpersoner og næringslivet, herunder",
+      "handel med varer i denne forbindelse."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987555807"
+      }
+     },
+     "aktivitet": [
+      "Datterselskap i konsern"
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "2nd Sovyetskaya House 7",
+       "Office 108"
+      ],
+      "land": "Russland",
+      "landkode": "RU",
+      "poststed": "193036 ST PETERSBURG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "OOO ELTEK RUSSIA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "987555807",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 2340 Strømsø",
+       "co Eltek ASA"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3003",
+      "poststed": "DRAMMEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2004-11-30",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2001-04-11",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931932837"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "epostadresse": "per.erlandsson@persel.se",
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Privata Aktiebolag",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "AB"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Hedevivägen 17"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "SE-31160 ULLARED"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.persel.se",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "+46706509023",
+     "navn": "PERS ELTEKNIK AB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "931932837",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-08-22",
+     "registreringsdatoForetaksregisteret": "2023-08-22",
+     "registreringsnummerIHjemlandet": "5562533975",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1984-11-27",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Sverige",
+     "underlagtLovgivningLandKode": "SE",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Stuvarvägen 21"
+      ],
+      "land": "Sverige",
+      "poststed": "851 81 SUNDSVALL"
+     },
+     "utenlandskRegisterNavn": "Bolagsverket",
+     "vedtektsdato": "1984-11-27",
+     "vedtektsfestetFormaal": [
+      "Utenlandsk foretak"
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925578533"
+      }
+     },
+     "aktivitet": [
+      "El-installasjoner."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hedevivägen 17"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "SE-31160 ULLARED"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "PERS ELTEKNIK AB NUF",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "925578533",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-08-22",
+     "registreringsdatoForetaksregisteret": "2023-08-22",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917950245"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Anpartsselskap",
+      "beskrivelseBokmaal": "Selskap med begrenset ansvar",
+      "kode": "APS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Smedebakken 42",
+       "Starup"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "DK-7200 GRINDSTED"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "RE-ELTEKNIK APS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "917950245",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-10-27",
+     "registreringsnummerIHjemlandet": "28295960",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2004-12-13",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Danmark",
+     "underlagtLovgivningLandKode": "DK",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Langelinie Allé 17"
+      ],
+      "land": "Danmark",
+      "poststed": "2100 København Ø"
+     },
+     "utenlandskRegisterNavn": "Erhvervsstyrelsen"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917887063"
+      }
+     },
+     "aktivitet": [
+      "Montering og programmering av elektriske styringer."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Smedebakken 42",
+       "Starup"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "DK-7200 GRINDSTED"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "RE-ELTEKNIK APS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "917887063",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-10-27",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995057549"
+      }
+     },
+     "aktivitet": [
+      "Bygg og anlegg-montering."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Snekkerarbeid",
+      "kode": "43.320"
+     },
+     "navn": "ØRESUNDS HISS & ELTEKNIKK AB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "995057549",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Husie Kyrkovåg 98"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "SE-212 38 Malmø"
+     },
+     "registreringsdatoEnhetsregisteret": "2010-01-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995057581"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Privata Aktiebolag",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "AB"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Husie Kyrkovåg 98"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "SE-212 38 Malmø"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ØRESUNDS HISS & ELTEKNIKK AB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "995057581",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2010-01-20",
+     "registreringsnummerIHjemlandet": "5566206347",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Sverige",
+     "underlagtLovgivningLandKode": "SE",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Stuvarvägen 21"
+      ],
+      "land": "Sverige",
+      "poststed": "851 81 SUNDSVALL"
+     },
+     "utenlandskRegisterNavn": "Bolagsverket"
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=ELTEK&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 43,
+   "totalPages": 1
+  }
+ }
+}

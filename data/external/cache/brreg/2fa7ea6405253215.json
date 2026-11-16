@@ -1,0 +1,98 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=AEGER+GROUP&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/899185412"
+      }
+     },
+     "aktivitet": [
+      "Investering i andre selskaper og hva det som herved står i",
+      "forbindelse, samt konsulentvirksomhet og andre tilsvarende tjenester."
+     ],
+     "antallAnsatte": 14,
+     "epostadresse": "jhf@aeger.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nedre Slottsgate 11"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0157",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 12500,
+      "belop": 37500.0,
+      "innfortDato": "2016-04-14",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "AEGER GROUP AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "899185412",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2012-11-27",
+     "registreringsdatoForetaksregisteret": "2012-11-27",
+     "registreringsdatoMerverdiavgiftsregisteret": "2012-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2013-02-16",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2012-11-01",
+     "telefon": "24 07 77 22",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2016-02-22",
+     "vedtektsfestetFormaal": [
+      "Investering i andre selskaper og hva det som herved står i",
+      "forbindelse, samt konsulentvirksomhet og andre tilsvarende tjenester."
+     ]
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=AEGER%20GROUP&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 1,
+   "totalPages": 1
+  }
+ }
+}

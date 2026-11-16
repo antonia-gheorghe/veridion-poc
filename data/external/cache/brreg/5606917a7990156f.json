@@ -1,0 +1,3028 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=DELL&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934513037"
+      }
+     },
+     "aktivitet": [
+      "Programvareutvikling."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Karl Johans gate 25"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0159",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "CERVERA DELLA SIEGA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934513037",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-11-21",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-11-22",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-11-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/915932282"
+      }
+     },
+     "aktivitet": [
+      "Italiensk/Norsk kulturforening"
+     ],
+     "epostadresse": "terje.aagaard@online.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Gjerberg c/o Terje Aagaard",
+       "Nøtteholveien 31"
+      ],
+      "kommune": "RAKKESTAD",
+      "kommunenummer": "3120",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1894",
+      "poststed": "RAKKESTAD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.dantehalden.org",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "905 50 319",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "COMITATO DELLA DANTE ALEGHIERI HALDEN/FREDRIKSTAD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "915932282",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2015-09-24",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1963-06-02",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/991833080"
+      }
+     },
+     "aktivitet": [
+      "Arrangerer konferanser, forelesninger og visning av italienske filmer."
+     ],
+     "epostadresse": "webadmin@dante-ikis.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Claudio Visentin",
+       "Aubehagen 10"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4046",
+      "poststed": "HAFRSFJORD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2008-02-07 20:36:51",
+       "navn": "ITALIENSK KULTURFORENING I STAVANGER",
+       "tilDato": "2010-01-20 20:42:38"
+      },
+      {
+       "fraDato": "2010-01-20 20:42:38",
+       "navn": "ITALIENSK KULTURFORENING I STAVANGER",
+       "tilDato": "2025-05-24 13:50:23"
+      }
+     ],
+     "hjemmeside": "www.dante-ikis.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "974 14 399",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "COMITATO DELLA SOCIETA’ DANTE ALIGHIERI DI STAVANGER/ITALIENSK KULTURFORENING I STAVANGER",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "991833080",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2008-02-07",
+     "registreringsdatoFrivillighetsregisteret": "2016-05-11",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2007-04-20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916339658"
+      }
+     },
+     "aktivitet": [
+      "Offentlig organisasjon som skal støtte vitenskapelig og teknologisk",
+      "forskning."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Arctic Station Dirigibile Italia"
+      ],
+      "kommune": "SVALBARD",
+      "kommunenummer": "2100",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9173",
+      "poststed": "NY-ÅLESUND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "kode": "94.991"
+     },
+     "navn": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "916339658",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-09-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916339682"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "epostadresse": "direttore.dta@cnr.it",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Piazzale Aldo Moro 7"
+      ],
+      "land": "Italia",
+      "landkode": "IT",
+      "poststed": "IT-00185 ROMA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.cnr.it",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "916339682",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-09-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1923-11-18",
+     "telefon": "+390649931",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935254191"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Gesellschaft mit beschränkter Haftung",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "GMBH"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Via Pietro Capelli 18"
+      ],
+      "land": "Sveits",
+      "landkode": "CH",
+      "poststed": "CH-6900 LUGANO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.plein.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "CREAM DELLA CREAM SWITZERLAND GMBH",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "935254191",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-03-24",
+     "registreringsdatoForetaksregisteret": "2025-03-24",
+     "registreringsnummerIHjemlandet": "CHE.115.922.647",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2010-08-23",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Sveits",
+     "underlagtLovgivningLandKode": "CH",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Via Emilio Bossi 2a"
+      ],
+      "land": "Sveits",
+      "poststed": "6900 Lugano"
+     },
+     "utenlandskRegisterNavn": "Registro di commercio del cantone Ticino",
+     "vedtektsdato": "2014-03-24",
+     "vedtektsfestetFormaal": [
+      "Utenlandsk foretak"
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935183464"
+      }
+     },
+     "aktivitet": [
+      "Salg og handel med motevarer og e-handel."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Via Pietro Capelli 18"
+      ],
+      "land": "Sveits",
+      "landkode": "CH",
+      "poststed": "CH-6900 LUGANO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med bredt vareutvalg ellers",
+      "kode": "47.120"
+     },
+     "navn": "CREAM DELLA CREAM SWITZERLAND GMBH NUF",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "935183464",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Arbins gate 4"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0253",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2025-03-24",
+     "registreringsdatoForetaksregisteret": "2025-03-24",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/861272702"
+      }
+     },
+     "aktivitet": [
+      "Tilvirkning, salg og markedsføring av maskinvare og programvare, samt",
+      "tjenester i tilknytning til dette, herunder kundestøtte,",
+      "konsulenttjenester og prosjektledelse, samt annen relatert virksomhet."
+     ],
+     "antallAnsatte": 72,
+     "epostadresse": "thomas_johansen@dell.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lilleakerveien 2B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0283",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-02-19 17:34:00",
+       "navn": "DELL COMPUTER AS",
+       "tilDato": "2003-09-22 20:30:41"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 1100000.0,
+      "innfortDato": "2024-06-10",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med informasjons- og kommunikasjonsteknologiutstyr",
+      "kode": "46.500"
+     },
+     "navn": "DELL AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "861272702",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "1995-02-19",
+     "registreringsdatoForetaksregisteret": "1991-08-15",
+     "registreringsdatoMerverdiavgiftsregisteret": "1991-09-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1995-02-19",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2026",
+     "stiftelsesdato": "1991-04-03",
+     "telefon": "67 11 68 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-05-15",
+     "vedtektsfestetFormaal": [
+      "Tilvirkning, salg og markedsføring av maskinvare og programvare, samt",
+      "tjenester i tilknytning til dette, herunder kundestøtte,",
+      "konsulenttjenester, prosjektledelse og aksessorisk kredittformidling",
+      "til næringsdrivende, samt annen relatert virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912267008"
+      }
+     },
+     "aktivitet": [
+      "Kjøp, salg samt utleie av datautstyr."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Innovation House, Cherrywood",
+       "Science and Technology Park"
+      ],
+      "land": "Irland",
+      "landkode": "IE",
+      "poststed": "Dublin 18"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2013-08-06 20:59:02",
+       "navn": "DELL DFS LIMITED",
+       "tilDato": "2014-07-24 20:22:30"
+      },
+      {
+       "fraDato": "2014-07-24 20:22:30",
+       "navn": "DELL BANK INTERNATIONAL LIMITED",
+       "tilDato": "2016-12-01 20:18:15"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med informasjons- og kommunikasjonsteknologiutstyr",
+      "kode": "46.500"
+     },
+     "navn": "DELL BANK INTERNATIONAL D.A.C.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "912267008",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Lilleakerveien 2B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0283",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2013-08-06",
+     "registreringsdatoMerverdiavgiftsregisteret": "2013-09-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2016-12-08",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912267059"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private Company Limited by Shares",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Innovation House",
+       "Cherrywood Science and Technology",
+       "Park"
+      ],
+      "land": "Irland",
+      "landkode": "IE",
+      "poststed": "Dublin 18"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2013-08-06 12:17:50",
+       "navn": "DELL DFS LIMITED",
+       "tilDato": "2014-07-24 13:51:19"
+      },
+      {
+       "fraDato": "2014-07-24 13:51:19",
+       "navn": "DELL BANK INTERNATIONAL LIMITED",
+       "tilDato": "2016-12-01 20:18:16"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "DELL BANK INTERNATIONAL DESIGNATED ACTIVITY COMPANY",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "912267059",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-08-06",
+     "registreringsnummerIHjemlandet": "502362",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2011-08-15",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Irland",
+     "underlagtLovgivningLandKode": "IE",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Bloom House",
+       "Gloucester Place Lower"
+      ],
+      "land": "Irland",
+      "poststed": "Dublin 1"
+     },
+     "utenlandskRegisterNavn": "The Companies Registration Office -an Oifig um Chlaru Cuideachtai"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/980424650"
+      }
+     },
+     "aktivitet": [
+      "Salg av datasystemer, og datautstyr."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Slotsmarken 11"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "DK-2970 HØRSHOLM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med informasjons- og kommunikasjonsteknologiutstyr",
+      "kode": "47.400"
+     },
+     "navn": "DELL COMPUTER",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "980424650",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/ Dell Computer AS",
+       "Postboks 176"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1325",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "1999-01-19",
+     "registreringsdatoMerverdiavgiftsregisteret": "1999-03-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2008-01-09",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/980424634"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Slotsmarken 11"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "DK-2970 HØRSHOLM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "DELL COMPUTER AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "980424634",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1999-01-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1995-01-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938012172"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Designated Activity Company",
+      "beskrivelseBokmaal": "Selskap med begrenset ansvar",
+      "kode": "DAC"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Innovation House Cherrywood Science",
+       "and Technology Park Cherrywood",
+       "Dublin"
+      ],
+      "land": "Irland",
+      "landkode": "IE",
+      "poststed": "IE-DUBLIN 18"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "DELL FINANCIAL SERVICES INTERNATIONAL IRELAND DESIGNATED ACTIVITY COMPANY",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938012172",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-06-30",
+     "registreringsnummerIHjemlandet": "669524",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2020-04-09",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Irland",
+     "underlagtLovgivningLandKode": "IE",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Bloom House",
+       "Gloucester Place Lower"
+      ],
+      "land": "Irland",
+      "poststed": "Dublin 1"
+     },
+     "utenlandskRegisterNavn": "The Companies Registration Office -an Oifig um Chlaru Cuideachtai"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937904444"
+      }
+     },
+     "aktivitet": [
+      "Tilbyr finansielle løsninger, primært gjennom operasjonell leasing av",
+      "IT-eiendeler. Selskapet kjøper IT-utstyr, enten fra leverandører eller",
+      "gjennom import.",
+      " "
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Innovation House Cherrywood Science",
+       "And Technology Park",
+       "Cherrywood Dublin"
+      ],
+      "land": "Irland",
+      "landkode": "IE",
+      "poststed": "IE-DUBLIN 18"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+      "kode": "82.990"
+     },
+     "navn": "DELL FINANCIAL SERVICES INTERNATIONAL IRELAND DESIGNATED ACTIVITY COMPANY",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "937904444",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-06-30",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-08-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-08-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/974521512"
+      }
+     },
+     "aktivitet": [
+      "Salg av EDB - Utstyr."
+     ],
+     "epostadresse": "vat_team@dell.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Dell S.R.O. Indirect Tax Department",
+       "Fazulova 7"
+      ],
+      "land": "Slovakia",
+      "landkode": "SK",
+      "poststed": "811 07 BRATISLAVA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.dell.sk",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "DELL PRODUCTS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "974521512",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1996-05-02",
+     "registreringsdatoMerverdiavgiftsregisteret": "1999-03-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2002-08-24",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67125711",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/983607357"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "3 Burlington Road"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "Dublin 4 Irland"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "DELL PRODUCTS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "983607357",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2001-08-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938562008"
+      }
+     },
+     "aktivitet": [
+      "Frisør.",
+      "Drift av frisørsalong med tilhørende salg av produkter, utleie av",
+      "salongplass."
+     ],
+     "epostadresse": "post@della.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vibes gate 20A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0356",
+      "poststed": "OSLO"
+     },
+     "fravalgRevisjonBeslutningsDato": "2026-09-04",
+     "fravalgRevisjonDato": "2026-09-25",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.della.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 300,
+      "belop": 30000.0,
+      "innfortDato": "2026-09-25",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Frisering og barbering",
+      "kode": "96.210"
+     },
+     "navn": "DELLA FRISØR AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "938562008",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Layla Benattou",
+       "Veitvetveien 5A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0596",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-09-25",
+     "registreringsdatoForetaksregisteret": "2026-09-25",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-09-04",
+     "telefon": "97 74 33 66",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-09-04",
+     "vedtektsfestetFormaal": [
+      "Drift av frisørsalong med tilhørende salg av produkter, utleie av",
+      "salongplasser og annet som naturlig hører sammen med dette, herunder",
+      "deltakelse i annen virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/918545247"
+      }
+     },
+     "aktivitet": [
+      "Frisør"
+     ],
+     "epostadresse": "post@della.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vibes gate 20A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0356",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2017-02-10 12:22:34",
+       "navn": "JASMIN FRISØR LAYLA BENATTOU",
+       "tilDato": "2017-03-16 09:38:40"
+      }
+     ],
+     "hjemmeside": "www.della.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Frisering og barbering",
+      "kode": "96.210"
+     },
+     "navn": "DELLA FRISØR LAYLA BENATTOU",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "918545247",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2017-02-10",
+     "registreringsdatoMerverdiavgiftsregisteret": "2017-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2017-07-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "97 74 33 66",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/928943623"
+      }
+     },
+     "aktivitet": [
+      "Levering av matvarer fra restaurant eller dagligvarerhandel til kunde",
+      "med bruk av eget kjøremiddel som f.eks. bil, scooter, moped, sykkel",
+      "eller elsparkesykkel. Varene blir kjøpt og betalt på forhånd av kunde",
+      "over nettet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Messepromenaden 3"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0279",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2022-03-17 12:35:12",
+       "navn": "DELLA MEA LEVERING",
+       "tilDato": "2025-03-12 19:29:07"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "DELLA MEA TARTARUGA SPRÅK",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "928943623",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-03-17",
+     "registreringsdatoMerverdiavgiftsregisteret": "2022-05-18",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2022-06-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923535950"
+      }
+     },
+     "aktivitet": [
+      "Netthandel med klær, sko, utstyrsvarer.",
+      "Netthandel med sportsutstyr.",
+      "Netthandel med kosmetikk, parfyme og andre produkter til personlig",
+      "pleie."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nedbergkollveien 10A"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3050",
+      "poststed": "MJØNDALEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2019-10-02 16:28:17",
+       "navn": "BJERKE MALERSERVICE ROBERT ERICHSEN",
+       "tilDato": "2024-11-05 08:01:00"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Formidlingstjenester tilknyttet detaljhandel med spesialisert vareutvalg",
+      "kode": "47.920"
+     },
+     "navn": "DELLAMIX ERICHSEN",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "923535950",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-10-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922141134"
+      }
+     },
+     "aktivitet": [
+      "Konsulenttjenester innen markedsføring."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "v/Guro Vesterlid",
+       "Olav Senstads gate 11"
+      ],
+      "kommune": "HAMAR",
+      "kommunenummer": "3403",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2316",
+      "poststed": "HAMAR"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reklamebyråvirksomhet",
+      "kode": "73.110"
+     },
+     "navn": "DELLE DONNE SALES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "922141134",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-01-31",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925887633"
+      }
+     },
+     "aktivitet": [
+      "Utøvende musikk."
+     ],
+     "epostadresse": "dellerhagen@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Fjordgata 20"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7010",
+      "poststed": "TRONDHEIM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "98491904",
+     "naeringskode1": {
+      "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "kode": "90.201"
+     },
+     "navn": "DELLERHAGEN MUSIKK",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "925887633",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-11-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935822041"
+      }
+     },
+     "aktivitet": [
+      "Internetthandel med delikatesser og interiør fra inn- og utland"
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Havengvegen 3"
+      ],
+      "kommune": "SKAUN",
+      "kommunenummer": "5029",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7350",
+      "poststed": "BUVIKA"
+     },
+     "fravalgRevisjonBeslutningsDato": "2025-06-25",
+     "fravalgRevisjonDato": "2025-07-08",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2025-07-08",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med kjøtt og kjøttvarer",
+      "kode": "47.220"
+     },
+     "navn": "DELLI AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "935822041",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-07-08",
+     "registreringsdatoForetaksregisteret": "2025-07-08",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2025-06-25",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-06-25",
+     "vedtektsfestetFormaal": [
+      "Gjør god mat enda bedre"
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929101057"
+      }
+     },
+     "aktivitet": [
+      "Utleie av egen eller leid fast eiendom ellers."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Muserudveien 7"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3440",
+      "poststed": "RØYKEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "DELLI EIENDOM",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "929101057",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-04-26",
+     "registreringsdatoForetaksregisteret": "2022-04-26",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/989026089"
+      }
+     },
+     "aktivitet": [
+      "Investeringer i eiendom, aksjer og andre verdipapirer, samt hva hermed",
+      "står i forbindelse."
+     ],
+     "epostadresse": "lars@bedre.net",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Skotbuveien 61"
+      ],
+      "kommune": "NORDRE FOLLO",
+      "kommunenummer": "3207",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1409",
+      "poststed": "SKOTBU"
+     },
+     "fravalgRevisjonDato": "2011-11-30",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Øvrige finansielle foretak unntatt forsikring",
+      "kode": "4900"
+     },
+     "kapital": {
+      "antallAksjer": 126000,
+      "belop": 30000.0,
+      "innfortDato": "2021-11-17",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "91870532",
+     "naeringskode1": {
+      "beskrivelse": "Andre egeninvesteringsselskaper",
+      "kode": "64.323"
+     },
+     "navn": "DELLI FINANS AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "989026089",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2006-01-21",
+     "registreringsdatoForetaksregisteret": "2006-01-21",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2005-11-30",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2021-09-03",
+     "vedtektsfestetFormaal": [
+      "Investeringer i eiendom, aksjer og andre verdipapirer, samt hva hermed",
+      "står i forbindelse."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929330153"
+      }
+     },
+     "aktivitet": [
+      "Transport av varer langs vei, typisk budtjeneste med varebil."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Arendalsveien 22"
+      ],
+      "kommune": "GRIMSTAD",
+      "kommunenummer": "4202",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4878",
+      "poststed": "GRIMSTAD"
+     },
+     "fravalgRevisjonBeslutningsDato": "2022-05-05",
+     "fravalgRevisjonDato": "2022-06-10",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 3000,
+      "belop": 30000.0,
+      "innfortDato": "2022-06-10",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "DELLI TRANSPORT AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "929330153",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2022-06-10",
+     "registreringsdatoForetaksregisteret": "2022-06-10",
+     "registreringsdatoMerverdiavgiftsregisteret": "2022-12-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2022-12-21",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2022-05-05",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2022-05-05",
+     "vedtektsfestetFormaal": [
+      "Transport av varer langs vei, typisk budtjeneste med varebil, herunder",
+      "investering i andre selskaper."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919709294"
+      }
+     },
+     "aktivitet": [
+      "Import av næringsmidler som mango, nudler, råvarer til",
+      "næringsmiddelproduksjon, te, urter og urteblandinger. Tekstiler og",
+      "gjenstander som tannbørster, sokker, T-skjorter, arbeidsuniformer,",
+      "leker, sovemasker, pulsmålere, førstehjelpssett og reklamemateriell.",
+      "Eksport av matvarer, kosttilskudd og fisk."
+     ],
+     "epostadresse": "contact@dellia.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Gaustadalléen 21"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0349",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "hjemmeside": "www.dellia.com",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 810000,
+      "belop": 810000.0,
+      "innfortDato": "2019-12-04",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med bredt utvalg av nærings- og nytelsesmidler",
+      "kode": "46.390"
+     },
+     "navn": "DELLIA AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "919709294",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2025-10-15",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2025-10-10",
+     "registreringsdatoEnhetsregisteret": "2017-10-12",
+     "registreringsdatoForetaksregisteret": "2017-10-12",
+     "registreringsdatoMerverdiavgiftsregisteret": "2017-09-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2018-01-17",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2017-09-14",
+     "telefon": "21 56 10 60",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2019-12-03",
+     "vedtektsfestetFormaal": [
+      "Kjøp og salg, herunder import og eksport av handelsvarer,",
+      "produktutvikling, samt alt som står i forbindelse med dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/918280634"
+      }
+     },
+     "aktivitet": [
+      "Eierskap i bedrifter som importerer og eksporterer næringsmidler og",
+      "råvarer til næringsmiddelproduksjon, samt andre handelsvarer.",
+      "Produktutvikling, kjøp og salg, herunder import og eksport av",
+      "handelsvarer."
+     ],
+     "antallAnsatte": 10,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Gaustadalléen 21"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0349",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2017-01-26 20:15:39",
+       "navn": "BORDERFREE BRANDS AS",
+       "tilDato": "2022-06-01 16:33:32"
+      },
+      {
+       "fraDato": "2022-06-01 16:33:32",
+       "navn": "DELLIA GROUP AS",
+       "tilDato": "2025-09-09 13:53:02"
+      }
+     ],
+     "hjemmeside": "www.dellia.com",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 46161672,
+      "belop": 5770209.0,
+      "innfortDato": "2026-09-24",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med andre næringsmidler",
+      "kode": "46.380"
+     },
+     "navn": "DELLIA GROUP ASA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ASA"
+       }
+      },
+      "beskrivelse": "Allmennaksjeselskap",
+      "kode": "ASA"
+     },
+     "organisasjonsnummer": "918280634",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2017-01-26",
+     "registreringsdatoForetaksregisteret": "2017-01-26",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-12-16",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-12-17",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2016-11-22",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-09-18",
+     "vedtektsfestetFormaal": [
+      "Kjøp og salg, herunder import og eksport av handelsvarer,",
+      "produktutvikling, samt eierskap i bedrifter med tilsvarende",
+      "virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/998186757"
+      }
+     },
+     "aktivitet": [
+      "Ingeniørtjenester."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen teknisk konsulentvirksomhet",
+      "kode": "71.129"
+     },
+     "navn": "DELLSTEEPLE LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "998186757",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "82 Glendale Road"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "TS5 7NL Middlesbrough"
+     },
+     "registreringsdatoEnhetsregisteret": "2012-04-18",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/998186811"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private limited company",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "82 Glendale Road Tollesby"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "TS5 7NL Middelsbrough"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "DELLSTEEPLE LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "998186811",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2012-04-18",
+     "registreringsnummerIHjemlandet": "02148819",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Storbritannia",
+     "underlagtLovgivningLandKode": "GB",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Crown Way",
+       "Maindy"
+      ],
+      "land": "Storbritannia",
+      "poststed": "Cardiff CF14 3UZ"
+     },
+     "utenlandskRegisterNavn": "Companies House"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930375403"
+      }
+     },
+     "aktivitet": [
+      "Drift av cafe og restaurant, samt annet som naturlig står i den",
+      "forbindelse."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Storgata 17"
+      ],
+      "kommune": "SANDEFJORD",
+      "kommunenummer": "3907",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3210",
+      "poststed": "SANDEFJORD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+     },
+     "navn": "DELLU CAFE LUKASC",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "930375403",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-12-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931602853"
+      }
+     },
+     "aktivitet": [
+      "Produksjon av film, video og fjernsynsprogram."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Fjellveien 20"
+      ],
+      "kommune": "FREDRIKSTAD",
+      "kommunenummer": "3107",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1678",
+      "poststed": "KRÅKERØY"
+     },
+     "fravalgRevisjonBeslutningsDato": "2023-05-30",
+     "fravalgRevisjonDato": "2023-06-20",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2023-06-20",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon av film, video og fjernsynsprogrammer",
+      "kode": "59.110"
+     },
+     "navn": "DRANGE & DELLI AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "931602853",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2023-07-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2023-07-10",
+     "registreringsdatoEnhetsregisteret": "2023-06-20",
+     "registreringsdatoForetaksregisteret": "2023-06-20",
+     "registreringsdatoMerverdiavgiftsregisteret": "2023-07-25",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-08-23",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2023-05-30",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2023-05-30",
+     "vedtektsfestetFormaal": [
+      "Selge varer og tjenester innen produksjon av video og annet som",
+      "naturlig sammenfaller med dette samt deltakelse i andre selskaper,",
+      "investeringer og nærliggende virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/838737552"
+      }
+     },
+     "aktivitet": [
+      "Energi- og healingtjenester. Selvstendig forfattervirksomhet."
+     ],
+     "epostadresse": "marineledelliou@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nye Sandviksveien 68"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5032",
+      "poststed": "BERGEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "+33658879480",
+     "navn": "EN - MIRIA LE DELLIOU",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "838737552",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-11-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917298386"
+      }
+     },
+     "aktivitet": [
+      "Musiker."
+     ],
+     "epostadresse": "espdell@hotmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Likvernvegen 310"
+      ],
+      "kommune": "ELVERUM",
+      "kommunenummer": "3420",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2412",
+      "poststed": "SØRSKOGBYGDA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "992 49 138",
+     "naeringskode1": {
+      "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "kode": "90.201"
+     },
+     "navn": "ESPEN DELLERUD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "917298386",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-06-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997290127"
+      }
+     },
+     "aktivitet": [
+      "Privatpraktiserende fysioterapeut. Behandling av pasienter som ønsker",
+      "å gå til fysioterapeut uten driftstilskudd."
+     ],
+     "epostadresse": "fokusfysio@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Granlia 20"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3050",
+      "poststed": "MJØNDALEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2011-09-01 20:23:14",
+       "navn": "FYSIOTERAPEUT DELLA MARLEN KRISTIANSEN",
+       "tilDato": "2011-11-12 14:30:35"
+      },
+      {
+       "fraDato": "2011-11-12 14:30:35",
+       "navn": "FOKUS FYSIOTERAPI DELLA MARLEN KRISTIANSEN",
+       "tilDato": "2017-12-22 13:02:21"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "480 79 405",
+     "naeringskode1": {
+      "beskrivelse": "Fysioterapi- og ergoterapitjenester",
+      "kode": "86.950"
+     },
+     "navn": "FYSIOTERAPEUT DELLA KRISTIANSEN",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "997290127",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2011-09-01",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994317075"
+      }
+     },
+     "aktivitet": [
+      "Tømrer."
+     ],
+     "epostadresse": "info@baums.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o B.A.U.M.S. International AS",
+       "Kirkegata 1-3"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0153",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Oppføring av bygninger",
+      "kode": "41.000"
+     },
+     "navn": "JENS DELLIT",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "994317075",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o B.A.U.M.S. International AS",
+       "Lillevannsveien 36A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0788",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2009-07-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "75 80 24 66",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994317091"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "eingetragen Kaufmann",
+      "beskrivelseBokmaal": "Enkeltpersonforetak",
+      "kode": "E.K."
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Friedrichrodaer Str. 15 15"
+      ],
+      "land": "Tyskland",
+      "landkode": "DE",
+      "poststed": "98593 KLEINSCHMALKALDEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "JENS DELLIT",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "994317091",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2009-07-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Tyskland",
+     "underlagtLovgivningLandKode": "DE"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/877121992"
+      }
+     },
+     "aktivitet": [
+      "Å yte bidrag til trengende personer med nervelidelser som kan",
+      "kvalifisere til uførepensjon. De som har søkt, men ennå ikke fått",
+      "innvilget uførepensjon skal ha prioritet.",
+      " "
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Rosenborggata 3"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0356",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1998-01-22 18:37:49",
+       "navn": "JOSEF DELLMONDO OG BJØRN HOVDES LEGAT",
+       "tilDato": "1999-12-20 18:31:14"
+      },
+      {
+       "fraDato": "1999-12-20 18:31:14",
+       "navn": "JOSEF DELLMONDO OG BJØRN HOVDES LEGAT",
+       "tilDato": "2008-12-02 20:50:55"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "kapital": {
+      "belop": 4936671.0,
+      "fulltInnbetalt": true,
+      "innbetalt": 4936671.0,
+      "innfortDato": "1999-12-20",
+      "type": "Grunnkapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "454 56 512",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "kode": "94.991"
+     },
+     "navn": "JOSEF DELLMONDO OG BJØRN HOVDES LEGAT STI",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/STI"
+       }
+      },
+      "beskrivelse": "Stiftelse",
+      "kode": "STI"
+     },
+     "organisasjonsnummer": "877121992",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1997-02-24",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": true,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "1981-11-26",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992117354"
+      }
+     },
+     "aktivitet": [
+      "Fremføring av sang og musikaler."
+     ],
+     "epostadresse": "ludvik@musikalsk.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Eidsvollbakken 28"
+      ],
+      "kommune": "EIDSVOLL",
+      "kommunenummer": "3240",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2080",
+      "poststed": "EIDSVOLL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "910 06 969",
+     "naeringskode1": {
+      "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "kode": "90.201"
+     },
+     "navn": "LA MUSICA DELLA LIBERTÁ Ludvik Kjærnes",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "992117354",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2008-01-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914593786"
+      }
+     },
+     "aktivitet": [
+      "Frilans skribent- og DJ-oppdrag."
+     ],
+     "epostadresse": "jennydelle@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "St. Halvards gate 1D"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0192",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "978 73 074",
+     "naeringskode1": {
+      "beskrivelse": "Skapende kunstnerisk virksomhet innenfor litteratur",
+      "kode": "90.111"
+     },
+     "navn": "LILLE SORTE PRODUCTIONS JENNY MARIA DELLEGÅRD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "914593786",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2014-12-10",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/993086029"
+      }
+     },
+     "aktivitet": [
+      "Koreograf, danser, pedagog i dans, musiker, komponist, tekstforfatter",
+      "og massasjeterapaut."
+     ],
+     "epostadresse": "ldmlucho@hotmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nedre Bakklandet 73"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7014",
+      "poststed": "TRONDHEIM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "95187828",
+     "naeringskode1": {
+      "beskrivelse": "Annen undervisning innenfor kultur",
+      "kode": "85.529"
+     },
+     "navn": "LUIS DELLA MEA Delucchi",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "993086029",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2008-09-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/983774490"
+      }
+     },
+     "aktivitet": [
+      "Snekker og flislegger. Catering og restaurant"
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bjørkekroken 6"
+      ],
+      "kommune": "NORDRE FOLLO",
+      "kommunenummer": "3207",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1405",
+      "poststed": "LANGHUS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2001-10-27 14:53:32",
+       "navn": "MARCO DELL ARMI INTERIØR OG BYGGSERVICE",
+       "tilDato": "2009-06-30 20:41:19"
+      },
+      {
+       "fraDato": "2009-06-30 20:41:19",
+       "navn": "MARCO DELL ARMI SERVICE",
+       "tilDato": "2010-10-04 20:24:27"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Snekkerarbeid",
+      "kode": "43.320"
+     },
+     "navn": "MARCO DELL ARMI SERVICE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "983774490",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2001-10-27",
+     "registreringsdatoForetaksregisteret": "2010-10-04",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "64 86 99 46",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937792530"
+      }
+     },
+     "aktivitet": [
+      "Matlevering fra butikker og restauranter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Åsdalsveien 27"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1166",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre post- og budtjenester",
+      "kode": "53.200"
+     },
+     "navn": "MARIN DELLIVERY",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "937792530",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-06-01",
+     "registreringsdatoForetaksregisteret": "2026-06-01",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/999261957"
+      }
+     },
+     "aktivitet": [
+      "Taxi."
+     ],
+     "epostadresse": "d.noori@hotmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nedstrandsgata 67"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4015",
+      "poststed": "STAVANGER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "98059125",
+     "naeringskode1": {
+      "beskrivelse": "Passasjertransport på forespørsel utført av fører med kjøretøy",
+      "kode": "49.330"
+     },
+     "navn": "NOORI DELLAWAR",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "999261957",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-01-10",
+     "registreringsdatoMerverdiavgiftsregisteret": "2013-03-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2013-05-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916265794"
+      }
+     },
+     "aktivitet": [
+      "Investering i fast eiendom i Norge og Italia, forvalte verdipapirer og",
+      "andre formuesgjenstander samt finansiering og annen virksomhet som",
+      "står i forbindelse med dette."
+     ],
+     "epostadresse": "booking@casaetronia.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Gregorius Dagssons gate 54B"
+      ],
+      "kommune": "SKIEN",
+      "kommunenummer": "4003",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3746",
+      "poststed": "SKIEN"
+     },
+     "fravalgRevisjonDato": "2015-11-24",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "casaetronia.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 300,
+      "belop": 30000.0,
+      "innfortDato": "2015-11-24",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "481 42 862",
+     "naeringskode1": {
+      "beskrivelse": "Kjøp og salg av egen fast eiendom",
+      "kode": "68.110"
+     },
+     "navn": "PASSIONE DELLA BICICLETTA AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "916265794",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2015-11-24",
+     "registreringsdatoForetaksregisteret": "2015-11-24",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2015-11-10",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2015-11-10",
+     "vedtektsfestetFormaal": [
+      "Investering i fast eiendom i Norge og Italia, forvalte verdipapirer og",
+      "andre formuesgjenstander samt finansiering og annen virksomhet som",
+      "står i forbindelse med dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/976587804"
+      }
+     },
+     "aktivitet": [
+      "Aktivitetsferier i Norge.",
+      " "
+     ],
+     "epostadresse": "sandro@reineadventure.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Skagen 6"
+      ],
+      "kommune": "MOSKENES",
+      "kommunenummer": "1874",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8390",
+      "poststed": "REINE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1996-07-17 18:29:21",
+       "navn": "SANDRO DELLA-MEA SYKKEL TRANS Sandro Della-Mea",
+       "tilDato": "2006-10-19 20:16:07"
+      },
+      {
+       "fraDato": "2006-10-19 20:16:07",
+       "navn": "ACTIVE NORWAY Sandro Della-Mea",
+       "tilDato": "2009-03-09 20:46:33"
+      },
+      {
+       "fraDato": "2009-03-09 20:46:33",
+       "navn": "REINE ADVENTURE - ACTIVE NORWAY Anndro Delia Mea",
+       "tilDato": "2009-06-03 20:27:50"
+      }
+     ],
+     "hjemmeside": "www.reineadventure.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "932 14 596",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter utført av utflukts- og eventarrangører",
+      "kode": "79.121"
+     },
+     "navn": "REINE ADVENTURE - ACTIVE NORWAY Sandro Della Mea",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "976587804",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1996-07-17",
+     "registreringsdatoMerverdiavgiftsregisteret": "2010-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2013-03-18",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937795629"
+      }
+     },
+     "aktivitet": [
+      "Malertjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Folkvordgeilen 5"
+      ],
+      "kommune": "SANDNES",
+      "kommunenummer": "1108",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4318",
+      "poststed": "SANDNES"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Maler- og glassarbeid",
+      "kode": "43.340"
+     },
+     "navn": "ROMANCHUK DELLUX",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "937795629",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-06-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-06-10",
+     "registreringsdatoEnhetsregisteret": "2026-06-01",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-08-13",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-09-21",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=DELL&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 47,
+   "totalPages": 1
+  }
+ }
+}

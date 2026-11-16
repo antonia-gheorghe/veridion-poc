@@ -1,0 +1,85 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter/920772358?",
+ "response": {
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920772358"
+   }
+  },
+  "aktivitet": [
+   "Konsulent- og rådgivningstjenester innen PR,",
+   "strategisk bedriftsutvikling, informasjon, myndighetskontakt og",
+   "markedskommunikasjon, samt produksjon av informasjonsmateriell, og alt",
+   "som står i forbindelse med dette, herunder deltagelse i andre",
+   "selskaper."
+  ],
+  "antallAnsatte": 11,
+  "erIKonsern": true,
+  "forretningsadresse": {
+   "adresse": [
+    "Munchs gate 5B"
+   ],
+   "kommune": "OSLO",
+   "kommunenummer": "0301",
+   "land": "Norge",
+   "landkode": "NO",
+   "postnummer": "0165",
+   "poststed": "OSLO"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "historiskeNavn": [],
+  "institusjonellSektorkode": {
+   "beskrivelse": "Private aksjeselskaper mv.",
+   "kode": "2100"
+  },
+  "kapital": {
+   "antallAksjer": 3675570,
+   "belop": 367557.0,
+   "innfortDato": "2025-06-17",
+   "type": "Aksjekapital",
+   "valuta": "NOK"
+  },
+  "konkurs": false,
+  "maalform": "Bokmål",
+  "naeringskode1": {
+   "beskrivelse": "Pr og kommunikasjonstjenester",
+   "kode": "73.300"
+  },
+  "navn": "STORM COMMUNICATIONS AS",
+  "organisasjonsform": {
+   "_links": {
+    "self": {
+     "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+    }
+   },
+   "beskrivelse": "Aksjeselskap",
+   "kode": "AS"
+  },
+  "organisasjonsnummer": "920772358",
+  "paategninger": [],
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-11",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+  "registreringsdatoEnhetsregisteret": "2018-04-24",
+  "registreringsdatoForetaksregisteret": "2018-04-24",
+  "registreringsdatoMerverdiavgiftsregisteret": "2018-05-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2018-05-12",
+  "registrertIForetaksregisteret": true,
+  "registrertIFrivillighetsregisteret": false,
+  "registrertIMvaregisteret": true,
+  "registrertIPartiregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "respons_klasse": "Enhet",
+  "sisteInnsendteAarsregnskap": "2025",
+  "stiftelsesdato": "2018-03-23",
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "vedtektsdato": "2025-03-15",
+  "vedtektsfestetFormaal": [
+   "Konsulent- og rådgivningstjenester innen PR,",
+   "strategisk bedriftsutvikling, informasjon, myndighetskontakt og",
+   "markedskommunikasjon, samt produksjon av informasjonsmateriell, og alt",
+   "som står i forbindelse med dette, herunder deltagelse i andre",
+   "selskaper."
+  ]
+ }
+}

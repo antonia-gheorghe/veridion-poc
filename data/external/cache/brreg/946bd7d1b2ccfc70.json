@@ -1,0 +1,1236 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=PRICEWATERHOUSECOOPERS&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/988371084"
+      }
+     },
+     "aktivitet": [
+      "Drive advokatvirksomhet og virksomhet som har naturlig tilknytning til",
+      "dette, herunder å eie aksjer eller andeler eller på annen måte",
+      "engasjere seg i andre selskaper, gjennom å være hovedmann og fullt",
+      "ansvarlig deltaker i Advokatfirmaet PricewaterhouseCoopers Indre",
+      "Selskap."
+     ],
+     "antallAnsatte": 125,
+     "epostadresse": "resepsjonen.pwc@pwc.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Dronning Eufemias gate 71"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0194",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "hjemmeside": "www.pwc.com",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 44,
+      "belop": 1100000.0,
+      "innfortDato": "2026-05-19",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Juridisk tjenesteyting",
+      "kode": "69.100"
+     },
+     "navn": "ADVOKATFIRMAET PRICEWATERHOUSECOOPERS AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "988371084",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 748 Sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0106",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2005-06-22",
+     "registreringsdatoForetaksregisteret": "2005-06-22",
+     "registreringsdatoMerverdiavgiftsregisteret": "2005-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2005-07-04",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2026",
+     "stiftelsesdato": "2005-06-20",
+     "telefon": "95 26 00 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-02-20",
+     "vedtektsfestetFormaal": [
+      "Drive advokatvirksomhet og virksomhet som har naturlig tilknytning til",
+      "dette, herunder å eie aksjer eller andeler eller på annen måte",
+      "engasjere seg i andre selskaper, gjennom å være hovedmann og fullt",
+      "ansvarlig deltaker i Advokatfirmaet PricewaterhouseCoopers Indre",
+      "Selskap."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987822805"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Societá a responsabilitá limitata",
+      "beskrivelseBokmaal": "Selskap med begrenset ansvar",
+      "kode": "S.R.L."
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Via Bargellino 25/A"
+      ],
+      "land": "Italia",
+      "landkode": "IT",
+      "poststed": "40012 Calderara di Reno (Bologna)"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "CALZONI S.R.L/ PRICEWATERHOUSECOOPERS SKATTERÅDGIVERE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "987822805",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2005-02-16",
+     "registreringsdatoForetaksregisteret": "2005-02-16",
+     "registreringsnummerIHjemlandet": "12846910151",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1999-05-06",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Italia",
+     "underlagtLovgivningLandKode": "IT",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Unioncamere",
+       "Piazza Sallustio, 21"
+      ],
+      "land": "Italia",
+      "poststed": "00187 Roma"
+     },
+     "utenlandskRegisterNavn": "Registro delle imprese",
+     "vedtektsdato": "1999-05-06",
+     "vedtektsfestetFormaal": [
+      "Hovedforetak."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935819873"
+      }
+     },
+     "aktivitet": [
+      "Konsulentvirksomhet, regnskap mv."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Thomas R. Malthusstraat 5"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "1066JR AASTERDAM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "PRICEWATERHOUSECOOPERS ACCOUNTANTS N.V.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "935819873",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-08-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935915279"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "epostadresse": "info@nl.pwc.com",
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Besloten vennootschap",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "BV"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Thomas R. Malthusstraat 5"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "1066JR AMSTERDAM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.pwc.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "PRICEWATERHOUSECOOPERS ACCOUNTANTS N.V.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "935915279",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postbus 90357"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "1006BJ AMSTERDAM"
+     },
+     "registreringsdatoEnhetsregisteret": "2025-08-04",
+     "registreringsnummerIHjemlandet": "34180285",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2002-11-01",
+     "telefon": "+31622723403",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Nederland",
+     "underlagtLovgivningLandKode": "NL",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Sint Jacobsstraat 300"
+      ],
+      "land": "Nederland",
+      "poststed": "3511 BT Utrecht"
+     },
+     "utenlandskRegisterNavn": "Handelsregister  "
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934627342"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Naamlooze vennotschap",
+      "beskrivelseBokmaal": "Allment aksjeselskap",
+      "kode": "NV"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Thomas R. Malthusstraat 5"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "1066JR AMSTERDAM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "PRICEWATERHOUSECOOPERS ADVISORY N.V.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "934627342",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postbus 9616"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "1006GC AMSTERDAM"
+     },
+     "registreringsdatoEnhetsregisteret": "2024-12-10",
+     "registreringsnummerIHjemlandet": "34180287",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2002-10-10",
+     "telefon": "+31887920020",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Nederland",
+     "underlagtLovgivningLandKode": "NL",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Sint Jacobsstraat 300"
+      ],
+      "land": "Nederland",
+      "poststed": "3511 BT Utrecht"
+     },
+     "utenlandskRegisterNavn": "Handelsregister  "
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934565932"
+      }
+     },
+     "aktivitet": [
+      "Konsulentvirksomhet innen organisaering, data prosessering mv."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Thomas R. Malthusstraat 5"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "1066JR AMSTERDAM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "PRICEWATERHOUSECOOPERS ADVISORY N.V.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "934565932",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-12-10",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933320618"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "epostadresse": "us_pwc_corp_filings@pwc.com",
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Limited liability company",
+      "beskrivelseBokmaal": "Selskap med begrenset ansvar",
+      "kode": "LLC"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "300 Madison Avenue"
+      ],
+      "land": "USA",
+      "landkode": "US",
+      "poststed": "NY 10017 NEW YOURK"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "PRICEWATERHOUSECOOPERS ADVISORY SERVICES LLC",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "933320618",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-04-18",
+     "registreringsdatoForetaksregisteret": "2024-04-18",
+     "registreringsnummerIHjemlandet": "2",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2014-02-26",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "USA",
+     "underlagtLovgivningLandKode": "US",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "P.O. Box 898"
+      ],
+      "land": "USA",
+      "poststed": "Dover Delaware 19903"
+     },
+     "utenlandskRegisterNavn": "Secretary of State for the State of Delaware",
+     "vedtektsdato": "2023-04-24",
+     "vedtektsfestetFormaal": [
+      "Utenlandsk foretak"
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933239705"
+      }
+     },
+     "aktivitet": [
+      "Konsulentvirksomhet innen IT og systemintegrering."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "300 Madison Avenue"
+      ],
+      "land": "USA",
+      "landkode": "US",
+      "poststed": "NY 10017 NEW YORK"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "PRICEWATERHOUSECOOPERS ADVISORY SERVICES LLC NUF",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "933239705",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-04-18",
+     "registreringsdatoForetaksregisteret": "2024-04-18",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987009713"
+      }
+     },
+     "aktivitet": [
+      "Drive revisjon og virksomhet som har naturlig tilknytning til dette,",
+      "samt rådgivning og regnskapsvirksomhet. Formålet er også å eie aksjer",
+      "eller andeler eller på annen måte engasjere seg i andre selskaper,",
+      "gjennom å være hovedmann og fullt ansvarlig deltaker i",
+      "Pricewaterhousecoopers Indre selskap."
+     ],
+     "antallAnsatte": 1674,
+     "epostadresse": "resepsjonen.pwc@pwc.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Dronning Eufemias gate 71"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0194",
+      "poststed": "OSLO"
+     },
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "hjemmeside": "www.pwc.com",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 748000,
+      "belop": 11220000.0,
+      "innfortDato": "2026-05-19",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Revisjon",
+      "kode": "69.201"
+     },
+     "navn": "PRICEWATERHOUSECOOPERS AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "987009713",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 748 Sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0106",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2004-06-28",
+     "registreringsdatoForetaksregisteret": "2004-06-28",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2021-03-01",
+     "registreringsdatoMerverdiavgiftsregisteret": "2004-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2004-09-06",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2026",
+     "stiftelsesdato": "2004-06-24",
+     "telefon": "95 26 00 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-02-20",
+     "vedtektsfestetFormaal": [
+      "Drive revisjon og virksomhet som har naturlig tilknytning til dette,",
+      "samt rådgivning og regnskapsvirksomhet. Formålet er også å eie aksjer",
+      "eller andeler eller på annen måte engasjere seg i andre selskaper,",
+      "gjennom å være hovedmann og fullt ansvarlig deltaker i",
+      "Pricewaterhousecoopers Indre selskap."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936242391"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "epostadresse": "info@nl.pwc.com",
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Naamlooze vennotschap",
+      "beskrivelseBokmaal": "Allment aksjeselskap",
+      "kode": "NV"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Thomas R. Malthusstraat 5"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "1066JR AMSTERDAM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.pwc.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "PRICEWATERHOUSECOOPERS BELASTINGSADVISEURS N.V.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "936242391",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postbus 90385"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "1006BJ AMSTERDAM"
+     },
+     "registreringsdatoEnhetsregisteret": "2025-09-25",
+     "registreringsnummerIHjemlandet": "34180284",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2002-11-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Nederland",
+     "underlagtLovgivningLandKode": "NL",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Sint Jacobsstraat 300"
+      ],
+      "land": "Nederland",
+      "poststed": "3511 BT Utrecht"
+     },
+     "utenlandskRegisterNavn": "Handelsregister  "
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936205097"
+      }
+     },
+     "aktivitet": [
+      "Konsulentvirksomhet, regnskap mv."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Thomas R. Malthusstraat 5"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "1066JR AMSTERDAM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "PRICEWATERHOUSECOOPERS BELASTINGSADVISEURS N.V.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "936205097",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-09-25",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919309105"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Gesellschaft mit beschränkter Häftung",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "GMBH"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Friedrich-Ebert-Anlage 35-37"
+      ],
+      "land": "Tyskland",
+      "landkode": "DE",
+      "poststed": "DE-60327 FRANKFURT AM MAIN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "PRICEWATERHOUSECOOPERS GMBH WIRTSCHAFTSPRÜFUNGSGESELLSCHAFT",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "919309105",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2017-07-18",
+     "registreringsnummerIHjemlandet": "HRB107858",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2016-10-25",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Tyskland",
+     "underlagtLovgivningLandKode": "DE",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Gerichtstrasse 2"
+      ],
+      "land": "Tyskland",
+      "poststed": "60313 Frankfurt am Main"
+     },
+     "utenlandskRegisterNavn": "Amtsgericht Frankfurt am Main"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919276754"
+      }
+     },
+     "aktivitet": [
+      "Rapportering av personell som leies ut i Norge."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Friedrich-Ebert-Anlage 35-37"
+      ],
+      "land": "Tyskland",
+      "landkode": "DE",
+      "poststed": "60327 FRANKFURT AM MAIN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "PRICEWATERHOUSECOOPERS GMBH WIRTSCHAFTSPRÜFUNGSGESELLSCHAFT",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "919276754",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2017-07-18",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933312593"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private limited",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Quay Building, 4th Flr, BagmaneTech",
+       "Park,ByrasandraVillage,KRPuramHobli",
+       "CV Ra, man Nagar, Bangalore, Bangal"
+      ],
+      "land": "India",
+      "landkode": "IN",
+      "poststed": "KARNATAKA 560093"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "PRICEWATERHOUSECOOPERS SERVICE DELIVERY CENTER (BANGALORE) PRIVATE LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "933312593",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-04-16",
+     "registreringsnummerIHjemlandet": "U72900KA2009PTC054296",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2009-04-24",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "India",
+     "underlagtLovgivningLandKode": "IN",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "E' Wing, 2 Floor",
+       "Kendriya Sadana",
+       "Kormamangala Bangalore"
+      ],
+      "land": "India",
+      "poststed": "Bangalore"
+     },
+     "utenlandskRegisterNavn": "Registrar of Companies"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/833239562"
+      }
+     },
+     "aktivitet": [
+      "Rapportering av ansatte som jobber innen IT."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Quay Building, 4th Flr, BagmaneTech",
+       "Park,ByrasandraVillage,KRPuramHobli",
+       "CV Ra, man Nagar, Bangalore, Bangal"
+      ],
+      "land": "India",
+      "landkode": "IN",
+      "poststed": "IN-KARNATAKA 560093"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "PRICEWATERHOUSECOOPERS SERVICE DELIVERY CENTER (BANGALORE) PRIVATE LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "833239562",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Advokatfirmaet",
+       "Vialto Partners AS,",
+       "Dronning Eufemias gate 16"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0191",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2024-04-16",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/990815038"
+      }
+     },
+     "aktivitet": [
+      "Revisjon og rådgivning. Selskapet har en utsendt arbeidstaker i Norge",
+      "som utfører arbeid for Advokatfirmaet Pricewaterhouse Coopers AS."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Pricewaterhousecoopers AS",
+       "Karenslyst allé 12"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0278",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Revisjon",
+      "kode": "69.201"
+     },
+     "navn": "PRICEWATERHOUSECOOPERS SERVICES PTE LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "990815038",
+     "paategninger": [
+      {
+       "infotype": "KONT",
+       "innfoertDato": "2025-10-15",
+       "tekst": "Kontaktperson mangler. Virksomheten har fått pålegg om å melde manglende rolle"
+      }
+     ],
+     "registreringsdatoEnhetsregisteret": "2007-02-05",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "02316",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/990815089"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private company limited by shares",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "8 Cross Street",
+       "PwC Building #17-00"
+      ],
+      "land": "Singapore",
+      "landkode": "SG",
+      "poststed": "048424 SINGAPORE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "PRICEWATERHOUSECOOPERS SERVICES PTE LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "990815089",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2007-02-05",
+     "registreringsnummerIHjemlandet": "199902830D",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Singapore",
+     "underlagtLovgivningLandKode": "SG",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "10 Anson road",
+       "#05-01/15 International Plaza"
+      ],
+      "land": "Singapore",
+      "poststed": "Singapore 079903"
+     },
+     "utenlandskRegisterNavn": "Registry of Companies and Businesses"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933434532"
+      }
+     },
+     "aktivitet": [
+      "Konsulentvirksomhet innen IT. Rapportering av ansatte."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "2 Rue Gerhard Merkator"
+      ],
+      "land": "Luxembourg",
+      "landkode": "LU",
+      "poststed": "LU-2182 LUXEMBOURG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "PRICEWATERHOUSECOOPERS SOCIÈTÈ COOPÈRATIVE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "933434532",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Advokatfirmaet Vialto Partners",
+       "AS,",
+       "Dronning Eufemias gate 16"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0191",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2024-06-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933549046"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "2 Rue Gerhard Mercator"
+      ],
+      "land": "Luxembourg",
+      "landkode": "LU",
+      "poststed": "LU-2182 LUXEMBOURG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "+352621333948",
+     "navn": "PRICEWATERHOUSECOOPERS SOCIÈTÈ COOPÈRATIVE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "933549046",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-06-04",
+     "registreringsnummerIHjemlandet": "B65477",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1998-06-18",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Locaux de Luxembourg 14, rue Erasme"
+      ],
+      "land": "Luxembourg",
+      "poststed": " L-1468 Luxembourg"
+     },
+     "utenlandskRegisterNavn": "Registre de Commerce et des Sociétés"
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=PRICEWATERHOUSECOOPERS&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 19,
+   "totalPages": 1
+  }
+ }
+}

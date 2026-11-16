@@ -1,0 +1,959 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=CBRE&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/958963629"
+      }
+     },
+     "aktivitet": [
+      "Eiendomsmeglervirksomhet og slik annen sammenhørende virksomhet",
+      "innenfor det som til enhver tid er tillatt iht eiendomsmeglerloven med",
+      "tilhørende forskrifter."
+     ],
+     "antallAnsatte": 88,
+     "epostadresse": "office.oslo@cbre.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Munkedamsveien 45B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0250",
+      "poststed": "OSLO"
+     },
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-02-20 00:00:00",
+       "navn": "ATRIUM AS",
+       "tilDato": "2016-05-03 10:58:17"
+      }
+     ],
+     "hjemmeside": "www.cbre.no/",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 910490,
+      "belop": 1820980.0,
+      "innfortDato": "2019-12-16",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Eiendomsmegling og andre formidlingstjenester for eiendom",
+      "kode": "68.310"
+     },
+     "navn": "CBRE AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "958963629",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 1284 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0111",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "1995-02-20",
+     "registreringsdatoForetaksregisteret": "1990-11-27",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2014-01-15",
+     "registreringsdatoMerverdiavgiftsregisteret": "2001-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2001-11-10",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "1990-09-19",
+     "telefon": "40 00 57 66",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2019-12-06",
+     "vedtektsfestetFormaal": [
+      "Eiendomsmeglervirksomhet og slik annen sammenhørende virksomhet",
+      "innenfor det som til enhver tid er tillatt iht eiendomsmeglerloven med",
+      "tilhørende forskrifter."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935333504"
+      }
+     },
+     "aktivitet": [
+      "Formidling av kjøp og salg, eller utleie av næringseiendommer."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Grosse Gallusstrasse 18"
+      ],
+      "land": "Tyskland",
+      "landkode": "DE",
+      "poststed": "60312 FRANKFURT AM MAIN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Kjøp og salg av egen fast eiendom",
+      "kode": "68.110"
+     },
+     "navn": "CBRE GMBH",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "935333504",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/l Deutsch Norwegische",
+       "Handelskammer Services AS",
+       "Postboks 603 Skøyen"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0214",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2025-04-26",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-12-17",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-02-09",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935411947"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Gesellschaft mit beschränkter Häftung",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "GMBH"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Gosse Gallusstrasse 18"
+      ],
+      "land": "Tyskland",
+      "landkode": "DE",
+      "poststed": "DE-60312 FRANKFURTH AM MAIN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "CBRE GMBH",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "935411947",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-04-26",
+     "registreringsnummerIHjemlandet": "HRB13347",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1973-04-03",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Tyskland",
+     "underlagtLovgivningLandKode": "DE",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Gerichtstrasse 2"
+      ],
+      "land": "Tyskland",
+      "poststed": "60313 Frankfurt am Main"
+     },
+     "utenlandskRegisterNavn": "Amtsgericht Frankfurt am Main"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/915263860"
+      }
+     },
+     "aktivitet": [
+      "Yte tjenester relatert til fast eiendom, herunder å inngå avtaler med",
+      "eiere og besittere av fast eiendom vedrørende tjenesteytelse i",
+      "forbindelse med drift og vedlikehold av bygninger, herunder",
+      "eiendomsforvaltning, teknisk arbeid og service og andre relaterte",
+      "ytelser."
+     ],
+     "antallAnsatte": 266,
+     "epostadresse": "contractsupportno@cbre.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Munkedamsveien 45D"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0250",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2015-04-20 10:59:38",
+       "navn": "TEKÅGEL INVEST 813 AS",
+       "tilDato": "2015-06-19 10:08:13"
+      },
+      {
+       "fraDato": "2015-06-19 10:08:13",
+       "navn": "CBRE CORPORATE OUTSOURCING AS",
+       "tilDato": "2022-10-25 13:15:06"
+      }
+     ],
+     "hjemmeside": "www.cbre.no/",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 2400,
+      "belop": 100800.0,
+      "innfortDato": "2015-04-20",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Eiendomsforvaltning på oppdrag",
+      "kode": "68.320"
+     },
+     "navn": "CBRE GWS NORWAY AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "915263860",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2015-04-20",
+     "registreringsdatoForetaksregisteret": "2015-04-20",
+     "registreringsdatoMerverdiavgiftsregisteret": "2015-09-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2015-08-20",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2015-03-30",
+     "telefon": "66 82 25 10",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2023-03-01",
+     "vedtektsfestetFormaal": [
+      "Yte tjenester relatert til fast eiendom, herunder å inngå avtaler med",
+      "eiere og besittere av fast eiendom vedrørende tjenesteytelse i",
+      "forbindelse med drift og vedlikehold av bygninger, herunder",
+      "eiendomsforvaltning, teknisk arbeid og service og andre relaterte",
+      "ytelser, samt å yte tjenester i forbindelse med kjøp-, salg- og",
+      "forvaltning av eiendom og eiendomsinteresser, samt all annen",
+      "virksomhet som naturlig er forbundet med dette. Virksomheten kan også",
+      "drives gjennom deltakelse i eller i samarbeid med andre selskaper,",
+      "eller gjennom datterselskaper."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914417791"
+      }
+     },
+     "aktivitet": [
+      "Konsulenttjenester tilknyttet eiendom og eiendomsutvikling."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Henrietta House",
+       "Henrietta Place"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "LONDON W1G 0NG ENGLAND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+      "kode": "82.990"
+     },
+     "navn": "CBRE LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "914417791",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Fakturamottak",
+       "Postboks 370 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2014-11-18",
+     "registreringsdatoMerverdiavgiftsregisteret": "2012-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2014-11-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914417805"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private limited company",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Henrietta House",
+       "Henrietta Place"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "LONDON W1G 0NG ENGLAND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "CBRE LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "914417805",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2014-11-18",
+     "registreringsnummerIHjemlandet": "03536032",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1998-03-27",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Storbritannia",
+     "underlagtLovgivningLandKode": "GB",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Crown Way",
+       "Maindy"
+      ],
+      "land": "Storbritannia",
+      "poststed": "Cardiff CF14 3UZ"
+     },
+     "utenlandskRegisterNavn": "Companies House"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935156343"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Limited Liability Partnership",
+      "beskrivelseBokmaal": "Limited Liability Partnership",
+      "kode": "LLP"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "61 Southwark Street"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "LONDON, SE1 0HL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "CBRE MANAGED SERVICES LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "935156343",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-03-04",
+     "registreringsnummerIHjemlandet": "1799580",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1984-03-13",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Storbritannia",
+     "underlagtLovgivningLandKode": "GB",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Crown Way",
+       "Maindy"
+      ],
+      "land": "Storbritannia",
+      "poststed": "Cardiff CF14 3UZ"
+     },
+     "utenlandskRegisterNavn": "Companies House"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935055873"
+      }
+     },
+     "aktivitet": [
+      "Ansatte."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "61 Southwark Street"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "LONDON, SE1 0HL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "CBRE MANAGED SERVICES LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "935055873",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-03-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933789810"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "epostadresse": "cbre.sweden@cbre.com",
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Privata Aktiebolag",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "AB"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Jakobsbergsgatan 16"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "SE-111 44 STOCKHOLM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.cbre.se",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "CBRE SWEDEN AB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "933789810",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-07-15",
+     "registreringsnummerIHjemlandet": "5564468618",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1992-05-15",
+     "telefon": "+46858711700",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Sverige",
+     "underlagtLovgivningLandKode": "SE",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Stuvarvägen 21"
+      ],
+      "land": "Sverige",
+      "poststed": "851 81 SUNDSVALL"
+     },
+     "utenlandskRegisterNavn": "Bolagsverket"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933705560"
+      }
+     },
+     "aktivitet": [
+      "Består hovedsaklig i å bestå i fysiske befaringer/besiktigelser mv.",
+      "med tanke på verdivurdering ol."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Jakobsbergsgatan 16"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "SE-111 44 STOCKHOLM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",
+      "kode": "74.990"
+     },
+     "navn": "CBRE SWEDEN AB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "933705560",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-07-15",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-03-19",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-09-30",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994593889"
+      }
+     },
+     "aktivitet": [
+      "El-tekniske løsninger og service til industri, infrastruktur, erhverv",
+      "og service innenfor kraftverk, telecom, telefoni, data og teknikhuse."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Blytækkervej 3"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "DK-9000 AALBORG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2009-10-15 20:41:48",
+       "navn": "INTEGO",
+       "tilDato": "2023-02-23 11:44:44"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "CBRE TEKNISK SERVICEPARTNER",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "994593889",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Azets Insight AS",
+       "Postboks 782, Krapfoss"
+      ],
+      "kommune": "MOSS",
+      "kommunenummer": "3103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1509",
+      "poststed": "MOSS"
+     },
+     "registreringsdatoEnhetsregisteret": "2009-10-15",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-05-06",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-05-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994593900"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "epostadresse": "intego@intego.dk",
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Aktieselskap",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Blytækkervej 3-7"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "9000 AALBORG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2009-10-15 12:29:44",
+       "navn": "INTEGO A/S",
+       "tilDato": "2023-02-23 09:43:44"
+      }
+     ],
+     "hjemmeside": "www.intego.dk",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "CBRE TEKNISK SERVICEPARTNER A/S",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "994593900",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2009-10-15",
+     "registreringsnummerIHjemlandet": "31165563",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2008-01-01",
+     "telefon": "+4599364000",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Danmark",
+     "underlagtLovgivningLandKode": "DK",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Langelinie Allé 17"
+      ],
+      "land": "Danmark",
+      "poststed": "2100 København Ø"
+     },
+     "utenlandskRegisterNavn": "Erhvervsstyrelsen"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934075382"
+      }
+     },
+     "aktivitet": [
+      "Verdisettelse av næringseiendom."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "131 Avenue de Wagram"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-75017 PARIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Eiendomsforvaltning på oppdrag",
+      "kode": "68.320"
+     },
+     "navn": "CBRE VALUATION",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "934075382",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o PWC Tax Services AS",
+       "Postboks 748 Sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0106",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2024-09-18",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934118928"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "epostadresse": "gregory.polomack@cbre.com",
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par Actions Simplifiée Unipersonnelle",
+      "beskrivelseBokmaal": "Eneeier aksjeselskap",
+      "kode": "SASU"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "131 Avenue de Wagram"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-75014 PARIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "+330153648451",
+     "navn": "CBRE VALUATION",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "934118928",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-09-18",
+     "registreringsnummerIHjemlandet": "384853701",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1992-03-05",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "1 Quai de la Corse"
+      ],
+      "land": "Frankrike",
+      "poststed": "75004 Paris"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Paris"
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=CBRE&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 14,
+   "totalPages": 1
+  }
+ }
+}

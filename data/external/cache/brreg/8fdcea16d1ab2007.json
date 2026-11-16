@@ -1,0 +1,647 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=TIETOEVRY&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992415851"
+      }
+     },
+     "aktivitet": [
+      "Fagforening."
+     ],
+     "epostadresse": "post@elogit.org",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 20"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2008-07-02 20:26:01",
+       "navn": "EL&IT-KLUBBEN ERGOGROUP",
+       "tilDato": "2013-08-22 20:11:13"
+      },
+      {
+       "fraDato": "2013-08-22 20:11:13",
+       "navn": "EL & IT FORBUNDET KLUBB EVRY",
+       "tilDato": "2024-06-06 12:46:12"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i arbeidstakerorganisasjoner",
+      "kode": "94.200"
+     },
+     "navn": "EL OG IT FORBUNDET KLUBB TIETOEVRY",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "992415851",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2008-07-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2005-04-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994819461"
+      }
+     },
+     "aktivitet": [
+      "Sosiale aktiviteter for ansatte ved firmaets kontor i Trondheim."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sluppenvegen 17A"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7037",
+      "poststed": "TRONDHEIM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2009-11-26 10:14:05",
+       "navn": "EDB BUSINESS PARTNER PERSONALFORENING I TRONDHEIM",
+       "tilDato": "2012-10-06 15:46:57"
+      },
+      {
+       "fraDato": "2012-10-06 15:46:57",
+       "navn": "EVRYS PERSONALFORENING I TUNGAVEIEN 30, TRONDHEIM",
+       "tilDato": "2014-11-20 15:33:57"
+      },
+      {
+       "fraDato": "2014-11-20 15:33:57",
+       "navn": "FRITID EVRY TRONDHEIM",
+       "tilDato": "2022-02-16 09:10:55"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "FRITID TIETOEVRY TRONDHEIM",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "994819461",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 6184 Torgård"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7435",
+      "poststed": "TRONDHEIM"
+     },
+     "registreringsdatoEnhetsregisteret": "2009-11-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1985-03-21",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/990644020"
+      }
+     },
+     "aktivitet": [
+      "Opprettholde, utdype og pleie kontakten mellom tidligere  kolleger og",
+      "bedriften. Foreningen skal være bindeledd til Norsk Pensjonistforbund.",
+      " "
+     ],
+     "epostadresse": "john.c.hanssen@gmail.com",
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2006-12-16 14:34:53",
+       "navn": "EDB BUSINESS PARTNER SENIORFORENING",
+       "tilDato": "2012-03-24 14:53:28"
+      },
+      {
+       "fraDato": "2012-03-24 14:53:28",
+       "navn": "SENIORFORENINGEN I EDBERGOGROUP OSLO",
+       "tilDato": "2012-05-22 20:15:59"
+      },
+      {
+       "fraDato": "2012-05-22 20:15:59",
+       "navn": "SENIORFORENINGEN I EVRY, AVD OSLO",
+       "tilDato": "2022-03-10 17:01:23"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "970 01 681",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "SENIORFORENINGEN I TIETOEVRY",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "990644020",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o John Christian Hanssen",
+       "Kobbervikdalen 100"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3036",
+      "poststed": "DRAMMEN"
+     },
+     "registreringsdatoEnhetsregisteret": "2006-12-16",
+     "registreringsdatoFrivillighetsregisteret": "2012-03-24",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2006-05-11",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997497066"
+      }
+     },
+     "aktivitet": [
+      "Tekna bedriftsgruppe i Tietoevry Norge for medlemmer med",
+      "masterutdanning innenfor teknologi og naturvitenskap, i forskjellige",
+      "yrkessituasjoner og med ulike interesser."
+     ],
+     "epostadresse": "ola.jordhoy@evry.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Snarøyveien 20"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2011-11-14 20:07:05",
+       "navn": "TEKNA EDB ERGOGROUP 67",
+       "tilDato": "2012-12-01 14:47:13"
+      },
+      {
+       "fraDato": "2012-12-01 14:47:13",
+       "navn": "TEKNA EVRY",
+       "tilDato": "2022-06-10 09:52:53"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "TEKNA TIETOEVRY NORWAY",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "997497066",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 4"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1330",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2011-11-14",
+     "registreringsdatoFrivillighetsregisteret": "2011-11-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2011-09-29",
+     "telefon": "90 83 34 82",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912598330"
+      }
+     },
+     "aktivitet": [
+      "IT selskap."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Ropazu iela 10"
+      ],
+      "land": "Latvia",
+      "landkode": "LV",
+      "poststed": "LV-1039 RIGA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2013-10-24 20:52:16",
+       "navn": "TIETO LATVIA",
+       "tilDato": "2023-03-02 15:05:31"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "TIETOEVRY BANKING LATVIA SIA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "912598330",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-10-24",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912598381"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Sabiedriba ar ierobezotu atbildibu",
+      "beskrivelseBokmaal": "Selskap med begrenset ansvar",
+      "kode": "SIA"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Ropazu iela 10"
+      ],
+      "land": "Latvia",
+      "landkode": "LV",
+      "poststed": "LV-1039 RIGA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2013-10-24 10:51:20",
+       "navn": "TIETO LATVIA",
+       "tilDato": "2023-03-02 13:05:22"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "TIETOEVRY BANKING LATVIA SIA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "912598381",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-10-24",
+     "registreringsnummerIHjemlandet": "40003193130",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1994-04-27",
+     "telefon": "+3716751000",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Latvia",
+     "underlagtLovgivningLandKode": "LV",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Persas street 2"
+      ],
+      "land": "Latvia",
+      "poststed": "1011 Riga"
+     },
+     "utenlandskRegisterNavn": "Latvijas Republikas Uznemumu Registrs"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930377147"
+      }
+     },
+     "aktivitet": [
+      "Fremme fysisk og helsebringende aktiviteter for ansatte."
+     ],
+     "epostadresse": "christian.wetten.eger@tietoevry.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hans Mustads gate 31"
+      ],
+      "kommune": "GJØVIK",
+      "kommunenummer": "3407",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2821",
+      "poststed": "GJØVIK"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "TIETOEVRY GJØVIK SPORT",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "930377147",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-12-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2022-11-24",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/828549332"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private limited",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "EON Free Zone,",
+       "MIDC Kharad Knowledge Park Pune,",
+       "Wing 1, Cluster D"
+      ],
+      "land": "India",
+      "landkode": "IN",
+      "poststed": "IN-411014 PUNE MAHARASHTRA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2022-01-14 12:06:32",
+       "navn": "TIETO INDIA PRIVATE LIMITED",
+       "tilDato": "2024-03-06 07:53:13"
+      }
+     ],
+     "hjemmeside": "www.tietoevry.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "TIETOEVRY INDIA PRIVATE LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "828549332",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-01-14",
+     "registreringsdatoForetaksregisteret": "2022-01-14",
+     "registreringsnummerIHjemlandet": "U72900PN2007PTC169538",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2007-04-23",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "India",
+     "underlagtLovgivningLandKode": "IN",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "PMT Building",
+       "3rd Floor, Deccan Gymkhana"
+      ],
+      "land": "India",
+      "poststed": "Pune-411004"
+     },
+     "utenlandskRegisterNavn": "Registrar of Companies",
+     "vedtektsdato": "2018-09-10",
+     "vedtektsfestetFormaal": [
+      "Utenlandsk foretak"
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/928441237"
+      }
+     },
+     "aktivitet": [
+      "IT-tjenester og utleie av arbeidskraft."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o TietoEVRY",
+       "Snarøyveien 30A"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2022-01-15 14:30:56",
+       "navn": "TIETO INDIA PRIVATE LIMITED",
+       "tilDato": "2024-03-06 21:08:21"
+      }
+     ],
+     "hjemmeside": "www.tietoevry.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "TIETOEVRY INDIA PRIVATE LIMITED NUF",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "928441237",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-01-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2024",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=TIETOEVRY&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 9,
+   "totalPages": 1
+  }
+ }
+}

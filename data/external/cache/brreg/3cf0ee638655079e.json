@@ -1,0 +1,90 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter/861272702?",
+ "response": {
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter/861272702"
+   }
+  },
+  "aktivitet": [
+   "Tilvirkning, salg og markedsføring av maskinvare og programvare, samt",
+   "tjenester i tilknytning til dette, herunder kundestøtte,",
+   "konsulenttjenester og prosjektledelse, samt annen relatert virksomhet."
+  ],
+  "antallAnsatte": 72,
+  "epostadresse": "thomas_johansen@dell.com",
+  "erIKonsern": false,
+  "forretningsadresse": {
+   "adresse": [
+    "Lilleakerveien 2B"
+   ],
+   "kommune": "OSLO",
+   "kommunenummer": "0301",
+   "land": "Norge",
+   "landkode": "NO",
+   "postnummer": "0283",
+   "poststed": "OSLO"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "historiskeNavn": [
+   {
+    "fraDato": "1995-02-19 17:34:00",
+    "navn": "DELL COMPUTER AS",
+    "tilDato": "2003-09-22 20:30:41"
+   }
+  ],
+  "institusjonellSektorkode": {
+   "beskrivelse": "Private aksjeselskaper mv.",
+   "kode": "2100"
+  },
+  "kapital": {
+   "antallAksjer": 100,
+   "belop": 1100000.0,
+   "innfortDato": "2024-06-10",
+   "type": "Aksjekapital",
+   "valuta": "NOK"
+  },
+  "konkurs": false,
+  "maalform": "Bokmål",
+  "naeringskode1": {
+   "beskrivelse": "Engroshandel med informasjons- og kommunikasjonsteknologiutstyr",
+   "kode": "46.500"
+  },
+  "navn": "DELL AS",
+  "organisasjonsform": {
+   "_links": {
+    "self": {
+     "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+    }
+   },
+   "beskrivelse": "Aksjeselskap",
+   "kode": "AS"
+  },
+  "organisasjonsnummer": "861272702",
+  "paategninger": [],
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+  "registreringsdatoEnhetsregisteret": "1995-02-19",
+  "registreringsdatoForetaksregisteret": "1991-08-15",
+  "registreringsdatoMerverdiavgiftsregisteret": "1991-09-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1995-02-19",
+  "registrertIForetaksregisteret": true,
+  "registrertIFrivillighetsregisteret": false,
+  "registrertIMvaregisteret": true,
+  "registrertIPartiregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "respons_klasse": "Enhet",
+  "sisteInnsendteAarsregnskap": "2026",
+  "stiftelsesdato": "1991-04-03",
+  "telefon": "67 11 68 00",
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "vedtektsdato": "2024-05-15",
+  "vedtektsfestetFormaal": [
+   "Tilvirkning, salg og markedsføring av maskinvare og programvare, samt",
+   "tjenester i tilknytning til dette, herunder kundestøtte,",
+   "konsulenttjenester, prosjektledelse og aksessorisk kredittformidling",
+   "til næringsdrivende, samt annen relatert virksomhet."
+  ]
+ }
+}

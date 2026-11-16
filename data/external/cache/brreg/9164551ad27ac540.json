@@ -1,0 +1,84 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SKYCALL&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934048040"
+      }
+     },
+     "aktivitet": [
+      "Konkursbo."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Strandveien 13"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1366",
+      "poststed": "LYSAKER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Telefonvakttjenester og telefonsalg",
+      "kode": "82.200"
+     },
+     "navn": "SKYCALL AS KONKURSBO",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+       }
+      },
+      "beskrivelse": "Konkursbo",
+      "kode": "KBO"
+     },
+     "organisasjonsnummer": "934048040",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/Adv. Andreas Strime Christensen",
+       "Postboks 400"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1302",
+      "poststed": "SANDVIKA"
+     },
+     "registreringsdatoEnhetsregisteret": "2024-09-06",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2024-09-06",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=SKYCALL&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 1,
+   "totalPages": 1
+  }
+ }
+}

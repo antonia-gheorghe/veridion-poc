@@ -1,0 +1,1728 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=AON&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/996220974"
+      }
+     },
+     "aktivitet": [
+      "Investering i aksjer og verdipapirer."
+     ],
+     "epostadresse": "nasbo.maskin@hotmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Arnstadåsen 10"
+      ],
+      "kommune": "STJØRDAL",
+      "kommunenummer": "5035",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7510",
+      "poststed": "SKATVAL"
+     },
+     "fravalgRevisjonBeslutningsDato": "2018-12-10",
+     "fravalgRevisjonDato": "2019-01-02",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2010-12-01 20:20:05",
+       "navn": "NÆSBØ MASKIN AS",
+       "tilDato": "2015-11-10 12:43:04"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 485,
+      "belop": 30070.0,
+      "innfortDato": "2022-11-11",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "41 56 31 29",
+     "naeringskode1": {
+      "beskrivelse": "Uoppgitt",
+      "kode": "00.000"
+     },
+     "navn": "AON AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "996220974",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2010-12-01",
+     "registreringsdatoForetaksregisteret": "2010-12-01",
+     "registreringsdatoMerverdiavgiftsregisteret": "2010-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2011-01-05",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2010-11-15",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2022-07-11",
+     "vedtektsfestetFormaal": [
+      "Selskapets formål er grunnarbeid, utleie av maskiner og andre",
+      "tjenester som naturlig hører herunder."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/986606947"
+      }
+     },
+     "aktivitet": [
+      "Rekruttering og utvikling av organisasjoners humankapital ved salg av",
+      "testverktøy og organisasjonspsykologiske konsulenttjenester og kurs."
+     ],
+     "antallAnsatte": 18,
+     "epostadresse": "kontakt@aon-assessment.com",
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "St. Olavs plass 5"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0165",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2004-03-03 21:07:04",
+       "navn": "CUT-E NORGE AS",
+       "tilDato": "2019-07-30 14:41:53"
+      }
+     ],
+     "hjemmeside": "assessment.aon.com/no-no/",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 100000.0,
+      "innfortDato": "2004-03-03",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "90603355",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "AON ASSESSMENT (NORWAY) AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "986606947",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 1503 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0117",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-03-11",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-03-10",
+     "registreringsdatoEnhetsregisteret": "2004-03-03",
+     "registreringsdatoForetaksregisteret": "2004-03-03",
+     "registreringsdatoMerverdiavgiftsregisteret": "2004-03-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2004-04-15",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2004-02-06",
+     "telefon": "22 36 10 35",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2022-06-29",
+     "vedtektsfestetFormaal": [
+      "Forretningsvirksomhet innen rekruttering og utvikling av",
+      "organisasjoners humankapital. Selskapet skal levere ulike testverktøy",
+      "til sine kunder, organisasjonspsykologiske konsulenttjenester samt",
+      "kurs knyttet til bruk av verktøy og generelle kurs i test- og",
+      "rekrutteringsmetodikk."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938351775"
+      }
+     },
+     "aktivitet": [
+      "mor i konsern"
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private Company Limited by Shares",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "15 George's Quay"
+      ],
+      "land": "Irland",
+      "landkode": "IE",
+      "poststed": "DO2 VR98 Dublin"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "AON ASSESSMENT GLOBAL HOLDINGS LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938351775",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o AON Assessment (Norway) AS",
+       "Postboks 1503 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0117",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-08-26",
+     "registreringsnummerIHjemlandet": "557754",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Irland",
+     "underlagtLovgivningLandKode": "IE",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Bloom House",
+       "Gloucester Place Lower"
+      ],
+      "land": "Irland",
+      "poststed": "Dublin 1"
+     },
+     "utenlandskRegisterNavn": "The Companies Registration Office -an Oifig um Chlaru Cuideachtai"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938360057"
+      }
+     },
+     "aktivitet": [
+      "mor i konsern"
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Incorporation",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "INC"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "9th floor",
+       "200 E. Randolph Street"
+      ],
+      "land": "USA",
+      "landkode": "US",
+      "poststed": "60601 Chicago, IL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "AON CONSULTING INC.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938360057",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o AON Norway AS",
+       "Postboks 1503 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0117",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-08-27",
+     "registreringsnummerIHjemlandet": "100072141",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "USA",
+     "underlagtLovgivningLandKode": "US",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "PO Box 628"
+      ],
+      "land": "USA",
+      "poststed": "Trenton NJ 08625-0628"
+     },
+     "utenlandskRegisterNavn": "State of New Jersey Department of the Treasury Devision of Revenue and Enterprise"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938360723"
+      }
+     },
+     "aktivitet": [
+      "mor i konsern"
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Corporation",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "CORP"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "9th floor",
+       "200 E. Randolph Street"
+      ],
+      "land": "USA",
+      "landkode": "US",
+      "poststed": "60601 Chicago, IL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "AON CORPORATION",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938360723",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o AON Norway AS",
+       "Postboks 1503 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0117",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-08-27",
+     "registreringsnummerIHjemlandet": "883674",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "USA",
+     "underlagtLovgivningLandKode": "US",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "P.O. Box 898"
+      ],
+      "land": "USA",
+      "poststed": "Dover Delaware 19903"
+     },
+     "utenlandskRegisterNavn": "Secretary of State for the State of Delaware"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/838361102"
+      }
+     },
+     "aktivitet": [
+      "mor i konsern"
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private limited company",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "The AON Centre",
+       "The Leadenhall Building",
+       "122 Leadenhall Street"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "EC3V 4AN London"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "AON GLOBAL HOLDINGS INTERMEDIARIES LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "838361102",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o AON Norway AS",
+       "Postboks 1503 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0117",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-08-27",
+     "registreringsnummerIHjemlandet": "00688743",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Storbritannia",
+     "underlagtLovgivningLandKode": "GB",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Crown Way",
+       "Maindy"
+      ],
+      "land": "Storbritannia",
+      "poststed": "Cardiff CF14 3UZ"
+     },
+     "utenlandskRegisterNavn": "Companies House"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938361177"
+      }
+     },
+     "aktivitet": [
+      "mor i konsern"
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Public limited company",
+      "beskrivelseBokmaal": "Allment aksjeselskap",
+      "kode": "PLC"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "The AON Centre",
+       "The Leadenhall Building",
+       "122 Leadenhall Street"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "EC3V 4AN London"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "AON GLOBAL HOLDINGS PLC",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938361177",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o AON Norway AS",
+       "Postboks 1503 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0117",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-08-27",
+     "registreringsnummerIHjemlandet": "09221465",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Storbritannia",
+     "underlagtLovgivningLandKode": "GB",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Crown Way",
+       "Maindy"
+      ],
+      "land": "Storbritannia",
+      "poststed": "Cardiff CF14 3UZ"
+     },
+     "utenlandskRegisterNavn": "Companies House"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938351821"
+      }
+     },
+     "aktivitet": [
+      "mor i konsern"
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private limited company",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "The AON Centre",
+       "The Leadenhall Building",
+       "122 Leadenhall Street"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "EC3V 4AN London"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "AON GLOBAL LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938351821",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o AON Assessment (Norway) AS",
+       "Postboks 1503 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0117",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-08-26",
+     "registreringsnummerIHjemlandet": "07876075",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Storbritannia",
+     "underlagtLovgivningLandKode": "GB",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Crown Way",
+       "Maindy"
+      ],
+      "land": "Storbritannia",
+      "poststed": "Cardiff CF14 3UZ"
+     },
+     "utenlandskRegisterNavn": "Companies House"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938360219"
+      }
+     },
+     "aktivitet": [
+      "mor i konsern"
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Incorporation",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "INC"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "9th floor",
+       "200 E. Randolph Street"
+      ],
+      "land": "USA",
+      "landkode": "US",
+      "poststed": "60601 Chicago, IL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "AON GROUP INC.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938360219",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o AON Norway AS",
+       "Postboks 1503 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0117",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-08-27",
+     "registreringsnummerIHjemlandet": "D00424994",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "USA",
+     "underlagtLovgivningLandKode": "US",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "16 Francis Street"
+      ],
+      "land": "USA",
+      "poststed": "Annapolis, MD 21401"
+     },
+     "utenlandskRegisterNavn": "Secretary State of Maryland"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938359830"
+      }
+     },
+     "aktivitet": [
+      "mor i konsern"
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Besloten vennootschap",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "BV"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Admiraliteitskade 62"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "3063 Rotterdam"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "AON GROUP INTERNATIONAL B.V.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938359830",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o AON Norway AS",
+       "Postboks 1503 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0117",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-08-27",
+     "registreringsnummerIHjemlandet": "24387483",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Nederland",
+     "underlagtLovgivningLandKode": "NL",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Sint Jacobsstraat 300"
+      ],
+      "land": "Nederland",
+      "poststed": "3511 BT Utrecht"
+     },
+     "utenlandskRegisterNavn": "Handelsregister  "
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938351783"
+      }
+     },
+     "aktivitet": [
+      "mor i konsern"
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Limited",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "St. George's Court",
+       "Upper Church Street L 5"
+      ],
+      "land": "Man",
+      "landkode": "IM",
+      "poststed": "IM1 1EE Douglas"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "AON HOLDINGS (ISLE OF MAN) LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938351783",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o AON Assessment (Norway) AS",
+       "Postboks 1503 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0117",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-08-26",
+     "registreringsnummerIHjemlandet": "126937C",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Man",
+     "underlagtLovgivningLandKode": "IM",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "PO Box 345",
+       "St George's Court",
+       "Upper Church Street"
+      ],
+      "land": "Man",
+      "poststed": "Douglas IM99 2QS"
+     },
+     "utenlandskRegisterNavn": "Companies Registry"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938359717"
+      }
+     },
+     "aktivitet": [
+      "mor i konsern"
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Besloten vennootschap",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "BV"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Admiraliteitskade 62"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "3063 Rotterdam"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "AON HOLDINGS B.V.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938359717",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o AON Norway AS",
+       "Postboks 1503 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0117",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-08-27",
+     "registreringsnummerIHjemlandet": "24191863",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Nederland",
+     "underlagtLovgivningLandKode": "NL",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Sint Jacobsstraat 300"
+      ],
+      "land": "Nederland",
+      "poststed": "3511 BT Utrecht"
+     },
+     "utenlandskRegisterNavn": "Handelsregister  "
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938359768"
+      }
+     },
+     "aktivitet": [
+      "mor i konsern"
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Besloten vennootschap",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "BV"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Admiraliteitskade 62"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "3063 Rotterdam"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "AON HOLDINGS INTERNATIONAL B.V.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938359768",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o AON Norway AS",
+       "Postboks 1503 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0117",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-08-27",
+     "registreringsnummerIHjemlandet": "24300292",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Nederland",
+     "underlagtLovgivningLandKode": "NL",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Sint Jacobsstraat 300"
+      ],
+      "land": "Nederland",
+      "poststed": "3511 BT Utrecht"
+     },
+     "utenlandskRegisterNavn": "Handelsregister  "
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937393644"
+      }
+     },
+     "aktivitet": [
+      "Holdingselskap."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Odins gate 3A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0266",
+      "poststed": "OSLO"
+     },
+     "fravalgRevisjonBeslutningsDato": "2026-03-07",
+     "fravalgRevisjonDato": "2026-03-20",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 45000,
+      "belop": 45000.0,
+      "innfortDato": "2026-03-20",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Uoppgitt",
+      "kode": "00.000"
+     },
+     "navn": "AON KAPITAL AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "937393644",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-03-20",
+     "registreringsdatoForetaksregisteret": "2026-03-20",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-03-07",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-03-07",
+     "vedtektsfestetFormaal": [
+      "Investere i selskaper og eiendom og alt annet som naturlig faller",
+      "sammen med dette, herunder å delta i andre selskaper med lignende",
+      "virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg",
+      "interessert i andre foretagende."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938360855"
+      }
+     },
+     "aktivitet": [
+      "mor i konsern"
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Incorporation",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "INC"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "9th floor",
+       "200 E. Randolph Street"
+      ],
+      "land": "USA",
+      "landkode": "US",
+      "poststed": "60601 Chicago, IL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "AON NORTH AMERICA INC.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938360855",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o AON Norway AS",
+       "Postboks 1503 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0117",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-08-27",
+     "registreringsnummerIHjemlandet": "895846",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "USA",
+     "underlagtLovgivningLandKode": "US",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "P.O. Box 898"
+      ],
+      "land": "USA",
+      "poststed": "Dover Delaware 19903"
+     },
+     "utenlandskRegisterNavn": "Secretary of State for the State of Delaware"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/966703687"
+      }
+     },
+     "aktivitet": [
+      "Forsikringsmeglingstjenester samt hva som dermed står i forbindelse."
+     ],
+     "antallAnsatte": 120,
+     "epostadresse": "magne.lidemark@aon.no",
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "St. Olavs plass 5"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0165",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-02-20 02:17:00",
+       "navn": "ROLLINS HUDIG HALL NORWAY AS",
+       "tilDato": "1996-05-02 20:27:33"
+      },
+      {
+       "fraDato": "1996-05-02 20:27:33",
+       "navn": "AON NORWAY AS",
+       "tilDato": "1999-02-02 18:11:25"
+      },
+      {
+       "fraDato": "1999-02-02 18:11:25",
+       "navn": "AON GRIEG AS",
+       "tilDato": "2011-10-03 20:48:51"
+      }
+     ],
+     "hjemmeside": "www.aon.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Øvrige finansielle foretak unntatt forsikring",
+      "kode": "4900"
+     },
+     "kapital": {
+      "antallAksjer": 115488,
+      "belop": 127036800.0,
+      "innfortDato": "2012-07-26",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Forsikringsformidling",
+      "kode": "66.220"
+     },
+     "navn": "AON NORWAY AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "966703687",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 1503 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0117",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
+     "registreringsdatoEnhetsregisteret": "1995-02-20",
+     "registreringsdatoForetaksregisteret": "1993-06-29",
+     "registreringsdatoMerverdiavgiftsregisteret": "2001-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2002-06-22",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "1993-03-01",
+     "telefon": "67 11 22 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-06-28",
+     "vedtektsfestetFormaal": [
+      "Forsikringsmeglervirksomhet og konsulenttjenester i forbindelse med",
+      "forsikring og risk management, samt hva hermed står i forbindelse,",
+      "herunder generelle investeringer i samme eller lignende virksomheter."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938351880"
+      }
+     },
+     "aktivitet": [
+      "mor i konsern"
+     ],
+     "erIKonsern": true,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Public limited company",
+      "beskrivelseBokmaal": "Allment aksjeselskap",
+      "kode": "PLC"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "15 George's Quay"
+      ],
+      "land": "Irland",
+      "landkode": "IE",
+      "poststed": "DO2 VR98 Dublin"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "AON PLC",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "938351880",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o AON Assessment (Norway) AS",
+       "Postboks 1503 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0117",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-08-26",
+     "registreringsnummerIHjemlandet": "604607",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Irland",
+     "underlagtLovgivningLandKode": "IE",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Bloom House",
+       "Gloucester Place Lower"
+      ],
+      "land": "Irland",
+      "poststed": "Dublin 1"
+     },
+     "utenlandskRegisterNavn": "The Companies Registration Office -an Oifig um Chlaru Cuideachtai"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994962353"
+      }
+     },
+     "aktivitet": [
+      "Tekstforfatter. Virksomhet innenfor tekst, design, kunst og",
+      "performance art."
+     ],
+     "epostadresse": "post@aonraza.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lavrans vei 21"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0670",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2010-01-07 20:23:13",
+       "navn": "AON R. NAQVI",
+       "tilDato": "2021-02-03 15:34:54"
+      }
+     ],
+     "hjemmeside": "www.aonraza.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "90226037",
+     "naeringskode1": {
+      "beskrivelse": "Skapende kunstnerisk virksomhet innenfor litteratur",
+      "kode": "90.111"
+     },
+     "navn": "AON RAZA NAQVI",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "994962353",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2010-01-07",
+     "registreringsdatoMerverdiavgiftsregisteret": "2023-11-15",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-12-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923056718"
+      }
+     },
+     "aktivitet": [
+      "Utleie av arbeidskraft."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "The Aon Centre",
+       "The Leadenhall Building",
+       "122 Leadenhall Street"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "EC3V 4AN LONDON"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "AON UK LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "923056718",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o KPMG Tax AS",
+       "Postboks 7000 Majorstuen"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0306",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2019-08-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923193529"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private limited company",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "The AON Centre",
+       "The Leadenhall building",
+       "122 Leadenhall Street"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "LONDON EC3V 4AN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "AON UK LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "923193529",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-08-14",
+     "registreringsnummerIHjemlandet": "210725",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1925-12-29",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Storbritannia",
+     "underlagtLovgivningLandKode": "GB",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Crown Way",
+       "Maindy"
+      ],
+      "land": "Storbritannia",
+      "poststed": "Cardiff CF14 3UZ"
+     },
+     "utenlandskRegisterNavn": "Companies House"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925415286"
+      }
+     },
+     "aktivitet": [
+      "Import av varer fra utlandet for videresalg, samt salg av brukte",
+      "varer, for eksempel smykker, ringer, vesker, bagger og leker for barn.",
+      "Salg av diverse tjenester innen import av varer og tjenester, samt",
+      "forestå utleie av fast eiendom."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Strandåsen 25"
+      ],
+      "kommune": "KRISTIANSAND",
+      "kommunenummer": "4204",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4638",
+      "poststed": "KRISTIANSAND S"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med ur, klokker og smykker",
+      "kode": "47.770"
+     },
+     "navn": "AON V/ KEDSUDA KAMDEELA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "925415286",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-08-03",
+     "registreringsdatoForetaksregisteret": "2020-08-03",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930941263"
+      }
+     },
+     "aktivitet": [
+      "Føre tilsyn med flyselskapets drift på rampen, ved",
+      "ombordstigningsportene og ved innsjekkingsskrankene for å sikre sikker",
+      "og effektiv flyhåndtering. Koordinere med bakketjenesteteamene for å",
+      "sikre at avganger og ankomster skjer i henhold til tidsplanen.",
+      "Innkreve overbagasjeavgift."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "St. Olavs gate 32"
+      ],
+      "kommune": "LILLESTRØM",
+      "kommunenummer": "3205",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2004",
+      "poststed": "LILLESTRØM"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2023-03-03 11:24:43",
+       "navn": "KASIM UNITED AFRICAN TRAVEL AND CARGO AGENT ( UATCA)",
+       "tilDato": "2026-06-19 09:54:52"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Reisearrangørvirksomhet ellers",
+      "kode": "79.122"
+     },
+     "navn": "AONSH KASIM AIRLINE SUPERVISION",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "930941263",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2025-09-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2025-09-10",
+     "registreringsdatoEnhetsregisteret": "2023-03-03",
+     "registreringsdatoForetaksregisteret": "2023-03-03",
+     "registreringsdatoMerverdiavgiftsregisteret": "2023-12-08",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-12-18",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987104422"
+      }
+     },
+     "aktivitet": [
+      "Montering innen bygg og anlegg.Kjøp og salg av byggevarer. Support og",
+      "konsulent tenester innen IT. Service og reperasjoner av motorkjøretøy.",
+      "Kjøp og salg av motorkjøretøy.Installasjon, service kjøp og salg av;",
+      "navigasjonsutstyr, tyverialarm, overvåkningsutstyr, satelitt",
+      "produkter, HIFI og Multimedia, elektriske produkter, IT relaterete",
+      "produkter.",
+      " "
+     ],
+     "epostadresse": "aondaxp@hotmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lislebyveien 150"
+      ],
+      "kommune": "FREDRIKSTAD",
+      "kommunenummer": "3107",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1619",
+      "poststed": "FREDRIKSTAD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlige foretak",
+      "kode": "2300"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "915 34 355",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "TEAM AONDA DA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/DA"
+       }
+      },
+      "beskrivelse": "Ansvarlig selskap med delt ansvar",
+      "kode": "DA"
+     },
+     "organisasjonsnummer": "987104422",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2004-08-10",
+     "registreringsdatoForetaksregisteret": "2004-08-10",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2004-07-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2004-07-01",
+     "vedtektsfestetFormaal": [
+      "Kjøp,salg, installasjon og service, medvirke i andre selskaper innen",
+      "samme virksomhet.",
+      " "
+     ]
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=AON&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 23,
+   "totalPages": 1
+  }
+ }
+}

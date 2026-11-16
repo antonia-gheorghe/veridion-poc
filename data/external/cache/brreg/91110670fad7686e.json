@@ -1,0 +1,1635 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=MANPOWER&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914101727"
+      }
+     },
+     "aktivitet": [
+      "Bemannings- og rekrutteringsforetak, utleie av personell."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "BBL MANPOWER",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "914101727",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "1 Clements Court",
+       "Clements Lane",
+       "Ilford"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "Essex IG1 2QY"
+     },
+     "registreringsdatoEnhetsregisteret": "2014-09-11",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914101778"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private limited company",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "15 Clements Court Clements Lane"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "ILFORD IG1 2QY ESSEX ENGLAND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2014-09-11 12:58:54",
+       "navn": "BBL MANPOWER LDT",
+       "tilDato": "2014-09-11 13:00:04"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "BBL MANPOWER LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "914101778",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2014-09-11",
+     "registreringsnummerIHjemlandet": "08313547",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2012-11-30",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Storbritannia",
+     "underlagtLovgivningLandKode": "GB",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Crown Way",
+       "Maindy"
+      ],
+      "land": "Storbritannia",
+      "poststed": "Cardiff CF14 3UZ"
+     },
+     "utenlandskRegisterNavn": "Companies House"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927110555"
+      }
+     },
+     "aktivitet": [
+      "Utleie av arbeidskraft."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Jellingvej 5"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "DK-9230 SVENSTRUP J"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "C MANPOWER",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "927110555",
+     "paategninger": [
+      {
+       "infotype": "KONT",
+       "innfoertDato": "2025-01-13",
+       "tekst": "Kontaktperson mangler. Virksomheten har fått pålegg om å melde manglende rolle"
+      }
+     ],
+     "registreringsdatoEnhetsregisteret": "2021-06-05",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927201577"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Anpartsselskap",
+      "beskrivelseBokmaal": "Selskap med begrenset ansvar",
+      "kode": "APS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Jellingvej 5"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "DK-9230 SVENSTRUP J"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "cmanpower.dk",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "C MANPOWER APS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "927201577",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-06-04",
+     "registreringsnummerIHjemlandet": "41102160",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2020-01-22",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Danmark",
+     "underlagtLovgivningLandKode": "DK",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Langelinie Allé 17"
+      ],
+      "land": "Danmark",
+      "poststed": "2100 København Ø"
+     },
+     "utenlandskRegisterNavn": "Erhvervsstyrelsen"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/812474952"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "epostadresse": "wraa1988@hotmail.com",
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Anpartsselskap",
+      "beskrivelseBokmaal": "Selskap med begrenset ansvar",
+      "kode": "APS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Teglgårdsvej 10"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "DK-6000 KOLDING"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "+4528407396",
+     "navn": "E-LITE MANPOWER APS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "812474952",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-09-20",
+     "registreringsnummerIHjemlandet": "35142835",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2013-03-08",
+     "telefon": "+4598762760",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Danmark",
+     "underlagtLovgivningLandKode": "DK",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Langelinie Allé 17"
+      ],
+      "land": "Danmark",
+      "poststed": "2100 København Ø"
+     },
+     "utenlandskRegisterNavn": "Erhvervsstyrelsen"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912474941"
+      }
+     },
+     "aktivitet": [
+      "Utleie av personell."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "E-LITE MANPOWER APS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "912474941",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Teglgårdsvej 10"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "DK-6000 KOLDING"
+     },
+     "registreringsdatoEnhetsregisteret": "2013-09-21",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/979185766"
+      }
+     },
+     "aktivitet": [
+      "Rekruttere medisinsk personell til Norge og scandinaviske land."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Niels Juelsg 3"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0272",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlige foretak",
+      "kode": "2300"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Rekruttering og formidling av arbeidskraft",
+      "kode": "78.100"
+     },
+     "navn": "GLOBAL MEDICAL SEARCH AND MANPOWER ANS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ANS"
+       }
+      },
+      "beskrivelse": "Ansvarlig selskap med solidarisk ansvar",
+      "kode": "ANS"
+     },
+     "organisasjonsnummer": "979185766",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1997-09-03",
+     "registreringsdatoForetaksregisteret": "1997-10-04",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1997-01-01",
+     "telefon": "22 54 81 22",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "1997-07-22",
+     "vedtektsfestetFormaal": [
+      "Rekruttering utenfor Norge av medisinsk personell",
+      "som leger, sykepleiere, fysioterapeuter,",
+      "respiratorterapeuter, andre terapeuter, medisinske",
+      "eksperter (bioingeniører) og annet medisinsk",
+      "personell som skal anbefales til arbeid i Norge og",
+      "andre skandinaviske land.",
+      "Rekruttering av personell til arbeid i skipsfart",
+      "og som au pairs.",
+      "Andre salgsaktiviteter eller salgsrepresentasjon",
+      "for selskaper i Norge og Skandinavia."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920968201"
+      }
+     },
+     "aktivitet": [
+      "Informasjon og servicevirksomhet for næringslivet",
+      "såvel som markedsføring og public relation",
+      "virksomhet."
+     ],
+     "antallAnsatte": 5469,
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Lakkegata 53"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0187",
+      "poststed": "OSLO"
+     },
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-02-19 18:38:00",
+       "navn": "MANPOWER A/S",
+       "tilDato": "2019-10-16 10:50:11"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "belop": 6000000.0,
+      "innfortDato": "1988-06-28",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "MANPOWER AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "920968201",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 2506 Solli"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0202",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "1995-02-19",
+     "registreringsdatoForetaksregisteret": "1988-06-28",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2014-04-12",
+     "registreringsdatoMerverdiavgiftsregisteret": "1992-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2001-10-02",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "1965-01-19",
+     "telefon": "22 01 80 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2017-04-03",
+     "vedtektsfestetFormaal": [
+      "Drive bemanningsvirksomhet som arbeidsleie, rekruttering,",
+      "konsulentvirksomhet, rådgivning, drift av støttefunksjoner og annen",
+      "virksomhet som naturlig hører til dette samt å eie virksomheter som",
+      "driver lignende virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994542249"
+      }
+     },
+     "aktivitet": [
+      "Bedriftsidrettslag."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Tordenskiolds gate 2"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0160",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i idrettslag og -klubber",
+      "kode": "93.120"
+     },
+     "navn": "MANPOWER BIL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "994542249",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 2506 Solli"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0202",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2009-10-01",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1980-12-31",
+     "telefon": "22 01 80 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/910071971"
+      }
+     },
+     "aktivitet": [
+      "Contractingvirksomhet rettet mot reparasjons-",
+      "ombyggings- og vedlikeholdsarbeid på flytende",
+      "konstruksjoner ved land og offshore og innen",
+      "landbasert petrokjemisk og mekanisk industri,",
+      "herunder deltagelse i foretagende med lignende",
+      "formål."
+     ],
+     "antallAnsatte": 76,
+     "epostadresse": "post@framnes-installasjon.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nordre Fokserød 13B"
+      ],
+      "kommune": "SANDEFJORD",
+      "kommunenummer": "3907",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3241",
+      "poststed": "SANDEFJORD"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-02-19 17:48:00",
+       "navn": "FRAMNÆS INSTALLASJON AS",
+       "tilDato": "2008-01-21 20:53:00"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "belop": 1050000.0,
+      "innfortDato": "1997-01-04",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "MANPOWER FRAMNÆS INSTALLASJON AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "910071971",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
+     "registreringsdatoEnhetsregisteret": "1995-02-19",
+     "registreringsdatoForetaksregisteret": "1989-03-31",
+     "registreringsdatoMerverdiavgiftsregisteret": "1991-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1995-02-19",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "1975-11-28",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2017-04-03",
+     "vedtektsfestetFormaal": [
+      "Contractingvirksomhet rettet mot reparasjons-",
+      "ombyggings- og vedlikeholdsarbeid på flytende",
+      "konstruksjoner ved land og offshore og innen",
+      "landbasert petrokjemisk og mekanisk industri,",
+      "herunder deltagelse i foretagende med lignende",
+      "formål."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924406062"
+      }
+     },
+     "aktivitet": [
+      "Formidling/utleie av arbeidskraft samt kursvirksomhet rettet mot",
+      "næringslivet."
+     ],
+     "antallAnsatte": 23,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Standardveien 1"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0581",
+      "poststed": "OSLO"
+     },
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2020-01-15 16:53:08",
+       "navn": "MANPOWER INDUSTRI AS",
+       "tilDato": "2023-05-25 12:00:16"
+      },
+      {
+       "fraDato": "2023-05-25 12:00:16",
+       "navn": "WORKSHOP SOLUTIONS AS",
+       "tilDato": "2024-07-18 13:18:15"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 200,
+      "belop": 200000.0,
+      "innfortDato": "2020-01-15",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "MANPOWER INDUSTRI AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "924406062",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2020-01-15",
+     "registreringsdatoForetaksregisteret": "2020-01-15",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2023-09-07",
+     "registreringsdatoMerverdiavgiftsregisteret": "2023-09-05",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-09-07",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2019-11-26",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-06-19",
+     "vedtektsfestetFormaal": [
+      "Bemanningsvirksomhet som arbeidsleie, rekruttering,",
+      "konsulentvirksomhet, rådgivning, drift av støttefunksjoner og annen",
+      "virksomhet som naturlig hører til dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/982299152"
+      }
+     },
+     "aktivitet": [
+      "Bemanningsvirksomhet."
+     ],
+     "antallAnsatte": 183,
+     "epostadresse": "firmapost@manpower.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lakkegata 53"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0187",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2000-08-28 18:14:28",
+       "navn": "THE EMPOWER GROUP AS",
+       "tilDato": "2006-08-08 20:25:24"
+      }
+     ],
+     "hjelpeenhetskode": {
+      "beskrivelse": "Kontortjenester",
+      "kode": "82.100"
+     },
+     "hjemmeside": "www.manpower.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 100000.0,
+      "innfortDato": "2000-08-28",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "MANPOWER STAFFING SERVICES AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "982299152",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 2506 Solli"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0202",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2000-08-28",
+     "registreringsdatoForetaksregisteret": "2000-08-28",
+     "registreringsdatoMerverdiavgiftsregisteret": "2007-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2007-06-05",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2000-08-17",
+     "telefon": "22 01 80 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2017-04-04",
+     "vedtektsfestetFormaal": [
+      "Bemanningsassistanse og aktiviteter som står i forbindelse med dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/989870696"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private limited company",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "16-18 Hood Street"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "NE1 6JQ Newcastle Upon Tyne"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "MANPOWER UK LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "989870696",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2006-06-10",
+     "registreringsnummerIHjemlandet": "03841918",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1999-12-17",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Storbritannia",
+     "underlagtLovgivningLandKode": "GB",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Crown Way",
+       "Maindy"
+      ],
+      "land": "Storbritannia",
+      "poststed": "Cardiff CF14 3UZ"
+     },
+     "utenlandskRegisterNavn": "Companies House"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/889870672"
+      }
+     },
+     "aktivitet": [
+      "Assistere med utleiepersonell til den mekaniske industrien i Norge."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Framnæs Installasjon AS",
+       "Langestrandveien 15"
+      ],
+      "kommune": "SANDEFJORD",
+      "kommunenummer": "3907",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3222",
+      "poststed": "SANDEFJORD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.manpower.co.uk",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "MANPOWER UK LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "889870672",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2006-06-10",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "33 42 86 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/985765820"
+      }
+     },
+     "aktivitet": [
+      "Bemanningsvirksomhet og virksomhet som står i forbindelse med dette,",
+      "herunder deltagelse i andre selskaper med lignende virksomhet, samt",
+      "investering i fast eiendom og verdipapirer."
+     ],
+     "antallAnsatte": 20,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lakkegata 53"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0187",
+      "poststed": "OSLO"
+     },
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2003-06-07 14:34:56",
+       "navn": "TEKÅGEL INVEST XVIII AS",
+       "tilDato": "2003-11-25 20:15:19"
+      },
+      {
+       "fraDato": "2003-11-25 20:15:19",
+       "navn": "MANPOWER NORWAY HOLDINGS AS",
+       "tilDato": "2013-04-22 20:10:11"
+      }
+     ],
+     "hjelpeenhetskode": {
+      "beskrivelse": "Hovedkontortjenester",
+      "kode": "70.100"
+     },
+     "hjemmeside": "www.manpower.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 2000000.0,
+      "innfortDato": "2003-11-29",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "MANPOWERGROUP AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "985765820",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 2506 Solli"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0202",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-03-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-03-10",
+     "registreringsdatoEnhetsregisteret": "2003-06-07",
+     "registreringsdatoForetaksregisteret": "2003-06-07",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2018-12-10",
+     "registreringsdatoMerverdiavgiftsregisteret": "2004-09-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2004-10-25",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2003-05-08",
+     "telefon": "22 01 80 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2013-03-13",
+     "vedtektsfestetFormaal": [
+      "Bemanningsvirksomhet og virksomhet som står i forbindelse med dette,",
+      "herunder deltagelse i andre selskaper med lignende virksomhet, samt",
+      "investering i fast eiendom og verdipapirer."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935617014"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Besloten vennootschap",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "BV"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Diemerhof 16"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "1112XN DIEMEN, NOORD-HOLLAND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "+31206602222",
+     "navn": "MANPOWERGROUP NETHERLANDS B.V.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "935617014",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-06-03",
+     "registreringsnummerIHjemlandet": "33125207",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1969-12-09",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Nederland",
+     "underlagtLovgivningLandKode": "NL",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Sint Jacobsstraat 300"
+      ],
+      "land": "Nederland",
+      "poststed": "3511 BT Utrecht"
+     },
+     "utenlandskRegisterNavn": "Handelsregister  "
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935408954"
+      }
+     },
+     "aktivitet": [
+      "Utleie av ansatte."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Diemerhof 16"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "1112XN DIEMEN, NOORD-HOLLAND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "MANPOWERGROUP NETHERLANDS B.V.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "935408954",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Manpower Staffing Services AS",
+       "Postboks 2506 Solli"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0202",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2025-06-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/993636215"
+      }
+     },
+     "aktivitet": [
+      "Konsulenttjenester innen markedsføring og utleie av personal."
+     ],
+     "epostadresse": "nicholas_royal@live.se",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Samuel Silva",
+       "Rådhusvegen 7B"
+      ],
+      "kommune": "ULLENSAKER",
+      "kommunenummer": "3209",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2066",
+      "poststed": "JESSHEIM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2009-04-06 20:43:20",
+       "navn": "NICHOLAS MANFOURI",
+       "tilDato": "2018-09-28 12:22:40"
+      }
+     ],
+     "hjemmeside": "www.oslovip.me",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "46264499",
+     "naeringskode1": {
+      "beskrivelse": "Rekruttering og formidling av arbeidskraft",
+      "kode": "78.100"
+     },
+     "navn": "MANSOURI CONSULT & MARKETING & MANPOWER NIMA NICHOLAS MANSOURI KHORZANI",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "993636215",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2009-04-06",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/915418600"
+      }
+     },
+     "aktivitet": [
+      "Arbeidsutleie."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "11th Floor Dah Sing Life Building",
+       "99 Des Voeux Road Central",
+       "Hong Kong"
+      ],
+      "land": "Hongkong",
+      "landkode": "HK",
+      "poststed": "CENTRAL HONG KONG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "MULTIHOLD MANPOWER MANAGEMENT LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "915418600",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2015-08-24",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "+85225229115",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/915418627"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Limited",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "11 th Floor, Dah Sing Life Building",
+       "99, Des Voeux Road"
+      ],
+      "land": "Hongkong",
+      "landkode": "HK",
+      "poststed": "Central Hong Kong"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "MULTIHOLD MANPOWER MANAGEMENT LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "915418627",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2015-08-24",
+     "registreringsnummerIHjemlandet": "1904317",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Hongkong",
+     "underlagtLovgivningLandKode": "HK",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Queensway Government Offices"
+      ],
+      "land": "Hongkong",
+      "poststed": "66 Queensway"
+     },
+     "utenlandskRegisterNavn": "Registrar of Companies Hong Kong"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/996407233"
+      }
+     },
+     "aktivitet": [
+      "Utleie av arbeidskraft, el-installasjon."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "OVERGAARD-MANPOWER",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "996407233",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Byrået i Son AS",
+       "Postboks 144"
+      ],
+      "kommune": "VESTBY",
+      "kommunenummer": "3216",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1556",
+      "poststed": "SON"
+     },
+     "registreringsdatoEnhetsregisteret": "2011-01-18",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/996407357"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Enkeltmandsfirma",
+      "beskrivelseBokmaal": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Kongensgade 14"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "9320 HJALLERUP"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "OVERGAARD-MANPOWER UFFE K OVERGAARD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "996407357",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2011-01-18",
+     "registreringsnummerIHjemlandet": "25 53 49 48",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2009-06-09",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Danmark",
+     "underlagtLovgivningLandKode": "DK",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Langelinie Allé 17"
+      ],
+      "land": "Danmark",
+      "poststed": "2100 København Ø"
+     },
+     "utenlandskRegisterNavn": "Erhvervsstyrelsen"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916663579"
+      }
+     },
+     "aktivitet": [
+      "Sokkel relatert."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen teknisk konsulentvirksomhet",
+      "kode": "71.129"
+     },
+     "navn": "V.GROUP MANPOWER SERVICES LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "916663579",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "V Ships UK Ltd",
+       "Skypark 8 Elliot Place"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "GLASGOW G3 8EP SCOTLAND"
+     },
+     "registreringsdatoEnhetsregisteret": "2016-02-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916663714"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private limited company",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "V Ships UK Ltd",
+       "Skypark 8 Elliot Place"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "GLASGOW G3 8EP SCOTLAND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "V.GROUP MANPOWER SERVICES LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "916663714",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-02-02",
+     "registreringsnummerIHjemlandet": "02268506",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1988-06-16",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Storbritannia",
+     "underlagtLovgivningLandKode": "GB",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Crown Way",
+       "Maindy"
+      ],
+      "land": "Storbritannia",
+      "poststed": "Cardiff CF14 3UZ"
+     },
+     "utenlandskRegisterNavn": "Companies House"
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=MANPOWER&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 24,
+   "totalPages": 1
+  }
+ }
+}

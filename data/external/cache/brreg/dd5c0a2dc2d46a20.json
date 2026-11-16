@@ -1,0 +1,939 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=RELOCATION&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936576826"
+      }
+     },
+     "aktivitet": [
+      "Flyttetransport."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Thorvald Meyers gate 33C"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0555",
+      "poststed": "OSLO"
+     },
+     "fravalgRevisjonBeslutningsDato": "2025-10-14",
+     "fravalgRevisjonDato": "2025-11-14",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2025-11-14",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Flyttetransport",
+      "kode": "49.420"
+     },
+     "navn": "AEGIS LOGISTICS & RELOCATION AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "936576826",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-11-14",
+     "registreringsdatoForetaksregisteret": "2025-11-14",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-12-18",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-12-20",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2025-10-14",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-10-14",
+     "vedtektsfestetFormaal": [
+      "Selge varer og tjenester innen flytting og annet som naturlig",
+      "sammenfaller med dette, samt deltakelse i andre selskaper,",
+      "investeringer og nærliggende virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930714984"
+      }
+     },
+     "aktivitet": [
+      "Relocationtjenester"
+     ],
+     "antallAnsatte": 7,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Schweigaards gate 16A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0191",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30,
+      "belop": 30000.0,
+      "innfortDato": "2023-01-25",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+      "kode": "82.990"
+     },
+     "navn": "EXPAT RELOCATION AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "930714984",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-09-10",
+     "registreringsdatoEnhetsregisteret": "2023-01-25",
+     "registreringsdatoForetaksregisteret": "2023-01-25",
+     "registreringsdatoMerverdiavgiftsregisteret": "2023-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-08-29",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2023-01-02",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2023-01-02",
+     "vedtektsfestetFormaal": [
+      "Relocationtjenester"
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937731477"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Limited",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "670 Harper Road"
+      ],
+      "land": "Canada",
+      "landkode": "CA",
+      "poststed": "CA-PETERBOROUGH ON K9J 6X6"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2026-05-19 08:17:53",
+       "navn": "HEALTH CARE RELOCATIONS LTD",
+       "tilDato": "2026-10-02 15:46:33"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "HEALTH CARE RELOCATIONS LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "937731477",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-05-19",
+     "registreringsdatoForetaksregisteret": "2026-10-02",
+     "registreringsnummerIHjemlandet": "1213926",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Canada",
+     "underlagtLovgivningLandKode": "CA",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "284 Wellington Street"
+      ],
+      "land": "Canada",
+      "poststed": "Ottawa, Ontario, Canada K1A 0H8"
+     },
+     "utenlandskRegisterNavn": "Department of Justice Canada",
+     "vedtektsdato": "1997-07-24",
+     "vedtektsfestetFormaal": [
+      "Utenlandsk foretak"
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937727895"
+      }
+     },
+     "aktivitet": [
+      "Ledelsesrådgivning knyttet til aktivering av anlegg, driftsberedskap",
+      "samt planlegging av flytting av pasienter og utstyr for sykehus og",
+      "medisinske anlegg."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "670 Harper Road,"
+      ],
+      "land": "Canada",
+      "landkode": "CA",
+      "poststed": "PETERBOUOUGH ON K9J 6X6"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2026-05-19 20:06:44",
+       "navn": "HEALTH CARE RELOCATIONS LTD",
+       "tilDato": "2026-10-02 15:47:38"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "HEALTH CARE RELOCATIONS LTD NUF",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "937727895",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-05-19",
+     "registreringsdatoForetaksregisteret": "2026-10-02",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922627819"
+      }
+     },
+     "aktivitet": [
+      "Rådgiving innen immigrasjon, visa og arbeid og tilhørende aktivitet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Fjellsveien 161A"
+      ],
+      "kommune": "DRAMMEN",
+      "kommunenummer": "3301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3035",
+      "poststed": "DRAMMEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "HELP IMMIGRATION ADVISOR & RELOCATION SERVICES NASIR MAHMOOD GONDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "922627819",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-04-11",
+     "registreringsdatoForetaksregisteret": "2019-04-11",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933097471"
+      }
+     },
+     "aktivitet": [
+      "Bedriftsrådgivning, administrativt."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o ECIT Services AS",
+       "Rolfsbuktveien 2"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1364",
+      "poststed": "FORNEBU"
+     },
+     "fravalgRevisjonBeslutningsDato": "2024-02-19",
+     "fravalgRevisjonDato": "2024-03-01",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30,
+      "belop": 30000.0,
+      "innfortDato": "2024-03-01",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "KEY RELOCATION NORWAY AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "933097471",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o ECIT Services AS",
+       "Martin Linges vei 25"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1364",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2024-03-01",
+     "registreringsdatoForetaksregisteret": "2024-03-01",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2024-02-19",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-02-19",
+     "vedtektsfestetFormaal": [
+      "Yte flyttebistand innenriks og til og fra utlandet for internasjonale",
+      "selskaper og deres personell, samt andre tjenester som naturlig hører",
+      "sammen med dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924499028"
+      }
+     },
+     "aktivitet": [
+      "Transport og flyttetjenester og annet som naturlig faller sammen med",
+      "dette."
+     ],
+     "antallAnsatte": 24,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hovfaret 4"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0275",
+      "poststed": "OSLO"
+     },
+     "fravalgRevisjonBeslutningsDato": "2020-01-07",
+     "fravalgRevisjonDato": "2020-01-28",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2020-01-28 14:36:24",
+       "navn": "FLYTTEKOMPANIET AS",
+       "tilDato": "2020-11-23 15:35:34"
+      },
+      {
+       "fraDato": "2020-11-23 15:35:34",
+       "navn": "LØFT FLYTTEBYRÅ AS",
+       "tilDato": "2025-12-22 12:54:23"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2020-01-28",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Flyttetransport",
+      "kode": "49.420"
+     },
+     "navn": "LØFT RELOCATION AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "924499028",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-11",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2020-01-28",
+     "registreringsdatoForetaksregisteret": "2020-01-28",
+     "registreringsdatoMerverdiavgiftsregisteret": "2020-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-08-08",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2020-01-07",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-11-13",
+     "vedtektsfestetFormaal": [
+      "Tilby komplette relokasjons-, flytte- og etableringstjenester for",
+      "privatpersoner og bedrifter, inkludert boligrelaterte tjenester,",
+      "rådgivning, logistikk, digitale løsninger og administrativ støtte.",
+      "Selskapet kan eie og utvikle fast eiendom, drive digital virksomhet og",
+      "markedsplattformer, samt annen virksomhet som står i naturlig",
+      "tilknytning til formålet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923088938"
+      }
+     },
+     "aktivitet": [
+      "Selskapets hovedaktivitet er å tilby konsulenttjenester, rådgivning og",
+      "praktisk bistand for internasjonale arbeidstakere, privatpersoner og",
+      "deres familier som flytter til Norge(relokasjonstjenester).",
+      "Virksomheten omfatter blant annet bistand med immigrasjonsprosesser,",
+      "offentlig registrering, boligsøk, etableringstjenester,",
+      "språkkurs,oversettelse og kulturtrening"
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Fridtjof Nansens plass 4"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0160",
+      "poststed": "OSLO"
+     },
+     "fravalgRevisjonBeslutningsDato": "2019-06-10",
+     "fravalgRevisjonDato": "2019-07-15",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2019-07-15 11:46:32",
+       "navn": "NORWAY CHINA BUSINESS HUB AS",
+       "tilDato": "2020-09-30 16:37:19"
+      },
+      {
+       "fraDato": "2020-09-30 16:37:19",
+       "navn": "NORDIC CHINA BUSINESS HUB AS",
+       "tilDato": "2025-10-31 12:00:25"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 200000.0,
+      "innfortDato": "2019-07-15",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "NLS NORWAY RELOCATION GROUP AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "923088938",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-07-15",
+     "registreringsdatoForetaksregisteret": "2019-07-15",
+     "registreringsdatoMerverdiavgiftsregisteret": "2019-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-01-13",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2019-06-10",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-10-08",
+     "vedtektsfestetFormaal": [
+      "Å tilby konsulenttjenester, rådgivning og praktisk bistand",
+      "forinternasjonale arbeidstakere, privatpersoner og deres familier som",
+      "flytter til Norge(relokasjonstjenester). Virksomheten omfatter blant",
+      "annet bistand medimmigrasjonsprosesser, offentlig registrering,",
+      "boligsøk, etableringstjenester, språkkurs,oversettelse og",
+      "kulturtrening, samt annen virksomhet som naturlig faller sammen med",
+      "dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931455850"
+      }
+     },
+     "aktivitet": [
+      "Utleie av fast eiendom."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Volvat terrasse 14"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0369",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "OSLO RELOCATION SERVICES FREDERIKKE GASMANN-BROTT",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "931455850",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 3 Holmenkollen"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0712",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2023-05-26",
+     "registreringsdatoForetaksregisteret": "2023-05-26",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992257393"
+      }
+     },
+     "aktivitet": [
+      "Konsulentselskap innen personaltjenester, samt boligadministrasjon."
+     ],
+     "antallAnsatte": 12,
+     "epostadresse": "post@relocation.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Madlakrossen 4"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4042",
+      "poststed": "HAFRSFJORD"
+     },
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2008-02-11 20:31:35",
+       "navn": "RELOCATION BYGG AS",
+       "tilDato": "2009-12-30 20:15:36"
+      },
+      {
+       "fraDato": "2009-12-30 20:15:36",
+       "navn": "RELOCATION.NO AS",
+       "tilDato": "2012-03-24 14:46:21"
+      }
+     ],
+     "hjemmeside": "www.relocation.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 300,
+      "belop": 2294900.0,
+      "innfortDato": "2020-10-13",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+      "kode": "82.990"
+     },
+     "navn": "RELOCATION AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "992257393",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
+     "registreringsdatoEnhetsregisteret": "2008-02-11",
+     "registreringsdatoForetaksregisteret": "2008-02-11",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2014-02-01",
+     "registreringsdatoMerverdiavgiftsregisteret": "2008-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2008-03-11",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2008-01-02",
+     "telefon": "51 51 00 30",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2020-09-22",
+     "vedtektsfestetFormaal": [
+      "Utføre tjenester som konsulentselskap innen personaltjenester, samt",
+      "boligadministrasjon."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914841461"
+      }
+     },
+     "aktivitet": [
+      "Mottar og viderefakturerer kostnader som skal dekkes av klientmidler",
+      "innbetalt av Relocation-gruppens kunder. Fortjeneste/kontrakter med",
+      "disse kundene er i andre Relocation-selskaper og selskapet er derfor",
+      "et rent konsernstøtteselskap som ikke skal generere fortjeneste."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Madlakrossen 4"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4042",
+      "poststed": "HAFRSFJORD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2015-01-21",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+      "kode": "82.990"
+     },
+     "navn": "RELOCATION KLIENT AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "914841461",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2015-01-21",
+     "registreringsdatoForetaksregisteret": "2015-01-21",
+     "registreringsdatoMerverdiavgiftsregisteret": "2016-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2016-01-21",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2015-01-06",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2015-12-10",
+     "vedtektsfestetFormaal": [
+      "Motta og viderefakturere kostnader som skal dekkes av klientmidler",
+      "innbetalt av Relocation-gruppens kunder. Kostnader knyttet til",
+      "administrasjon av dette dekkes av selskapets morselskap Relocation AS",
+      "som også skal ha inntekter knyttet til dette. Eventuelle tap knyttet",
+      "til klientmidler dekkes av morselskapet Relocation AS. Relocation",
+      "Klient AS har således ikke erverv til formål og skal ikke ha overskudd",
+      "og således heller ikke kunne utdele utbytte. Relocation Klient AS kan",
+      "ikke inngå avtaler med kunder utover det som er nødvendig for å",
+      "ivareta administrasjon av Relocation AS' kunder. Dersom klienter",
+      "skulle ettergi utestående klientmidler er dette morselskapet",
+      "Relocation AS eiendom og inntektsføres i dette selskapet. Ved",
+      "eventuell oppløsning av selskapet tilbakeføres selskapets aksjekapital",
+      "til Relocation Klient AS eier. Eventuelle utbrukte klientmidler",
+      "tilbakeføres til aktuell klient. Eventuelle klientmidler som ettergis",
+      "eller inntekter som oppstår på annen måte uansett grunn er Relocation",
+      "AS midler og inntektsføres i Relocation AS."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/982044456"
+      }
+     },
+     "aktivitet": [
+      "Konsulentvirksomhet for næringslivet, f.eks. boligformidling,",
+      "språkkurs, kurs innen personalutvikling."
+     ],
+     "epostadresse": "trine.norsk@me.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Jønningsheiveien 28A"
+      ],
+      "kommune": "SANDNES",
+      "kommunenummer": "1108",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4316",
+      "poststed": "SANDNES"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre tjenester tilknyttet undervisning ikke nevnt annet sted",
+      "kode": "85.699"
+     },
+     "navn": "STAVANGER RELOCATION Trine Støle",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "982044456",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2000-06-14",
+     "registreringsdatoForetaksregisteret": "2000-06-14",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "51 66 18 21",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=RELOCATION&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 12,
+   "totalPages": 1
+  }
+ }
+}

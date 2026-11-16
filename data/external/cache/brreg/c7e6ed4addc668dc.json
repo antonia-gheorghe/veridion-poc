@@ -1,0 +1,81 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter/982089549?",
+ "response": {
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter/982089549"
+   }
+  },
+  "aktivitet": [
+   "Informasjonsteknologi."
+  ],
+  "antallAnsatte": 391,
+  "erIKonsern": false,
+  "forretningsadresse": {
+   "adresse": [
+    "Henrik Ibsens gate 100"
+   ],
+   "kommune": "OSLO",
+   "kommunenummer": "0301",
+   "land": "Norge",
+   "landkode": "NO",
+   "postnummer": "0255",
+   "poststed": "OSLO"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "historiskeNavn": [],
+  "hjemmeside": "www.mnemonic.no",
+  "institusjonellSektorkode": {
+   "beskrivelse": "Private aksjeselskaper mv.",
+   "kode": "2100"
+  },
+  "kapital": {
+   "antallAksjer": 3625364,
+   "belop": 398790.0,
+   "innfortDato": "2015-04-24",
+   "type": "Aksjekapital",
+   "valuta": "NOK"
+  },
+  "konkurs": false,
+  "maalform": "Bokmål",
+  "naeringskode1": {
+   "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+   "kode": "62.200"
+  },
+  "navn": "MNEMONIC AS",
+  "organisasjonsform": {
+   "_links": {
+    "self": {
+     "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+    }
+   },
+   "beskrivelse": "Aksjeselskap",
+   "kode": "AS"
+  },
+  "organisasjonsnummer": "982089549",
+  "paategninger": [],
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+  "registreringsdatoEnhetsregisteret": "2000-06-20",
+  "registreringsdatoForetaksregisteret": "2000-06-20",
+  "registreringsdatoMerverdiavgiftsregisteret": "2000-07-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2000-10-09",
+  "registrertIForetaksregisteret": true,
+  "registrertIFrivillighetsregisteret": false,
+  "registrertIMvaregisteret": true,
+  "registrertIPartiregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "respons_klasse": "Enhet",
+  "sisteInnsendteAarsregnskap": "2025",
+  "stiftelsesdato": "2000-05-05",
+  "telefon": "23 20 47 00",
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "vedtektsdato": "2023-04-27",
+  "vedtektsfestetFormaal": [
+   "Utvikling og salg av datasikkerhetsystemer og hva som står i naturlig",
+   "forbindelse med dette. Selskapet kan også ha eierinteresser i andre",
+   "selskaper av enhver art."
+  ]
+ }
+}

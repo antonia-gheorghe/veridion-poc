@@ -1,0 +1,550 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=MICROSOFT&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936686117"
+      }
+     },
+     "aktivitet": [
+      "Fagforeningsarbeid.",
+      "Lokale forhandlinger.",
+      "Ansatt representasjon."
+     ],
+     "epostadresse": "hhauk@microsoft.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Dronning Eufemias gate 71"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0194",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.hk.no/medlemskap/hvem-kan-bli-medlem/",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "957 86 094",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i arbeidstakerorganisasjoner",
+      "kode": "94.200"
+     },
+     "navn": "HK KLUBBEN HOS MICROSOFT NORGE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "936686117",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-04-25",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2025-09-22",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/921816561"
+      }
+     },
+     "aktivitet": [
+      "Levere eller behandle kommunikasjons- og telekommunikasjonstjenester,",
+      "informasjonsgjenfinning og informasjonsutlevering, elektronsik",
+      "meldingstjenste, e-handeltjenester, internett-tjenester og",
+      "databasetjenester, samt leveranse av alle tjenester i forbindlese med",
+      "programvare, inkludert vedlikehold, reparasjoner og",
+      "rådgivningstjenester, samt alt som står i direkete eller indirekte",
+      "forbindelse med slik virksomhet."
+     ],
+     "antallAnsatte": 58,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Dronning Eufemias gate 71"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0194",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 101000.0,
+      "innfortDato": "2026-07-16",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Datainfrastruktur, -behandling, -lagring og tilknyttede tjenester",
+      "kode": "63.100"
+     },
+     "navn": "MICROSOFT DATACENTER NORWAY AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "921816561",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 943 sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0104",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-11",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2018-12-10",
+     "registreringsdatoForetaksregisteret": "2018-12-10",
+     "registreringsdatoMerverdiavgiftsregisteret": "2019-03-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2019-01-28",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2018-09-07",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-03-16",
+     "vedtektsfestetFormaal": [
+      "Levere eller behandle kommunikasjons- og telekommunikasjonstjenester,",
+      "informasjonsgjenvinning og informasjonsutlevering, elektronisk",
+      "meldingstjeneste, e-handeltjenester, internett-tjenester og",
+      "databasetjenester, samt leveranse av alle tjenester i forbindelse med",
+      "programvare, inkludert vedlikehold, reparasjon og",
+      "rådgivningstjenester, samt alt som står i direkte eller indirekte",
+      "forbindelse med slik virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/979158831"
+      }
+     },
+     "aktivitet": [
+      "Produksjon og sal av produkter for nettkommunikasjon."
+     ],
+     "antallAnsatte": 389,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Dronning Eufemias gate 71"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0194",
+      "poststed": "OSLO"
+     },
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "1997-09-05 23:19:52",
+       "navn": "FAST INTERNET TRANSFER AS",
+       "tilDato": "1998-04-24 18:37:01"
+      },
+      {
+       "fraDato": "1998-04-24 18:37:01",
+       "navn": "FAST SEARCH AND TRANSFER AS",
+       "tilDato": "1998-06-26 14:58:02"
+      },
+      {
+       "fraDato": "1998-06-26 14:58:02",
+       "navn": "FAST SEARCH AND TRANSFER ASA",
+       "tilDato": "1998-09-15 20:16:39"
+      },
+      {
+       "fraDato": "1998-09-15 20:16:39",
+       "navn": "FAST SEARCH & TRANSFER ASA",
+       "tilDato": "2008-08-19 20:58:41"
+      },
+      {
+       "fraDato": "2008-08-19 20:58:41",
+       "navn": "FAST SEARCH & TRANSFER AS",
+       "tilDato": "2010-12-10 13:11:51"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 336692975,
+      "belop": 134677190.0,
+      "innfortDato": "2008-03-29",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utgivelse av annen programvare",
+      "kode": "58.290"
+     },
+     "navn": "MICROSOFT DEVELOPMENT CENTER NORWAY AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "979158831",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 943 sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0104",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "1997-08-22",
+     "registreringsdatoForetaksregisteret": "1997-09-03",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2014-01-16",
+     "registreringsdatoMerverdiavgiftsregisteret": "1998-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2010-03-08",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "1997-07-16",
+     "telefon": "23 01 12 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2023-12-15",
+     "vedtektsfestetFormaal": [
+      "Produksjon og salg av produkter og teknologi for",
+      "nettkommunikasjon samt hva hermed står i",
+      "forbindelse, herunder deltakelse i andre selskap."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/979920237"
+      }
+     },
+     "aktivitet": [
+      "Import/distribusjon av programware."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "One Microsoft Place",
+       "South County Business Park",
+       "Leopardstown"
+      ],
+      "land": "Irland",
+      "landkode": "IE",
+      "poststed": "IE-Dublin 18 D18 P521"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med husholdnings-, kontor- og butikkmøbler, gulvtepper og belysningsutstyr",
+      "kode": "46.470"
+     },
+     "navn": "MICROSOFT IRELAND OPERATIONS LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "979920237",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1998-06-18",
+     "registreringsdatoMerverdiavgiftsregisteret": "1998-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1998-06-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/979920261"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Blackhorn Road Sandyford Industrial",
+       "Estate"
+      ],
+      "land": "Irland",
+      "landkode": "IE",
+      "poststed": "IE-Dublin 18"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "MICROSOFT IRELAND OPERATIONS LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "979920261",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1998-06-18",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1998-03-23",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/957485030"
+      }
+     },
+     "aktivitet": [
+      "Lisensiering, distribusjon og salg av programvare",
+      "og tilbehør til datamaskiner og å tilby tjenester",
+      "i tilknytning til dette, samt annen handels- eller",
+      "tjenesteytende virksomhet."
+     ],
+     "antallAnsatte": 254,
+     "epostadresse": "bartos@microsoft. com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Dronning Eufemias gate 71"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0194",
+      "poststed": "OSLO"
+     },
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "hjemmeside": "www.microsoft.com/norge/",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1001,
+      "belop": 100100.0,
+      "innfortDato": "2004-08-14",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "MICROSOFT NORGE AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "957485030",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 943 Sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0104",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "1995-03-12",
+     "registreringsdatoForetaksregisteret": "1990-06-14",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2014-01-25",
+     "registreringsdatoMerverdiavgiftsregisteret": "1990-09-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1995-03-12",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "1990-03-28",
+     "telefon": "23 50 05 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2023-12-15",
+     "vedtektsfestetFormaal": [
+      "Lisensiering, distribusjon og salg av programvare",
+      "og tilbehør til datamaskiner og å tilby tjenester",
+      "i tilknytning til dette, samt annen handels- eller",
+      "tjenesteytende virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935536243"
+      }
+     },
+     "aktivitet": [
+      "Skal øke kompetansen på",
+      "cybersikkerhet i Vestland gjennom fysiske og virtuelle møter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Harald Skjolds veg 5C"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5236",
+      "poststed": "RÅDAL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "MICROSOFT SECURITY USER GROUP NORWAY WEST",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "935536243",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-05-20",
+     "registreringsdatoFrivillighetsregisteret": "2025-06-06",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2025-04-17",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=MICROSOFT&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 7,
+   "totalPages": 1
+  }
+ }
+}

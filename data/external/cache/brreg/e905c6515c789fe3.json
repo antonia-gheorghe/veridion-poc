@@ -1,0 +1,3366 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=OMD&navnMetodeForSoek=FORTLOEPENDE&size=100&page=1",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/870154372"
+      }
+     },
+     "aktivitet": [
+      "Film- og videoproduksjon"
+     ],
+     "epostadresse": "post@skjalg.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Verven 50"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4014",
+      "poststed": "STAVANGER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.skjalg.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Nynorsk",
+     "mobil": "928 69 286",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon av film, video og fjernsynsprogrammer",
+      "kode": "59.110"
+     },
+     "navn": "OMDAL SKJALG",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "870154372",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "3 etasje",
+       "Kirkegata 40"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4006",
+      "poststed": "STAVANGER"
+     },
+     "registreringsdatoEnhetsregisteret": "1995-02-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933539822"
+      }
+     },
+     "aktivitet": [
+      "Skogskjøtsel, planting og rydding på oppdrag."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Hans Gunnar Omdal",
+       "Røyrmyrveien 3"
+      ],
+      "kommune": "IVELAND",
+      "kommunenummer": "4218",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4724",
+      "poststed": "IVELAND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Skogskjøtsel og andre skogbruksaktiviteter",
+      "kode": "02.100"
+     },
+     "navn": "OMDAL SKOG OG KART",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "933539822",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-06-03",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-09-24",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-09-25",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923573283"
+      }
+     },
+     "aktivitet": [
+      "Skrive og selge bøker. Salget skal foregå i butikk og gjennom",
+      "personlig salg."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Åsas vei 28"
+      ],
+      "kommune": "KRISTIANSAND",
+      "kommunenummer": "4204",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4633",
+      "poststed": "KRISTIANSAND S"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Skapende kunstnerisk virksomhet innenfor litteratur",
+      "kode": "90.111"
+     },
+     "navn": "OMDAL SKRIVERIER",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "923573283",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-10-09",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926532170"
+      }
+     },
+     "aktivitet": [
+      "Produksjon av roboter og salg av skyteskiver og skytemateriell."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Taubanegata 26"
+      ],
+      "kommune": "EVJE OG HORNNES",
+      "kommunenummer": "4219",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4735",
+      "poststed": "EVJE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon av andre spesialmaskiner ikke nevnt annet sted",
+      "kode": "28.990"
+     },
+     "navn": "OMDAL TECH",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "926532170",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-02-05",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914720567"
+      }
+     },
+     "aktivitet": [
+      "Transportoppdrag for industri, varehandel, det offentlige og private.",
+      "Samt påta seg andre oppdrag som naturlig tilhører bransjen."
+     ],
+     "antallAnsatte": 33,
+     "epostadresse": "jarle@omdaltransport.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Gamleveien 323"
+      ],
+      "kommune": "LUND",
+      "kommunenummer": "1112",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4463",
+      "poststed": "UALAND"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "hjemmeside": "www.omdaltransport.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 200,
+      "belop": 111962.0,
+      "innfortDato": "2023-04-01",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "901 10 231",
+     "naeringskode1": {
+      "beskrivelse": "Godstransport på vei",
+      "kode": "49.410"
+     },
+     "navn": "OMDAL TRANSPORT AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "914720567",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-09-10",
+     "registreringsdatoEnhetsregisteret": "2014-12-22",
+     "registreringsdatoForetaksregisteret": "2014-12-22",
+     "registreringsdatoMerverdiavgiftsregisteret": "2015-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2015-01-05",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2014-12-15",
+     "telefon": "51 40 90 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2022-12-22",
+     "vedtektsfestetFormaal": [
+      "Transportoppdrag for industri, varehandel, det offentlige og private.",
+      "Samt påta seg andre oppdrag som naturlig tilhører bransjen."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997269497"
+      }
+     },
+     "aktivitet": [
+      "Transport/logistikk samt terminal/lager."
+     ],
+     "antallAnsatte": 10,
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Industrigata 5"
+      ],
+      "kommune": "LIER",
+      "kommunenummer": "3312",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3414",
+      "poststed": "LIERSTRANDA"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 31034.0,
+      "innfortDato": "2023-04-15",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Godstransport på vei",
+      "kode": "49.410"
+     },
+     "navn": "OMDAL TRANSPORT ØST AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "997269497",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Gamleveien 323"
+      ],
+      "kommune": "LUND",
+      "kommunenummer": "1112",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4463",
+      "poststed": "UALAND"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
+     "registreringsdatoEnhetsregisteret": "2011-08-26",
+     "registreringsdatoForetaksregisteret": "2011-08-26",
+     "registreringsdatoMerverdiavgiftsregisteret": "2011-09-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2011-11-15",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2011-08-03",
+     "telefon": "51 40 90 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2022-12-22",
+     "vedtektsfestetFormaal": [
+      "Selskapets formål er Transport/logistikk samt terminal/lager og andre",
+      "tjenester og produkter som naturlig faller sammen med dette, herunder",
+      "å delta i andre selskaper med lignende virksomhet, kjøp og salg av",
+      "aksjer, eller på annen måte gjøre seg interessert i andre foretagender",
+      "samt kjøp, salg og utleie av fast eiendom."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/969796473"
+      }
+     },
+     "aktivitet": [
+      "Sauehold."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Fjellveien 4"
+      ],
+      "kommune": "SOKNDAL",
+      "kommunenummer": "1111",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4380",
+      "poststed": "HAUGE I DALANE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "97462137",
+     "naeringskode1": {
+      "beskrivelse": "Sauehold",
+      "kode": "01.451"
+     },
+     "navn": "OMDAL TØNNES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "969796473",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1995-02-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936757081"
+      }
+     },
+     "aktivitet": [
+      "Undervisning og bokskriving."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Åsas vei 28"
+      ],
+      "kommune": "KRISTIANSAND",
+      "kommunenummer": "4204",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4633",
+      "poststed": "KRISTIANSAND S"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen undervisning ellers",
+      "kode": "85.597"
+     },
+     "navn": "OMDAL UNDERVISNING",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936757081",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-12-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/828644262"
+      }
+     },
+     "aktivitet": [
+      "Produksjon og salg av digitalt innhold via OnlyFans. Markedsfører eget",
+      "innhold gjennom sosiale medier som Instagram, TikTok, Twitter og",
+      "Twitch. All inntekt kommer fra abonnementer og salg på OnlyFans."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Søster Mathildes gate 40"
+      ],
+      "kommune": "LØRENSKOG",
+      "kommunenummer": "3222",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1473",
+      "poststed": "LØRENSKOG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2022-01-31 12:54:06",
+       "navn": "SINE MADELEN OMDAL",
+       "tilDato": "2023-07-28 12:36:44"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon av film, video og fjernsynsprogrammer",
+      "kode": "59.110"
+     },
+     "navn": "OMDAL WORKS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "828644262",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-01-31",
+     "registreringsdatoMerverdiavgiftsregisteret": "2021-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-06-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/921862466"
+      }
+     },
+     "aktivitet": [
+      "Utleie og kjøp av fast eiendom samt alt hva dermed står i forbindelse,",
+      "herunder gjennom aksjetegning eller på annen måte å delta i andre",
+      "selskaper eller foretak, samt prosjektstyring."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Steinslandsveien 295"
+      ],
+      "kommune": "BIRKENES",
+      "kommunenummer": "4216",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4707",
+      "poststed": "VENNESLA"
+     },
+     "fravalgRevisjonBeslutningsDato": "2018-11-22",
+     "fravalgRevisjonDato": "2018-12-13",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 30000.0,
+      "innfortDato": "2018-12-13",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "OMDAL-INVEST AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "921862466",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2018-12-13",
+     "registreringsdatoForetaksregisteret": "2018-12-13",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2018-11-22",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2018-11-22",
+     "vedtektsfestetFormaal": [
+      "Utleie og kjøp av fast eiendom samt alt hva dermed står i forbindelse,",
+      "herunder gjennom aksjetegning eller på annen måte å delta i andre",
+      "selskaper eller foretak, samt prosjektstyring."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920172598"
+      }
+     },
+     "aktivitet": [
+      "Vaktmestertjenester. Utføring av diverse håndarbeid/reparasjoner.",
+      "Utleie av bygg og utstyr."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Holaveien 11"
+      ],
+      "kommune": "LUND",
+      "kommunenummer": "1112",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4460",
+      "poststed": "MOI"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Kombinerte tjenester tilknyttet eiendomsdrift",
+      "kode": "81.100"
+     },
+     "navn": "OMDAL'S VAKTMESTER TJENESTER",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "920172598",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2017-12-29",
+     "registreringsdatoMerverdiavgiftsregisteret": "2018-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2018-07-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/974888556"
+      }
+     },
+     "aktivitet": [
+      "Betongarbeid og ellers alt som har med byggfaget.  Utleie av egen",
+      "eller leid fast eiendom."
+     ],
+     "epostadresse": "svein@omdals-betong.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Birkelandsveien 92"
+      ],
+      "kommune": "LILLESAND",
+      "kommunenummer": "4215",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4790",
+      "poststed": "LILLESAND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-08-21 17:46:00",
+       "navn": "OMDALS BETONGARBEID",
+       "tilDato": "2001-11-01 20:48:48"
+      },
+      {
+       "fraDato": "2001-11-01 20:48:48",
+       "navn": "LBS EIENDOM Svein Omdal",
+       "tilDato": "2012-01-24 15:06:59"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "90585954",
+     "naeringskode1": {
+      "beskrivelse": "Annen spesialisert bygge- og anleggsvirksomhet ikke nevnt annet sted",
+      "kode": "43.990"
+     },
+     "navn": "OMDALS BETONG",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "974888556",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1995-08-10",
+     "registreringsdatoMerverdiavgiftsregisteret": "2012-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2013-02-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/980385116"
+      }
+     },
+     "aktivitet": [
+      "Bilverksted."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Postveien 51B"
+      ],
+      "kommune": "FARSUND",
+      "kommunenummer": "4206",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4563",
+      "poststed": "BORHAUG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlige foretak",
+      "kode": "2300"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "90890464",
+     "naeringskode1": {
+      "beskrivelse": "Reparasjon og vedlikehold av motorvogner",
+      "kode": "95.310"
+     },
+     "navn": "OMDALS BILVERKSTED ANS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ANS"
+       }
+      },
+      "beskrivelse": "Ansvarlig selskap med solidarisk ansvar",
+      "kode": "ANS"
+     },
+     "organisasjonsnummer": "980385116",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Gry Helene Jakobsen",
+       "Heia 31"
+      ],
+      "kommune": "FARSUND",
+      "kommunenummer": "4206",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4563",
+      "poststed": "BORHAUG"
+     },
+     "registreringsdatoEnhetsregisteret": "1999-02-18",
+     "registreringsdatoForetaksregisteret": "1999-02-18",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2024",
+     "stiftelsesdato": "1998-12-17",
+     "telefon": "38 39 71 68",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-04-26",
+     "vedtektsfestetFormaal": [
+      "Bilverksted og antirustbehandling samt andre tjenester som faller",
+      "naturlig inn under denne bransjen. I tillegg delta i andre selskap med",
+      "samme formål."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/990470413"
+      }
+     },
+     "aktivitet": [
+      "Førstehjelpsundervisning.",
+      " "
+     ],
+     "epostadresse": "kjellingo@hotmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Glassbegerveien 207"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4032",
+      "poststed": "STAVANGER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "915 96 971",
+     "naeringskode1": {
+      "beskrivelse": "Annen undervisning ellers",
+      "kode": "85.597"
+     },
+     "navn": "OMDALS FØRSTEHJELPSUNDERVISNING",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "990470413",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2006-11-06",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "52 90 11 16",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934512545"
+      }
+     },
+     "aktivitet": [
+      "Skogskjøtsel, planting og rydding på oppdrag."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Arkenveien 12"
+      ],
+      "kommune": "ARENDAL",
+      "kommunenummer": "4203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4836",
+      "poststed": "ARENDAL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Skogskjøtsel og andre skogbruksaktiviteter",
+      "kode": "02.100"
+     },
+     "navn": "OMDALS HAGESTELL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "934512545",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-11-20",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-01-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/928995607"
+      }
+     },
+     "aktivitet": [
+      "Handel, service og reparasjoner av gokarter og andre kjøretøy.",
+      "Vaktmestertjenester og andre serviceoppdrag, samt alt som har",
+      "forbindelse med dette."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vormbrokka 26"
+      ],
+      "kommune": "VENNESLA",
+      "kommunenummer": "4223",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4715",
+      "poststed": "ØVREBØ"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2022-04-19 13:35:03",
+       "navn": "OMDAL MOTORSPORT",
+       "tilDato": "2024-06-13 14:04:03"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med motorvogner",
+      "kode": "47.810"
+     },
+     "navn": "OMDALS SERVICE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "928995607",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-04-19",
+     "registreringsdatoForetaksregisteret": "2022-04-19",
+     "registreringsdatoMerverdiavgiftsregisteret": "2022-07-08",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2022-07-09",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/928612775"
+      }
+     },
+     "aktivitet": [
+      "Vikartjeneste i videregående skole og utleie som sjåfør."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Linneavegen 2C"
+      ],
+      "kommune": "VENNESLA",
+      "kommunenummer": "4223",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4706",
+      "poststed": "VENNESLA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Privatundervisning",
+      "kode": "85.594"
+     },
+     "navn": "OMDALS VIKAR TJENESTER",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "928612775",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-01-25",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935471842"
+      }
+     },
+     "aktivitet": [
+      "Bier, honningproduksjon."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bieveien 88"
+      ],
+      "kommune": "ARENDAL",
+      "kommunenummer": "4203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4825",
+      "poststed": "ARENDAL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Husdyrhold ikke nevnt annet sted",
+      "kode": "01.489"
+     },
+     "navn": "OMDALSMOEN BIRØKT",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935471842",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-05-10",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-02-11",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-10",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929738160"
+      }
+     },
+     "aktivitet": [
+      "Produksjon og salg av honning."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Bieveien 88"
+      ],
+      "kommune": "ARENDAL",
+      "kommunenummer": "4203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4825",
+      "poststed": "ARENDAL"
+     },
+     "fravalgRevisjonBeslutningsDato": "2022-08-10",
+     "fravalgRevisjonDato": "2022-08-30",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 30000.0,
+      "innfortDato": "2022-08-30",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Husdyrhold ikke nevnt annet sted",
+      "kode": "01.489"
+     },
+     "navn": "OMDALSMOEN HONNING AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "929738160",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-08-30",
+     "registreringsdatoForetaksregisteret": "2022-08-30",
+     "registreringsdatoMerverdiavgiftsregisteret": "2023-12-07",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-12-07",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2022-08-10",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2022-08-10",
+     "vedtektsfestetFormaal": [
+      "Produksjon og salg av honning."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931064819"
+      }
+     },
+     "aktivitet": [
+      "Tatovering."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Øvregate 24"
+      ],
+      "kommune": "SKIEN",
+      "kommunenummer": "4003",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3715",
+      "poststed": "SKIEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre personlige tjenester ikke nevnt annet sted",
+      "kode": "96.990"
+     },
+     "navn": "OMDB ART MILLER",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "931064819",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-03-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927892901"
+      }
+     },
+     "aktivitet": [
+      "Affiliate-markedsføring for investering, aksjer og kryptovaluta.",
+      "Helse og behandling."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Myresvingen 22"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3430",
+      "poststed": "SPIKKESTAD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Uoppgitt",
+      "kode": "00.000"
+     },
+     "navn": "OMDREINING V/ OLSEN",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "927892901",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-10-08",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/921370881"
+      }
+     },
+     "aktivitet": [
+      "Sauedrift."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Mysse",
+       "Mydlandsveien 940"
+      ],
+      "kommune": "SOKNDAL",
+      "kommunenummer": "1111",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4380",
+      "poststed": "HAUGE I DALANE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Sauehold",
+      "kode": "01.451"
+     },
+     "navn": "ORRÅSEN SAUEDRIFT SILVIA OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "921370881",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2018-09-10",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922826749"
+      }
+     },
+     "aktivitet": [
+      "Pensjonsgjennomgang for privatpersoner: utvikle et konsept for å",
+      "hjelpe privatpersoner til å få oversikt over og forstå egen pensjon",
+      "slik at de kan sikre en helhetlig og trygg økonomi den dagen de blir",
+      "pensjonist."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nedre Skøyen vei 23"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0276",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2019-06-14 10:12:32",
+       "navn": "J OMDAL",
+       "tilDato": "2019-11-05 12:50:58"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+      "kode": "82.990"
+     },
+     "navn": "PENSJONSHJELP JANNE OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "922826749",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-06-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/826623942"
+      }
+     },
+     "aktivitet": [
+      "Massasjesalong: Thai-, olje- og aromamassasje."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nøstegaten 73A"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5011",
+      "poststed": "BERGEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i dagspa, badstue og dampbad",
+      "kode": "96.230"
+     },
+     "navn": "PRAWEENA OMDAHL MASSAGE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "826623942",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-02-23",
+     "registreringsdatoForetaksregisteret": "2021-02-23",
+     "registreringsdatoMerverdiavgiftsregisteret": "2021-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-06-24",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930353027"
+      }
+     },
+     "aktivitet": [
+      "Butikkhandel med salg av godteri og tema artikler.",
+      "Konsulenttjenester innen prosjektledelse, HR og andre relevante",
+      "områder."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Gjervoldstadveien 60"
+      ],
+      "kommune": "LINDESNES",
+      "kommunenummer": "4205",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4517",
+      "poststed": "MANDAL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2022-12-02 14:45:42",
+       "navn": "OLLIS CANDYWORLD V/NADJA OMDAL",
+       "tilDato": "2023-07-24 16:59:22"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Detaljhandel med bakervarer, konditorvarer og sukkervarer",
+      "kode": "47.240"
+     },
+     "navn": "PROJECT MANAGMENT V/NADJA OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "930353027",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-12-02",
+     "registreringsdatoForetaksregisteret": "2022-12-02",
+     "registreringsdatoMerverdiavgiftsregisteret": "2022-12-10",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2022-12-12",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926439871"
+      }
+     },
+     "aktivitet": [
+      "Rådgiving innen kommunikasjon, krisehåndtering, PR. Skrivehjelp og",
+      "journalistiske tjenester. Kurs og undervisning, møteledelse og",
+      "foredrag. Kjøp, restaurering og salg av antikviteter."
+     ],
+     "epostadresse": "kjersti@raus-norge.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Estenstadvegen 153"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7049",
+      "poststed": "TRONDHEIM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.raus-norge.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Nynorsk",
+     "mobil": "977 47 272",
+     "naeringskode1": {
+      "beskrivelse": "Pr og kommunikasjonstjenester",
+      "kode": "73.300"
+     },
+     "navn": "RAUS OMDØMMEBYGGING VED KJERSTI BRUHEIM",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "926439871",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2021-01-22",
+     "registreringsdatoForetaksregisteret": "2021-01-22",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/921586043"
+      }
+     },
+     "aktivitet": [
+      "Produksjon og salg av gras."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hasselveien 101"
+      ],
+      "kommune": "FARSUND",
+      "kommunenummer": "4206",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4560",
+      "poststed": "VANSE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dyrking av ettårige vekster ellers",
+      "kode": "01.190"
+     },
+     "navn": "REIDAR OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "921586043",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2018-10-23",
+     "registreringsdatoMerverdiavgiftsregisteret": "2019-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2019-04-11",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/981851056"
+      }
+     },
+     "aktivitet": [
+      "Privat legepraksis."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lektor Mosgrens gate 16"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4022",
+      "poststed": "STAVANGER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2000-04-12 17:18:17",
+       "navn": "OMDAL ROALD",
+       "tilDato": "2008-12-23 20:51:08"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "40767767",
+     "naeringskode1": {
+      "beskrivelse": "Allmennlegetjenester",
+      "kode": "86.210"
+     },
+     "navn": "ROALD OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "981851056",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2000-04-12",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995798824"
+      }
+     },
+     "aktivitet": [
+      "Eierseksjonssameie."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Stauslandstunet 5"
+      ],
+      "kommune": "KRISTIANSAND",
+      "kommunenummer": "4204",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4640",
+      "poststed": "SØGNE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i borettslag og boligsameier",
+      "kode": "97.001"
+     },
+     "navn": "SAMEIET OBERSTLØITNANT OMDALSVEI 10",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ESEK"
+       }
+      },
+      "beskrivelse": "Eierseksjonssameie",
+      "kode": "ESEK"
+     },
+     "organisasjonsnummer": "995798824",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2010-08-18",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1983-06-10",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930540277"
+      }
+     },
+     "aktivitet": [
+      "Gårdsdrift med sauer, brøyting med traktor, utleie av lager/garasje."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Omdalveien 72"
+      ],
+      "kommune": "LUND",
+      "kommunenummer": "1112",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4463",
+      "poststed": "UALAND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Sauehold",
+      "kode": "01.451"
+     },
+     "navn": "SANDRA ÅRRESTAD OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "930540277",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-12-27",
+     "registreringsdatoMerverdiavgiftsregisteret": "2023-02-03",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-02-06",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997734939"
+      }
+     },
+     "aktivitet": [
+      "Hovslager og holistisk hesteterapaut."
+     ],
+     "epostadresse": "silje.omdalen@hotmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Øvrevegen 71"
+      ],
+      "kommune": "NORE OG UVDAL",
+      "kommunenummer": "3338",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3544",
+      "poststed": "TUNHOVD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "932 01 396",
+     "naeringskode1": {
+      "beskrivelse": "Sportsaktiviteter ikke nevnt annet sted",
+      "kode": "93.190"
+     },
+     "navn": "SILJE OMDALEN",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "997734939",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2011-12-19",
+     "registreringsdatoMerverdiavgiftsregisteret": "2012-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2012-09-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931803093"
+      }
+     },
+     "aktivitet": [
+      "Ingeniørtjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hausmyrveien 91"
+      ],
+      "kommune": "SANDNES",
+      "kommunenummer": "1108",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4312",
+      "poststed": "SANDNES"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen teknisk konsulentvirksomhet",
+      "kode": "71.129"
+     },
+     "navn": "SIVILINGENIØR STIAN OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "931803093",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-07-31",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932353261"
+      }
+     },
+     "aktivitet": [
+      "Utleie av fast eiendom.",
+      "Snekkerarbeid, montering av dører, vinduer, kjøkken med mer.",
+      "Tømrer, oppføring og vedlikehold av bygninger.",
+      "Utvikling av byggeprosjekter for salg eller utleie, totalentreprenør.",
+      "Vaktmestertjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Holaveien 11"
+      ],
+      "kommune": "LUND",
+      "kommunenummer": "1112",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4460",
+      "poststed": "MOI"
+     },
+     "fravalgRevisjonBeslutningsDato": "2023-10-12",
+     "fravalgRevisjonDato": "2023-10-28",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2023-10-28",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av egen eller leid fast eiendom",
+      "kode": "68.200"
+     },
+     "navn": "SKJÆRPE OG OMDAL EIENDOM AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "932353261",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-10-28",
+     "registreringsdatoForetaksregisteret": "2023-10-28",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2023-10-12",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2023-10-12",
+     "vedtektsfestetFormaal": [
+      "Kjøp og salg av eiendom. Renovering og utleie av eiendom."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937853300"
+      }
+     },
+     "aktivitet": [
+      "Snekkerarbeid, montering av dører, vinduer, kjøkken med mer."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Ytre Mydlandsveien 31"
+      ],
+      "kommune": "SOKNDAL",
+      "kommunenummer": "1111",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4380",
+      "poststed": "HAUGE I DALANE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Snekkerarbeid",
+      "kode": "43.320"
+     },
+     "navn": "SNIKKAR OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "937853300",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-06-09",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-08-19",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-08-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/975911209"
+      }
+     },
+     "aktivitet": [
+      "Jordbruk med sauehold og kjøttproduksjon."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Øvrebø"
+      ],
+      "kommune": "HÅ",
+      "kommunenummer": "1119",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4375",
+      "poststed": "HELLVIK"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Sauehold",
+      "kode": "01.451"
+     },
+     "navn": "STEINAR OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "975911209",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1996-01-25",
+     "registreringsdatoMerverdiavgiftsregisteret": "1995-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1996-09-24",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931742078"
+      }
+     },
+     "aktivitet": [
+      "Utøvende musiker.",
+      "Komponist.",
+      "Produksjon av musikk.",
+      "Netthandel med kunst."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Granittveien 26"
+      ],
+      "kommune": "KRISTIANSAND",
+      "kommunenummer": "4204",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4656",
+      "poststed": "HAMRESANDEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "kode": "90.201"
+     },
+     "navn": "STIAN AUSLAND OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "931742078",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-07-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920280994"
+      }
+     },
+     "aktivitet": [
+      "Letsplay på YouTube og Twitch, serverdrift, spill- og",
+      "nettsideprogrammering."
+     ],
+     "epostadresse": "stigping@gmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Moflatvegen 4"
+      ],
+      "kommune": "SKIEN",
+      "kommunenummer": "4003",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3733",
+      "poststed": "SKIEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.stigping.com",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "STIGPING OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "920280994",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2018-01-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987667001"
+      }
+     },
+     "aktivitet": [
+      "Catering tjenester til div. konserter. Mat til crew og ansatte under",
+      "konsertene."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Torbjørn Hornkloves gate 5"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4010",
+      "poststed": "STAVANGER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "91745512",
+     "naeringskode1": {
+      "beskrivelse": "Catering for arrangementer",
+      "kode": "56.210"
+     },
+     "navn": "STINE CONCERT CATERING Omdal",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "987667001",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2005-01-11",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "51 53 70 43",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/828524372"
+      }
+     },
+     "aktivitet": [
+      "Produksjon av vesker."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Rosetvegen 2"
+      ],
+      "kommune": "VESTRE TOTEN",
+      "kommunenummer": "3443",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2833",
+      "poststed": "RAUFOSS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Produksjon av reiseeffekter og salmakerartikler",
+      "kode": "15.120"
+     },
+     "navn": "SUNDE BY LIV OMDAHL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "828524372",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-01-11",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-05-10",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-05-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931898396"
+      }
+     },
+     "aktivitet": [
+      "Programmering."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Heimdalsvegen 26F"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7080",
+      "poststed": "HEIMDAL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "SURGE OMDAL ENK",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "931898396",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-08-16",
+     "registreringsdatoMerverdiavgiftsregisteret": "2024-12-02",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-12-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916654561"
+      }
+     },
+     "aktivitet": [
+      "Musikk, underholdning."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nye Stenklevvei 19"
+      ],
+      "kommune": "ARENDAL",
+      "kommunenummer": "4203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4846",
+      "poststed": "ARENDAL"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk",
+      "kode": "90.201"
+     },
+     "navn": "SVERRE HØEGH-OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "916654561",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-01-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919583614"
+      }
+     },
+     "aktivitet": [
+      "Tannhelsetjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Liaveien 10"
+      ],
+      "kommune": "NESODDEN",
+      "kommunenummer": "3212",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1459",
+      "poststed": "NESODDEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Tannlegetjenester",
+      "kode": "86.230"
+     },
+     "navn": "TANNLEGE FREDRIKKE ARENFELDT OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "919583614",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2017-09-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929001125"
+      }
+     },
+     "aktivitet": [
+      "Lege som skal jobbe på legevakt."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Therese Omdahl",
+       "Tangen alle 49C"
+      ],
+      "kommune": "ARENDAL",
+      "kommunenummer": "4203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4817",
+      "poststed": "HIS"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Allmennlegetjenester",
+      "kode": "86.210"
+     },
+     "navn": "THERESE OMDAHL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "929001125",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-03-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912358917"
+      }
+     },
+     "aktivitet": [
+      "Legevakt."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Skjelåsen 58"
+      ],
+      "kommune": "BJØRNAFJORDEN",
+      "kommunenummer": "4624",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5215",
+      "poststed": "LYSEKLOSTER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "928 52 683",
+     "naeringskode1": {
+      "beskrivelse": "Allmennlegetjenester",
+      "kode": "86.210"
+     },
+     "navn": "THOMAS OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "912358917",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-08-27",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938074720"
+      }
+     },
+     "aktivitet": [
+      "Grunnarbeid (graving, drenering, sprengning, planering).",
+      "Sauehold.",
+      "Kjøttproduksjon på storfe."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sprælesandveien 10"
+      ],
+      "kommune": "EIGERSUND",
+      "kommunenummer": "1101",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4374",
+      "poststed": "EGERSUND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Grunnarbeid",
+      "kode": "43.120"
+     },
+     "naeringskode2": {
+      "beskrivelse": "Oppdrett av annet storfe til kjøttproduksjon og sædproduksjon",
+      "kode": "01.420"
+     },
+     "navn": "TOM-OVE OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938074720",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-07-09",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-08-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-09-30",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997730712"
+      }
+     },
+     "aktivitet": [
+      "Selvstendig kunstnerisk virksomhet innen musikk."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Krukkeveien 84"
+      ],
+      "kommune": "EIGERSUND",
+      "kommunenummer": "1101",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4374",
+      "poststed": "EGERSUND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "900 51 159",
+     "naeringskode1": {
+      "beskrivelse": "Skapende kunstnerisk virksomhet innenfor komposisjon av musikk",
+      "kode": "90.112"
+     },
+     "navn": "TONE OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "997730712",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2011-12-17",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/896692712"
+      }
+     },
+     "aktivitet": [
+      "Planting og avvirkning av skog."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Årikstad",
+       "Bellandsveien 75"
+      ],
+      "kommune": "BIRKENES",
+      "kommunenummer": "4216",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4768",
+      "poststed": "ENGESLAND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2011-03-28 20:22:50",
+       "navn": "TOR ØYVIND OMDAL",
+       "tilDato": "2011-03-29 23:09:23"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "93254410",
+     "naeringskode1": {
+      "beskrivelse": "Skogskjøtsel og andre skogbruksaktiviteter",
+      "kode": "02.100"
+     },
+     "navn": "TOR ØYVIND OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "896692712",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2011-03-28",
+     "registreringsdatoMerverdiavgiftsregisteret": "2012-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2012-06-18",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "37 27 64 85",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/982435471"
+      }
+     },
+     "aktivitet": [
+      "Vanlig jordbruk med melk og saueproduksjon."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Åmdalsveien 390"
+      ],
+      "kommune": "EIGERSUND",
+      "kommunenummer": "1101",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4372",
+      "poststed": "EGERSUND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Melkeproduksjon på storfe og oppdrett av melkekyr",
+      "kode": "01.410"
+     },
+     "naeringskode2": {
+      "beskrivelse": "Sauehold",
+      "kode": "01.451"
+     },
+     "navn": "TORSTEIN OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "982435471",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2000-10-11",
+     "registreringsdatoMerverdiavgiftsregisteret": "2000-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2000-10-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992820950"
+      }
+     },
+     "aktivitet": [
+      "Eie aksjer og andeler i andre selskaper og sammenslutninger og",
+      "aktiviteter i naturlig sammenheng med dette."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Camilla Colletts vei 6"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0258",
+      "poststed": "OSLO"
+     },
+     "fravalgRevisjonDato": "2011-12-14",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Øvrige finansielle foretak unntatt forsikring",
+      "kode": "4900"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 100000.0,
+      "innfortDato": "2008-06-26",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre egeninvesteringsselskaper",
+      "kode": "64.323"
+     },
+     "navn": "TROND OMDAL AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "992820950",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2008-06-26",
+     "registreringsdatoForetaksregisteret": "2008-06-26",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2008-06-10",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2008-06-10",
+     "vedtektsfestetFormaal": [
+      "Eie aksjer og andeler i andre selskaper og sammenslutninger og",
+      "aktiviteter i naturlig sammenheng med dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/988666475"
+      }
+     },
+     "aktivitet": [
+      "Investering i fast eiendom og verdipapirer."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Revheimsberget 8"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4046",
+      "poststed": "HAFRSFJORD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100000,
+      "belop": 10000000.0,
+      "innfortDato": "2007-02-01",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Kjøp og salg av egen fast eiendom",
+      "kode": "68.110"
+     },
+     "navn": "TURID OMDAL AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "988666475",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2005-10-08",
+     "registreringsdatoForetaksregisteret": "2005-10-08",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2005-08-28",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2006-12-11",
+     "vedtektsfestetFormaal": [
+      "Investering i fast eiendom og verdipapirer samt hva hermed står i",
+      "forbindelse, herunder å delta i andre selskaper med lignende",
+      "virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936021689"
+      }
+     },
+     "aktivitet": [
+      "Grafisk design."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Åsveien 5"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3475",
+      "poststed": "SÆTRE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Grafisk design og visuell kommunikasjonsdesign",
+      "kode": "74.120"
+     },
+     "navn": "VESTVARE OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936021689",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-08-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/918306307"
+      }
+     },
+     "aktivitet": [
+      "Jordbruk - sauehold."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Josdalsveien 401"
+      ],
+      "kommune": "SIRDAL",
+      "kommunenummer": "4228",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4440",
+      "poststed": "TONSTAD"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "976 55 137",
+     "naeringskode1": {
+      "beskrivelse": "Sauehold",
+      "kode": "01.451"
+     },
+     "navn": "VIDAR OMDAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "918306307",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-11",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2017-01-03",
+     "registreringsdatoMerverdiavgiftsregisteret": "2017-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2017-01-21",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/984325347"
+      }
+     },
+     "aktivitet": [
+      "Transport, gravearbeid, entreprenørvirksomhet."
+     ],
+     "antallAnsatte": 7,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hausmyrveien 67"
+      ],
+      "kommune": "SANDNES",
+      "kommunenummer": "1108",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4312",
+      "poststed": "SANDNES"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 100000.0,
+      "innfortDato": "2002-03-21",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Grunnarbeid",
+      "kode": "43.120"
+     },
+     "navn": "VIDAR OMDAL MASKIN AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "984325347",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-06-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-06-10",
+     "registreringsdatoEnhetsregisteret": "2002-03-21",
+     "registreringsdatoForetaksregisteret": "2002-03-21",
+     "registreringsdatoMerverdiavgiftsregisteret": "2002-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2002-04-03",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2002-01-02",
+     "telefon": "51 66 53 73",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2002-01-02",
+     "vedtektsfestetFormaal": [
+      "Transport/gravearbeid/entreprenørvirksomhet, samt beslektede tjenester",
+      "innenfor denne bransje, og gjennom aksjetegninger eller på annen måte",
+      "være deltaker i andre foretak, eller drift av disse."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/814439852"
+      }
+     },
+     "aktivitet": [
+      "Brøyting og graving med traktor. Diverse småreparasjoner."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hallandsgrendvegen 6"
+      ],
+      "kommune": "NORE OG UVDAL",
+      "kommunenummer": "3338",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3630",
+      "poststed": "RØDBERG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2014-11-19 20:18:53",
+       "navn": "ÅGE OMDALEN",
+       "tilDato": "2021-07-16 14:59:47"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "90634099",
+     "naeringskode1": {
+      "beskrivelse": "Grunnarbeid",
+      "kode": "43.120"
+     },
+     "navn": "ÅGE OMDALEN",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "814439852",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2014-11-19",
+     "registreringsdatoForetaksregisteret": "2021-07-16",
+     "registreringsdatoMerverdiavgiftsregisteret": "2015-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2015-05-11",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    }
+   ]
+  },
+  "_links": {
+   "first": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=OMD&navnMetodeForSoek=FORTLOEPENDE&page=0&size=100"
+   },
+   "prev": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=OMD&navnMetodeForSoek=FORTLOEPENDE&page=0&size=100"
+   },
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=OMD&navnMetodeForSoek=FORTLOEPENDE&size=100&page=1"
+   },
+   "last": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=OMD&navnMetodeForSoek=FORTLOEPENDE&page=1&size=100"
+   }
+  },
+  "page": {
+   "number": 1,
+   "size": 100,
+   "totalElements": 154,
+   "totalPages": 2
+  }
+ }
+}

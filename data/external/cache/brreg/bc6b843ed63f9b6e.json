@@ -1,0 +1,2767 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=UTEL&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930452858"
+      }
+     },
+     "aktivitet": [
+      "Drift av bar og alt som faller naturlig inn."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Torggata 27"
+      ],
+      "kommune": "SORTLAND",
+      "kommunenummer": "1870",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8400",
+      "poststed": "SORTLAND"
+     },
+     "fravalgRevisjonBeslutningsDato": "2022-11-23",
+     "fravalgRevisjonDato": "2022-12-12",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 100000.0,
+      "innfortDato": "2022-12-12",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": true,
+     "konkursdato": "2026-01-21",
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av barer",
+      "kode": "56.300"
+     },
+     "navn": "BALUBA UTELIVSDRIFT AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "930452858",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-12-12",
+     "registreringsdatoForetaksregisteret": "2022-12-12",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2024",
+     "stiftelsesdato": "2022-11-23",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2022-11-23",
+     "vedtektsfestetFormaal": [
+      "Drift av bar-virksomhet og alt som faller naturlig inn."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937010192"
+      }
+     },
+     "aktivitet": [
+      "Konkursbo."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Torggata 27"
+      ],
+      "kommune": "SORTLAND",
+      "kommunenummer": "1870",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8400",
+      "poststed": "SORTLAND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av barer",
+      "kode": "56.300"
+     },
+     "navn": "BALUBA UTELIVSDRIFT AS KONKURSBO",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+       }
+      },
+      "beskrivelse": "Konkursbo",
+      "kode": "KBO"
+     },
+     "organisasjonsnummer": "937010192",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/Adv. Hanne Elise Skare",
+       "Postboks 48"
+      ],
+      "kommune": "HADSEL",
+      "kommunenummer": "1866",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8455",
+      "poststed": "STOKMARKNES"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-01-21",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-01-22",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-01-21",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917253927"
+      }
+     },
+     "aktivitet": [
+      "Drift av pub nattklubb."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Svortlandsvegen 9"
+      ],
+      "kommune": "BØMLO",
+      "kommunenummer": "4613",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5430",
+      "poststed": "BREMNES"
+     },
+     "fravalgRevisjonDato": "2016-05-31",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 30000.0,
+      "innfortDato": "2016-05-31",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av barer",
+      "kode": "56.300"
+     },
+     "navn": "BØMLO UTELIV AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "917253927",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Stølane 24"
+      ],
+      "kommune": "BØMLO",
+      "kommunenummer": "4613",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5430",
+      "poststed": "BREMNES"
+     },
+     "registreringsdatoEnhetsregisteret": "2016-05-31",
+     "registreringsdatoForetaksregisteret": "2016-05-31",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2016-04-20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2016-04-20",
+     "vedtektsfestetFormaal": [
+      "Drift av pub, bar, nattklubb og matservering."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995954168"
+      }
+     },
+     "aktivitet": [
+      "Administrere, forvalte og fremme verksemd og tiltak innan vakt-,",
+      "service- og kontrolltenester såvel på det manuelle som på det tekniske",
+      "området, samt kjøp og sal av varer og utstyr."
+     ],
+     "antallAnsatte": 40,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vievegen 246"
+      ],
+      "kommune": "SUNNFJORD",
+      "kommunenummer": "4647",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "6812",
+      "poststed": "FØRDE"
+     },
+     "fravalgRevisjonDato": "2015-12-17",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 100000.0,
+      "innfortDato": "2010-09-19",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Nynorsk",
+     "mobil": "924 09 070",
+     "naeringskode1": {
+      "beskrivelse": "Etterforskningstjenester og private vakttjenester",
+      "kode": "80.010"
+     },
+     "navn": "FØRDE UTELIV SERVICE AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "995954168",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-09-10",
+     "registreringsdatoEnhetsregisteret": "2010-09-19",
+     "registreringsdatoForetaksregisteret": "2010-09-19",
+     "registreringsdatoMerverdiavgiftsregisteret": "2010-09-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2011-01-05",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2010-07-07",
+     "telefon": "91 39 62 49",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2015-11-23",
+     "vedtektsfestetFormaal": [
+      "Administrere, forvalte og fremme verksemd og tiltak innan vakt-,",
+      "service- og kontrolltenester såvel på det manuelle som på det tekniske",
+      "området, samt kjøp og sal av varer og utstyr."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922731942"
+      }
+     },
+     "aktivitet": [
+      "Drive med avlastning for barn med tiltak i regi av barneverntjenesten."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Semsveien 193"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1384",
+      "poststed": "ASKER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Barneverntjenester",
+      "kode": "88.991"
+     },
+     "navn": "H. T. BIE - MILJØ OG UTELIV",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "922731942",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2019-05-13",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/813655292"
+      }
+     },
+     "aktivitet": [
+      "Levere lyd, lys, DJ og andre relaterte produkter i form av utleie til",
+      "både privat- og bedriftsmarkedet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sørlivegen 48"
+      ],
+      "kommune": "LUNNER",
+      "kommunenummer": "3234",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2743",
+      "poststed": "HARESTUA"
+     },
+     "fravalgRevisjonDato": "2014-05-19",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 2000,
+      "belop": 30000.0,
+      "innfortDato": "2014-05-19",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie og leasing av andre husholdningsvarer og varer til personlig bruk",
+      "kode": "77.220"
+     },
+     "navn": "HADELAND UTELIV AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "813655292",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-03-11",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-03-10",
+     "registreringsdatoEnhetsregisteret": "2014-05-19",
+     "registreringsdatoForetaksregisteret": "2014-05-19",
+     "registreringsdatoMerverdiavgiftsregisteret": "2018-03-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2018-05-08",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2014-05-07",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2014-05-07",
+     "vedtektsfestetFormaal": [
+      "Levere lyd, lys, DJ og andre relaterte produkter i form av utleie til",
+      "både privat- og bedriftsmarkedet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914856647"
+      }
+     },
+     "aktivitet": [
+      "Drive restaurant- og bar virksomhet, samt kjøp, salg og utleie av",
+      "eiendom."
+     ],
+     "antallAnsatte": 8,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Langgaten 44"
+      ],
+      "kommune": "HOLMESTRAND",
+      "kommunenummer": "3903",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3080",
+      "poststed": "HOLMESTRAND"
+     },
+     "fravalgRevisjonDato": "2015-01-26",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2015-01-26 10:11:51",
+       "navn": "NÆSKILDSGATE 6 AS",
+       "tilDato": "2021-01-18 16:34:02"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 750000.0,
+      "innfortDato": "2015-01-26",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+     },
+     "navn": "HOLMESTRAND UTELIV AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "914856647",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-05-11",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-05-10",
+     "registreringsdatoEnhetsregisteret": "2015-01-26",
+     "registreringsdatoForetaksregisteret": "2015-01-26",
+     "registreringsdatoMerverdiavgiftsregisteret": "2021-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-07-31",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2015-01-05",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2021-01-07",
+     "vedtektsfestetFormaal": [
+      "Drive restaurant- og bar virksomhet og alt som naturlig hører inn",
+      "under dette, samt investering i eiendom."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/813589192"
+      }
+     },
+     "aktivitet": [
+      "Salg og service for utesteder i Oslo her under monitoring, salg av lyd",
+      "og lys utstyr."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Apalløkkveien 15B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0956",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "414 22 216",
+     "naeringskode1": {
+      "beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet",
+      "kode": "90.390"
+     },
+     "navn": "KARLSEN UTELIVSERVICE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "813589192",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2014-05-13",
+     "registreringsdatoMerverdiavgiftsregisteret": "2014-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2014-09-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920446574"
+      }
+     },
+     "aktivitet": [
+      "Booking av artister, arrangere events."
+     ],
+     "epostadresse": "post@kulturoguteliv.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hovsgutua 36E"
+      ],
+      "kommune": "GRAN",
+      "kommunenummer": "3446",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2750",
+      "poststed": "GRAN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.kulturoguteliv.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlige foretak",
+      "kode": "2300"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "941 95 000",
+     "naeringskode1": {
+      "beskrivelse": "All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",
+      "kode": "74.990"
+     },
+     "navn": "KULTUR OG UTELIV ANS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ANS"
+       }
+      },
+      "beskrivelse": "Ansvarlig selskap med solidarisk ansvar",
+      "kode": "ANS"
+     },
+     "organisasjonsnummer": "920446574",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2018-04-25",
+     "registreringsdatoForetaksregisteret": "2018-04-25",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2023",
+     "stiftelsesdato": "2017-12-08",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2020-03-19",
+     "vedtektsfestetFormaal": [
+      "Booking av artister, arrangere events."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932982137"
+      }
+     },
+     "aktivitet": [
+      "Impresariovirksomhet."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Dagsjøvegen 17"
+      ],
+      "kommune": "ULLENSAKER",
+      "kommunenummer": "3209",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2067",
+      "poststed": "JESSHEIM"
+     },
+     "fravalgRevisjonBeslutningsDato": "2024-01-10",
+     "fravalgRevisjonDato": "2024-02-08",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2024-02-08",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",
+      "kode": "74.990"
+     },
+     "navn": "KULTUR OG UTELIV NORGE AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "932982137",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2024-02-08",
+     "registreringsdatoForetaksregisteret": "2024-02-08",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2024-01-10",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-01-10",
+     "vedtektsfestetFormaal": [
+      "Impresariovirksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938418063"
+      }
+     },
+     "aktivitet": [
+      "Drift av restaurant/kafe."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Tolstrupveien 8"
+      ],
+      "kommune": "LARVIK",
+      "kommunenummer": "3909",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3260",
+      "poststed": "LARVIK"
+     },
+     "fravalgRevisjonBeslutningsDato": "2026-08-21",
+     "fravalgRevisjonDato": "2026-09-04",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2026-09-04 11:13:26",
+       "navn": "AFAS 210826-07 AS",
+       "tilDato": "2026-10-07 13:49:12"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 3000,
+      "belop": 30000.0,
+      "innfortDato": "2026-09-04",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+     },
+     "navn": "LARSEN UTELIV AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "938418063",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2026-09-04",
+     "registreringsdatoForetaksregisteret": "2026-09-04",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-10-23",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-10-24",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-08-21",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-09-14",
+     "vedtektsfestetFormaal": [
+      "Drive restaurant."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995828642"
+      }
+     },
+     "aktivitet": [
+      "Utelykke, hesteopplevelser. Ridning tur og bane, kjøring med vogn,",
+      "Utleie av hester, undervisning med hester."
+     ],
+     "epostadresse": "markinor79@hotmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Kongsrudveien 55"
+      ],
+      "kommune": "MODUM",
+      "kommunenummer": "3316",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "3370",
+      "poststed": "VIKERSUND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2010-08-18 20:10:09",
+       "navn": "MARI MARKI NORHEIM - UTELYKKE",
+       "tilDato": "2014-01-06 20:22:01"
+      },
+      {
+       "fraDato": "2014-01-06 20:22:01",
+       "navn": "MARI MARKI NORHEIM",
+       "tilDato": "2019-09-05 14:31:48"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "458 13 048",
+     "naeringskode1": {
+      "beskrivelse": "Opplevelsesaktiviteter",
+      "kode": "93.291"
+     },
+     "navn": "MARI MARKI NORHEIM -UTELYKKE HESTEOPPLEVELSER",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "995828642",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2010-08-18",
+     "registreringsdatoMerverdiavgiftsregisteret": "2020-09-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-09-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923860525"
+      }
+     },
+     "aktivitet": [
+      "Drift av utested/serveringssted/bar."
+     ],
+     "antallAnsatte": 16,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Nygata 12"
+      ],
+      "kommune": "RINGSAKER",
+      "kommunenummer": "3411",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2380",
+      "poststed": "BRUMUNDDAL"
+     },
+     "fravalgRevisjonBeslutningsDato": "2019-10-31",
+     "fravalgRevisjonDato": "2019-11-21",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 2500,
+      "belop": 50000.0,
+      "innfortDato": "2019-11-21",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+     },
+     "navn": "NYGATA UTELIV AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "923860525",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Eirik Aspeli Sletten",
+       "Byflatvegen 207"
+      ],
+      "kommune": "RINGSAKER",
+      "kommunenummer": "3411",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2385",
+      "poststed": "BRUMUNDDAL"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-09-10",
+     "registreringsdatoEnhetsregisteret": "2019-11-21",
+     "registreringsdatoForetaksregisteret": "2019-11-21",
+     "registreringsdatoMerverdiavgiftsregisteret": "2019-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-01-04",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2019-10-31",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2019-10-31",
+     "vedtektsfestetFormaal": [
+      "Drift av utested og alt som naturlig faller inn under dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992058161"
+      }
+     },
+     "aktivitet": [
+      "Kafè og restaurantdrift."
+     ],
+     "antallAnsatte": 15,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Aunevegen 1"
+      ],
+      "kommune": "OPPDAL",
+      "kommunenummer": "5021",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7340",
+      "poststed": "OPPDAL"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 380,
+      "belop": 380000.0,
+      "innfortDato": "2007-12-11",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "45252111",
+     "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+     },
+     "navn": "OPPDAL UTELIV AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "992058161",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 54"
+      ],
+      "kommune": "OPPDAL",
+      "kommunenummer": "5021",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7341",
+      "poststed": "OPPDAL"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2007-12-11",
+     "registreringsdatoForetaksregisteret": "2007-12-11",
+     "registreringsdatoMerverdiavgiftsregisteret": "2008-03-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2008-07-08",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2007-11-19",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2007-11-19",
+     "vedtektsfestetFormaal": [
+      "Drift og utvikling av serveringssteder, eie og utvikle fast eiendom,",
+      "delta i andre selskaper, eie og erverve aksjer samt andre",
+      "forretningsområder som naturlig faller sammen med dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/825854282"
+      }
+     },
+     "aktivitet": [
+      "Drift av restauranter, catering, utleie av personell og annet som står",
+      "i naturlig tilknytning til dette."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Nordic Hub",
+       "John Strandruds vei 16"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "fravalgRevisjonBeslutningsDato": "2020-10-01",
+     "fravalgRevisjonDato": "2020-10-27",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2020-10-27 15:43:05",
+       "navn": "NFH 201011 AS",
+       "tilDato": "2020-11-11 12:06:58"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 3000,
+      "belop": 30000.0,
+      "innfortDato": "2020-10-27",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+     },
+     "navn": "OSLO UTELIV DRIFT AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "825854282",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-10-27",
+     "registreringsdatoForetaksregisteret": "2020-10-27",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2020-10-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2020-10-28",
+     "vedtektsfestetFormaal": [
+      "Drift av restauranter, catering, utleie av personell og annet som står",
+      "i naturlig tilknytning til dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920708420"
+      }
+     },
+     "aktivitet": [
+      "Totalleverandør av event og kulturformidling."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Mathias Relling",
+       "Bergvangveien 20"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1384",
+      "poststed": "ASKER"
+     },
+     "fravalgRevisjonBeslutningsDato": "2018-04-05",
+     "fravalgRevisjonDato": "2018-04-11",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 30000.0,
+      "innfortDato": "2018-04-11",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter utført av utflukts- og eventarrangører",
+      "kode": "79.121"
+     },
+     "navn": "OSLO UTELIVSEVENT AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "920708420",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2018-04-11",
+     "registreringsdatoForetaksregisteret": "2018-04-11",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2018-04-05",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2018-04-05",
+     "vedtektsfestetFormaal": [
+      "Totalleverandør av event og kulturformidling."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935079616"
+      }
+     },
+     "aktivitet": [
+      "Tar oppdrag på barer, restauranter og event som trenger personal.",
+      "Utleie av utstyr til eventer f.eks. glass, musikk utstyr, mobile barer",
+      "osv."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Egelandsveien 13"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4015",
+      "poststed": "STAVANGER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre personlige tjenester ikke nevnt annet sted",
+      "kode": "96.990"
+     },
+     "navn": "ROSVALL UTELIV OG EVENT",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "935079616",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-02-25",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-05-18",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-06-04",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936241468"
+      }
+     },
+     "aktivitet": [
+      "Drift av pub."
+     ],
+     "epostadresse": "alexander.s.hammer@hotmail.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Hegdehaugsveien 28A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0352",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "93493292",
+     "naeringskode1": {
+      "beskrivelse": "Drift av barer",
+      "kode": "56.300"
+     },
+     "navn": "SAJDIN-HAMMER EVENT OG UTELIV",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "936241468",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-09-24",
+     "registreringsdatoForetaksregisteret": "2025-09-24",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927040239"
+      }
+     },
+     "aktivitet": [
+      "Pub virksomhet samt hva som naturlig står i",
+      "forbindelse med dette. Selskapet kan også ved aksjeerverv eller på",
+      "annen måte kunne gjøre seg interessert i andre selskap med økonomisk",
+      "formål."
+     ],
+     "antallAnsatte": 23,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Ringveien 5"
+      ],
+      "kommune": "SENJA",
+      "kommunenummer": "5530",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9300",
+      "poststed": "FINNSNES"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100000,
+      "belop": 100000.0,
+      "innfortDato": "2021-04-29",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av barer",
+      "kode": "56.300"
+     },
+     "navn": "SENJA UTELIV AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "927040239",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
+     "registreringsdatoEnhetsregisteret": "2021-04-29",
+     "registreringsdatoForetaksregisteret": "2021-04-29",
+     "registreringsdatoMerverdiavgiftsregisteret": "2021-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-09-09",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2024",
+     "stiftelsesdato": "2021-04-09",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2021-04-09",
+     "vedtektsfestetFormaal": [
+      "Pub virksomhet samt hva som naturlig står i",
+      "forbindelse med dette. Selskapet kan også ved aksjeerverv eller på",
+      "annen måte kunne gjøre seg interessert i andre selskap med økonomisk",
+      "formål."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/943078726"
+      }
+     },
+     "aktivitet": [
+      "Drive kristen misjon og evangelisering internasjonalt. Hovedvekten",
+      "skal legges på å nå unådde og kirkefremmede med evangeliet Jesus",
+      "Kristus. Ved å samarbeide med og å støtte nasjonale kirker og innfødte",
+      "misjonærer, gjennom Stiftelsen Troens Bevis Verdens Evangeliserings",
+      "forskjellige virkegrener."
+     ],
+     "antallAnsatte": 21,
+     "epostadresse": "tbve@tbve.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Saronsdalvegen 14"
+      ],
+      "kommune": "KVINESDAL",
+      "kommunenummer": "4227",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4480",
+      "poststed": "KVINESDAL"
+     },
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-02-20 03:47:00",
+       "navn": "TROENS BEVIS VERDENS EVANGELISER",
+       "tilDato": "1998-08-10 23:23:28"
+      },
+      {
+       "fraDato": "2025-03-22 14:33:46",
+       "navn": "TROENS BEVIS VERDENS EVANGELISERING STI",
+       "tilDato": "2025-11-24 12:41:20"
+      }
+     ],
+     "hjemmeside": "www.tbve.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "kapital": {
+      "belop": 200000.0,
+      "fulltInnbetalt": true,
+      "innbetalt": 200000.0,
+      "innfortDato": "2022-09-19",
+      "type": "Grunnkapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i religiøse organisasjoner",
+      "kode": "94.910"
+     },
+     "navn": "STIFTELSEN INGEN UTELATT",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/STI"
+       }
+      },
+      "beskrivelse": "Stiftelse",
+      "kode": "STI"
+     },
+     "organisasjonsnummer": "943078726",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-07-15",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-07-10",
+     "registreringsdatoEnhetsregisteret": "1995-02-20",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2026-09-07",
+     "registreringsdatoFrivillighetsregisteret": "2010-09-07",
+     "registreringsdatoMerverdiavgiftsregisteret": "1981-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1995-02-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": true,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "1965-05-18",
+     "telefon": "38 35 75 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917015945"
+      }
+     },
+     "aktivitet": [
+      "Drive omsorg gjennom sosiale og kulturelle tiltak for vanskeligstilte",
+      "personer som på grunn av rus og andre forhold har problemer med å",
+      "mestre dagligliv og arbeidsliv. Yte økonomisk støtte til og/eller selv",
+      "finansiere ulike arrangementer, utflukter og andre sosiale tiltak.",
+      "Foreta direkte innkjøp av eller yte økonomisk støtte til varige",
+      "anskaffelser innenfor formålet.",
+      " "
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Torvet 3"
+      ],
+      "kommune": "LILLESTRØM",
+      "kommunenummer": "3205",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2000",
+      "poststed": "LILLESTRØM"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "hjemmeside": "www.stiftelsenpetteruteligger.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "kapital": {
+      "belop": 100000.0,
+      "fulltInnbetalt": true,
+      "innbetalt": 100000.0,
+      "innfortDato": "2016-05-02",
+      "type": "Grunnkapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "90160097",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i fond/legat som støtter veldedige og allmennyttige formål",
+      "kode": "94.991"
+     },
+     "navn": "STIFTELSEN PETTER UTELIGGER",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/STI"
+       }
+      },
+      "beskrivelse": "Stiftelse",
+      "kode": "STI"
+     },
+     "organisasjonsnummer": "917015945",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Nøkkeleiendom AS",
+       "Torvet 3"
+      ],
+      "kommune": "LILLESTRØM",
+      "kommunenummer": "3205",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "2000",
+      "poststed": "LILLESTRØM"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2025-02-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2025-02-10",
+     "registreringsdatoEnhetsregisteret": "2016-05-02",
+     "registreringsdatoFrivillighetsregisteret": "2017-04-03",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": true,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2016-03-16",
+     "telefon": "22 01 70 50",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/999047688"
+      }
+     },
+     "aktivitet": [
+      "Import og grossistvirksomhet av alkoholholdige drikker."
+     ],
+     "epostadresse": "mail@toastpalmer.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lille Grensen 7"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0159",
+      "poststed": "OSLO"
+     },
+     "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+     ],
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2012-10-24 20:28:31",
+       "navn": "THE WINERY AS",
+       "tilDato": "2015-10-14 12:16:55"
+      },
+      {
+       "fraDato": "2015-10-14 12:16:55",
+       "navn": "PALMER BEER AS",
+       "tilDato": "2020-10-06 13:53:47"
+      },
+      {
+       "fraDato": "2020-10-06 13:53:47",
+       "navn": "PALMER SALES PARTNER AS",
+       "tilDato": "2026-10-14 14:53:38"
+      }
+     ],
+     "hjemmeside": "www.toastpalmer.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 300,
+      "belop": 30000.0,
+      "innfortDato": "2012-10-24",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med drikkevarer",
+      "kode": "46.340"
+     },
+     "navn": "TOAST & PALMER UTELIV AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "999047688",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2012-10-24",
+     "registreringsdatoForetaksregisteret": "2012-10-24",
+     "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2015-03-18",
+     "registreringsdatoMerverdiavgiftsregisteret": "2013-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2013-03-07",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2012-10-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-09-09",
+     "vedtektsfestetFormaal": [
+      "Drive handels- og agenturvirksomhet, samt hva hermed står i",
+      "forbindelse, herunder å delta i andre selskaper med lignende",
+      "virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937184794"
+      }
+     },
+     "aktivitet": [
+      "Handel med og investering i fast eiendom, verdipapirer og andre",
+      "formuesobjekter."
+     ],
+     "antallAnsatte": 6,
+     "epostadresse": "info@utel.tech",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Jon Lilletuns vei 3"
+      ],
+      "kommune": "GRIMSTAD",
+      "kommunenummer": "4202",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4879",
+      "poststed": "GRIMSTAD"
+     },
+     "fravalgRevisjonBeslutningsDato": "2026-02-04",
+     "fravalgRevisjonDato": "2026-02-17",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2026-02-17 15:12:23",
+       "navn": "ATHOMSTART INVEST 1114 AS",
+       "tilDato": "2026-04-09 16:22:50"
+      }
+     ],
+     "hjemmeside": "utel.tech",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 30000.0,
+      "innfortDato": "2026-02-17",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "412 13 184",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "UTEL AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "937184794",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
+     "registreringsdatoEnhetsregisteret": "2026-02-17",
+     "registreringsdatoForetaksregisteret": "2026-02-17",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-05-08",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-08-15",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-02-04",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-03-27",
+     "vedtektsfestetFormaal": [
+      "Utvikling og salg av programvare."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/980099741"
+      }
+     },
+     "aktivitet": [
+      "Utvikling. produksjon, salg og konsulentbistand i tilknytning til",
+      "telekommunikasjon, testinstrumenter og overvåkningssystemer, samt å",
+      "delta i andre selskaper."
+     ],
+     "epostadresse": "info@utel.tech",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Jon Lilletuns vei 1"
+      ],
+      "kommune": "GRIMSTAD",
+      "kommunenummer": "4202",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4879",
+      "poststed": "GRIMSTAD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1998-09-16 22:14:01",
+       "navn": "UNIVERSAL TELECOMMUNICATION SYSTEMS AS",
+       "tilDato": "2010-06-28 20:15:12"
+      },
+      {
+       "fraDato": "2010-06-28 20:15:12",
+       "navn": "UTEL SYSTEMS AS",
+       "tilDato": "2022-02-17 10:46:57"
+      }
+     ],
+     "hjemmeside": "utel.tech",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1187529,
+      "belop": 1187529.0,
+      "innfortDato": "2024-07-24",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": true,
+     "konkursdato": "2026-03-17",
+     "maalform": "Bokmål",
+     "mobil": "412 13 184",
+     "naeringskode1": {
+      "beskrivelse": "Utgivelse av annen programvare",
+      "kode": "58.290"
+     },
+     "navn": "UTEL AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "980099741",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Jon Lilletuns vei 3"
+      ],
+      "kommune": "GRIMSTAD",
+      "kommunenummer": "4202",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4879",
+      "poststed": "GRIMSTAD"
+     },
+     "registreringsdatoEnhetsregisteret": "1998-09-16",
+     "registreringsdatoForetaksregisteret": "1998-09-16",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2024",
+     "stiftelsesdato": "1998-07-17",
+     "telefon": "37 04 61 92",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-06-21",
+     "vedtektsfestetFormaal": [
+      "Utvikling, produksjon, salg og konsulentbistand i tilknytning til",
+      "telekommunikasjon, testinstrumenter og overvåkningssystemer samt å",
+      "delta i andre selskaper."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937375697"
+      }
+     },
+     "aktivitet": [
+      "Konkursbo."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Jon Lilletuns vei 1"
+      ],
+      "kommune": "GRIMSTAD",
+      "kommunenummer": "4202",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4879",
+      "poststed": "GRIMSTAD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utgivelse av annen programvare",
+      "kode": "58.290"
+     },
+     "navn": "UTEL AS KONKURSBO",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+       }
+      },
+      "beskrivelse": "Konkursbo",
+      "kode": "KBO"
+     },
+     "organisasjonsnummer": "937375697",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/Adv. Thomas Nordgård",
+       "Torvet 3"
+      ],
+      "kommune": "ARENDAL",
+      "kommunenummer": "4203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4836",
+      "poststed": "ARENDAL"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-03-17",
+     "registreringsdatoMerverdiavgiftsregisteret": "2026-03-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-18",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-03-17",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926885979"
+      }
+     },
+     "aktivitet": [
+      "Drive næringsutvikling, herunder gjøre investeringer og være medeier i",
+      "andre selskaper."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Arendals Fossekompani ASA",
+       "Langbryggen 9"
+      ],
+      "kommune": "ARENDAL",
+      "kommunenummer": "4203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4841",
+      "poststed": "ARENDAL"
+     },
+     "fravalgRevisjonBeslutningsDato": "2021-03-10",
+     "fravalgRevisjonDato": "2021-03-30",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2021-03-30 10:17:49",
+       "navn": "JERVEN HOLDING AS",
+       "tilDato": "2021-06-14 10:01:20"
+      }
+     ],
+     "hjelpeenhetskode": {
+      "beskrivelse": "Hovedkontortjenester",
+      "kode": "70.100"
+     },
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1628572,
+      "belop": 16285720.0,
+      "innfortDato": "2024-07-24",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utgivelse av annen programvare",
+      "kode": "58.290"
+     },
+     "navn": "UTEL HOLDING AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "926885979",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Arendals Fossekompani ASA",
+       "Postboks 280"
+      ],
+      "kommune": "ARENDAL",
+      "kommunenummer": "4203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4803",
+      "poststed": "ARENDAL"
+     },
+     "registreringsdatoEnhetsregisteret": "2021-03-30",
+     "registreringsdatoForetaksregisteret": "2021-03-30",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2021-03-10",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-06-21",
+     "vedtektsfestetFormaal": [
+      "Drive næringsutvikling, herunder gjøre investeringer og være medeier i",
+      "andre selskaper."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938138079"
+      }
+     },
+     "aktivitet": [
+      "Vaktmestertjenester."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Storheia 14"
+      ],
+      "kommune": "FRØYA",
+      "kommunenummer": "5014",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7260",
+      "poststed": "SISTRANDA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Kombinerte tjenester tilknyttet eiendomsdrift",
+      "kode": "81.100"
+     },
+     "navn": "UTELAGET LARSEN",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938138079",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-07-22",
+     "registreringsdatoForetaksregisteret": "2026-07-22",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/897129442"
+      }
+     },
+     "aktivitet": [
+      "Drift av Pub/Serveringssted."
+     ],
+     "antallAnsatte": 20,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Fridtjof Nansens gate 22"
+      ],
+      "kommune": "RANA",
+      "kommunenummer": "1833",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8622",
+      "poststed": "MO I RANA"
+     },
+     "fravalgRevisjonBeslutningsDato": "2024-10-10",
+     "fravalgRevisjonDato": "2024-11-07",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "2011-07-11 20:22:03",
+       "navn": "KOKS AS",
+       "tilDato": "2025-11-06 11:28:37"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 1000,
+      "belop": 1000000.0,
+      "innfortDato": "2011-07-11",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av barer",
+      "kode": "56.300"
+     },
+     "navn": "UTELIV AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "897129442",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Merkantil Consult AS",
+       "Postboks 1408"
+      ],
+      "kommune": "RANA",
+      "kommunenummer": "1833",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "8602",
+      "poststed": "MO I RANA"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2011-07-11",
+     "registreringsdatoForetaksregisteret": "2011-07-11",
+     "registreringsdatoMerverdiavgiftsregisteret": "2011-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2012-03-24",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2011-06-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-10-17",
+     "vedtektsfestetFormaal": [
+      "Selv, gjennom hel-eller deleide selskaper eller ved samarbeid med",
+      "andre virksomheter å drive Pub og serveringssted eller annen",
+      "virksomhet beslektet med dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/953267586"
+      }
+     },
+     "aktivitet": [
+      "Restaurant og servering."
+     ],
+     "antallAnsatte": 17,
+     "epostadresse": "post@corner.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Fiskeriveien 2A"
+      ],
+      "kommune": "NORDKAPP",
+      "kommunenummer": "5620",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9750",
+      "poststed": "HONNINGSVÅG"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-02-19 22:29:00",
+       "navn": "FINNMARK BUNKERS AS",
+       "tilDato": "2003-01-16 23:41:02"
+      },
+      {
+       "fraDato": "2003-01-16 23:41:02",
+       "navn": "NØDEN AS",
+       "tilDato": "2015-02-05 12:47:48"
+      }
+     ],
+     "hjemmeside": "www.utelivinordkapp.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 100000.0,
+      "innfortDato": "2003-01-16",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "90096951",
+     "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+     },
+     "navn": "UTELIV I NORDKAPP AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "953267586",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 389"
+      ],
+      "kommune": "NORDKAPP",
+      "kommunenummer": "5620",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9751",
+      "poststed": "HONNINGSVÅG"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
+     "registreringsdatoEnhetsregisteret": "1995-02-19",
+     "registreringsdatoForetaksregisteret": "1989-10-31",
+     "registreringsdatoMerverdiavgiftsregisteret": "2003-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2003-06-03",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "1989-09-01",
+     "telefon": "78 47 63 40",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2015-01-28",
+     "vedtektsfestetFormaal": [
+      "Restaurantvirksomhet og serveringsvirksomhet samt det som",
+      "naturlig hører inn under dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/978653529"
+      }
+     },
+     "aktivitet": [
+      "Restaurant og pub."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Storgata 27"
+      ],
+      "kommune": "HAMMERFEST",
+      "kommunenummer": "5603",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9600",
+      "poststed": "HAMMERFEST"
+     },
+     "fravalgRevisjonDato": "2015-06-22",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1997-07-03 21:20:51",
+       "navn": "MØLMANN & TRETNES AS",
+       "tilDato": "1997-12-06 15:02:08"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 500,
+      "belop": 500000.0,
+      "innfortDato": "2000-01-05",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+     },
+     "navn": "UTELIV I VEST AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "978653529",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 277"
+      ],
+      "kommune": "HAMMERFEST",
+      "kommunenummer": "5603",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "9615",
+      "poststed": "HAMMERFEST"
+     },
+     "registreringsdatoEnhetsregisteret": "1997-06-26",
+     "registreringsdatoForetaksregisteret": "1997-07-02",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "1997-06-18",
+     "telefon": "78 41 49 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2011-04-25",
+     "vedtektsfestetFormaal": [
+      "Eie og drive restaurant, pub og bar, eventuelt å delta eller i",
+      "samarbeid med lignende virksomhet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/928310450"
+      }
+     },
+     "aktivitet": [
+      "Konsulenttjenester knyttet til ledelse, administrasjon og",
+      "bedriftsutvikling."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Pilestredet 15B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0164",
+      "poststed": "OSLO"
+     },
+     "fravalgRevisjonBeslutningsDato": "2021-11-01",
+     "fravalgRevisjonDato": "2021-12-09",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2021-12-09 11:44:13",
+       "navn": "NFH 211155 AS",
+       "tilDato": "2022-01-20 11:43:51"
+      },
+      {
+       "fraDato": "2022-01-20 11:43:51",
+       "navn": "MG NORD AS",
+       "tilDato": "2025-11-18 12:45:46"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 3000,
+      "belop": 30000.0,
+      "innfortDato": "2021-12-09",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+      "kode": "70.200"
+     },
+     "navn": "UTELIV INVEST AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "928310450",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Skagstindgruppen AS",
+       "Karl Johans gate 27"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0159",
+      "poststed": "OSLO"
+     },
+     "registreringsdatoEnhetsregisteret": "2021-12-09",
+     "registreringsdatoForetaksregisteret": "2021-12-09",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2021-11-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-11-04",
+     "vedtektsfestetFormaal": [
+      "Konsulenttjenester knyttet til ledelse, administrasjon og",
+      "bedriftsutvikling."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925475319"
+      }
+     },
+     "aktivitet": [
+      "Investering innen kultur- og utelivet. Eierskap og investering av",
+      "serveringssteder i Oslo"
+     ],
+     "antallAnsatte": 42,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Mathias Relling",
+       "Bergvangveien 20"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1384",
+      "poststed": "ASKER"
+     },
+     "fravalgRevisjonBeslutningsDato": "2020-08-02",
+     "fravalgRevisjonDato": "2020-08-12",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2020-08-12",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av barer",
+      "kode": "56.300"
+     },
+     "navn": "UTELIV OSLO INVEST AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "925475319",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-11",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2020-08-12",
+     "registreringsdatoForetaksregisteret": "2020-08-12",
+     "registreringsdatoMerverdiavgiftsregisteret": "2021-09-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-08-21",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2020-08-02",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2020-08-02",
+     "vedtektsfestetFormaal": [
+      "Investering innen kultur- og utelivet."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934012739"
+      }
+     },
+     "aktivitet": [
+      "Investering i aksjer og verdipapirer."
+     ],
+     "antallAnsatte": 11,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Pilestredet 15B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0164",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "hjelpeenhetskode": {
+      "beskrivelse": "Hovedkontortjenester",
+      "kode": "70.100"
+     },
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 30000.0,
+      "innfortDato": "2024-09-03",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+     },
+     "navn": "UTELIVSFABRIKKEN AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "934012739",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
+     "registreringsdatoEnhetsregisteret": "2024-09-03",
+     "registreringsdatoForetaksregisteret": "2024-09-03",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-02-20",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2024-08-23",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-08-23",
+     "vedtektsfestetFormaal": [
+      "Investere i og eie aksjer og andeler i andre selskaper, samt å fungere",
+      "som holdingselskap og morselskap i et konsern."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917972869"
+      }
+     },
+     "aktivitet": [
+      "Medlemmene arbeider rundt om kring på utesteder/arrangementer i",
+      "Oslo sentrum og omegn. Foreningen baserer seg på dugnadsånd og sosiale",
+      "arrangementer."
+     ],
+     "epostadresse": "krosjef@ufso.no",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "c/o Malin Salte",
+       "Slåmotgangen 2"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0186",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.ufso.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "mobil": "977 94 214",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "UTELIVSFORENINGEN FOR STUDENTER I OSLO",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "917972869",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-11-02",
+     "registreringsdatoFrivillighetsregisteret": "2016-11-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2017",
+     "stiftelsesdato": "2016-10-26",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925158046"
+      }
+     },
+     "aktivitet": [
+      "Snekkerarbeid, montering av dører, vinduer, kjøkken med mer."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Billingstadsletta 83"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3203",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1396",
+      "poststed": "BILLINGSTAD"
+     },
+     "fravalgRevisjonBeslutningsDato": "2020-05-23",
+     "fravalgRevisjonDato": "2020-06-05",
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "hjemmeside": "www.uteluksus.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 100,
+      "belop": 30000.0,
+      "innfortDato": "2020-06-05",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Snekkerarbeid",
+      "kode": "43.320"
+     },
+     "navn": "UTELUKSUS AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "925158046",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-03-11",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-03-10",
+     "registreringsdatoEnhetsregisteret": "2020-06-05",
+     "registreringsdatoForetaksregisteret": "2020-06-05",
+     "registreringsdatoMerverdiavgiftsregisteret": "2020-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-06-25",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2020-05-23",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2026-02-18",
+     "vedtektsfestetFormaal": [
+      "Prosjektering, salg og montering av pergolaer, terrassetak,",
+      "vinterhager og andre utvendige konstruksjoner i aluminium, glass og",
+      "andre materialer, samt annet arbeid som naturlig faller inn under",
+      "dette."
+     ]
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=UTEL&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 35,
+   "totalPages": 1
+  }
+ }
+}

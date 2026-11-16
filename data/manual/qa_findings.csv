@@ -1,0 +1,12 @@
+input_row_key,veridion_id,attribute,check,severity,value,evidence
+12,fed105d4-93e4-11eb-9937-4fab995bf8ff,company_legal_names,legal_name_of_other_entity,error,ACOME GmbH,"French cooperative ACOME carries the legal name of its German subsidiary"
+27,19609053-0bbc-11ee-900c-9bee0d280070,main_street,outdated_address,error,Bishops Square,"A&O Shearman registered office is 2 Broadgate, London"
+31,4706bd71-93e5-11eb-aa66-9b8d95e2171b,website_domain,website_of_other_company,error,logitech-events.com,"Amazon Web Services EMEA record; domain belongs to an unrelated event site; record also has no country or address"
+90,26c39d80-93e5-11eb-be5a-4f810ab55f2e,company_legal_names,legal_name_of_other_entity,error,Innovic Technology Corporation Limited,"China Telecom Global record carries an unrelated legal name"
+154,2a2e9a98-1200-11ec-b96f-e38fcfed8310,status,possibly_dissolved,warning,eCapacity A/S,"CVR 30814037 dissolved after merger June 2024 per aggregator; not confirmed in CVR"
+186,5890bff3-112b-11ec-b06c-d1fadf322ad0,company_legal_names,legal_name_of_other_entity,error,Re-Vision BV.,"Brreg 954165892 is EXTENDA RETAIL AS at the record's address"
+186,5890bff3-112b-11ec-b06c-d1fadf322ad0,website_domain,website_of_other_company,error,44749.org,"Extenda Retail uses extendaretail.com (Swedish group record)"
+305,fb1700e9-1b5d-11ec-9e2d-97948a03f19d,employee_count,implausible_employee_count,warning,1,"LeasePlan Sverige AB, a national leasing company, listed with 1 employee; industry codes also missing"
+346,a19f2484-93e4-11eb-b4a6-27899be4e45d,main_street,address_of_other_organisation,error,Otto Nielsens Veg 12,"Address belongs to NERAS B.I.L, a sports club"
+519,d4d3de9b-2d28-11ed-abd0-cb4d1b9ef28b,company_legal_names,legal_name_of_other_entity,error,Telenor Pakistan Private Limited,"Norwegian Telenor Linx AS carries the legal name of Telenor Pakistan"
+537,e8cae664-93e4-11eb-b89f-536884b3e7dd,employee_count,copied_from_sibling,warning,6,"TINEX Group and TINEX AS both founded 1991 with 6 employees"

@@ -1,0 +1,136 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=TELENOR+GLOBAL+SERVICES&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994328565"
+      }
+     },
+     "aktivitet": [
+      "Datterselskap i konsern."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Unit #33 Level 8 Two Exchange Squar",
+       "8 Connaght Place Centra"
+      ],
+      "land": "Hongkong",
+      "landkode": "HK",
+      "poststed": "HONG KONG"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "TELENOR GLOBAL SERVICES HONG KONG LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "994328565",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Telenor Global Services AS",
+       "Postboks 800"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1331",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2009-07-17",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2009-06-09",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994743988"
+      }
+     },
+     "aktivitet": [
+      "Datterselskap i konsern."
+     ],
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "#24-02 Fuji Xerox Tower",
+       "80 Ansion Road"
+      ],
+      "land": "Singapore",
+      "landkode": "SG",
+      "poststed": "SINGAPORE 079907"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "TELENOR GLOBAL SERVICES SINGAPORE PTE LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "994743988",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Telenor Global Services AS",
+       "Snarøyveien 30"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1360",
+      "poststed": "FORNEBU"
+     },
+     "registreringsdatoEnhetsregisteret": "2009-11-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2009-09-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=TELENOR%20GLOBAL%20SERVICES&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 2,
+   "totalPages": 1
+  }
+ }
+}

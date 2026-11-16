@@ -1,0 +1,84 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter/935431557?",
+ "response": {
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935431557"
+   }
+  },
+  "aktivitet": [
+   "Telefonsalg på vegne av andre."
+  ],
+  "antallAnsatte": 165,
+  "erIKonsern": false,
+  "forretningsadresse": {
+   "adresse": [
+    "Maridalsveien 323A"
+   ],
+   "kommune": "OSLO",
+   "kommunenummer": "0301",
+   "land": "Norge",
+   "landkode": "NO",
+   "postnummer": "0872",
+   "poststed": "OSLO"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "historiskeNavn": [
+   {
+    "fraDato": "2025-04-30 19:23:54",
+    "navn": "NYE LOYALTY AS",
+    "tilDato": "2025-09-15 20:10:07"
+   }
+  ],
+  "institusjonellSektorkode": {
+   "beskrivelse": "Private aksjeselskaper mv.",
+   "kode": "2100"
+  },
+  "kapital": {
+   "antallAksjer": 3000,
+   "belop": 33000.0,
+   "innfortDato": "2025-10-16",
+   "type": "Aksjekapital",
+   "valuta": "NOK"
+  },
+  "konkurs": false,
+  "maalform": "Bokmål",
+  "naeringskode1": {
+   "beskrivelse": "Telefonvakttjenester og telefonsalg",
+   "kode": "82.200"
+  },
+  "navn": "LOYALTY AS",
+  "organisasjonsform": {
+   "_links": {
+    "self": {
+     "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+    }
+   },
+   "beskrivelse": "Aksjeselskap",
+   "kode": "AS"
+  },
+  "organisasjonsnummer": "935431557",
+  "paategninger": [],
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+  "registreringsdatoEnhetsregisteret": "2025-04-30",
+  "registreringsdatoForetaksregisteret": "2025-04-30",
+  "registreringsdatoMerverdiavgiftsregisteret": "2025-09-12",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-09-13",
+  "registrertIForetaksregisteret": true,
+  "registrertIFrivillighetsregisteret": false,
+  "registrertIMvaregisteret": true,
+  "registrertIPartiregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "respons_klasse": "Enhet",
+  "sisteInnsendteAarsregnskap": "2025",
+  "stiftelsesdato": "2025-04-04",
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "vedtektsdato": "2026-02-11",
+  "vedtektsfestetFormaal": [
+   "Telefonsalg samt å investere i aksjer, herunder å investere i",
+   "selskaper som driver slik virksomhet."
+  ]
+ }
+}

@@ -1,0 +1,412 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=DXC+TECHNOLOGY&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/958958455"
+      }
+     },
+     "aktivitet": [
+      "Yte datatjenester samt hva hermed står i forbind-",
+      "else med dette. Herunder deltagelse i andre",
+      "selskaper med tilsvarende formål."
+     ],
+     "antallAnsatte": 129,
+     "epostadresse": "csc-no@sca.csc.com",
+     "erIKonsern": true,
+     "forretningsadresse": {
+      "adresse": [
+       "Folke Bernadottes vei 38"
+      ],
+      "kommune": "BERGEN",
+      "kommunenummer": "4601",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5147",
+      "poststed": "FYLLINGSDALEN"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-03-12 17:19:00",
+       "navn": "POLICY MANAGEMENT SYSTEMS NORDEN AS",
+       "tilDato": "1998-03-26 19:03:20"
+      },
+      {
+       "fraDato": "1998-03-26 19:03:20",
+       "navn": "POLICY MANAGEMENT SYSTEMS CORPORATION AS",
+       "tilDato": "2000-03-06 23:07:42"
+      },
+      {
+       "fraDato": "2000-03-06 23:07:42",
+       "navn": "MYND AS",
+       "tilDato": "2001-05-02 20:57:42"
+      },
+      {
+       "fraDato": "2001-05-02 20:57:42",
+       "navn": "CSC SOLUTIONS NORGE AS",
+       "tilDato": "2008-11-11 21:08:25"
+      },
+      {
+       "fraDato": "2008-11-11 21:08:25",
+       "navn": "CSC NORGE AS",
+       "tilDato": "2018-04-17 16:49:52"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 23200,
+      "belop": 23700000.0,
+      "innfortDato": "2011-09-24",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "DXC TECHNOLOGY NORGE AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "958958455",
+     "paategninger": [],
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
+     "registreringsdatoEnhetsregisteret": "1995-03-12",
+     "registreringsdatoForetaksregisteret": "1990-11-10",
+     "registreringsdatoMerverdiavgiftsregisteret": "1993-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1995-03-12",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2026",
+     "stiftelsesdato": "1990-10-01",
+     "telefon": "21 63 40 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2018-04-09",
+     "vedtektsfestetFormaal": [
+      "Yte datatjenester samt hva hermed står i forbind-",
+      "else med dette. Herunder deltagelse i andre",
+      "selskaper med tilsvarende formål."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929291824"
+      }
+     },
+     "aktivitet": [
+      "Tjenestevirksomhet innenfor informasjons- og datateknologi."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "UL. Prosta 67"
+      ],
+      "land": "Polen",
+      "landkode": "PL",
+      "poststed": "PL-00-838 WARSZAWA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "DXC TECHNOLOGY POLSKA SP.Z.O.O",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "929291824",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-06-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929107721"
+      }
+     },
+     "aktivitet": [
+      "Utleie av arbeidskraft, støtteleveranse, bedriftens produkter og",
+      "tjenester i henhold til etablerte prosedyrer. Tilby ekspertise for",
+      "IT-infrastruktur, servere, nettverk, applikasjonsinfrastruktur SAP og",
+      "relaterte tjenester. IT-teknisk støtte, inkludert planlegging,",
+      "prosjektledelse, installasjon, pågående",
+      "administrasjon/overvåking/feilsøking og deinstallering, ved å følge",
+      "operasjonelle retningslinjer og prosesser som er i samsvar med",
+      "industristandarder."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Galvaniho 7",
+       "Bratislava 22"
+      ],
+      "land": "Slovakia",
+      "landkode": "SK",
+      "poststed": "SK-820 02 BRATISLAVA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "DXC TECHNOLOGY SLOVAKIA S.R.O.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "929107721",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-05-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929229304"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Spolocnost s rucenim obmedzenym",
+      "beskrivelseBokmaal": "Selskap med begrenset ansvar",
+      "kode": "S.R.O"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Galvaniho 7,",
+       "Bratislava 22,"
+      ],
+      "land": "Slovakia",
+      "landkode": "SK",
+      "poststed": "SK-820 02 BRATISLAVA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "DXC TECHNOLOGY SLOVAKIA S.R.O.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "929229304",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-05-19",
+     "registreringsnummerIHjemlandet": "35785306",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2000-03-31",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Slovakia",
+     "underlagtLovgivningLandKode": "SK",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Ministerstvo spravodlivosti SR",
+       "Zupné námestie"
+      ],
+      "land": "Slovakia",
+      "poststed": "811 03 Bratislava"
+     },
+     "utenlandskRegisterNavn": "Obchodný register"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929107608"
+      }
+     },
+     "aktivitet": [
+      "Utleie av arbeidskraft, støtteleveranse og bedriftens produkter og",
+      "tjenester i henhold til etablerte prosedyrer. Tilby ekspertise for",
+      "IT-infrastruktur, servere, nettverk, applikasjonsinfrastruktur SAP og",
+      "relaterte tjenester. IT-teknisk støtte, inkludert planlegging,",
+      "prosjektledelse, installasjon, pågående",
+      "administrasjon/overvåking/feilsøking og deinstallering, ved å følge",
+      "operasjonelle retningslinjer og prosesser som er i samsvar med",
+      "industristandarder."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "AV Generalitat 163/167",
+       "Sant Cugat Del Valles"
+      ],
+      "land": "Spania",
+      "landkode": "ES",
+      "poststed": "ES-08174 BARCELONA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "DXC TECHNOLOGY SPAIN S.A.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "929107608",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-05-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929230515"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Sociedad Anónima",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "S.A."
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "AV Generalitat 163/167",
+       "Sant Cugat Del Valles"
+      ],
+      "land": "Spania",
+      "landkode": "ES",
+      "poststed": "ES-08174 BARCELONA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "DXC TECHNOLOGY SPAIN S.A.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "929230515",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2022-05-19",
+     "registreringsnummerIHjemlandet": "000151133",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1990-09-10",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Spania",
+     "underlagtLovgivningLandKode": "ES",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Gran Via Les Corts",
+       "Catalanes 184"
+      ],
+      "land": "Spania",
+      "poststed": "8038 Barcelona"
+     },
+     "utenlandskRegisterNavn": "Registro Mercantil de Barcelona"
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=DXC%20TECHNOLOGY&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 6,
+   "totalPages": 1
+  }
+ }
+}

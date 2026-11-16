@@ -1,0 +1,3132 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=ORACLE&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938705275"
+      }
+     },
+     "aktivitet": [
+      "Tilbyr tarot, Lenormand-kortlesning og numerologikonsultasjoner,",
+      "hovedsakelig digitalt."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Øvregata 162"
+      ],
+      "kommune": "HAUGESUND",
+      "kommunenummer": "1106",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "5525",
+      "poststed": "HAUGESUND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "CLELIA ORACLE STUDIO BERGETUN",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "938705275",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2026-10-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917870381"
+      }
+     },
+     "aktivitet": [
+      "IT personell. Registreres for rapporteringsformål."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "ORACLE AMERICA INC.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "917870381",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Suite 400",
+       "2711 Centerville Road",
+       "City of Wilmington"
+      ],
+      "land": "USA",
+      "landkode": "US",
+      "poststed": "19808 COUNTY OF NEW CASTLE DE"
+     },
+     "registreringsdatoEnhetsregisteret": "2016-10-19",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917892652"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Incorporation",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "INC"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Suite 400",
+       "2711 Centerville Road",
+       "City of Wilmington"
+      ],
+      "land": "USA",
+      "landkode": "US",
+      "poststed": "19808 COUNTY OF NEW CASTLE DE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE AMERICA INC.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "917892652",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2016-10-17",
+     "registreringsnummerIHjemlandet": "2101822 8100",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2011-03-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "USA",
+     "underlagtLovgivningLandKode": "US",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "P.O. Box 898"
+      ],
+      "land": "USA",
+      "poststed": "Dover Delaware 19903"
+     },
+     "utenlandskRegisterNavn": "Secretary of State for the State of Delaware"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995172887"
+      }
+     },
+     "aktivitet": [
+      "IT relatert programmerering og systemutvikling."
+     ],
+     "epostadresse": "infobe_be@oracle.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Medialaan 50"
+      ],
+      "land": "Belgia",
+      "landkode": "BE",
+      "poststed": "1800 Vilvoorde"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.oracle.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "ORACLE BELGIA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "995172887",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Oracle Norge AS",
+       "Postboks 384"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2010-02-17",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995172909"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk foretak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Medialaan 50"
+      ],
+      "land": "Belgia",
+      "landkode": "BE",
+      "poststed": "1800 VILVOORDE"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE BELGIA",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "995172909",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2010-02-17",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1990-05-29",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994286536"
+      }
+     },
+     "aktivitet": [
+      "Selskapet vil rent sporadisk stille IT-personell til disposisjon på",
+      "prosjekter som Oracle konsernet har i Norge."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.oracle.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "ORACLE CORPORATION CANADA INC",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "994286536",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Oracle Norge AS",
+       "Postboks 384"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2009-08-27",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994286579"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Inc",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "INC"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "110 Matheson Blvd West Suite 100",
+       "Mississauge"
+      ],
+      "land": "Canada",
+      "landkode": "CA",
+      "poststed": "L5R3P4 Ontario"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE CORPORATION CANADA INC",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "994286579",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2009-08-27",
+     "registreringsnummerIHjemlandet": "1691108",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2006-03-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Canada",
+     "underlagtLovgivningLandKode": "CA",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "284 Wellington Street"
+      ],
+      "land": "Canada",
+      "poststed": "Ottawa, Ontario, Canada K1A 0H8"
+     },
+     "utenlandskRegisterNavn": "Department of Justice Canada"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/981298632"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private limited company",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Orakel Park",
+       "Guildford Road"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "CHERTSEY KT16 9RG ENGLAND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE CORPORATION UK LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "981298632",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1999-11-24",
+     "registreringsnummerIHjemlandet": "01782505",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Storbritannia",
+     "underlagtLovgivningLandKode": "GB",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Crown Way",
+       "Maindy"
+      ],
+      "land": "Storbritannia",
+      "poststed": "Cardiff CF14 3UZ"
+     },
+     "utenlandskRegisterNavn": "Companies House"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/976724534"
+      }
+     },
+     "aktivitet": [
+      "Konsulenttjenester på kontinentalsokkelen."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Orakel Park",
+       "Guildford Road"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "CHERTSEY KT16 9RG ENGLAND"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE CORPORATION UK LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "976724534",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1996-09-11",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/988302554"
+      }
+     },
+     "aktivitet": [
+      "Stiller personell innen IT-bransjen (programmerer/systemutvikler) til",
+      "disposisjon på prosjekter som Oracle konsernet har i Norge."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lautrupbjerg 2-6"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "DK-2750 BALLERUP"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.oracle.dk",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "ORACLE DANMARK APS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "988302554",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2006-10-12",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "+4544808080",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/988302589"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Anpartsselskap",
+      "beskrivelseBokmaal": "Selskap med begrenset ansvar",
+      "kode": "APS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Lautrupbjerg 2-6"
+      ],
+      "land": "Danmark",
+      "landkode": "DK",
+      "poststed": "DK-2750 BALLERUP"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE DANMARK APS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "988302589",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2006-10-12",
+     "registreringsnummerIHjemlandet": "71298515",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1982-11-16",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Danmark",
+     "underlagtLovgivningLandKode": "DK",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Langelinie Allé 17"
+      ],
+      "land": "Danmark",
+      "poststed": "2100 København Ø"
+     },
+     "utenlandskRegisterNavn": "Erhvervsstyrelsen"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/983972357"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Riesstrasse 25",
+       "Hauptverwaltung Munchen"
+      ],
+      "land": "Tyskland",
+      "landkode": "DE",
+      "poststed": "DE-80992 MUNCHEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE DEUTSCHLAND GMBH",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "983972357",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2001-11-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1999-03-19",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/983973914"
+      }
+     },
+     "aktivitet": [
+      "Driver konsulentvirksomhet på norsk kontinentalsokkel."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Riesstrasse 25",
+       "Hauptverwaltung Munchen"
+      ],
+      "land": "Tyskland",
+      "landkode": "DE",
+      "poststed": "DE-80992 MUNCHEN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+      "kode": "82.990"
+     },
+     "navn": "ORACLE DEUTSCHLAND GMBH",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "983973914",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Oracle",
+       "Postboks 384"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2001-11-29",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/988114499"
+      }
+     },
+     "aktivitet": [
+      "Programmering/systemutvikling (innen IT-bransjen)."
+     ],
+     "epostadresse": "taavi.jakobson@oracle.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Raua 36"
+      ],
+      "land": "Estland",
+      "landkode": "EE",
+      "poststed": "EE-10152 TALLIN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.oracle.com/global/ee/index",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "ORACLE EAST CENTRAL EUROPE LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "988114499",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2005-04-26",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/988114545"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "epostadresse": "taavi.jakobson@oracle.comm",
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Osaühing",
+      "beskrivelseBokmaal": "Selskap med begrenset ansvar",
+      "kode": "OÜ"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Raua 36"
+      ],
+      "land": "Estland",
+      "landkode": "EE",
+      "poststed": "EE-10152 TALLIN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2005-04-26 14:02:48",
+       "navn": "ORACLE EAST CENTRAL EUROPE LIMITED",
+       "tilDato": "2015-09-07 20:15:46"
+      }
+     ],
+     "hjemmeside": "www.oracle.com/global/ee/index",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE EAST CENTRAL EUROPE LIMITED EESTI FILIAAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "988114545",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2005-04-26",
+     "registreringsnummerIHjemlandet": "10827203",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2002-01-15",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Estland",
+     "underlagtLovgivningLandKode": "EE",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Kalevi 1"
+      ],
+      "land": "Estland",
+      "poststed": "Tartu 51010"
+     },
+     "utenlandskRegisterNavn": "Äriregister"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911656515"
+      }
+     },
+     "aktivitet": [
+      "Utleie av IT-personell (programmerer/stystemutvikler) til prosjekter",
+      "konsernet har i Norge."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "El Hegaz, Cedare Building",
+       "Misr Al Gedeida"
+      ],
+      "land": "Egypt",
+      "landkode": "EG",
+      "poststed": "EG-CAIRO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ORACLE EGYPT LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "911656515",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-03-16",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911656566"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "El Hegaz, Cedare Building",
+       "Misr Al Gedeida"
+      ],
+      "land": "Egypt",
+      "landkode": "EG",
+      "poststed": "EG-CAIRO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE EGYPT LTD",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "911656566",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-03-15",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1997-10-05",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/984854226"
+      }
+     },
+     "aktivitet": [
+      "Import og salg av software, samt tilknyttede tjenster."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "v/Oracle Norge As",
+       "Vollsveien 2"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1366",
+      "poststed": "LYSAKER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Engroshandel med informasjons- og kommunikasjonsteknologiutstyr",
+      "kode": "46.500"
+     },
+     "navn": "ORACLE EMEA LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "984854226",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/Oracle Norge AS",
+       "Postboks 384"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2002-09-21",
+     "registreringsdatoMerverdiavgiftsregisteret": "2002-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2008-01-09",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "22 92 84 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/884854172"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private Company Limited by Shares",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "East Wall Road East P Business Park"
+      ],
+      "land": "Storbritannia",
+      "landkode": "GB",
+      "poststed": "Dublin 3 Irland"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE EMEA LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "884854172",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2002-09-20",
+     "registreringsnummerIHjemlandet": "158973",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1990-05-15",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Irland",
+     "underlagtLovgivningLandKode": "IE",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Bloom House",
+       "Gloucester Place Lower"
+      ],
+      "land": "Irland",
+      "poststed": "Dublin 1"
+     },
+     "utenlandskRegisterNavn": "The Companies Registration Office -an Oifig um Chlaru Cuideachtai"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/999077110"
+      }
+     },
+     "aktivitet": [
+      "Selskapet vil stille IT-personell (programmerer/systemutvikler) til",
+      "disposisjon på prosjekter som Oracle konsernet har i Norge.",
+      " "
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "10 11 SD F1SEEPZ",
+       "Andheri E"
+      ],
+      "land": "India",
+      "landkode": "IN",
+      "poststed": "IN-400096 MUMBAI"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "ORACLE FINANCIAL SERVICES SOFTWARE LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "999077110",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Oracle Norge AS",
+       "Postboks 384"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2012-11-22",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/999077129"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Private limited",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "LTD"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "10 11 SD F1SEEPZ, Andheri E"
+      ],
+      "land": "India",
+      "landkode": "IN",
+      "poststed": "IN - 400096 MUMBAI"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE FINANCIAL SERVICES SOFTWARE LIMITED",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "999077129",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2012-11-22",
+     "registreringsnummerIHjemlandet": "L72200MH1989PLC05366",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1989-09-27",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "India",
+     "underlagtLovgivningLandKode": "IN",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Everest, 100 Marin Drive"
+      ],
+      "land": "India",
+      "poststed": "Mumbai 400 002"
+     },
+     "utenlandskRegisterNavn": "Registrar of Companies, Maharashtra"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992387246"
+      }
+     },
+     "aktivitet": [
+      "Sporadisk stille IT-personell (programmerer/systemutvikler) til",
+      "disposisjon på prosjekter som Oracle-konsernet har i Norge.",
+      "Utleie av personell til søsterselskap i Norge."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Gräsantörmä 2"
+      ],
+      "land": "Finland",
+      "landkode": "FI",
+      "poststed": "FI-02200 ESPOO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.oracle.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ORACLE FINLAND OY",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "992387246",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2008-06-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992387270"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Yksityinen osakeyhtiö / Privat aktiebolag",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "OY"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Gräsantörmä 2"
+      ],
+      "land": "Finland",
+      "landkode": "FI",
+      "poststed": "FI-02200 ESPO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.oracle.no",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE FINLAND OY",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "992387270",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2008-03-13",
+     "registreringsnummerIHjemlandet": "0640021-6",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "+358954941000",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Finland",
+     "underlagtLovgivningLandKode": "FI",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Arkadiankatu 6 A"
+      ],
+      "land": "Finland",
+      "poststed": "00100 Helsinki"
+     },
+     "utenlandskRegisterNavn": "Patentti - Ja Rekisterihallitus Kaupparekisterijärjestelmä"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992387319"
+      }
+     },
+     "aktivitet": [
+      "Stille sporadisk IT-personale (programmerer/systemutvikler) til",
+      "disposisjon på prosjekter som Oracle-konsernet har i Norge."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "15 Bouulevard Charles De Gaulle"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-32715 COLOMBES CEDEX"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "ORACLE FRANCE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "992387319",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2008-05-07",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/892387362"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Société par actions simplifice",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SAS"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "15 Boulervard Charles de Gaulle"
+      ],
+      "land": "Frankrike",
+      "landkode": "FR",
+      "poststed": "FR-92715 COLOMBES CEDEX"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.oracle.no",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE FRANCE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "892387362",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2008-05-07",
+     "registreringsnummerIHjemlandet": "335092318",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Frankrike",
+     "underlagtLovgivningLandKode": "FR",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "4 rue Pablo Néruda"
+      ],
+      "land": "Frankrike",
+      "poststed": "92020 Nanterre Cedex"
+     },
+     "utenlandskRegisterNavn": "Greffe du Tribunal de Commerce de Nanterre"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923131167"
+      }
+     },
+     "aktivitet": [
+      "Å engasjere seg i kjøp og salg, tilvirkning og utvikling av software,",
+      "hardware og tilknyttede varer og tjenester, herunder å delta i andre",
+      "selskaper engasjert i liknende virksomhet samt enhver annen virksomhet",
+      "som fremmer disse formål."
+     ],
+     "antallAnsatte": 12,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vollsveien 2A"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1366",
+      "poststed": "LYSAKER"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 30000,
+      "belop": 990000.0,
+      "innfortDato": "2019-11-05",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "ORACLE GLOBAL SERVICES NORWAY AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "923131167",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 384"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-11",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "2019-07-26",
+     "registreringsdatoForetaksregisteret": "2019-07-26",
+     "registreringsdatoMerverdiavgiftsregisteret": "2019-07-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2019-10-12",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2019-04-16",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2019-07-30",
+     "vedtektsfestetFormaal": [
+      "Å engasjere seg i kjøp og salg, tilvirkning og utvikling av software,",
+      "hardware og tilknyttede varer og tjenester, herunder å delta i andre",
+      "selskaper engasjert i liknende virksomhet samt enhver annen virksomhet",
+      "som fremmer disse formål."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924669276"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Sociedad de responsabilidad limitada",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "S.L."
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Calle Jose Echegaray, numero 6",
+       "Edificio B,",
+       "Las Rizas de Madrid"
+      ],
+      "land": "Spania",
+      "landkode": "ES",
+      "poststed": "ES-28232 MADRID"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE IBERICA SRL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "924669276",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-03-05",
+     "registreringsnummerIHjemlandet": "000044375",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1986-03-11",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Spania",
+     "underlagtLovgivningLandKode": "ES",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Paseo de la Castellana, 44"
+      ],
+      "land": "Spania",
+      "poststed": "28046 MADRID"
+     },
+     "utenlandskRegisterNavn": "Registro Mercantil de Madrid"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924596724"
+      }
+     },
+     "aktivitet": [
+      "Personell innen IT-bransjen, programerer/systemutvikler til",
+      "disposisjon på prosjekter."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Calle Jose Echegaray, numero 6",
+       "Edificio B",
+       "Las Rozas de Madrid"
+      ],
+      "land": "Spania",
+      "landkode": "ES",
+      "poststed": "ES-28232 MADRID"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ORACLE IBERICA SRL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "924596724",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2020-03-10",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994794973"
+      }
+     },
+     "aktivitet": [
+      "Stille IT personell, programmerer/systemutvikler til disposisjon på",
+      "prosjekter som Oracle konsernet har i Norge."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Ciniselle Balsamo (MI)",
+       "Viale Fulvio Testi 136"
+      ],
+      "land": "Italia",
+      "landkode": "IT",
+      "poststed": "IT-CAP 20092"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "ORACLE ITALIA - S.R.L.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "994794973",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2009-11-25",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/894794992"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Societá a responsabilitá limitata",
+      "beskrivelseBokmaal": "Selskap med begrenset ansvar",
+      "kode": "S.R.L."
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Cinisello Balsamo (MI)",
+       "Viale Fulvio Testi 136"
+      ],
+      "land": "Italia",
+      "landkode": "IT",
+      "poststed": "IT-CAP 20092"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.oracle.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE ITALIA - S.R.L.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "894794992",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2009-11-25",
+     "registreringsnummerIHjemlandet": "01603630599",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2001-12-04",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Italia",
+     "underlagtLovgivningLandKode": "IT",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Unioncamere",
+       "Piazza Sallustio, 21"
+      ],
+      "land": "Italia",
+      "poststed": "00187 Roma"
+     },
+     "utenlandskRegisterNavn": "Registro delle imprese"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/989966413"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Besloten vennootschap",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "BV"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Rijnzathe 6"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "3454PV DE MEERN"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.oracle.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE NEDERLAND BV",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "989966413",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2006-07-05",
+     "registreringsnummerIHjemlandet": "30096087",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1984-08-28",
+     "telefon": "+31306699000",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Nederland",
+     "underlagtLovgivningLandKode": "NL",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Sint Jacobsstraat 300"
+      ],
+      "land": "Nederland",
+      "poststed": "3511 BT Utrecht"
+     },
+     "utenlandskRegisterNavn": "Handelsregister  "
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/889941472"
+      }
+     },
+     "aktivitet": [
+      "Selskapet stiller personell innen IT-bransjen",
+      "(programmerer/systemutvikler) til disposisjon på prosjekter som Oracle",
+      "konsernet har i Norge."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Rijnzathe 6"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "3454PV De Meern"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "ORACLE NEDERLAND BV",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "889941472",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2006-07-05",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/939319891"
+      }
+     },
+     "aktivitet": [
+      "Å engasjere seg i kjøp og salg, tilvirkning og ut-",
+      "vikling av EDB software og tilknyttede varer og",
+      "tjenester, herunder å delta i andre selskaper",
+      "engasjert i liknende virksomhet samt enhver annen",
+      "virksomhet som fremmer disse formål."
+     ],
+     "antallAnsatte": 70,
+     "epostadresse": "info-no@oracle.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Vollsv 2"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1366",
+      "poststed": "LYSAKER"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-02-19 20:18:00",
+       "navn": "Oracle (Norge) A/S",
+       "tilDato": "1998-03-26 18:31:40"
+      }
+     ],
+     "hjemmeside": "www.oracle.com",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 95000,
+      "belop": 5700000.0,
+      "innfortDato": "2006-10-03",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "naeringskode2": {
+      "beskrivelse": "Utgivelse av annen programvare",
+      "kode": "58.290"
+     },
+     "navn": "ORACLE NORGE AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "939319891",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 384"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
+     "registreringsdatoEnhetsregisteret": "1995-02-19",
+     "registreringsdatoForetaksregisteret": "1988-10-06",
+     "registreringsdatoMerverdiavgiftsregisteret": "1988-05-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1995-02-19",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "1986-05-05",
+     "telefon": "67 52 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2012-04-16",
+     "vedtektsfestetFormaal": [
+      "å engasjere seg i kjøp og salg, tilvirkning og utvikling av software,",
+      "hardware og tilknyttede varer og tjenester, herunder å delta i andre",
+      "selskaper engasjert i lignende virksomhet samt enhver annen virksomhet",
+      "som fremmer disse formål."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/988414239"
+      }
+     },
+     "aktivitet": [
+      "Selskapet vil rent sporadisk stille personell innen IT-bransjen",
+      "(programmerer/systemutvikler) til disposisjon på prosjekter som Oracle",
+      "konsernet har i Norge."
+     ],
+     "epostadresse": "malgorzata.wieniawska@oracle.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Sienna 75"
+      ],
+      "land": "Polen",
+      "landkode": "PL",
+      "poststed": "PL-00-833 WARSZAWA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.oracle.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+      "kode": "62.200"
+     },
+     "navn": "ORACLE POLSKA SP. Z O.O.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "988414239",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2005-08-23",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "+48226908700",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/988414298"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak"
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "spolka z organiczona odpowiedzialnoscia",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "SP.Z.O.O"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Sienna 75"
+      ],
+      "land": "Polen",
+      "landkode": "PL",
+      "poststed": "PL-00-833 WARSZAWA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.oracle.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE POLSKA SP. Z O.O.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "988414298",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2005-08-23",
+     "registreringsnummerIHjemlandet": "0000027653",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1998-07-20",
+     "telefon": "+48226908700",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Polen",
+     "underlagtLovgivningLandKode": "PL",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Ministerstwo Sprawiedliwosci",
+       "ul. Czerniakowska 100"
+      ],
+      "land": "Polen",
+      "poststed": "00-454 Warszawa"
+     },
+     "utenlandskRegisterNavn": "Krajowy Rejestr Sadowy"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994795031"
+      }
+     },
+     "aktivitet": [
+      "Stille IT personell, programmerer/systemutvikler til disposisjon på",
+      "prosjekter som Oracle konsernet har i Norge."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Lagos Park Edificio No 8"
+      ],
+      "land": "Portugal",
+      "landkode": "PT",
+      "poststed": "PT-2740 268 PORTO SALVO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "ORACLE PORTUGAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "994795031",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2009-11-25",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994795082"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Sociedade por quotas/Limitada",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "L.DA"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Lagos Park Edificio no 8"
+      ],
+      "land": "Portugal",
+      "landkode": "PT",
+      "poststed": "PT-2740 268 PORTO SALVO"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE PORTUGAL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "994795082",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2009-11-25",
+     "registreringsnummerIHjemlandet": "502186771",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1993-12-29",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Portugal",
+     "underlagtLovgivningLandKode": "PT",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Av. D. Joao II,  1.8.01",
+       "Campus de Justica de Lisboa"
+      ],
+      "land": "Portugal",
+      "poststed": "1990-097 LISBOA"
+     },
+     "utenlandskRegisterNavn": "Conservatória do Registo Comercial"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995172992"
+      }
+     },
+     "aktivitet": [
+      "IT relatert programmering og systemutvikling."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Calea Floreasca Nr 169 A",
+       "Corp B, 1-4 floors"
+      ],
+      "land": "Romania",
+      "landkode": "RO",
+      "poststed": "RO-BUCHAREST SECTOR 1"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.oracle.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "ORACLE ROMANIA SRL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "995172992",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2010-02-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995173034"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Societate cu Raspundere Limitata",
+      "beskrivelseBokmaal": "Selskap med begrenset ansvar",
+      "kode": "SRL"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Calea Floresa Nr 169 A",
+       "Corp B, 1-4 floors"
+      ],
+      "land": "Romania",
+      "landkode": "RO",
+      "poststed": "RO-BUCHAREST SECTOR 1"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE ROMANIA SRL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "995173034",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2010-02-19",
+     "registreringsnummerIHjemlandet": "J40/212387/2002",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2002-12-03",
+     "telefon": "40213678700",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Romania",
+     "underlagtLovgivningLandKode": "RO",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Blvd. Unirii nr. 74",
+       "bl. J3b, sector 3"
+      ],
+      "land": "Romania",
+      "poststed": "030837 Bucuresti"
+     },
+     "utenlandskRegisterNavn": "Oficiul National al Registrului Comertului"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/985739838"
+      }
+     },
+     "aktivitet": [
+      "Driver næringsvirksomhet i Norge."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Uoppgitt",
+      "kode": "00.000"
+     },
+     "navn": "ORACLE SALUTION SERVICES PRT LTD (INDIA)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "985739838",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Prestige Tech. Park, Venus Block",
+       "Phase-I, Level 6-9, SY. NO. 29",
+       "S'Japur M'rthalli Ring Road"
+      ],
+      "land": "India",
+      "landkode": "IN",
+      "poststed": "BANGALORE - 560087 KARNATAKA"
+     },
+     "registreringsdatoEnhetsregisteret": "2003-05-28",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/985742030"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Prestige Tech. park, Venus Block,",
+       "Phase-I, Level 6-9, SY. NO. 29",
+       "S'Japur M'rthalli Ring D"
+      ],
+      "land": "India",
+      "landkode": "IN",
+      "poststed": "BANGALORE KARNATAKA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE SALUTION SERVICES PRT LTD (INDIA)",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "985742030",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2003-05-28",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911655632"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk enhet/foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Spolocnost s rucenim obmedzenym",
+      "beskrivelseBokmaal": "Selskap med begrenset ansvar",
+      "kode": "S.R.O"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Galvaniho Business Center IV",
+       "Galvaniho 17/A"
+      ],
+      "land": "Slovakia",
+      "landkode": "SK",
+      "poststed": "SK-82104 BRATISLAVA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE SLOVENSKO S.R.O.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "911655632",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2013-03-15",
+     "registreringsnummerIHjemlandet": "35690721",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1996-05-20",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Slovakia",
+     "underlagtLovgivningLandKode": "SK",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Ministerstvo spravodlivosti SR",
+       "Zupné námestie"
+      ],
+      "land": "Slovakia",
+      "poststed": "811 03 Bratislava"
+     },
+     "utenlandskRegisterNavn": "Obchodný register"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911655594"
+      }
+     },
+     "aktivitet": [
+      "Utleie av IT-personell (programmerer/systemutvikler) til prosjekter",
+      "konsernet har i Norge."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+      "kode": "78.200"
+     },
+     "navn": "ORACLE SLOVENSKO SPOL S.R.O.",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "911655594",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o Oracle Norge AS",
+       "Postboks 384"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "2013-03-16",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995172941"
+      }
+     },
+     "aktivitet": [
+      "IT - programmering og systemutvikling."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.oracle.com",
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "ORACLE SOFTWARE (SCHWEIZ) GMBH",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "995172941",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Täferstrasse 4"
+      ],
+      "land": "Sveits",
+      "landkode": "CH",
+      "poststed": "5404 Baden-Dättwill"
+     },
+     "registreringsdatoEnhetsregisteret": "2010-02-20",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995172976"
+      }
+     },
+     "aktivitet": [
+      "Utenlandsk foretak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Gesellschaft mit beschränkter Haftung",
+      "beskrivelseBokmaal": "Aksjeselskap",
+      "kode": "GMBH"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Täferstrasse 4"
+      ],
+      "land": "Sveits",
+      "landkode": "CH",
+      "poststed": "5404 Baden-Dättwill"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE SOFTWARE (SCHWEIZ) GMBH",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "995172976",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2010-02-19",
+     "registreringsnummerIHjemlandet": "CH-400.4.018.940-7",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1997-08-15",
+     "telefon": "41564833111",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Sveits",
+     "underlagtLovgivningLandKode": "CH",
+     "utenlandskRegisterAdresse": {
+      "adresse": [
+       "Frey-Herosé-Str. 12"
+      ],
+      "land": "Sveits",
+      "poststed": "5001 Aarau"
+     },
+     "utenlandskRegisterNavn": "Handelsregisteramt des Kantons Aargau"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/980590526"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Box 1215"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "S-164 28 KISTA"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "ORACLE SVENSKA AB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "980590526",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1999-03-10",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1985-02-01",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/880595792"
+      }
+     },
+     "aktivitet": [
+      "Underleverandør/konsulentvirksomhet til Oracle Norge AS."
+     ],
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Annen teknisk konsulentvirksomhet",
+      "kode": "71.129"
+     },
+     "navn": "ORACLE SVENSKA AB",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "880595792",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "Postboks 384"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1326",
+      "poststed": "LYSAKER"
+     },
+     "registreringsdatoEnhetsregisteret": "1999-03-10",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "67 52 67 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997793684"
+      }
+     },
+     "aktivitet": [
+      "Oppfordre og medvirke til fysisk aktivitet blant ansatte i Oracle",
+      "Norge AS, Avd. Trondheim."
+     ],
+     "epostadresse": "oystein.grovlen@oracle.com",
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Haakon VII's gate 7"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7041",
+      "poststed": "TRONDHEIM"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2012-01-05 20:11:23",
+       "navn": "SUN TRONDHEIM BIL",
+       "tilDato": "2012-11-21 20:15:46"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Nynorsk",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i idrettslag og -klubber",
+      "kode": "93.120"
+     },
+     "navn": "ORACLE TRONDHEIM BIL",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "997793684",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2012-01-05",
+     "registreringsdatoFrivillighetsregisteret": "2012-01-05",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2002-05-23",
+     "telefon": "73 84 21 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/978692818"
+      }
+     },
+     "aktivitet": [
+      "Uavhengig brukergruppe.",
+      "Holder møter/samlinger for brukere av Oracle programvare."
+     ],
+     "epostadresse": "styret@ougn.no",
+     "erIKonsern": false,
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "hjemmeside": "www.ougn.no",
+     "institusjonellSektorkode": {
+      "beskrivelse": "Ideelle organisasjoner",
+      "kode": "7000"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+      "kode": "94.992"
+     },
+     "navn": "ORACLE USER GROUP NORWAY",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+       }
+      },
+      "beskrivelse": "Forening/lag/innretning",
+      "kode": "FLI"
+     },
+     "organisasjonsnummer": "978692818",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "c/o ABRA Regnskap og Rådgivning AS",
+       "Posboks 523"
+      ],
+      "kommune": "BÆRUM",
+      "kommunenummer": "3201",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1328",
+      "poststed": "HØVIK"
+     },
+     "registreringsdatoEnhetsregisteret": "1997-07-14",
+     "registreringsdatoFrivillighetsregisteret": "2021-01-07",
+     "registreringsdatoMerverdiavgiftsregisteret": "2013-03-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2013-03-14",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": true,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "1989-03-09",
+     "telefon": "67 52 67 75",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919569662"
+      }
+     },
+     "aktivitet": [
+      "Produksjon og salg av orakelkort, tekster og bøker. Utføring av",
+      "terapeutiske tjenester som massasje, gruppeterapi. Kurs og foredrag.",
+      "Salg av egenprodusert billedkunst."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Valkyrjegata 26C"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4011",
+      "poststed": "STAVANGER"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "2017-09-21 13:59:04",
+       "navn": "SOULUME - ANNETTE LAURENZE SUNDE",
+       "tilDato": "2024-07-01 16:11:39"
+      }
+     ],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Personlig næringsdrivende",
+      "kode": "8200"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Skapende kunstnerisk virksomhet innenfor litteratur",
+      "kode": "90.111"
+     },
+     "navn": "ORACLES OF NORWAY - ANNETTE LAURENZE SUNDE",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+       }
+      },
+      "beskrivelse": "Enkeltpersonforetak",
+      "kode": "ENK"
+     },
+     "organisasjonsnummer": "919569662",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2017-09-21",
+     "registreringsdatoMerverdiavgiftsregisteret": "2017-11-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2017-12-02",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931772147"
+      }
+     },
+     "aktivitet": [
+      "Produksjon og drift av OrakelApp og selvhjelpsapper."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Valkyrjegata 26C"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4011",
+      "poststed": "STAVANGER"
+     },
+     "fravalgRevisjonBeslutningsDato": "2023-07-03",
+     "fravalgRevisjonDato": "2023-07-26",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 31320,
+      "belop": 31320.0,
+      "innfortDato": "2024-08-05",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Dataprogrammeringstjenester",
+      "kode": "62.100"
+     },
+     "navn": "ORACLES OF NORWAY INTERNATIONAL AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "931772147",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2023-07-26",
+     "registreringsdatoForetaksregisteret": "2023-07-26",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-06-13",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-07-02",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2023-07-03",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2024-07-22",
+     "vedtektsfestetFormaal": [
+      "Produksjon og drift av Orakel App og Selvhjelps Apper, og det som står",
+      "i naturlig tilknytning til dette."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935140234"
+      }
+     },
+     "aktivitet": [
+      "Forlagsvirksomhet, utgivelse av bøker."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Valkyrjegata 26C"
+      ],
+      "kommune": "STAVANGER",
+      "kommunenummer": "1103",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "4011",
+      "poststed": "STAVANGER"
+     },
+     "fravalgRevisjonBeslutningsDato": "2025-02-24",
+     "fravalgRevisjonDato": "2025-03-03",
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "kapital": {
+      "antallAksjer": 33334,
+      "belop": 33334.0,
+      "innfortDato": "2025-03-25",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Utgivelse av bøker",
+      "kode": "58.110"
+     },
+     "navn": "ORACLES OF NORWAY PUBLISHING AS",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+       }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+     },
+     "organisasjonsnummer": "935140234",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "2025-03-03",
+     "registreringsdatoForetaksregisteret": "2025-03-03",
+     "registreringsdatoMerverdiavgiftsregisteret": "2025-04-30",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-05-05",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "sisteInnsendteAarsregnskap": "2025",
+     "stiftelsesdato": "2025-02-24",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "vedtektsdato": "2025-03-04",
+     "vedtektsfestetFormaal": [
+      "Forlagsvirksomhet med hovedfokus på produksjon, markedsføring og salg",
+      "av orakelkort. Selskapet kan også utgi bøker, andre kortprodukter samt",
+      "tilby relaterte mer-produkter som gratulasjonskort og profilartikler."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937684207"
+      }
+     },
+     "aktivitet": [
+      "Konkursbo."
+     ],
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Riisløkka 23"
+      ],
+      "kommune": "FREDRIKSTAD",
+      "kommunenummer": "3107",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1614",
+      "poststed": "FREDRIKSTAD"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Elektrisk installasjonsarbeid",
+      "kode": "43.210"
+     },
+     "navn": "SOLCELLE ORACLE AS KONKURSBO",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+       }
+      },
+      "beskrivelse": "Konkursbo",
+      "kode": "KBO"
+     },
+     "organisasjonsnummer": "937684207",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "v/Adv. Vigdis Brandstorp",
+       "Freskoveien 9"
+      ],
+      "kommune": "FREDRIKSTAD",
+      "kommunenummer": "3107",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1605",
+      "poststed": "FREDRIKSTAD"
+     },
+     "registreringsdatoEnhetsregisteret": "2026-05-08",
+     "registrertIForetaksregisteret": false,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "stiftelsesdato": "2026-05-08",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=ORACLE&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 53,
+   "totalPages": 1
+  }
+ }
+}

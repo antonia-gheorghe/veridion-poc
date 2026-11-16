@@ -1,0 +1,157 @@
+{
+ "url": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=KLM+ROYAL+DUTCH+AIRLINES&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0",
+ "response": {
+  "_embedded": {
+   "enheter": [
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/954569640"
+      }
+     },
+     "aktivitet": [
+      "Hovedforetak."
+     ],
+     "erIKonsern": false,
+     "foretaksformIHjemlandet": {
+      "beskrivelse": "Naamlooze vennotschap",
+      "beskrivelseBokmaal": "Allment aksjeselskap",
+      "kode": "NV"
+     },
+     "forretningsadresse": {
+      "adresse": [
+       "Amsterdamsweg 55"
+      ],
+      "land": "Nederland",
+      "landkode": "NL",
+      "poststed": "1182 GP Amstelveen"
+     },
+     "harRegistrertAntallAnsatte": false,
+     "historiskeNavn": [
+      {
+       "fraDato": "1995-02-23 13:33:00",
+       "navn": "KLM Royal Dutch Airlines",
+       "tilDato": "2000-05-11 13:08:17"
+      },
+      {
+       "fraDato": "2000-05-11 13:08:17",
+       "navn": "KLM ROYAL DUTCH AIRLINES",
+       "tilDato": "2000-05-16 20:36:52"
+      }
+     ],
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "navn": "KLM ROYAL DUTCH AIRLINES",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+       }
+      },
+      "beskrivelse": "Utenlandsk enhet",
+      "kode": "UTLA"
+     },
+     "organisasjonsnummer": "954569640",
+     "paategninger": [],
+     "registreringsdatoEnhetsregisteret": "1995-02-23",
+     "registreringsdatoForetaksregisteret": "2000-05-16",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": false,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false,
+     "underlagtLovgivningLand": "Nederland",
+     "underlagtLovgivningLandKode": "NL",
+     "vedtektsfestetFormaal": [
+      "Flyselskap."
+     ]
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "https://data.brreg.no/enhetsregisteret/api/enheter/954569373"
+      }
+     },
+     "aktivitet": [
+      "Flyselskap."
+     ],
+     "antallAnsatte": 6,
+     "erIKonsern": false,
+     "forretningsadresse": {
+      "adresse": [
+       "Tordenskiolds gate 7"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0160",
+      "poststed": "OSLO"
+     },
+     "harRegistrertAntallAnsatte": true,
+     "historiskeNavn": [],
+     "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+     },
+     "konkurs": false,
+     "maalform": "Bokmål",
+     "naeringskode1": {
+      "beskrivelse": "Andre tjenester tilknyttet lufttransport",
+      "kode": "52.230"
+     },
+     "navn": "KLM-ROYAL DUTCH AIRLINES Filial av utenlandsk foretak. NUF",
+     "organisasjonsform": {
+      "_links": {
+       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+       }
+      },
+      "beskrivelse": "Norskregistrert utenlandsk foretak",
+      "kode": "NUF"
+     },
+     "organisasjonsnummer": "954569373",
+     "paategninger": [],
+     "postadresse": {
+      "adresse": [
+       "KLM and Air France Area Office",
+       "Hemvärnsgatan 9"
+      ],
+      "land": "Sverige",
+      "landkode": "SE",
+      "poststed": "SE-171 54 Solna"
+     },
+     "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-02-12",
+     "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-02-10",
+     "registreringsdatoEnhetsregisteret": "1995-02-19",
+     "registreringsdatoForetaksregisteret": "1990-03-07",
+     "registreringsdatoMerverdiavgiftsregisteret": "1970-01-01",
+     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1995-02-19",
+     "registrertIForetaksregisteret": true,
+     "registrertIFrivillighetsregisteret": false,
+     "registrertIMvaregisteret": true,
+     "registrertIPartiregisteret": false,
+     "registrertIStiftelsesregisteret": false,
+     "respons_klasse": "Enhet",
+     "telefon": "24 13 46 00",
+     "underAvvikling": false,
+     "underTvangsavviklingEllerTvangsopplosning": false
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "https://data.brreg.no/enhetsregisteret/api/enheter?navn=KLM%20ROYAL%20DUTCH%20AIRLINES&navnMetodeForSoek=FORTLOEPENDE&size=100&page=0"
+   }
+  },
+  "page": {
+   "number": 0,
+   "size": 100,
+   "totalElements": 2,
+   "totalPages": 1
+  }
+ }
+}
