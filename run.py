@@ -1,5 +1,5 @@
 """Run the full pipeline: raw -> resolved matches -> QC -> client output."""
-from src import config, qc
+from src import config, export, qc
 from src.load import load_raw
 from src.resolve import resolve
 from src.score import score_candidates
@@ -25,7 +25,10 @@ def main():
     if not failed.empty:
         print(f"WARNING: Brreg lookup failed for {len(failed)} records: {failed.input_row_key.tolist()}")
     print(f"Brreg sample: {len(sample)} Norwegian records, lookup outcomes {sample.lookup.value_counts().to_dict()}")
-    # TODO: export
+    dataset = export.build(decisions, raw, flags)
+    export.write(dataset)
+    print(f"Wrote {len(dataset)} suppliers to {config.SUPPLIERS_XLSX.relative_to(config.ROOT)} and .csv")
+    print(dataset.status.value_counts().to_string())
 
 
 if __name__ == "__main__":
