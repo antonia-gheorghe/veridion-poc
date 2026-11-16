@@ -87,18 +87,19 @@ input_row_key,source,veridion_id,company_name,website,country_code,evidence_url,
 541,gleif,,TPM DATA ApS,,DK,https://api.gleif.org/api/v1/lei-records/5493007H015K5FTTC974,,gleif:5493007H015K5FTTC974,active,current name,medium
 581,prh+gleif,,Zalaris HR Services Finland Oy,,FI,https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=ZALARIS+HR+SERVICES https://api.gleif.org/api/v1/lei-records/9845007BB50DF43A7716,,prh:1846808-2; gleif:9845007BB50DF43A7716,prh status=2 tradeRegisterStatus=1,current name,medium
 591,brreg,,ZTE NORWAY AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/990526184,,brreg:990526184,active,current name,medium
-164,aggregator,,ELGIGANTEN GROSSIST A/S,,DK,see agent notes,dissolved after merger 2002-03-22 (aggregator),cvr:19425096,,,low
-532,aggregator,,Thales DIS Danmark A/S,,DK,see agent notes,former name SETEC CARD A/S (aggregator),cvr:16882194,,,low
-555,aggregator,,Ur Consult ApS,,DK,see agent notes,moved from Olesvej 8 to Hellerup 2023 (aggregator),cvr:26479088,,,low
-508,aggregator,,TELENOR SHARED SERVICES DENMARK A/S,,DK,see agent notes,dissolved 2013-09-23 (aggregator),cvr:28848838,,,low
-177,aggregator,,ERP DENMARK ApS,,DK,see agent notes,at input address (aggregator),cvr:33153155,,,low
-285,aggregator,,Kahoot! Denmark ApS,,DK,see agent notes,former Actimo ApS (aggregator),cvr:32932770,,,low
-278,aggregator,,JANSSON KOMMUNIKATION A/S,,DK,see agent notes,AEON DANMARK A/S is a secondary name (aggregator),cvr:23452715,,,low
-269,aggregator,,INTRUM A/S,,DK,see agent notes,ADVIS A/S is a secondary name (aggregator),cvr:10613779,,,low
-194,aggregator,,FIRE EATER A/S,,DK,see agent notes,DANSK HALON TEKNIK ApS was a secondary name 1979-1990 (aggregator); company site confirms Fire Eater at input address,cvr:59538713,,,low
 162,aggregator,,Egencia Sweden AB,,SE,https://www.allabolag.se/5562629716,allabolag.se; address differs,se:556262-9716,,,low
 414,aggregator,,QlikTech Nordic AB,,SE,https://www.allabolag.se/5564810355,allabolag.se,se:556481-0355,,,low
 516,aggregator,,Telenor Global Shared Services Pakistan (Pvt.) Limited,,PK,https://opencorporates.com/companies/pk/0069910,OpenCorporates,pk:0069910,,,low
 190,aggregator,,FASTBRIDGE MALAYSIA SDN. BHD.,,MY,https://www.creditscan.com.my/Malaysia-Company/FASTBRIDGE-MALAYSIA-SDN-BHD/640336-P,"CreditScan, EMIS; address agrees",my:200401001833,,,low
 28,aggregator,,Altair Global Relocation Singapore Pte. Ltd.,altairglobal.com,SG,https://www.emis.cn/php/company-profile/SG/Altair_Global_Relocation_Singapore_Pte_Ltd_en_22248006.html,EMIS; conflicting addresses,,,,low
 50,aggregator,,ARY Communications Limited,arydigital.tv,PK,https://pacra.com/finalPr/MTQxMzE=,PACRA rating; PSX document unreadable,,,,low
+269,research,,INTRUM A/S,,DK,https://datacvr.virk.dk/enhed/virksomhed/10613779,CVR lists ADVIS A/S as a binavn; address equals input (2500 Valby is in Copenhagen),cvr:10613779,active,secondary name,high
+278,research,,JANSSON KOMMUNIKATION A/S,,DK,https://datacvr.virk.dk/enhed/virksomhed/23452715,CVR lists AEON DANMARK A/S as a binavn; address equals input,cvr:23452715,active,secondary name,high
+194,research,,FIRE EATER A/S,,DK,https://datacvr.virk.dk/enhed/virksomhed/59538713,"CVR history: binavn DANSK HALON TEKNIK ApS in 1986 and 1990 entries, no longer listed; address equals input; merged with FE Blue Holding ApS (38902490) on 2026-01-22, Fire Eater continuing",cvr:59538713,active,former secondary name,high
+532,research,,Thales DIS Danmark A/S,,DK,https://datacvr.virk.dk/enhed/virksomhed/16882194,"CVR history: name SETEC CARD A/S 1993-1997, then binavn until deleted 2019-10-11; renamed SETEC DANMARK, GEMALTO DENMARK, Thales DIS Danmark; at input address since 2022",cvr:16882194,active,former name,high
+285,research,,Kahoot! Denmark ApS,,DK,https://datacvr.virk.dk/enhed/virksomhed/32932770,"CVR current name; binavne Actimo ApS, Staffcore ApS; address equals input",cvr:32932770,active,current name,high
+177,research,,ERP DENMARK ApS,,DK,https://datacvr.virk.dk/enhed/virksomhed/33153155,CVR current name; address equals input,cvr:33153155,active,current name,high
+555,research,,Ur Consult ApS,,DK,https://datacvr.virk.dk/enhed/virksomhed/26479088,"CVR current name; input address Olesvej 8, 2830 Virum is the registered address until 2023-06-22",cvr:26479088,active,current name,high
+164,research,,ELGIGANTEN GROSSIST A/S,,DK,https://datacvr.virk.dk/enhed/virksomhed/19425096,"CVR: dissolved after merger with ELGIGANTEN A/S (17237977), successor status not checked; address equals input",cvr:19425096,dissolved after merger 2002-03-22,current name,high
+508,research,,TELENOR SHARED SERVICES DENMARK A/S,,DK,https://datacvr.virk.dk/enhed/virksomhed/28848838,"CVR: dissolved after declaration (voluntary, no successor); address equals input",cvr:28848838,dissolved after declaration 2013-09-23,current name,high
+304,research,,LPDK A/S,,DK,https://datacvr.virk.dk/enhed/virksomhed/16227641,"CVR history: binavn LEASEPLAN FINANS A/S (input spaced LEASE PLAN) deleted 2025-03-04 when LEASEPLAN DANMARK A/S became LPDK A/S; at input address Midtager 20 until 2026-09-16; assets and debts demerged to NewCo LP ApS (44718162) on 2025-03-03, likely successor, not checked",cvr:16227641,active,former secondary name,medium
