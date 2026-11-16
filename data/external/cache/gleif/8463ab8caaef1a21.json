@@ -1,0 +1,204 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=COMMSCOPE+TECHNOLOGIES+LLC&filter%5Bentity.legalAddress.country%5D=US&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=COMMSCOPE+TECHNOLOGIES+LLC&filter%5Bentity.legalAddress.country%5D=US&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=COMMSCOPE+TECHNOLOGIES+LLC&filter%5Bentity.legalAddress.country%5D=US&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "M4TWC4QDOKW45N7T6Y12",
+    "attributes": {
+     "lei": "M4TWC4QDOKW45N7T6Y12",
+     "entity": {
+      "legalName": {
+       "name": "COMMSCOPE TECHNOLOGIES LLC",
+       "language": "en"
+      },
+      "otherNames": [
+       {
+        "name": "ANDREW LLC",
+        "language": "en",
+        "type": "TRADING_OR_OPERATING_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "C/O UNITED AGENT GROUP INC.",
+        "1521 CONCORD PIKE SUITE 201"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "WILMINGTON",
+       "region": "US-DE",
+       "country": "US",
+       "postalCode": "19803"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "2601 TELECOM PARKWAY"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "RICHARDSON",
+       "region": "US-TX",
+       "country": "US",
+       "postalCode": "75082"
+      },
+      "registeredAt": {
+       "id": "RA000602",
+       "other": null
+      },
+      "registeredAs": "2108411",
+      "jurisdiction": "US-DE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "HZEH",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1997-01-28T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "ACCOUNTS_FILING",
+          "effectiveDate": "2025-11-10T00:00:00Z",
+          "recordedDate": "2025-11-10T13:21:13Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "ACCOUNTS_FILING",
+          "effectiveDate": "2023-11-08T00:00:00Z",
+          "recordedDate": "2023-12-08T09:36:03Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "ACCOUNTS_FILING",
+          "effectiveDate": "2023-11-08T00:00:00Z",
+          "recordedDate": "2023-12-08T09:35:18Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2012-11-26T23:17:00Z",
+      "lastUpdateDate": "2026-10-26T17:28:30Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-01-05T00:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000602",
+       "other": null
+      },
+      "validatedAs": "2108411",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "us_de/2108411",
+     "qcc": null,
+     "gem": null,
+     "spglobal": [
+      "301642807"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/M4TWC4QDOKW45N7T6Y12/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/M4TWC4QDOKW45N7T6Y12/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/M4TWC4QDOKW45N7T6Y12/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/M4TWC4QDOKW45N7T6Y12/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/M4TWC4QDOKW45N7T6Y12/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/M4TWC4QDOKW45N7T6Y12/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/M4TWC4QDOKW45N7T6Y12/ultimate-parent"
+      }
+     },
+     "direct-children": {
+      "links": {
+       "relationship-records": "https://api.gleif.org/api/v1/lei-records/M4TWC4QDOKW45N7T6Y12/direct-child-relationships",
+       "related": "https://api.gleif.org/api/v1/lei-records/M4TWC4QDOKW45N7T6Y12/direct-children"
+      }
+     },
+     "isins": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/M4TWC4QDOKW45N7T6Y12/isins"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/M4TWC4QDOKW45N7T6Y12"
+    }
+   }
+  ]
+ }
+}

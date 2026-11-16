@@ -1,0 +1,385 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Salling+Group+Forsikring+A%2FS&filter%5Bentity.legalAddress.country%5D=DK&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 2,
+    "total": 2,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Salling+Group+Forsikring+A%2FS&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Salling+Group+Forsikring+A%2FS&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300ZASS3J2C6WVK09",
+    "attributes": {
+     "lei": "549300ZASS3J2C6WVK09",
+     "entity": {
+      "legalName": {
+       "name": "Salling Group Captiveforsikringsselskab A/S",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "D.S. FORSIKRING A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Rosbjergvej 33",
+        "Årslev"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Brabrand",
+       "region": "DK-82",
+       "country": "DK",
+       "postalCode": "8220"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Rosbjergvej 33",
+        "Årslev"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Brabrand",
+       "region": "DK-82",
+       "country": "DK",
+       "postalCode": "8220"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "21503886",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1999-01-05T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Rosbjergvej 33",
+         "Arslev"
+        ],
+        "city": "Brabrand",
+        "region": "DK-82",
+        "country": "DK",
+        "postalCode": "8220"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Rosbjergvej 33",
+         "Arslev"
+        ],
+        "city": "Brabrand",
+        "region": "DK-82",
+        "country": "DK",
+        "postalCode": "8220"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2013-12-25T03:11:00Z",
+      "lastUpdateDate": "2026-03-16T09:48:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-04-13T14:11:43Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "21503886",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/21503886",
+     "qcc": "QDKPH7A447",
+     "gem": null,
+     "spglobal": [
+      "113031627"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300ZASS3J2C6WVK09/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300ZASS3J2C6WVK09/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300ZASS3J2C6WVK09/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300ZASS3J2C6WVK09/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300ZASS3J2C6WVK09/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300ZASS3J2C6WVK09/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300ZASS3J2C6WVK09"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300CMSEDY2PLCYW20",
+    "attributes": {
+     "lei": "549300CMSEDY2PLCYW20",
+     "entity": {
+      "legalName": {
+       "name": "Salling Group Captiveforsikringsselskab",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "Investin Pro F.M.B.A. - Dansk Supermarked Forsikring",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "Kapitalforeningen Investin Pro - Dansk Supermarked Forsikring",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O NYKREDIT PORTEFØLJE ADMINISTRATION A/S",
+        "Sundkrogsgade 25"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O NYKREDIT PORTEFØLJE ADMINISTRATION A/S",
+       "city": "Nordhavn",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2150"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O NYKREDIT PORTEFØLJE ADMINISTRATION A/S",
+        "Sundkrogsgade 25"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O NYKREDIT PORTEFØLJE ADMINISTRATION A/S",
+       "city": "Nordhavn",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2150"
+      },
+      "registeredAt": {
+       "id": "RA000171",
+       "other": null
+      },
+      "registeredAs": "24105-009",
+      "jurisdiction": "DK",
+      "category": "FUND",
+      "legalForm": {
+       "id": "9999",
+       "other": "Sub-Fund"
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2014-01-23T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "C/O NYKREDIT PORTEFOLJE ADMINISTRATION A/S",
+         "Sundkrogsgade 25"
+        ],
+        "mailRouting": "C/O NYKREDIT PORTEFOLJE ADMINISTRATION A/S",
+        "city": "Nordhavn",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2150"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "C/O NYKREDIT PORTEFOLJE ADMINISTRATION A/S",
+         "Sundkrogsgade 25"
+        ],
+        "mailRouting": "C/O NYKREDIT PORTEFOLJE ADMINISTRATION A/S",
+        "city": "Nordhavn",
+        "region": "DK-84",
+        "country": "DK",
+        "postalCode": "2150"
+       }
+      ],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2024-05-23T00:00:00Z",
+          "recordedDate": "2024-09-20T00:00:00Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2024-05-23T00:00:00Z",
+          "recordedDate": "2024-09-20T00:00:00Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-01-23T03:03:00Z",
+      "lastUpdateDate": "2026-07-16T11:12:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-09-12T00:00:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000171",
+       "other": null
+      },
+      "validatedAs": "24105-009",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": null,
+     "qcc": null,
+     "gem": null,
+     "spglobal": [
+      "254616910"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300CMSEDY2PLCYW20/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300CMSEDY2PLCYW20/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300CMSEDY2PLCYW20/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300CMSEDY2PLCYW20/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300CMSEDY2PLCYW20/ultimate-parent-reporting-exception"
+      }
+     },
+     "fund-manager": {
+      "links": {
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300CMSEDY2PLCYW20/fund-manager",
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300CMSEDY2PLCYW20/fund-manager-relationship"
+      }
+     },
+     "umbrella-fund": {
+      "links": {
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300CMSEDY2PLCYW20/umbrella-fund",
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300CMSEDY2PLCYW20/umbrella-fund-relationship"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300CMSEDY2PLCYW20"
+    }
+   }
+  ]
+ }
+}

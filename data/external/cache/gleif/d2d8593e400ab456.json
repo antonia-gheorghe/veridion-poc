@@ -1,0 +1,174 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Zalaris+HR+Services+Finland+Oy&filter%5Bentity.legalAddress.country%5D=FI&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Zalaris+HR+Services+Finland+Oy&filter%5Bentity.legalAddress.country%5D=FI&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Zalaris+HR+Services+Finland+Oy&filter%5Bentity.legalAddress.country%5D=FI&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "9845007BB50DF43A7716",
+    "attributes": {
+     "lei": "9845007BB50DF43A7716",
+     "entity": {
+      "legalName": {
+       "name": "Zalaris HR Services Finland Oy",
+       "language": "fi"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "fi",
+       "addressLines": [
+        "Esterinportti 2 B"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "HELSINKI",
+       "region": "FI-18",
+       "country": "FI",
+       "postalCode": "00240"
+      },
+      "headquartersAddress": {
+       "language": "fi",
+       "addressLines": [
+        "Esterinportti 2 B"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "HELSINKI",
+       "region": "FI-18",
+       "country": "FI",
+       "postalCode": "00240"
+      },
+      "registeredAt": {
+       "id": "RA000188",
+       "other": null
+      },
+      "registeredAs": "1846808-2",
+      "jurisdiction": "FI",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "DKUW",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2003-08-20T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2025-02-21T00:00:00Z",
+          "recordedDate": "2025-03-20T10:47:43Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2025-02-21T00:00:00Z",
+          "recordedDate": "2025-03-20T10:47:43Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2023-03-28T07:59:17Z",
+      "lastUpdateDate": "2026-03-24T23:26:05Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-04-02T16:55:48Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000188",
+       "other": null
+      },
+      "validatedAs": "1846808-2",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "fi/1846808-2",
+     "qcc": "QFI1PRKR21",
+     "gem": null,
+     "spglobal": [
+      "271368020"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/9845007BB50DF43A7716/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/9845007BB50DF43A7716/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/9845007BB50DF43A7716/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/9845007BB50DF43A7716/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/9845007BB50DF43A7716/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/9845007BB50DF43A7716/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/9845007BB50DF43A7716/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/9845007BB50DF43A7716"
+    }
+   }
+  ]
+ }
+}

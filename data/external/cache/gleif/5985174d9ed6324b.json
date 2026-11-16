@@ -1,0 +1,374 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=PLP+INVEST%2FEJENDOMME+A%2FS&filter%5Bentity.legalAddress.country%5D=DK&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 2,
+    "total": 2,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=PLP+INVEST%2FEJENDOMME+A%2FS&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=PLP+INVEST%2FEJENDOMME+A%2FS&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300LDDNJ5HZORD923",
+    "attributes": {
+     "lei": "549300LDDNJ5HZORD923",
+     "entity": {
+      "legalName": {
+       "name": "ADM. 670-PLP+ELP Ejendomme",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O PLP Invest/Ejendomme A/S",
+        "Tagtækkervej 8, 3."
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O PLP Invest/Ejendomme A/S",
+       "city": "Odense M",
+       "region": "DK-83",
+       "country": "DK",
+       "postalCode": "5230"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O PLP Invest/Ejendomme A/S",
+        "Tagtækkervej 8, 3."
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O PLP Invest/Ejendomme A/S",
+       "city": "Odense M",
+       "region": "DK-83",
+       "country": "DK",
+       "postalCode": "5230"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "25616057",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "7WRN",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2001-01-01T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "C/O PLP Invest/Ejendomme A/S",
+         "Tagtaekkervej 8, 3."
+        ],
+        "mailRouting": "C/O PLP Invest/Ejendomme A/S",
+        "city": "Odense M",
+        "region": "DK-83",
+        "country": "DK",
+        "postalCode": "5230"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "C/O PLP Invest/Ejendomme A/S",
+         "Tagtaekkervej 8, 3."
+        ],
+        "mailRouting": "C/O PLP Invest/Ejendomme A/S",
+        "city": "Odense M",
+        "region": "DK-83",
+        "country": "DK",
+        "postalCode": "5230"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-10-24T22:35:00Z",
+      "lastUpdateDate": "2025-10-29T08:26:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2026-12-10T10:11:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "25616057",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/25616057",
+     "qcc": "QDKHW6F0PG",
+     "gem": null,
+     "spglobal": [
+      "548005225"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300LDDNJ5HZORD923/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300LDDNJ5HZORD923/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300LDDNJ5HZORD923/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300LDDNJ5HZORD923/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300LDDNJ5HZORD923/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300LDDNJ5HZORD923"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "213800AJTL2RPVGR5R66",
+    "attributes": {
+     "lei": "213800AJTL2RPVGR5R66",
+     "entity": {
+      "legalName": {
+       "name": "PLP EJENDOMME A/S",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "PLP INVEST/EJENDOMME A/S",
+        "language": "sv",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Ørbækvej 101"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": "1. 1.",
+       "mailRouting": null,
+       "city": "Odense SØ",
+       "region": "DK-83",
+       "country": "DK",
+       "postalCode": "5220"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Ørbækvej 101"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": "1. 1.",
+       "mailRouting": null,
+       "city": "Odense SØ",
+       "region": "DK-83",
+       "country": "DK",
+       "postalCode": "5220"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "32323448",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2012-06-29T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Orbaekvej 101"
+        ],
+        "addressNumberWithinBuilding": "1. 1.",
+        "city": "Odense SO",
+        "region": "DK-83",
+        "country": "DK",
+        "postalCode": "5220"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Orbaekvej 101"
+        ],
+        "addressNumberWithinBuilding": "1. 1.",
+        "city": "Odense SO",
+        "region": "DK-83",
+        "country": "DK",
+        "postalCode": "5220"
+       }
+      ],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "validationReference": "https://datacvr.virk.dk/enhed/virksomhed/32323448?fritekst=32323448&sideIndex=0&size=10",
+          "effectiveDate": "2026-05-11T00:00:00Z",
+          "recordedDate": "2026-11-12T00:00:00Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "validationReference": "https://datacvr.virk.dk/enhed/virksomhed/32323448?fritekst=32323448&sideIndex=0&size=10",
+          "effectiveDate": "2026-05-11T00:00:00Z",
+          "recordedDate": "2026-11-12T00:00:00Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "validationReference": "https://datacvr.virk.dk/enhed/virksomhed/32323448?fritekst=32323448&sideIndex=0&size=10",
+          "effectiveDate": "2025-12-10T00:00:00Z",
+          "recordedDate": "2026-11-12T00:00:00Z",
+          "type": "CHANGE_LEGAL_NAME",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-01-29T00:00:00Z",
+      "lastUpdateDate": "2026-11-12T14:19:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-12-28T10:34:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "32323448",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/32323448",
+     "qcc": "QDKQE0TX58",
+     "gem": null,
+     "spglobal": [
+      "251783286"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800AJTL2RPVGR5R66/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800AJTL2RPVGR5R66/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800AJTL2RPVGR5R66/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800AJTL2RPVGR5R66/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800AJTL2RPVGR5R66/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/213800AJTL2RPVGR5R66"
+    }
+   }
+  ]
+ }
+}

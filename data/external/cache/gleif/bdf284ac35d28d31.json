@@ -1,0 +1,159 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=RAPID7+INTERNATIONAL+LIMITED&filter%5Bentity.legalAddress.country%5D=GB&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=RAPID7+INTERNATIONAL+LIMITED&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=RAPID7+INTERNATIONAL+LIMITED&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "254900CDHBGLOUFR7C41",
+    "attributes": {
+     "lei": "254900CDHBGLOUFR7C41",
+     "entity": {
+      "legalName": {
+       "name": "Rapid7 International Limited",
+       "language": "en"
+      },
+      "otherNames": [
+       {
+        "name": "RAPID7 UK LIMITED",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "C/o Fieldfisher Secretaries Limited",
+        "Riverbank House",
+        "2 Swan Lane"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "London",
+       "region": null,
+       "country": "GB",
+       "postalCode": "EC4R 3TT"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "First Floor",
+        "Two Forbury Place",
+        "33 Forbury Road"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Reading",
+       "region": null,
+       "country": "GB",
+       "postalCode": "RG1 3JH"
+      },
+      "registeredAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "registeredAs": "07587098",
+      "jurisdiction": "GB",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H0PO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2011-04-01T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2025-02-19T09:45:56Z",
+      "lastUpdateDate": "2026-02-19T13:30:00Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2026-02-19T09:45:56Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "validatedAs": "07587098",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "gb/07587098",
+     "qcc": "QGB0HTEEGR",
+     "gem": null,
+     "spglobal": [
+      "571458246"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900CDHBGLOUFR7C41/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900CDHBGLOUFR7C41/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900CDHBGLOUFR7C41/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/254900CDHBGLOUFR7C41/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/254900CDHBGLOUFR7C41/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/254900CDHBGLOUFR7C41/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/254900CDHBGLOUFR7C41/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/254900CDHBGLOUFR7C41"
+    }
+   }
+  ]
+ }
+}

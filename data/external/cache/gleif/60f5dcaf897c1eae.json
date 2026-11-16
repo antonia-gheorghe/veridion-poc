@@ -1,0 +1,184 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Ntt+%28Thailand%29+Ltd&filter%5Bentity.legalAddress.country%5D=TH&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Ntt+%28Thailand%29+Ltd&filter%5Bentity.legalAddress.country%5D=TH&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Ntt+%28Thailand%29+Ltd&filter%5Bentity.legalAddress.country%5D=TH&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "213800NCTWJIQLVGU612",
+    "attributes": {
+     "lei": "213800NCTWJIQLVGU612",
+     "entity": {
+      "legalName": {
+       "name": "เอ็นทีที โซลูชั่นส์ (ประเทศไทย) จำกัด",
+       "language": "th"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [
+       {
+        "name": "NTT SOLUTIONS (THAILAND) CO., LTD.",
+        "language": "th",
+        "type": "PREFERRED_ASCII_TRANSLITERATED_LEGAL_NAME"
+       }
+      ],
+      "legalAddress": {
+       "language": "th",
+       "addressLines": [
+        "1875 ONE BANGKOK TOWER 3",
+        "21ST FLOOR, RAMA IV ROAD",
+        "Lumpini Pathum Wan District"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "BANGKOK",
+       "region": "TH-10",
+       "country": "TH",
+       "postalCode": "10330"
+      },
+      "headquartersAddress": {
+       "language": "th",
+       "addressLines": [
+        "1875 ONE BANGKOK TOWER 3",
+        "21ST FLOOR, RAMA IV ROAD",
+        "Lumpini Pathum Wan District"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "BANGKOK",
+       "region": "TH-10",
+       "country": "TH",
+       "postalCode": "10330"
+      },
+      "registeredAt": {
+       "id": "RA000554",
+       "other": null
+      },
+      "registeredAs": "0105532053773",
+      "jurisdiction": "TH",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "K09K",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1989-06-13T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "ACCOUNTS_FILING",
+          "effectiveDate": "2026-01-16T00:00:00Z",
+          "recordedDate": "2026-02-16T08:09:48Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "ACCOUNTS_FILING",
+          "effectiveDate": "2026-01-16T00:00:00Z",
+          "recordedDate": "2026-02-16T08:09:15Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2023-02-14T00:00:00Z",
+      "lastUpdateDate": "2026-10-26T17:28:30Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-02-16T00:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000554",
+       "other": null
+      },
+      "validatedAs": "0105532053773",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "th/0105532053773",
+     "qcc": "QTHF62UQ5K",
+     "gem": null,
+     "spglobal": [
+      "420241708"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800NCTWJIQLVGU612/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800NCTWJIQLVGU612/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800NCTWJIQLVGU612/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/213800NCTWJIQLVGU612/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/213800NCTWJIQLVGU612/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/213800NCTWJIQLVGU612/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/213800NCTWJIQLVGU612/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/213800NCTWJIQLVGU612"
+    }
+   }
+  ]
+ }
+}

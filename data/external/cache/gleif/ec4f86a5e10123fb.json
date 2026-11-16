@@ -1,0 +1,162 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=JOBSTREET.COM+PTE+LTD&filter%5Bentity.legalAddress.country%5D=SG&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=JOBSTREET.COM+PTE+LTD&filter%5Bentity.legalAddress.country%5D=SG&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=JOBSTREET.COM+PTE+LTD&filter%5Bentity.legalAddress.country%5D=SG&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300LWD3K8NTGUF502",
+    "attributes": {
+     "lei": "549300LWD3K8NTGUF502",
+     "entity": {
+      "legalName": {
+       "name": "JOBSTREET.COM PTE LTD",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "1 WALLICH STREET, #24-03, GUOCO TOWER"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "SINGAPORE",
+       "region": "SG-01",
+       "country": "SG",
+       "postalCode": "078881"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "60 Cremorne Street"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Cremorne",
+       "region": "AU-VIC",
+       "country": "AU",
+       "postalCode": "3121"
+      },
+      "registeredAt": {
+       "id": "RA000523",
+       "other": null
+      },
+      "registeredAs": "199904130N",
+      "jurisdiction": "SG",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "IWZF",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1999-07-16T22:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2026-02-26T23:00:00Z",
+          "recordedDate": "2026-02-27T12:58:50Z",
+          "type": "CHANGE_LEGAL_FORM",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2018-05-28T14:31:00Z",
+      "lastUpdateDate": "2026-04-28T10:58:02Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-05-31T11:26:33Z",
+      "managingLou": "5299000J2N45DDNE4Y28",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000523",
+       "other": null
+      },
+      "validatedAs": "199904130N",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "sg/199904130N",
+     "qcc": "QSGJM6XU23",
+     "gem": null,
+     "spglobal": [
+      "31135292"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300LWD3K8NTGUF502/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300LWD3K8NTGUF502/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300LWD3K8NTGUF502/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300LWD3K8NTGUF502/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300LWD3K8NTGUF502/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300LWD3K8NTGUF502/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300LWD3K8NTGUF502/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300LWD3K8NTGUF502"
+    }
+   }
+  ]
+ }
+}

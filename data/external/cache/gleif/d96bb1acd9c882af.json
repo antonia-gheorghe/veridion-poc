@@ -1,0 +1,431 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ANALYSYS+MASON+AS&filter%5Bentity.legalAddress.country%5D=NO&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 3,
+    "total": 3,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ANALYSYS+MASON+AS&filter%5Bentity.legalAddress.country%5D=NO&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ANALYSYS+MASON+AS&filter%5Bentity.legalAddress.country%5D=NO&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300XL71MFWSN8R280",
+    "attributes": {
+     "lei": "549300XL71MFWSN8R280",
+     "entity": {
+      "legalName": {
+       "name": "KOMPROMISS AS",
+       "language": "no"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "no",
+       "addressLines": [
+        "C/O Analysys Mason As",
+        "Tjuvholmen Allé 19"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Oslo",
+       "region": "NO-03",
+       "country": "NO",
+       "postalCode": "0252"
+      },
+      "headquartersAddress": {
+       "language": "no",
+       "addressLines": [
+        "C/O Analysys Mason As",
+        "Tjuvholmen Allé 19"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Oslo",
+       "region": "NO-03",
+       "country": "NO",
+       "postalCode": "0252"
+      },
+      "registeredAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "registeredAs": "997 803 884",
+      "jurisdiction": "NO",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "YI42",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2020-03-18T15:32:00Z",
+      "lastUpdateDate": "2023-08-02T13:09:00Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2021-03-18T10:17:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "validatedAs": "997 803 884",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "no/997803884",
+     "qcc": "QNOYU53GNU",
+     "gem": null,
+     "spglobal": [
+      "659398429"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300XL71MFWSN8R280/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300XL71MFWSN8R280/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300XL71MFWSN8R280/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300XL71MFWSN8R280/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300XL71MFWSN8R280/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300XL71MFWSN8R280"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300NO33DRRSRPG720",
+    "attributes": {
+     "lei": "549300NO33DRRSRPG720",
+     "entity": {
+      "legalName": {
+       "name": "VIKEN CORPORATE FINANCE AS",
+       "language": "no"
+      },
+      "otherNames": [
+       {
+        "name": "CLOUDBERRY MOBILE AS",
+        "language": "no",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "NEXIA CORPORATE FINANCE AS",
+        "language": "no",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "no",
+       "addressLines": [
+        "C/O Analysys Mason AS",
+        "Tjuvholmen allé 19"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "OSLO",
+       "region": "NO-03",
+       "country": "NO",
+       "postalCode": "0252"
+      },
+      "headquartersAddress": {
+       "language": "no",
+       "addressLines": [
+        "C/O Analysys Mason As",
+        "Tjuvholmen Allé 19"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Oslo",
+       "region": "NO-03",
+       "country": "NO",
+       "postalCode": "0252"
+      },
+      "registeredAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "registeredAs": "992 544 864",
+      "jurisdiction": "NO",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "YI42",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2021-03-17T15:29:00Z",
+      "lastUpdateDate": "2023-08-02T13:58:00Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2022-03-17T08:04:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "validatedAs": "992 544 864",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "no/992544864",
+     "qcc": "QNOGMRQ3UX",
+     "gem": null,
+     "spglobal": [
+      "697331876"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300NO33DRRSRPG720/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300NO33DRRSRPG720/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300NO33DRRSRPG720/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300NO33DRRSRPG720/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300NO33DRRSRPG720/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300NO33DRRSRPG720"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "6488EK4C0JG9CM045852",
+    "attributes": {
+     "lei": "6488EK4C0JG9CM045852",
+     "entity": {
+      "legalName": {
+       "name": "ANALYSYS MASON INVESTMENT 2 AS",
+       "language": "no"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "no",
+       "addressLines": [
+        "Tjuvholmen allé 19"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "OSLO",
+       "region": null,
+       "country": "NO",
+       "postalCode": "0252"
+      },
+      "headquartersAddress": {
+       "language": "no",
+       "addressLines": [
+        "Tjuvholmen allé 19"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "OSLO",
+       "region": null,
+       "country": "NO",
+       "postalCode": "0252"
+      },
+      "registeredAt": {
+       "id": "RA000473",
+       "other": null
+      },
+      "registeredAs": "930 466 840",
+      "jurisdiction": "NO",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "YI42",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2022-11-28T23:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "no",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Tjuvholmen alle 19"
+        ],
+        "city": "OSLO",
+        "country": "NO",
+        "postalCode": "0252"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "no",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Tjuvholmen alle 19"
+        ],
+        "city": "OSLO",
+        "country": "NO",
+        "postalCode": "0252"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2026-06-19T07:12:14Z",
+      "lastUpdateDate": "2026-06-19T09:12:17Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-06-18T22:00:00Z",
+      "managingLou": "485100001PLJJ09NZT59",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000473",
+       "other": null
+      },
+      "validatedAs": "930 466 840",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "no/930466840",
+     "qcc": "QNO7KU99KG",
+     "gem": null,
+     "spglobal": [
+      "1813657887"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/6488EK4C0JG9CM045852/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/6488EK4C0JG9CM045852/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/6488EK4C0JG9CM045852/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/6488EK4C0JG9CM045852/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/6488EK4C0JG9CM045852/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/6488EK4C0JG9CM045852"
+    }
+   }
+  ]
+ }
+}

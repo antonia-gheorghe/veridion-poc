@@ -1,0 +1,166 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=HUBER%2BSUHNER+ELECTRONICS+PRIVATE+LIMITED&filter%5Bentity.legalAddress.country%5D=IN&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=HUBER%2BSUHNER+ELECTRONICS+PRIVATE+LIMITED&filter%5Bentity.legalAddress.country%5D=IN&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=HUBER%2BSUHNER+ELECTRONICS+PRIVATE+LIMITED&filter%5Bentity.legalAddress.country%5D=IN&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "3358001PFC5B2XD2GC58",
+    "attributes": {
+     "lei": "3358001PFC5B2XD2GC58",
+     "entity": {
+      "legalName": {
+       "name": "HUBER+SUHNER ELECTRONICS PRIVATE LIMITED",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "1 A-D VANDANA BUILDING",
+        "11 TOLSTOY MARG",
+        "CENTRAL DELHI"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "NEW DELHI",
+       "region": "IN-DL",
+       "country": "IN",
+       "postalCode": "110001"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "1 A-D VANDANA BUILDING",
+        "11 TOLSTOY MARG",
+        "CENTRAL DELHI"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "NEW DELHI",
+       "region": "IN-DL",
+       "country": "IN",
+       "postalCode": "110001"
+      },
+      "registeredAt": {
+       "id": "RA000394",
+       "other": null
+      },
+      "registeredAs": "U32202DL2004FTC128380",
+      "jurisdiction": "IN",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "YSP9",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2004-08-16T18:30:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "OTHER_OFFICIAL_DOCUMENTS",
+          "effectiveDate": "2023-05-18T18:30:00Z",
+          "recordedDate": "2023-05-18T18:30:00Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2018-06-07T12:17:27Z",
+      "lastUpdateDate": "2026-05-14T06:29:51Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-06-06T18:30:00Z",
+      "managingLou": "335800FVH4MOKZS9VH40",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000394",
+       "other": null
+      },
+      "validatedAs": "U32202DL2004FTC128380",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "in/U32202DL2004FTC128380",
+     "qcc": "QINQG4JB99",
+     "gem": null,
+     "spglobal": [
+      "251918497"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/3358001PFC5B2XD2GC58/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/3358001PFC5B2XD2GC58/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/3358001PFC5B2XD2GC58/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/3358001PFC5B2XD2GC58/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/3358001PFC5B2XD2GC58/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/3358001PFC5B2XD2GC58/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/3358001PFC5B2XD2GC58/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/3358001PFC5B2XD2GC58"
+    }
+   }
+  ]
+ }
+}

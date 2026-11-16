@@ -1,0 +1,5465 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=DELTA+EJENDOM%2C+AALBORG+A%2FS&filter%5Bentity.legalAddress.country%5D=DK&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 39,
+    "total": 39,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=DELTA+EJENDOM%2C+AALBORG+A%2FS&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=DELTA+EJENDOM%2C+AALBORG+A%2FS&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "213800WPZZEEGC15HA15",
+    "attributes": {
+     "lei": "213800WPZZEEGC15HA15",
+     "entity": {
+      "legalName": {
+       "name": "DELTA EJENDOM, AALBORG A/S",
+       "language": "en"
+      },
+      "otherNames": [
+       {
+        "name": "DELTA EJENDOM. AALBORG APS",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "KONG FREDERIKS VEJ 1, 1. SAL."
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "AALBORG",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "KONG FREDERIKS VEJ 1, 1. SAL."
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "AALBORG",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "81742618",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-02-17T00:00:00Z",
+      "lastUpdateDate": "2020-03-06T00:07:31Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2020-03-05T00:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "81742618",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/81742618",
+     "qcc": "QDKW299VUE",
+     "gem": null,
+     "spglobal": [
+      "264066861"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800WPZZEEGC15HA15/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800WPZZEEGC15HA15/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800WPZZEEGC15HA15/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800WPZZEEGC15HA15/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800WPZZEEGC15HA15/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/213800WPZZEEGC15HA15"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "984500BFDFCC47F98802",
+    "attributes": {
+     "lei": "984500BFDFCC47F98802",
+     "entity": {
+      "legalName": {
+       "name": "MASKIN-NYT",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Sofiendalsvej 85"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Dansk Revision Aalborg A/S",
+       "city": "Aalborg SV",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9200"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Sofiendalsvej 85"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Dansk Revision Aalborg A/S",
+       "city": "Aalborg SV",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9200"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "69957218",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "WU7R",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "INACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1982-11-03T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2026-06-29T00:00:00Z",
+          "recordedDate": "2026-07-21T13:03:26Z",
+          "type": "DISSOLUTION",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2026-02-11T14:00:53Z",
+      "lastUpdateDate": "2026-07-21T13:03:26Z",
+      "status": "RETIRED",
+      "nextRenewalDate": "2027-02-11T14:00:56Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "69957218",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/69957218",
+     "qcc": "QDK521NKHS",
+     "gem": null,
+     "spglobal": [
+      "686777095"
+     ],
+     "conformityFlag": "NOT_APPLICABLE"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500BFDFCC47F98802/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500BFDFCC47F98802/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500BFDFCC47F98802/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500BFDFCC47F98802/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500BFDFCC47F98802/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/984500BFDFCC47F98802"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "894500O1HH6794ADFZ14",
+    "attributes": {
+     "lei": "894500O1HH6794ADFZ14",
+     "entity": {
+      "legalName": {
+       "name": "M. THOMSEN STØTT. AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [
+       {
+        "name": "M. THOMSEN SToTT. AALBORG A/S",
+        "language": "da",
+        "type": "PREFERRED_ASCII_TRANSLITERATED_LEGAL_NAME"
+       }
+      ],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Halkjærvej 19"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg SV",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9200"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Halkjærvej 19"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg SV",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9200"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "70966719",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1982-11-02T10:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2018-11-26T15:51:48Z",
+      "lastUpdateDate": "2019-11-26T18:00:14Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2019-11-26T15:51:49Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "70966719",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/70966719",
+     "qcc": "QDK6ESPRUA",
+     "gem": null,
+     "spglobal": [
+      "108754028"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500O1HH6794ADFZ14/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500O1HH6794ADFZ14/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500O1HH6794ADFZ14/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/894500O1HH6794ADFZ14/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/894500O1HH6794ADFZ14/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/894500O1HH6794ADFZ14/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/894500O1HH6794ADFZ14/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/894500O1HH6794ADFZ14"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "254900TXSAL5MXO8MT07",
+    "attributes": {
+     "lei": "254900TXSAL5MXO8MT07",
+     "entity": {
+      "legalName": {
+       "name": "SUPERBEST STORKØB AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [
+       {
+        "name": "SUPERBEST STORKoB AALBORG A/S",
+        "language": "da",
+        "type": "PREFERRED_ASCII_TRANSLITERATED_LEGAL_NAME"
+       }
+      ],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Mellem Broerne 7 A",
+        "st"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Nørresundby",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9400"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Mellem Broerne 7 A",
+        "st"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Nørresundby",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9400"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "20177438",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1997-06-25T10:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-12-15T16:36:47Z",
+      "lastUpdateDate": "2026-11-01T21:09:29Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2024-12-15T16:36:21Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "20177438",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/20177438",
+     "qcc": "QDKBKG8TSD",
+     "gem": null,
+     "spglobal": [
+      "558498994"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900TXSAL5MXO8MT07/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900TXSAL5MXO8MT07/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900TXSAL5MXO8MT07/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/254900TXSAL5MXO8MT07/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/254900TXSAL5MXO8MT07/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/254900TXSAL5MXO8MT07/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/254900TXSAL5MXO8MT07/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/254900TXSAL5MXO8MT07"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300X8H0XN682R1W85",
+    "attributes": {
+     "lei": "549300X8H0XN682R1W85",
+     "entity": {
+      "legalName": {
+       "name": "SBN HOLDING AALBORG ApS",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "SBN HOLDING AALBORG A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Hattemagervej 16"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Hattemagervej 16"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "25260546",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2000-03-17T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-09-22T20:07:00Z",
+      "lastUpdateDate": "2026-02-19T06:08:25Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-04-04T04:06:00Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "25260546",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/25260546",
+     "qcc": "QDK6A5GSH5",
+     "gem": null,
+     "spglobal": [
+      "538811111"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300X8H0XN682R1W85/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300X8H0XN682R1W85/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300X8H0XN682R1W85/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300X8H0XN682R1W85/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300X8H0XN682R1W85/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300X8H0XN682R1W85"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300N80SZ2W4LG1K40",
+    "attributes": {
+     "lei": "549300N80SZ2W4LG1K40",
+     "entity": {
+      "legalName": {
+       "name": "UNICON A/S",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "FÆRDIGBETON, AALBORG A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "UNICON BETON A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Ulvehavevej 61"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Vejle",
+       "region": "DK-83",
+       "country": "DK",
+       "postalCode": "7100"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Ulvehavevej 61"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Vejle",
+       "region": "DK-83",
+       "country": "DK",
+       "postalCode": "7100"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "16064939",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1960-12-20T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-01-17T15:20:00Z",
+      "lastUpdateDate": "2026-05-13T10:29:19Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-05-13T10:29:10Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "16064939",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/16064939",
+     "qcc": "QDK26X8SWE",
+     "gem": null,
+     "spglobal": [
+      "5885361"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300N80SZ2W4LG1K40/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300N80SZ2W4LG1K40/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300N80SZ2W4LG1K40/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300N80SZ2W4LG1K40/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300N80SZ2W4LG1K40/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300N80SZ2W4LG1K40/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300N80SZ2W4LG1K40/ultimate-parent"
+      }
+     },
+     "direct-children": {
+      "links": {
+       "relationship-records": "https://api.gleif.org/api/v1/lei-records/549300N80SZ2W4LG1K40/direct-child-relationships",
+       "related": "https://api.gleif.org/api/v1/lei-records/549300N80SZ2W4LG1K40/direct-children"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300N80SZ2W4LG1K40"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "984500Y90EE5A1BF8051",
+    "attributes": {
+     "lei": "984500Y90EE5A1BF8051",
+     "entity": {
+      "legalName": {
+       "name": "ADVOKATFIRMAET VINGAARDSHUS A/S",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "ADVOKATERNE VINGÅRDSHUS ADVOKATAKTIESELSKAB",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "ADVOKATFIRMAET DAHL, KOCH & BOLL, AALBORG A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "ADVOKATAKTIESELSKABET DAHL, AALBORG",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Vingårdsgade 22"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Vingårdsgade 22"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "19232107",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1996-04-25T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2024-06-04T09:01:18Z",
+      "lastUpdateDate": "2024-06-04T09:01:18Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2025-06-04T09:01:20Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "19232107",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/19232107",
+     "qcc": "QDKA7MB4RD",
+     "gem": null,
+     "spglobal": [
+      "214762326"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500Y90EE5A1BF8051/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500Y90EE5A1BF8051/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500Y90EE5A1BF8051/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500Y90EE5A1BF8051/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500Y90EE5A1BF8051/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/984500Y90EE5A1BF8051"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300JWT2LQVK11QX38",
+    "attributes": {
+     "lei": "549300JWT2LQVK11QX38",
+     "entity": {
+      "legalName": {
+       "name": "Solita A/S",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "Commentor A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "Commentor Aalborg A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "Logistics A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Skibsbyggerivej 5 1."
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Skibsbyggerivej 5 1."
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "31873932",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2008-12-02T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "validationReference": "https://datacvr.virk.dk/enhed/virksomhed/31873932?fritekst=31873932&sideIndex=0&size=10",
+          "effectiveDate": "2023-09-30T00:00:00Z",
+          "recordedDate": "2024-05-13T00:00:00Z",
+          "type": "CHANGE_LEGAL_NAME",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2016-07-01T01:49:00Z",
+      "lastUpdateDate": "2026-04-30T08:01:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-06-13T09:16:49Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "31873932",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/31873932",
+     "qcc": "QDKNY7JFB6",
+     "gem": null,
+     "spglobal": [
+      "370535265"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300JWT2LQVK11QX38/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300JWT2LQVK11QX38/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300JWT2LQVK11QX38/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300JWT2LQVK11QX38/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300JWT2LQVK11QX38/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300JWT2LQVK11QX38"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "213800AP2MP8K6SO9E77",
+    "attributes": {
+     "lei": "213800AP2MP8K6SO9E77",
+     "entity": {
+      "legalName": {
+       "name": "PEDERSEN & NIELSEN AUTOMOBILFORRETNING A/S",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "BOULAW 1091 ApS",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "AUTOHUSET. AALBORG A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Århusvej 115"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Randers SØ",
+       "region": "DK-82",
+       "country": "DK",
+       "postalCode": "8960"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Århusvej 115"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Randers SØ",
+       "region": "DK-82",
+       "country": "DK",
+       "postalCode": "8960"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "14854738",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1991-01-15T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-02-20T00:00:00Z",
+      "lastUpdateDate": "2026-09-03T13:50:40Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-11-01T18:09:27Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "14854738",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/14854738",
+     "qcc": "QDKP6XA38X",
+     "gem": null,
+     "spglobal": [
+      "30562012"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800AP2MP8K6SO9E77/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800AP2MP8K6SO9E77/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800AP2MP8K6SO9E77/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800AP2MP8K6SO9E77/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800AP2MP8K6SO9E77/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/213800AP2MP8K6SO9E77"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "5493004LNF7UT9RBRY72",
+    "attributes": {
+     "lei": "5493004LNF7UT9RBRY72",
+     "entity": {
+      "legalName": {
+       "name": "LBN HOLDING AALBORG ApS",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "LBN HOLDING AALBORG A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Julius Posselts Vej 3A, 18. 4"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Nørresundby",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9400"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Julius Posselts Vej 3A, 18. 4"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Nørresundby",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9400"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "25260589",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "INACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2000-03-17T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2026-05-21T00:00:00Z",
+          "recordedDate": "2026-06-29T00:00:00Z",
+          "type": "LIQUIDATION",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2024-02-13T00:00:00Z",
+          "recordedDate": "2024-11-22T12:40:40Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2024-02-13T00:00:00Z",
+          "recordedDate": "2024-11-22T12:40:40Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-09-22T20:18:00Z",
+      "lastUpdateDate": "2026-06-30T11:43:26Z",
+      "status": "RETIRED",
+      "nextRenewalDate": "2026-12-10T15:07:31Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "25260589",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/25260589",
+     "qcc": "QDKJPG8582",
+     "gem": null,
+     "spglobal": [
+      "538815910"
+     ],
+     "conformityFlag": "NOT_APPLICABLE"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493004LNF7UT9RBRY72/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493004LNF7UT9RBRY72/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493004LNF7UT9RBRY72/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493004LNF7UT9RBRY72/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493004LNF7UT9RBRY72/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/5493004LNF7UT9RBRY72"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300ASJXH4NH7KZ298",
+    "attributes": {
+     "lei": "549300ASJXH4NH7KZ298",
+     "entity": {
+      "legalName": {
+       "name": "SELTA AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Myremalmsvej 94"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Espergærde",
+       "region": null,
+       "country": "DK",
+       "postalCode": "3060"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Myremalmsvej 94"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Espergærde",
+       "region": null,
+       "country": "DK",
+       "postalCode": "3060"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "19208648",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1996-03-28T22:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2024-10-29T22:00:00Z",
+          "recordedDate": "2024-10-30T17:11:57Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2024-10-29T22:00:00Z",
+          "recordedDate": "2024-10-30T17:11:57Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-10-08T03:13:00Z",
+      "lastUpdateDate": "2025-10-31T05:21:06Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2026-12-27T10:29:03Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "19208648",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/19208648",
+     "qcc": "QDKN56YHEB",
+     "gem": null,
+     "spglobal": [
+      "547854445"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300ASJXH4NH7KZ298/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300ASJXH4NH7KZ298/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300ASJXH4NH7KZ298/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300ASJXH4NH7KZ298/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300ASJXH4NH7KZ298/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300ASJXH4NH7KZ298"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "894500GZW3SQURT6RW38",
+    "attributes": {
+     "lei": "894500GZW3SQURT6RW38",
+     "entity": {
+      "legalName": {
+       "name": "G. Leopold, Aalborg A/S Hjælpe- og Understøttelses Fond",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Valbyvej 9"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "AARHUS",
+       "region": null,
+       "country": "DK",
+       "postalCode": "8000"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Valbyvej 9"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "AARHUS",
+       "region": null,
+       "country": "DK",
+       "postalCode": "8000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "11704379",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "599X",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1900-12-31T23:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2023-09-04T13:24:27Z",
+      "lastUpdateDate": "2026-09-04T01:30:44Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2026-09-03T22:00:00Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "11704379",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/11704379",
+     "qcc": "QDKQD2123H",
+     "gem": null,
+     "spglobal": [
+      "1854872007"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500GZW3SQURT6RW38/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500GZW3SQURT6RW38/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500GZW3SQURT6RW38/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500GZW3SQURT6RW38/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500GZW3SQURT6RW38/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/894500GZW3SQURT6RW38"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "894500JUKZUTTPCMML83",
+    "attributes": {
+     "lei": "894500JUKZUTTPCMML83",
+     "entity": {
+      "legalName": {
+       "name": "Egeparken 8, Aalborg A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Kaolinvej 8"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg Øst",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9220"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Kaolinvej 8"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg Øst",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9220"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "41331542",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2020-04-24T10:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2022-01-04T15:55:19Z",
+      "lastUpdateDate": "2023-01-04T15:57:18Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2023-01-04T15:55:20Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "41331542",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/41331542",
+     "qcc": "QDKQ6TB3WR",
+     "gem": null,
+     "spglobal": [
+      "1682321265"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500JUKZUTTPCMML83/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500JUKZUTTPCMML83/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500JUKZUTTPCMML83/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500JUKZUTTPCMML83/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500JUKZUTTPCMML83/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/894500JUKZUTTPCMML83"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "894500IA2T7IFPV62A55",
+    "attributes": {
+     "lei": "894500IA2T7IFPV62A55",
+     "entity": {
+      "legalName": {
+       "name": "IJ EJENDOMME AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Kaolinvej 8"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg Øst",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9220"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Kaolinvej 8"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg Øst",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9220"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "34090823",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2011-12-22T10:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2019-06-27T14:04:49Z",
+      "lastUpdateDate": "2024-06-27T17:01:33Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2024-06-27T14:04:34Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "34090823",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/34090823",
+     "qcc": "QDK9U9QN7K",
+     "gem": null,
+     "spglobal": [
+      "628382915"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500IA2T7IFPV62A55/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500IA2T7IFPV62A55/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500IA2T7IFPV62A55/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500IA2T7IFPV62A55/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500IA2T7IFPV62A55/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/894500IA2T7IFPV62A55"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "213800GNUZFD234WU569",
+    "attributes": {
+     "lei": "213800GNUZFD234WU569",
+     "entity": {
+      "legalName": {
+       "name": "REDERIET O.W. AALBORG A/S",
+       "language": null
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": null,
+       "addressLines": [
+        "STIGSBORGVEJ 60"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "NOERRESUNDBY",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9400"
+      },
+      "headquartersAddress": {
+       "language": null,
+       "addressLines": [
+        "STIGSBORGVEJ 60"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "NOERRESUNDBY",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9400"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "10075351",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "INACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "ACCOUNTS_FILING",
+          "effectiveDate": "2016-07-07T00:00:00Z",
+          "recordedDate": "2022-03-25T00:00:00Z",
+          "type": "DISSOLUTION",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-02-07T00:00:00Z",
+      "lastUpdateDate": "2026-10-26T17:28:30Z",
+      "status": "RETIRED",
+      "nextRenewalDate": "2015-02-07T00:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "10075351",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/10075351",
+     "qcc": "QDK7Q84FTE",
+     "gem": null,
+     "spglobal": [
+      "263768184"
+     ],
+     "conformityFlag": "NOT_APPLICABLE"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800GNUZFD234WU569/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800GNUZFD234WU569/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800GNUZFD234WU569/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800GNUZFD234WU569/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800GNUZFD234WU569/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/213800GNUZFD234WU569"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "5493008RE0PWE3G57R53",
+    "attributes": {
+     "lei": "5493008RE0PWE3G57R53",
+     "entity": {
+      "legalName": {
+       "name": "Port of Aalborg A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Langerak 19"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg Øst",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9220"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Langerak 19"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg Øst",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9220"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "12473192",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1988-06-23T22:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2020-05-19T22:00:00Z",
+          "recordedDate": "2022-11-17T10:12:59Z",
+          "type": "CHANGE_LEGAL_NAME",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-01-09T03:01:00Z",
+      "lastUpdateDate": "2023-11-17T18:01:44Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2023-11-17T10:12:59Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "12473192",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/12473192",
+     "qcc": "QDK19QGEJJ",
+     "gem": null,
+     "spglobal": [
+      "52776221"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493008RE0PWE3G57R53/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493008RE0PWE3G57R53/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493008RE0PWE3G57R53/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493008RE0PWE3G57R53/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493008RE0PWE3G57R53/ultimate-parent-reporting-exception"
+      }
+     },
+     "direct-children": {
+      "links": {
+       "relationship-records": "https://api.gleif.org/api/v1/lei-records/5493008RE0PWE3G57R53/direct-child-relationships",
+       "related": "https://api.gleif.org/api/v1/lei-records/5493008RE0PWE3G57R53/direct-children"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/5493008RE0PWE3G57R53"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "636700NM2FHTV4URKI50",
+    "attributes": {
+     "lei": "636700NM2FHTV4URKI50",
+     "entity": {
+      "legalName": {
+       "name": "Boliginvest Holding Aalborg A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Vestergade 19"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Hjallerup",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9320"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Vestergade 19"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Hjallerup",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9320"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "39578948",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "INACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": "549300U0OZW1K4LU4321",
+       "name": null
+      },
+      "successorEntities": [
+       {
+        "lei": "549300U0OZW1K4LU4321"
+       }
+      ],
+      "creationDate": "2018-05-17T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "validationReference": "https://datacvr.virk.dk/enhed/virksomhed/39578948?fritekst=39578948&sideIndex=0&size=10",
+          "effectiveDate": "2024-10-17T00:00:00Z",
+          "recordedDate": "2024-11-19T00:00:00Z",
+          "type": "ABSORPTION",
+          "status": "COMPLETED",
+          "affectedFields": [
+           {
+            "value": "549300U0OZW1K4LU4321",
+            "xpath": "/lei:LEIData/lei:LEIRecords/lei:LEIRecord/lei:Entity/lei:SuccessorEntity/lei:SuccessorLEI"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2023-06-15T09:39:00Z",
+      "lastUpdateDate": "2024-11-19T07:12:00Z",
+      "status": "RETIRED",
+      "nextRenewalDate": "2024-06-15T09:39:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "39578948",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/39578948",
+     "qcc": "QDK9YQ878D",
+     "gem": null,
+     "spglobal": [
+      "686636825"
+     ],
+     "conformityFlag": "NOT_APPLICABLE"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/636700NM2FHTV4URKI50/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/636700NM2FHTV4URKI50/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/636700NM2FHTV4URKI50/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/636700NM2FHTV4URKI50/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/636700NM2FHTV4URKI50/ultimate-parent-reporting-exception"
+      }
+     },
+     "successor-entity": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/636700NM2FHTV4URKI50/successor-entity"
+      }
+     },
+     "successor-entities": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/636700NM2FHTV4URKI50/successor-entities"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/636700NM2FHTV4URKI50"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "5299004WFSR2SGZVYR78",
+    "attributes": {
+     "lei": "5299004WFSR2SGZVYR78",
+     "entity": {
+      "legalName": {
+       "name": "HOLM INVEST AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Hasserisvej 149"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Hasserisvej 149"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "30077024",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2006-12-01T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2023-05-25T00:00:00Z",
+          "recordedDate": "2024-01-17T18:29:52Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2023-05-25T00:00:00Z",
+          "recordedDate": "2024-01-17T18:29:52Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2020-01-17T15:52:11Z",
+      "lastUpdateDate": "2026-01-18T08:36:31Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2026-01-18T08:29:55Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "30077024",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/30077024",
+     "qcc": "QDKBU29WSC",
+     "gem": null,
+     "spglobal": [
+      "652906181"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5299004WFSR2SGZVYR78/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5299004WFSR2SGZVYR78/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5299004WFSR2SGZVYR78/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5299004WFSR2SGZVYR78/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5299004WFSR2SGZVYR78/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/5299004WFSR2SGZVYR78"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "984500MCCJ5AE04E7033",
+    "attributes": {
+     "lei": "984500MCCJ5AE04E7033",
+     "entity": {
+      "legalName": {
+       "name": "MAS HOLDING AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "MALERNES AKTIESELSKAB. AALBORG",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Gartnervej 10"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg SV",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9200"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Gartnervej 10"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg SV",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9200"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "45135810",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1945-12-08T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2018-11-30T14:30:57Z",
+      "lastUpdateDate": "2026-02-20T23:33:58Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-04-20T21:39:32Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "45135810",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/45135810",
+     "qcc": "QDK4S683W5",
+     "gem": null,
+     "spglobal": [
+      "595155353"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500MCCJ5AE04E7033/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500MCCJ5AE04E7033/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500MCCJ5AE04E7033/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500MCCJ5AE04E7033/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500MCCJ5AE04E7033/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/984500MCCJ5AE04E7033"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "213800K3GW1VXL2B3J83",
+    "attributes": {
+     "lei": "213800K3GW1VXL2B3J83",
+     "entity": {
+      "legalName": {
+       "name": "Multi Byg. Aalborg A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "K. Christensens Vej 4"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9200"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "K. Christensens Vej 4"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9200"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "10777097",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1987-04-01T10:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2016-10-06T00:00:00Z",
+      "lastUpdateDate": "2026-07-13T05:08:05Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-08-26T14:42:05Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "10777097",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/10777097",
+     "qcc": "QDKFFQ9V3S",
+     "gem": null,
+     "spglobal": [
+      "46577504"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800K3GW1VXL2B3J83/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800K3GW1VXL2B3J83/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800K3GW1VXL2B3J83/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800K3GW1VXL2B3J83/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800K3GW1VXL2B3J83/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/213800K3GW1VXL2B3J83"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300Z43AR448X7C761",
+    "attributes": {
+     "lei": "549300Z43AR448X7C761",
+     "entity": {
+      "legalName": {
+       "name": "NORD EJENDOM, AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Kjellerupsgade 22"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Kjellerupsgade 22"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "33588402",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2011-03-31T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-02-13T01:49:00Z",
+      "lastUpdateDate": "2026-04-27T05:14:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-06-09T09:27:44Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "33588402",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/33588402",
+     "qcc": "QDKKH4NYPE",
+     "gem": null,
+     "spglobal": [
+      "260157951"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300Z43AR448X7C761/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300Z43AR448X7C761/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300Z43AR448X7C761/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300Z43AR448X7C761/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300Z43AR448X7C761/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300Z43AR448X7C761/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300Z43AR448X7C761/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300Z43AR448X7C761"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "984500F0HBASAR0T1E42",
+    "attributes": {
+     "lei": "984500F0HBASAR0T1E42",
+     "entity": {
+      "legalName": {
+       "name": "MEDANA AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "ÅÆØ 426 ApS",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Enebovænge 4"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Farum",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "3520"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Enebovænge 4"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Farum",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "3520"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "15092394",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "INACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1991-04-08T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2026-10-05T00:00:00Z",
+          "recordedDate": "2026-11-02T09:01:15Z",
+          "type": "DISSOLUTION",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2021-10-01T09:19:10Z",
+      "lastUpdateDate": "2026-11-02T09:01:16Z",
+      "status": "RETIRED",
+      "nextRenewalDate": "2027-10-01T09:19:20Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "15092394",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/15092394",
+     "qcc": "QDKAJM67VV",
+     "gem": null,
+     "spglobal": [
+      "686294237"
+     ],
+     "conformityFlag": "NOT_APPLICABLE"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500F0HBASAR0T1E42/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500F0HBASAR0T1E42/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500F0HBASAR0T1E42/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500F0HBASAR0T1E42/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500F0HBASAR0T1E42/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/984500F0HBASAR0T1E42"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "984500HX775F9F43C313",
+    "attributes": {
+     "lei": "984500HX775F9F43C313",
+     "entity": {
+      "legalName": {
+       "name": "PETER MOURITZEN. AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "PETER MOURITZEN, AALBORG ApS",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Europa Plads 2"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Europa Plads 2"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "83091819",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1977-11-30T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2019-10-09T07:44:51Z",
+      "lastUpdateDate": "2022-02-23T15:28:32Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2020-10-09T07:53:51Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "83091819",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/83091819",
+     "qcc": "QDKCMPME7W",
+     "gem": null,
+     "spglobal": [
+      "641195382"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500HX775F9F43C313/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500HX775F9F43C313/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500HX775F9F43C313/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500HX775F9F43C313/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500HX775F9F43C313/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/984500HX775F9F43C313"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "2138003UUY3UM33IV902",
+    "attributes": {
+     "lei": "2138003UUY3UM33IV902",
+     "entity": {
+      "legalName": {
+       "name": "MULTI EJENDOMME AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "K. Christensens Vej 4"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg SV",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9200"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "K. Christensens Vej 4"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg SV",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9200"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "28303661",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2004-12-14T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2016-10-06T00:00:00Z",
+      "lastUpdateDate": "2026-08-30T05:05:09Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-10-13T11:25:08Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "28303661",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/28303661",
+     "qcc": "QDKFY48CV8",
+     "gem": null,
+     "spglobal": [
+      "404123157"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/2138003UUY3UM33IV902/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/2138003UUY3UM33IV902/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/2138003UUY3UM33IV902/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/2138003UUY3UM33IV902/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/2138003UUY3UM33IV902/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/2138003UUY3UM33IV902"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300P5NISORHH6MR43",
+    "attributes": {
+     "lei": "549300P5NISORHH6MR43",
+     "entity": {
+      "legalName": {
+       "name": "OB INVEST. AALBORG ApS",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "OB INVEST. AALBORG A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Ole Bjørn",
+        "Rådhusparken 8 st. th"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Ole Bjørn",
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Ole Bjørn",
+        "Rådhusparken 8 st. th"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Ole Bjørn",
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "54394713",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "INACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1975-11-25T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "c/o Ole Bjorn",
+         "Radhusparken 8 st. th"
+        ],
+        "mailRouting": "c/o Ole Bjorn",
+        "city": "Aalborg",
+        "region": "DK-81",
+        "country": "DK",
+        "postalCode": "9000"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "c/o Ole Bjorn",
+         "Radhusparken 8 st. th"
+        ],
+        "mailRouting": "c/o Ole Bjorn",
+        "city": "Aalborg",
+        "region": "DK-81",
+        "country": "DK",
+        "postalCode": "9000"
+       }
+      ],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "validationReference": "https://datacvr.virk.dk/enhed/virksomhed/54394713?fritekst=54394713&sideIndex=0&size=10",
+          "effectiveDate": "2023-12-06T00:00:00Z",
+          "recordedDate": "2023-12-19T00:00:00Z",
+          "type": "DISSOLUTION",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-10-21T21:53:00Z",
+      "lastUpdateDate": "2023-12-19T10:05:00Z",
+      "status": "RETIRED",
+      "nextRenewalDate": "2023-12-17T07:40:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "54394713",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/54394713",
+     "qcc": "QDKKN8V1M3",
+     "gem": null,
+     "spglobal": [
+      "541384284"
+     ],
+     "conformityFlag": "NOT_APPLICABLE"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300P5NISORHH6MR43/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300P5NISORHH6MR43/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300P5NISORHH6MR43/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300P5NISORHH6MR43/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300P5NISORHH6MR43/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300P5NISORHH6MR43"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "894500FO5RKQYJILXR19",
+    "attributes": {
+     "lei": "894500FO5RKQYJILXR19",
+     "entity": {
+      "legalName": {
+       "name": "Invita & uno form Aalborg A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Stenbukken 11"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg SV",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9200"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Stenbukken 11"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg SV",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9200"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "15321237",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1991-06-01T10:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2019-01-04T14:44:35Z",
+      "lastUpdateDate": "2021-01-04T18:00:32Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2021-01-04T14:44:49Z",
+      "managingLou": "529900F6BNUR3RJ2WH29",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "15321237",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/15321237",
+     "qcc": "QDKA5TDE0A",
+     "gem": null,
+     "spglobal": [
+      "598015878"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500FO5RKQYJILXR19/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500FO5RKQYJILXR19/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500FO5RKQYJILXR19/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500FO5RKQYJILXR19/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500FO5RKQYJILXR19/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/894500FO5RKQYJILXR19"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300W4J2V3MBBSLD06",
+    "attributes": {
+     "lei": "549300W4J2V3MBBSLD06",
+     "entity": {
+      "legalName": {
+       "name": "KRIFA EJENDOMME AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Klokhøjen 4",
+        "Aarhus N"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aarhus",
+       "region": "DK-82",
+       "country": "DK",
+       "postalCode": "8200"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Klokhøjen 4A"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aarhus",
+       "region": "DK-82",
+       "country": "DK",
+       "postalCode": "8200"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "28496699",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": "AKTIESELSKAB"
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "INACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": "549300MHPRM5UTNW7E54",
+       "name": null
+      },
+      "successorEntities": [
+       {
+        "lei": "549300MHPRM5UTNW7E54"
+       }
+      ],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2016-08-02T00:00:00Z",
+          "recordedDate": "2022-03-24T19:41:40Z",
+          "type": "MERGERS_AND_ACQUISITIONS",
+          "status": "COMPLETED",
+          "affectedFields": [
+           {
+            "value": "549300MHPRM5UTNW7E54",
+            "xpath": "/lei:LEIData/lei:LEIRecords/lei:LEIRecord/lei:Entity/lei:SuccessorEntity/lei:SuccessorLEI"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-04-02T01:30:00Z",
+      "lastUpdateDate": "2023-08-02T11:06:00Z",
+      "status": "RETIRED",
+      "nextRenewalDate": "2017-03-22T08:40:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "28496699",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/28496699",
+     "qcc": "QDK7JHE7WK",
+     "gem": null,
+     "spglobal": [
+      "261392562"
+     ],
+     "conformityFlag": "NOT_APPLICABLE"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300W4J2V3MBBSLD06/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300W4J2V3MBBSLD06/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300W4J2V3MBBSLD06/field-modifications"
+      }
+     },
+     "successor-entity": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300W4J2V3MBBSLD06/successor-entity"
+      }
+     },
+     "successor-entities": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300W4J2V3MBBSLD06/successor-entities"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300W4J2V3MBBSLD06"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "5493007BQ33KYE4ULG83",
+    "attributes": {
+     "lei": "5493007BQ33KYE4ULG83",
+     "entity": {
+      "legalName": {
+       "name": "ALFA LAVAL AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "AALBORG INDUSTRIES A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Gasværksvej 21"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Gasværksvej 21"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "17830635",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1984-04-15T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-01-29T00:12:00Z",
+      "lastUpdateDate": "2022-12-09T23:30:39Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2022-12-09T09:18:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "17830635",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/17830635",
+     "qcc": "QDKH5248SP",
+     "gem": null,
+     "spglobal": [
+      "1345059"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493007BQ33KYE4ULG83/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493007BQ33KYE4ULG83/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493007BQ33KYE4ULG83/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/5493007BQ33KYE4ULG83/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/5493007BQ33KYE4ULG83/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/5493007BQ33KYE4ULG83/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/5493007BQ33KYE4ULG83/ultimate-parent"
+      }
+     },
+     "direct-children": {
+      "links": {
+       "relationship-records": "https://api.gleif.org/api/v1/lei-records/5493007BQ33KYE4ULG83/direct-child-relationships",
+       "related": "https://api.gleif.org/api/v1/lei-records/5493007BQ33KYE4ULG83/direct-children"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/5493007BQ33KYE4ULG83"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "894500WH9O8DTXEEEP76",
+    "attributes": {
+     "lei": "894500WH9O8DTXEEEP76",
+     "entity": {
+      "legalName": {
+       "name": "LARS AAEN BONDERUP. AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Vestvej 46"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O Lars Bonderup",
+       "city": "Vodskov",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9310"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Vestvej 46"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O Lars Bonderup",
+       "city": "Vodskov",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9310"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "65646811",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1981-06-14T22:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2018-01-22T17:46:02Z",
+      "lastUpdateDate": "2024-03-12T10:00:12Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2024-03-12T09:57:19Z",
+      "managingLou": "98450045AN5EB5FDC780",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "65646811",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/65646811",
+     "qcc": "QDKW6WEY4X",
+     "gem": null,
+     "spglobal": [
+      "564358406"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500WH9O8DTXEEEP76/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500WH9O8DTXEEEP76/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/894500WH9O8DTXEEEP76/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500WH9O8DTXEEEP76/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/894500WH9O8DTXEEEP76/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/894500WH9O8DTXEEEP76"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300UWO7U8NVIBUC86",
+    "attributes": {
+     "lei": "549300UWO7U8NVIBUC86",
+     "entity": {
+      "legalName": {
+       "name": "PL HOLDING AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "SLP NR. 10.556 A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Karlskogavej 14"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg SV",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9200"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Karlskogavej 14"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg SV",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9200"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "13529930",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1989-10-01T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2023-09-05T00:00:00Z",
+          "recordedDate": "2023-09-26T18:17:54Z",
+          "type": "DISSOLUTION",
+          "status": "IN_PROGRESS"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-10-14T02:17:00Z",
+      "lastUpdateDate": "2024-06-17T12:21:18Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2024-06-17T11:48:53Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "13529930",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/13529930",
+     "qcc": "QDK3PF19HV",
+     "gem": null,
+     "spglobal": [
+      "545728468"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300UWO7U8NVIBUC86/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300UWO7U8NVIBUC86/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300UWO7U8NVIBUC86/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300UWO7U8NVIBUC86/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300UWO7U8NVIBUC86/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300UWO7U8NVIBUC86"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "213800WYLGRB7NEL2P14",
+    "attributes": {
+     "lei": "213800WYLGRB7NEL2P14",
+     "entity": {
+      "legalName": {
+       "name": "S. E. EJENDOMME AALBORG A/S",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "INDKILDEVEJ 6 B"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "AALBORG SØ",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "9210"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "INDKILDEVEJ 6 B"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "AALBORG SØ",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "9210"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "32091490",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-03-03T00:00:00Z",
+      "lastUpdateDate": "2020-03-04T00:15:41Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2020-03-03T00:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "32091490",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/32091490",
+     "qcc": "QDKU4UYJ9S",
+     "gem": null,
+     "spglobal": [
+      "264220398"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800WYLGRB7NEL2P14/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800WYLGRB7NEL2P14/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800WYLGRB7NEL2P14/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800WYLGRB7NEL2P14/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800WYLGRB7NEL2P14/ultimate-parent-reporting-exception"
+      }
+     },
+     "direct-children": {
+      "links": {
+       "relationship-records": "https://api.gleif.org/api/v1/lei-records/213800WYLGRB7NEL2P14/direct-child-relationships",
+       "related": "https://api.gleif.org/api/v1/lei-records/213800WYLGRB7NEL2P14/direct-children"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/213800WYLGRB7NEL2P14"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "984500F1A39374XFDB59",
+    "attributes": {
+     "lei": "984500F1A39374XFDB59",
+     "entity": {
+      "legalName": {
+       "name": "EDC DANEBO AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "NYGAARD & SØRENSEN A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "EDC-MÆGLERNE NYGAARD & SØRENSEN A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Nyhavnsgade 4 A"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Nyhavnsgade 4 A"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "28129440",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2004-10-18T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2020-12-10T12:36:29Z",
+      "lastUpdateDate": "2026-10-14T12:24:08Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-12-10T12:36:43Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "28129440",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/28129440",
+     "qcc": "QDK2B6SHYA",
+     "gem": null,
+     "spglobal": [
+      "686737518"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500F1A39374XFDB59/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500F1A39374XFDB59/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500F1A39374XFDB59/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500F1A39374XFDB59/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500F1A39374XFDB59/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/984500F1A39374XFDB59"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "984500EM59065D36R270",
+    "attributes": {
+     "lei": "984500EM59065D36R270",
+     "entity": {
+      "legalName": {
+       "name": "Magasin Aalborg A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Kongens Nytorv 13"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Magasin du Nord",
+       "city": "København",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "1050"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Kongens Nytorv 13"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Magasin du Nord",
+       "city": "København",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "1050"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "44563533",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2024-01-15T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2024-09-03T11:24:35Z",
+      "lastUpdateDate": "2026-08-02T09:56:27Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-09-03T11:24:37Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "44563533",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/44563533",
+     "qcc": "QDKWBM6GDT",
+     "gem": null,
+     "spglobal": [
+      "1893422896"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500EM59065D36R270/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500EM59065D36R270/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500EM59065D36R270/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/984500EM59065D36R270/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/984500EM59065D36R270/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/984500EM59065D36R270/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/984500EM59065D36R270/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/984500EM59065D36R270"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "529900BSQGZ916NUHY72",
+    "attributes": {
+     "lei": "529900BSQGZ916NUHY72",
+     "entity": {
+      "legalName": {
+       "name": "Koncenton Henning Smiths Vej Aalborg A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Koncenton A/S, Kristine Nielsens Gade 5"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aarhus",
+       "region": "DK-82",
+       "country": "DK",
+       "postalCode": "8000"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Koncenton A/S, Kristine Nielsens Gade 5"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aarhus",
+       "region": "DK-82",
+       "country": "DK",
+       "postalCode": "8000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "38339141",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2017-01-11T23:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2023-08-28T22:00:00Z",
+          "recordedDate": "2023-08-29T09:48:11Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2023-08-28T22:00:00Z",
+          "recordedDate": "2023-08-29T09:48:11Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-09-14T11:33:24Z",
+      "lastUpdateDate": "2026-08-10T07:10:13Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-09-14T11:33:24Z",
+      "managingLou": "5299000J2N45DDNE4Y28",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "38339141",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/38339141",
+     "qcc": "QDKE8YN9PF",
+     "gem": null,
+     "spglobal": [
+      "423522021"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/529900BSQGZ916NUHY72/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/529900BSQGZ916NUHY72/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/529900BSQGZ916NUHY72/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/529900BSQGZ916NUHY72/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/529900BSQGZ916NUHY72/ultimate-parent-reporting-exception"
+      }
+     },
+     "isins": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/529900BSQGZ916NUHY72/isins"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/529900BSQGZ916NUHY72"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300WDFTYSRVJDHP09",
+    "attributes": {
+     "lei": "549300WDFTYSRVJDHP09",
+     "entity": {
+      "legalName": {
+       "name": "VINSPECIALISTEN AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Vingårdsgade 13-15"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Vingårdsgade 13-15"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "28890958",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2005-06-28T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Vingardsgade 13-15"
+        ],
+        "city": "Aalborg",
+        "region": "DK-81",
+        "country": "DK",
+        "postalCode": "9000"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Vingardsgade 13-15"
+        ],
+        "city": "Aalborg",
+        "region": "DK-81",
+        "country": "DK",
+        "postalCode": "9000"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-10-10T02:11:00Z",
+      "lastUpdateDate": "2025-12-23T07:08:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2026-12-28T11:34:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "28890958",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/28890958",
+     "qcc": "QDKH2TNNEJ",
+     "gem": null,
+     "spglobal": [
+      "545182325"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300WDFTYSRVJDHP09/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300WDFTYSRVJDHP09/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300WDFTYSRVJDHP09/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300WDFTYSRVJDHP09/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300WDFTYSRVJDHP09/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300WDFTYSRVJDHP09"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "636700B92IW2WQEBCE78",
+    "attributes": {
+     "lei": "636700B92IW2WQEBCE78",
+     "entity": {
+      "legalName": {
+       "name": "LT Automation Aalborg A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Fåborgvej 15 A"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg Øst",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9220"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Fåborgvej 15 A"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg Øst",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9220"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "44060442",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2023-05-17T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Faborgvej 15 A"
+        ],
+        "city": "Aalborg Ost",
+        "region": "DK-81",
+        "country": "DK",
+        "postalCode": "9220"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Faborgvej 15 A"
+        ],
+        "city": "Aalborg Ost",
+        "region": "DK-81",
+        "country": "DK",
+        "postalCode": "9220"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2023-09-08T14:20:00Z",
+      "lastUpdateDate": "2025-09-08T23:00:44Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2025-09-08T14:20:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "44060442",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/44060442",
+     "qcc": "QDKK2CFPCJ",
+     "gem": null,
+     "spglobal": [
+      "1855458286"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/636700B92IW2WQEBCE78/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/636700B92IW2WQEBCE78/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/636700B92IW2WQEBCE78/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/636700B92IW2WQEBCE78/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/636700B92IW2WQEBCE78/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/636700B92IW2WQEBCE78"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "5299003TUCVL3HIMFT36",
+    "attributes": {
+     "lei": "5299003TUCVL3HIMFT36",
+     "entity": {
+      "legalName": {
+       "name": "HCK HOLDING AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Gugvej 142 B"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg SØ",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9210"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Gugvej 142 B"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg SØ",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9210"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "12899602",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1989-03-30T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Gugvej 142 B"
+        ],
+        "city": "Aalborg SO",
+        "region": "DK-81",
+        "country": "DK",
+        "postalCode": "9210"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Gugvej 142 B"
+        ],
+        "city": "Aalborg SO",
+        "region": "DK-81",
+        "country": "DK",
+        "postalCode": "9210"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-02-01T00:00:00Z",
+      "lastUpdateDate": "2025-12-22T07:39:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-01-14T06:36:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "12899602",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/12899602",
+     "qcc": "QDKR14EDMN",
+     "gem": null,
+     "spglobal": [
+      "256886103"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5299003TUCVL3HIMFT36/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5299003TUCVL3HIMFT36/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5299003TUCVL3HIMFT36/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5299003TUCVL3HIMFT36/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5299003TUCVL3HIMFT36/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/5299003TUCVL3HIMFT36"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "5493009P7P4ZLQ1QGA97",
+    "attributes": {
+     "lei": "5493009P7P4ZLQ1QGA97",
+     "entity": {
+      "legalName": {
+       "name": "DANBRIT HOLDING AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Hugo Møller",
+        "Kærhavebakken 60"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O Hugo Møller",
+       "city": "Klarup",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9270"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Hugo Møller",
+        "Kærhavebakken 60"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O Hugo Møller",
+       "city": "Klarup",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9270"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "20980990",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1998-03-16T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "C/O Hugo Moller",
+         "Kaerhavebakken 60"
+        ],
+        "mailRouting": "C/O Hugo Moller",
+        "city": "Klarup",
+        "region": "DK-81",
+        "country": "DK",
+        "postalCode": "9270"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "C/O Hugo Moller",
+         "Kaerhavebakken 60"
+        ],
+        "mailRouting": "C/O Hugo Moller",
+        "city": "Klarup",
+        "region": "DK-81",
+        "country": "DK",
+        "postalCode": "9270"
+       }
+      ],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "validationReference": "https://datacvr.virk.dk/enhed/virksomhed/20980990?fritekst=20980990&sideIndex=0&size=10",
+          "effectiveDate": "2024-01-23T00:00:00Z",
+          "recordedDate": "2024-10-31T00:00:00Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "validationReference": "https://datacvr.virk.dk/enhed/virksomhed/20980990?fritekst=20980990&sideIndex=0&size=10",
+          "effectiveDate": "2024-01-23T00:00:00Z",
+          "recordedDate": "2024-10-31T00:00:00Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2017-11-16T16:27:00Z",
+      "lastUpdateDate": "2026-10-19T07:07:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-12-15T11:08:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "20980990",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/20980990",
+     "qcc": "QDKTTP1P09",
+     "gem": null,
+     "spglobal": [
+      "549015178"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493009P7P4ZLQ1QGA97/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493009P7P4ZLQ1QGA97/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493009P7P4ZLQ1QGA97/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493009P7P4ZLQ1QGA97/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493009P7P4ZLQ1QGA97/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/5493009P7P4ZLQ1QGA97"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "2138007UCQWTGHMO1T02",
+    "attributes": {
+     "lei": "2138007UCQWTGHMO1T02",
+     "entity": {
+      "legalName": {
+       "name": "LOMOCO INVEST AALBORG A/S",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Morten Jørgensen",
+        "Beddingen 7 B 3. th."
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Morten Jørgensen",
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o Morten Jørgensen",
+        "Beddingen 7 B 3. th."
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Morten Jørgensen",
+       "city": "Aalborg",
+       "region": "DK-81",
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "70721619",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1982-11-26T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "c/o Morten Jorgensen",
+         "Beddingen 7 B 3. th."
+        ],
+        "mailRouting": "c/o Morten Jorgensen",
+        "city": "Aalborg",
+        "region": "DK-81",
+        "country": "DK",
+        "postalCode": "9000"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "da",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "c/o Morten Jorgensen",
+         "Beddingen 7 B 3. th."
+        ],
+        "mailRouting": "c/o Morten Jorgensen",
+        "city": "Aalborg",
+        "region": "DK-81",
+        "country": "DK",
+        "postalCode": "9000"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-10-09T00:00:00Z",
+      "lastUpdateDate": "2026-08-21T06:28:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-10-18T06:11:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "70721619",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/70721619",
+     "qcc": "QDKS75PQNJ",
+     "gem": null,
+     "spglobal": [
+      "274206612"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/2138007UCQWTGHMO1T02/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/2138007UCQWTGHMO1T02/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/2138007UCQWTGHMO1T02/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/2138007UCQWTGHMO1T02/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/2138007UCQWTGHMO1T02/ultimate-parent-reporting-exception"
+      }
+     },
+     "direct-children": {
+      "links": {
+       "relationship-records": "https://api.gleif.org/api/v1/lei-records/2138007UCQWTGHMO1T02/direct-child-relationships",
+       "related": "https://api.gleif.org/api/v1/lei-records/2138007UCQWTGHMO1T02/direct-children"
+      }
+     },
+     "ultimate-children": {
+      "links": {
+       "relationship-records": "https://api.gleif.org/api/v1/lei-records/2138007UCQWTGHMO1T02/ultimate-child-relationships",
+       "related": "https://api.gleif.org/api/v1/lei-records/2138007UCQWTGHMO1T02/ultimate-children"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/2138007UCQWTGHMO1T02"
+    }
+   }
+  ]
+ }
+}

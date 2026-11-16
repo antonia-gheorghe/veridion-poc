@@ -284,3 +284,9 @@ def test_external_match_resolves_unmatched_input():  # D54
 def test_external_match_cannot_override_a_veridion_pick():  # D54
     with pytest.raises(ValueError, match="already has decision"):
         run_with_manual(MANUAL, {}, external=external_row())
+
+
+def test_aggregator_evidence_is_a_lead_not_a_match():  # D58
+    out = run_with_manual(MANUAL, {"name_sort": 30, "name_set": 30, "cand_core": "ZETA"},
+                          external=external_row(source="aggregator", confidence="medium"))
+    assert (out.decision, out.rule, out.confidence) == ("lead", "E2", "low")

@@ -1,0 +1,172 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TELENOR+DIGITAL+AS&filter%5Bentity.legalAddress.country%5D=NO&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TELENOR+DIGITAL+AS&filter%5Bentity.legalAddress.country%5D=NO&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TELENOR+DIGITAL+AS&filter%5Bentity.legalAddress.country%5D=NO&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "6367002TVIO9CS3K2Q73",
+    "attributes": {
+     "lei": "6367002TVIO9CS3K2Q73",
+     "entity": {
+      "legalName": {
+       "name": "TELENOR DIGITAL INFRASTRUCTURE HOLDING AS",
+       "language": "no"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "no",
+       "addressLines": [
+        "Snarøyveien 30"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Fornebu",
+       "region": "NO-30",
+       "country": "NO",
+       "postalCode": "1360"
+      },
+      "headquartersAddress": {
+       "language": "no",
+       "addressLines": [
+        "Snarøyveien 30"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Fornebu",
+       "region": "NO-30",
+       "country": "NO",
+       "postalCode": "1360"
+      },
+      "registeredAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "registeredAs": "930 717 266",
+      "jurisdiction": "NO",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "YI42",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2023-01-10T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "no",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Snaroyveien 30"
+        ],
+        "city": "Fornebu",
+        "region": "NO-30",
+        "country": "NO",
+        "postalCode": "1360"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "no",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Snaroyveien 30"
+        ],
+        "city": "Fornebu",
+        "region": "NO-30",
+        "country": "NO",
+        "postalCode": "1360"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2026-06-19T11:05:00Z",
+      "lastUpdateDate": "2026-06-19T11:05:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-06-19T11:05:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "validatedAs": "930 717 266",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "no/930717266",
+     "qcc": "QNO6P11DWM",
+     "gem": null,
+     "spglobal": [
+      "1817621509"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/6367002TVIO9CS3K2Q73/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/6367002TVIO9CS3K2Q73/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/6367002TVIO9CS3K2Q73/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/6367002TVIO9CS3K2Q73/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/6367002TVIO9CS3K2Q73/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/6367002TVIO9CS3K2Q73"
+    }
+   }
+  ]
+ }
+}

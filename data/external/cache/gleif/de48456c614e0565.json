@@ -1,0 +1,153 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Tech+Mahindra+Ict+Services+%28Malaysia%29+Sdn.+Bhd.&filter%5Bentity.legalAddress.country%5D=MY&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Tech+Mahindra+Ict+Services+%28Malaysia%29+Sdn.+Bhd.&filter%5Bentity.legalAddress.country%5D=MY&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Tech+Mahindra+Ict+Services+%28Malaysia%29+Sdn.+Bhd.&filter%5Bentity.legalAddress.country%5D=MY&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "2549005FIK6M4Y94U205",
+    "attributes": {
+     "lei": "2549005FIK6M4Y94U205",
+     "entity": {
+      "legalName": {
+       "name": "Tech Mahindra ICT Services (Malaysia) SDN. BHD.",
+       "language": "ms"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "35-3, Jalan SS15/8A",
+        "Selangor Darul Ehsan"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Subang Jaya",
+       "region": "MY-10",
+       "country": "MY",
+       "postalCode": "47500"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "Level 11, 13 & 13A",
+        "I-Tech Tower",
+        "Jalan Impact, Cyber 6",
+        "Selangor Darul Ehsan"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Cyberjaya",
+       "region": "MY-10",
+       "country": "MY",
+       "postalCode": "63000"
+      },
+      "registeredAt": {
+       "id": "RA000439",
+       "other": null
+      },
+      "registeredAs": "201301037394 (1067223-P)",
+      "jurisdiction": "MY",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "XEOV",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2013-10-22T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2022-12-06T16:35:50Z",
+      "lastUpdateDate": "2026-10-28T17:08:26Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-11-06T16:35:50Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000439",
+       "other": null
+      },
+      "validatedAs": "201301037394 (1067223-P)",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": null,
+     "qcc": "QMY7YNSMDM",
+     "gem": null,
+     "spglobal": [
+      "268008744"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/2549005FIK6M4Y94U205/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/2549005FIK6M4Y94U205/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/2549005FIK6M4Y94U205/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/2549005FIK6M4Y94U205/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/2549005FIK6M4Y94U205/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/2549005FIK6M4Y94U205/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/2549005FIK6M4Y94U205/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/2549005FIK6M4Y94U205"
+    }
+   }
+  ]
+ }
+}

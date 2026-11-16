@@ -1,0 +1,165 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ITELLIGENCE+A%2FS&filter%5Bentity.legalAddress.country%5D=DK&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ITELLIGENCE+A%2FS&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ITELLIGENCE+A%2FS&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300PCCHQG7FHTF604",
+    "attributes": {
+     "lei": "549300PCCHQG7FHTF604",
+     "entity": {
+      "legalName": {
+       "name": "NTT DATA Business Solutions A/S",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "2CCHANGE A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "2C CHANGE A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       },
+       {
+        "name": "ITELLIGENCE A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Erhvervsbyvej 11"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Horsens",
+       "region": "DK-82",
+       "country": "DK",
+       "postalCode": "8700"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Erhvervsbyvej 11"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Horsens",
+       "region": "DK-82",
+       "country": "DK",
+       "postalCode": "8700"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "26901448",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "ZRPO",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2002-12-03T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-08-30T01:35:00Z",
+      "lastUpdateDate": "2026-01-26T11:37:38Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-02-03T20:05:15Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "26901448",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/26901448",
+     "qcc": "QDKGT91ENA",
+     "gem": null,
+     "spglobal": [
+      "30273662"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300PCCHQG7FHTF604/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300PCCHQG7FHTF604/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300PCCHQG7FHTF604/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300PCCHQG7FHTF604/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300PCCHQG7FHTF604/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300PCCHQG7FHTF604/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300PCCHQG7FHTF604/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300PCCHQG7FHTF604"
+    }
+   }
+  ]
+ }
+}

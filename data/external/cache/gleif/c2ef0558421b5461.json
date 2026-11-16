@@ -1,0 +1,149 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=META+PLATFORMS+IRELAND+LIMITED&filter%5Bentity.legalAddress.country%5D=IE&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=META+PLATFORMS+IRELAND+LIMITED&filter%5Bentity.legalAddress.country%5D=IE&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=META+PLATFORMS+IRELAND+LIMITED&filter%5Bentity.legalAddress.country%5D=IE&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "635400IRYI5QC7GUYI75",
+    "attributes": {
+     "lei": "635400IRYI5QC7GUYI75",
+     "entity": {
+      "legalName": {
+       "name": "META PLATFORMS IRELAND LIMITED",
+       "language": "en-IE"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en-IE",
+       "addressLines": [
+        "Merrion Road"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Dublin",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D04 X2K5"
+      },
+      "headquartersAddress": {
+       "language": "en-IE",
+       "addressLines": [
+        "Merrion Road"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Dublin",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D04 X2K5"
+      },
+      "registeredAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "registeredAs": "462932",
+      "jurisdiction": "IE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "MNQ7",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2008-10-05T23:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2025-04-07T23:00:00Z",
+      "lastUpdateDate": "2026-04-15T23:00:00Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2026-04-07T23:00:00Z",
+      "managingLou": "635400DZBUIMTBCXGA12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "validatedAs": "462932",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "ie/462932",
+     "qcc": "QIEYDC2KYH",
+     "gem": null,
+     "spglobal": [
+      "1770214082"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/635400IRYI5QC7GUYI75/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/635400IRYI5QC7GUYI75/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/635400IRYI5QC7GUYI75/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/635400IRYI5QC7GUYI75/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/635400IRYI5QC7GUYI75/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/635400IRYI5QC7GUYI75/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/635400IRYI5QC7GUYI75/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/635400IRYI5QC7GUYI75"
+    }
+   }
+  ]
+ }
+}

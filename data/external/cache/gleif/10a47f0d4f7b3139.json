@@ -1,0 +1,174 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SQUARETRADE+EUROPE+LIMITED&filter%5Bentity.legalAddress.country%5D=MT&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SQUARETRADE+EUROPE+LIMITED&filter%5Bentity.legalAddress.country%5D=MT&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SQUARETRADE+EUROPE+LIMITED&filter%5Bentity.legalAddress.country%5D=MT&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "984500BC67086DFDF759",
+    "attributes": {
+     "lei": "984500BC67086DFDF759",
+     "entity": {
+      "legalName": {
+       "name": "SQUARETRADE EUROPE LIMITED",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "171, Old Bakery Street"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Valletta",
+       "region": "MT-60",
+       "country": "MT",
+       "postalCode": "VLT 1455"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "171 Old Bakery Street"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Valletta",
+       "region": "MT-60",
+       "country": "MT",
+       "postalCode": "VLT 1455"
+      },
+      "registeredAt": {
+       "id": "RA000443",
+       "other": null
+      },
+      "registeredAs": "C 90216",
+      "jurisdiction": "MT",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "V89C",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2019-01-14T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "OTHER_OFFICIAL_DOCUMENTS",
+          "effectiveDate": "2025-05-12T00:00:00Z",
+          "recordedDate": "2025-11-21T09:14:21Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "OTHER_OFFICIAL_DOCUMENTS",
+          "effectiveDate": "2025-05-12T00:00:00Z",
+          "recordedDate": "2025-11-21T09:14:21Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2022-08-11T11:59:57Z",
+      "lastUpdateDate": "2026-10-30T18:07:50Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-11-01T10:14:20Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000443",
+       "other": null
+      },
+      "validatedAs": "C 90216",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "mt/C90216",
+     "qcc": "QMTYS3UW2D",
+     "gem": null,
+     "spglobal": [
+      "656072322"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500BC67086DFDF759/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500BC67086DFDF759/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500BC67086DFDF759/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/984500BC67086DFDF759/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/984500BC67086DFDF759/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/984500BC67086DFDF759/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/984500BC67086DFDF759/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/984500BC67086DFDF759"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,299 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Favro+Holding+AB&filter%5Bentity.legalAddress.country%5D=SE&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 2,
+    "total": 2,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Favro+Holding+AB&filter%5Bentity.legalAddress.country%5D=SE&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Favro+Holding+AB&filter%5Bentity.legalAddress.country%5D=SE&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "213800GS2QKN1G9T3V97",
+    "attributes": {
+     "lei": "213800GS2QKN1G9T3V97",
+     "entity": {
+      "legalName": {
+       "name": "FAVRO HOLDING AB",
+       "language": "en"
+      },
+      "otherNames": [
+       {
+        "name": "NONNA HOLDING AB",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "C/O FAVRO AB",
+        "DROTTNINGGATAN 2"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "UPPSALA",
+       "region": "SE-C",
+       "country": "SE",
+       "postalCode": "753 10"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "C/O FAVRO AB",
+        "DROTTNINGGATAN 2"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "UPPSALA",
+       "region": "SE-C",
+       "country": "SE",
+       "postalCode": "753 10"
+      },
+      "registeredAt": {
+       "id": "RA000544",
+       "other": null
+      },
+      "registeredAs": "556636-0128",
+      "jurisdiction": "SE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "XJHM",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2002-12-11T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "ACCOUNTS_FILING",
+          "effectiveDate": "2026-07-06T00:00:00Z",
+          "recordedDate": "2026-08-04T15:42:50Z",
+          "type": "BANKRUPTCY",
+          "status": "IN_PROGRESS"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-07-01T00:00:00Z",
+      "lastUpdateDate": "2026-10-26T17:28:30Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2026-08-14T00:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000544",
+       "other": null
+      },
+      "validatedAs": "556636-0128",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "se/556636-0128",
+     "qcc": "QSEM7G72NX",
+     "gem": null,
+     "spglobal": [
+      "52560892"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800GS2QKN1G9T3V97/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800GS2QKN1G9T3V97/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800GS2QKN1G9T3V97/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800GS2QKN1G9T3V97/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/213800GS2QKN1G9T3V97/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/213800GS2QKN1G9T3V97"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "54930046J87VNW0DSH96",
+    "attributes": {
+     "lei": "54930046J87VNW0DSH96",
+     "entity": {
+      "legalName": {
+       "name": "Cathedral Holding AB",
+       "language": "sv"
+      },
+      "otherNames": [
+       {
+        "name": "Avstampet Dec 3329 AB",
+        "language": "sv",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "sv",
+       "addressLines": [
+        "C/O Favro AB",
+        "Drottninggatan 2"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O Favro AB",
+       "city": "Uppsala",
+       "region": "SE-C",
+       "country": "SE",
+       "postalCode": "753 10"
+      },
+      "headquartersAddress": {
+       "language": "sv",
+       "addressLines": [
+        "C/O Favro AB",
+        "Drottninggatan 2"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "C/O Favro AB",
+       "city": "Uppsala",
+       "region": "SE-C",
+       "country": "SE",
+       "postalCode": "753 10"
+      },
+      "registeredAt": {
+       "id": "RA000544",
+       "other": null
+      },
+      "registeredAs": "559153-3707",
+      "jurisdiction": "SE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "XJHM",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2018-03-22T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2018-06-07T14:31:00Z",
+      "lastUpdateDate": "2026-04-13T06:04:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-06-08T13:20:45Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000544",
+       "other": null
+      },
+      "validatedAs": "559153-3707",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": null,
+     "qcc": "QSEY90ER2Q",
+     "gem": null,
+     "spglobal": [
+      "571161600"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/54930046J87VNW0DSH96/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/54930046J87VNW0DSH96/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/54930046J87VNW0DSH96/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/54930046J87VNW0DSH96/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/54930046J87VNW0DSH96/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/54930046J87VNW0DSH96"
+    }
+   }
+  ]
+ }
+}

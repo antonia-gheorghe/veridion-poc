@@ -1,0 +1,512 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ORRICK%2C+HERRINGTON+%26+SUTCLIFFE+%28UK%29+LLP&filter%5Bentity.legalAddress.country%5D=GB&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 4,
+    "total": 4,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ORRICK%2C+HERRINGTON+%26+SUTCLIFFE+%28UK%29+LLP&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=ORRICK%2C+HERRINGTON+%26+SUTCLIFFE+%28UK%29+LLP&filter%5Bentity.legalAddress.country%5D=GB&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "2138005AW7M4EG4J6950",
+    "attributes": {
+     "lei": "2138005AW7M4EG4J6950",
+     "entity": {
+      "legalName": {
+       "name": "ORRICK, HERRINGTON & SUTCLIFFE (UK) LLP",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "9TH FLOOR 107 CHEAPSIDE"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "LONDON",
+       "region": "GB-LND",
+       "country": "GB",
+       "postalCode": "EC2V 6DN"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "9TH FLOOR 107 CHEAPSIDE"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "LONDON",
+       "region": "GB-LND",
+       "country": "GB",
+       "postalCode": "EC2V 6DN"
+      },
+      "registeredAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "registeredAs": "OC414172",
+      "jurisdiction": "GB",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "Z0EY",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2016-10-14T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2021-01-27T00:00:00Z",
+      "lastUpdateDate": "2025-12-17T10:34:36Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-02-10T00:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "validatedAs": "OC414172",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "gb/OC414172",
+     "qcc": "QGBTKAAHU9",
+     "gem": null,
+     "spglobal": [
+      "593344386"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/2138005AW7M4EG4J6950/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/2138005AW7M4EG4J6950/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/2138005AW7M4EG4J6950/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/2138005AW7M4EG4J6950/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/2138005AW7M4EG4J6950/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/2138005AW7M4EG4J6950"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300GF7SBPPAH55H74",
+    "attributes": {
+     "lei": "549300GF7SBPPAH55H74",
+     "entity": {
+      "legalName": {
+       "name": "ZENDOR/GSI COMMERCE LIMITED",
+       "language": "en"
+      },
+      "otherNames": [
+       {
+        "name": "Zendor.com Limited",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "5 NEW STREET SQUARE"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "LONDON",
+       "region": "GB-LND",
+       "country": "GB",
+       "postalCode": "EC4A 3TW"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "C/O ORRICK, HERRINGTON & SUTCLIFFE LLP",
+        "9TH FLOOR 107 CHEAPSIDE"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "LONDON",
+       "region": "GB-LND",
+       "country": "GB",
+       "postalCode": "EC2V 6DN"
+      },
+      "registeredAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "registeredAs": "03859136",
+      "jurisdiction": "GB",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "8888",
+       "other": "LIMITED"
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2012-12-12T23:38:00Z",
+      "lastUpdateDate": "2023-07-31T17:11:36Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2013-12-12T23:28:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "validatedAs": "03859136",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "gb/03859136",
+     "qcc": "QGBV1FE4MA",
+     "gem": null,
+     "spglobal": [
+      "5475536"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300GF7SBPPAH55H74/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300GF7SBPPAH55H74/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300GF7SBPPAH55H74/field-modifications"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300GF7SBPPAH55H74"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300XXPERF14A03K23",
+    "attributes": {
+     "lei": "549300XXPERF14A03K23",
+     "entity": {
+      "legalName": {
+       "name": "E-DIALOG UK LIMITED",
+       "language": "en"
+      },
+      "otherNames": [
+       {
+        "name": "New Tosh Limited",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "5 NEW STREET SQUARE"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "LONDON",
+       "region": "GB-LND",
+       "country": "GB",
+       "postalCode": "EC4A 3TW"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "C/O ORRICK, HERRINGTON & SUTCLIFFE LLP",
+        "107 CHEAPSIDE"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "LONDON",
+       "region": "GB-LND",
+       "country": "GB",
+       "postalCode": "EC2V 6DN"
+      },
+      "registeredAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "registeredAs": "05194320",
+      "jurisdiction": "GB",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "8888",
+       "other": "LIMITED"
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2012-12-08T00:56:00Z",
+      "lastUpdateDate": "2023-07-31T17:11:36Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2013-12-07T23:58:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "validatedAs": "05194320",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "gb/05194320",
+     "qcc": "QGBC8YXV5R",
+     "gem": null,
+     "spglobal": [
+      "163258208"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300XXPERF14A03K23/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300XXPERF14A03K23/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300XXPERF14A03K23/field-modifications"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300XXPERF14A03K23"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "549300SO62YAXNG0YL70",
+    "attributes": {
+     "lei": "549300SO62YAXNG0YL70",
+     "entity": {
+      "legalName": {
+       "name": "ORRICK, HERRINGTON & SUTCLIFFE (EUROPE) LLP",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "9th Floor",
+        "107 Cheapside"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "London",
+       "region": null,
+       "country": "GB",
+       "postalCode": "EC2V 6DN"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "9th Floor",
+        "107 Cheapside"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "London",
+       "region": null,
+       "country": "GB",
+       "postalCode": "EC2V 6DN"
+      },
+      "registeredAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "registeredAs": "OC347108",
+      "jurisdiction": "GB",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "Z0EY",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2009-07-10T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2019-03-20T15:34:00Z",
+      "lastUpdateDate": "2026-02-06T19:44:27Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-02-14T13:40:27Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000585",
+       "other": null
+      },
+      "validatedAs": "OC347108",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "gb/OC347108",
+     "qcc": "QGBY1S6K26",
+     "gem": null,
+     "spglobal": [
+      "95149305"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300SO62YAXNG0YL70/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300SO62YAXNG0YL70/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300SO62YAXNG0YL70/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300SO62YAXNG0YL70/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/549300SO62YAXNG0YL70/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300SO62YAXNG0YL70"
+    }
+   }
+  ]
+ }
+}

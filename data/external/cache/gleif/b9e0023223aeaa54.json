@@ -1,0 +1,155 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=IBM+DANMARK+A%2FS&filter%5Bentity.legalAddress.country%5D=DK&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=IBM+DANMARK+A%2FS&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=IBM+DANMARK+A%2FS&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "0IYV3XWWG6HHPFIZHV87",
+    "attributes": {
+     "lei": "0IYV3XWWG6HHPFIZHV87",
+     "entity": {
+      "legalName": {
+       "name": "IBM DANMARK ApS",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "IBM DANMARK A/S",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "Sundkrogsgade 11"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2100"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "Provensvej 1"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Brondby",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2605"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "65305216",
+      "jurisdiction": "DK",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "H8VP",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1949-02-18T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2012-09-27T21:41:00Z",
+      "lastUpdateDate": "2026-09-16T09:17:16Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-10-15T22:14:40Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "65305216",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/65305216",
+     "qcc": "QDKQG62HWA",
+     "gem": null,
+     "spglobal": [
+      "5874797"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/0IYV3XWWG6HHPFIZHV87/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/0IYV3XWWG6HHPFIZHV87/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/0IYV3XWWG6HHPFIZHV87/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/0IYV3XWWG6HHPFIZHV87/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/0IYV3XWWG6HHPFIZHV87/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/0IYV3XWWG6HHPFIZHV87/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/0IYV3XWWG6HHPFIZHV87/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/0IYV3XWWG6HHPFIZHV87"
+    }
+   }
+  ]
+ }
+}

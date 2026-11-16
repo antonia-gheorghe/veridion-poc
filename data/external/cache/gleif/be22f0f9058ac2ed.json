@@ -1,0 +1,529 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SNOW+AS&filter%5Bentity.legalAddress.country%5D=NO&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 4,
+    "total": 4,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SNOW+AS&filter%5Bentity.legalAddress.country%5D=NO&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SNOW+AS&filter%5Bentity.legalAddress.country%5D=NO&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "984500E6CAFAFBFC1E33",
+    "attributes": {
+     "lei": "984500E6CAFAFBFC1E33",
+     "entity": {
+      "legalName": {
+       "name": "NIVIS AS",
+       "language": "no"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "no",
+       "addressLines": [
+        "Hertzbergs gate 34"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Planet Snow AS",
+       "city": "HAMAR",
+       "region": "NO-34",
+       "country": "NO",
+       "postalCode": "2318"
+      },
+      "headquartersAddress": {
+       "language": "no",
+       "addressLines": [
+        "Hertzbergs gate 34"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Planet Snow AS",
+       "city": "HAMAR",
+       "region": "NO-34",
+       "country": "NO",
+       "postalCode": "2318"
+      },
+      "registeredAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "registeredAs": "914286050",
+      "jurisdiction": "NO",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "YI42",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2014-09-22T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2020-03-12T14:53:00Z",
+      "lastUpdateDate": "2026-05-12T01:00:50Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-03-19T10:27:14Z",
+      "managingLou": "98450045AN5EB5FDC780",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "validatedAs": "914286050",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "no/914286050",
+     "qcc": "QNORVW0CD2",
+     "gem": null,
+     "spglobal": [
+      "663998726"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500E6CAFAFBFC1E33/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500E6CAFAFBFC1E33/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500E6CAFAFBFC1E33/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500E6CAFAFBFC1E33/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500E6CAFAFBFC1E33/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/984500E6CAFAFBFC1E33"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "254900UCSNP8JVEQU011",
+    "attributes": {
+     "lei": "254900UCSNP8JVEQU011",
+     "entity": {
+      "legalName": {
+       "name": "SNOW VALLEY INVEST AS",
+       "language": "no"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "Johnsrudgata 48"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "LOMMEDALEN",
+       "region": null,
+       "country": "NO",
+       "postalCode": "1350"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "Johnsrudgata 48"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "LOMMEDALEN",
+       "region": null,
+       "country": "NO",
+       "postalCode": "1350"
+      },
+      "registeredAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "registeredAs": "989475827",
+      "jurisdiction": "NO",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "8888",
+       "other": "AS"
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2018-01-25T14:53:58Z",
+      "lastUpdateDate": "2022-03-15T23:12:11Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2019-01-25T14:53:58Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "validatedAs": "989475827",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "no/989475827",
+     "qcc": "QNOD8WS7VW",
+     "gem": null,
+     "spglobal": [
+      "560492294"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900UCSNP8JVEQU011/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900UCSNP8JVEQU011/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900UCSNP8JVEQU011/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900UCSNP8JVEQU011/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/254900UCSNP8JVEQU011/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/254900UCSNP8JVEQU011"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "636700DBKG3QFAK87224",
+    "attributes": {
+     "lei": "636700DBKG3QFAK87224",
+     "entity": {
+      "legalName": {
+       "name": "SNOW AS",
+       "language": "no"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "no",
+       "addressLines": [
+        "Hammerstadveien 1"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Stabekk",
+       "region": "NO-30",
+       "country": "NO",
+       "postalCode": "1369"
+      },
+      "headquartersAddress": {
+       "language": "no",
+       "addressLines": [
+        "Hammerstadveien 1"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Stabekk",
+       "region": "NO-30",
+       "country": "NO",
+       "postalCode": "1369"
+      },
+      "registeredAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "registeredAs": "922 936 595",
+      "jurisdiction": "NO",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "YI42",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2019-05-22T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2023-10-10T09:00:00Z",
+      "lastUpdateDate": "2026-08-13T03:54:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-10-10T09:00:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "validatedAs": "922 936 595",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "no/922936595",
+     "qcc": "QNOGN27G4B",
+     "gem": null,
+     "spglobal": [
+      "709248710"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/636700DBKG3QFAK87224/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/636700DBKG3QFAK87224/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/636700DBKG3QFAK87224/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/636700DBKG3QFAK87224/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/636700DBKG3QFAK87224/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/636700DBKG3QFAK87224"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "984500A69A46A57JCF65",
+    "attributes": {
+     "lei": "984500A69A46A57JCF65",
+     "entity": {
+      "legalName": {
+       "name": "SNOW INVEST AS",
+       "language": "no"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "no",
+       "addressLines": [
+        "Konsul Knudtzons gate 51"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Olav Johan Lyngstad",
+       "city": "KRISTIANSUND N",
+       "region": "NO-15",
+       "country": "NO",
+       "postalCode": "6508"
+      },
+      "headquartersAddress": {
+       "language": "no",
+       "addressLines": [
+        "Konsul Knudtzons gate 51"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": "c/o Olav Johan Lyngstad",
+       "city": "KRISTIANSUND N",
+       "region": "NO-15",
+       "country": "NO",
+       "postalCode": "6508"
+      },
+      "registeredAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "registeredAs": "925 355 321",
+      "jurisdiction": "NO",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "YI42",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "INACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2020-07-01T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2025-12-02T00:00:00Z",
+          "recordedDate": "2025-12-15T14:18:55Z",
+          "type": "DISSOLUTION",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2020-09-02T08:30:07Z",
+      "lastUpdateDate": "2025-12-15T14:18:55Z",
+      "status": "RETIRED",
+      "nextRenewalDate": "2026-11-24T20:18:05Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "validatedAs": "925 355 321",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "no/925355321",
+     "qcc": "QNOK4NW5A8",
+     "gem": null,
+     "spglobal": [
+      "688309923"
+     ],
+     "conformityFlag": "NOT_APPLICABLE"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500A69A46A57JCF65/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500A69A46A57JCF65/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500A69A46A57JCF65/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500A69A46A57JCF65/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500A69A46A57JCF65/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/984500A69A46A57JCF65"
+    }
+   }
+  ]
+ }
+}

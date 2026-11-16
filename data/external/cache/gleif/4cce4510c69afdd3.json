@@ -1,0 +1,315 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Hydro+Energi+AS&filter%5Bentity.legalAddress.country%5D=NO&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 2,
+    "total": 2,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Hydro+Energi+AS&filter%5Bentity.legalAddress.country%5D=NO&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Hydro+Energi+AS&filter%5Bentity.legalAddress.country%5D=NO&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300UBLOMF800LIC19",
+    "attributes": {
+     "lei": "549300UBLOMF800LIC19",
+     "entity": {
+      "legalName": {
+       "name": "HYDRO ENERGI AS",
+       "language": "no"
+      },
+      "otherNames": [
+       {
+        "name": "NORSK HYDRO PRODUKSJON AS",
+        "language": "no",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "no",
+       "addressLines": [
+        "Vækerø",
+        "Drammensveien 264"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Oslo",
+       "region": "NO-03",
+       "country": "NO",
+       "postalCode": "0283"
+      },
+      "headquartersAddress": {
+       "language": "no",
+       "addressLines": [
+        "Vækerø",
+        "Drammensveien 264"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Oslo",
+       "region": "NO-03",
+       "country": "NO",
+       "postalCode": "0283"
+      },
+      "registeredAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "registeredAs": "930 187 240",
+      "jurisdiction": "NO",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "YI42",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "1903-04-30T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "no",
+        "type": "AUTO_ASCII_TRANSLITERATED_LEGAL_ADDRESS",
+        "addressLines": [
+         "Vaekero",
+         "Drammensveien 264"
+        ],
+        "city": "Oslo",
+        "region": "NO-03",
+        "country": "NO",
+        "postalCode": "0283"
+       },
+       {
+        "fieldType": "TransliteratedOtherAddress",
+        "language": "no",
+        "type": "AUTO_ASCII_TRANSLITERATED_HEADQUARTERS_ADDRESS",
+        "addressLines": [
+         "Vaekero",
+         "Drammensveien 264"
+        ],
+        "city": "Oslo",
+        "region": "NO-03",
+        "country": "NO",
+        "postalCode": "0283"
+       }
+      ],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2013-12-12T03:11:00Z",
+      "lastUpdateDate": "2026-07-27T06:31:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-04-14T00:00:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "validatedAs": "930 187 240",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "no/930187240",
+     "qcc": "QNOUP9UCDH",
+     "gem": "E100001015571",
+     "spglobal": [
+      "22500673"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300UBLOMF800LIC19/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300UBLOMF800LIC19/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300UBLOMF800LIC19/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300UBLOMF800LIC19/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300UBLOMF800LIC19/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300UBLOMF800LIC19/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300UBLOMF800LIC19/ultimate-parent"
+      }
+     },
+     "direct-children": {
+      "links": {
+       "relationship-records": "https://api.gleif.org/api/v1/lei-records/549300UBLOMF800LIC19/direct-child-relationships",
+       "related": "https://api.gleif.org/api/v1/lei-records/549300UBLOMF800LIC19/direct-children"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300UBLOMF800LIC19"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "254900MCMQGWH5FIAL76",
+    "attributes": {
+     "lei": "254900MCMQGWH5FIAL76",
+     "entity": {
+      "legalName": {
+       "name": "HYDRO ENERGI INVEST AS",
+       "language": "no"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "no",
+       "addressLines": [
+        "Drammensveien 264"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Oslo",
+       "region": "NO-03",
+       "country": "NO",
+       "postalCode": "0283"
+      },
+      "headquartersAddress": {
+       "language": "no",
+       "addressLines": [
+        "Drammensveien 264"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Oslo",
+       "region": "NO-03",
+       "country": "NO",
+       "postalCode": "0283"
+      },
+      "registeredAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "registeredAs": "921 689 535",
+      "jurisdiction": "NO",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "YI42",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2018-10-10T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2023-01-16T12:27:34Z",
+      "lastUpdateDate": "2026-03-19T07:14:00Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-05-16T09:04:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000472",
+       "other": null
+      },
+      "validatedAs": "921 689 535",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "no/921689535",
+     "qcc": "QNO307614W",
+     "gem": null,
+     "spglobal": [
+      "704939869"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900MCMQGWH5FIAL76/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900MCMQGWH5FIAL76/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900MCMQGWH5FIAL76/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/254900MCMQGWH5FIAL76/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/254900MCMQGWH5FIAL76/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/254900MCMQGWH5FIAL76/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/254900MCMQGWH5FIAL76/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/254900MCMQGWH5FIAL76"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,137 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=NEC+Scandinavia+Aktiebolag&filter%5Bentity.legalAddress.country%5D=SE&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=NEC+Scandinavia+Aktiebolag&filter%5Bentity.legalAddress.country%5D=SE&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=NEC+Scandinavia+Aktiebolag&filter%5Bentity.legalAddress.country%5D=SE&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300SNO518GFU7EX36",
+    "attributes": {
+     "lei": "549300SNO518GFU7EX36",
+     "entity": {
+      "legalName": {
+       "name": "NEC Scandinavia Aktiebolag",
+       "language": "sv"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "sv",
+       "addressLines": [
+        "PO Box 1295"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Kista",
+       "region": "SE-AB",
+       "country": "SE",
+       "postalCode": "164 29"
+      },
+      "headquartersAddress": {
+       "language": "sv",
+       "addressLines": [
+        "Kronborgsgränd 1"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Kista",
+       "region": "SE-AB",
+       "country": "SE",
+       "postalCode": "164 46"
+      },
+      "registeredAt": {
+       "id": "RA000544",
+       "other": null
+      },
+      "registeredAs": "556335-4728",
+      "jurisdiction": "SE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "XJHM",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-02-01T20:09:00Z",
+      "lastUpdateDate": "2023-08-02T10:35:00Z",
+      "status": "LAPSED",
+      "nextRenewalDate": "2016-01-26T16:32:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000544",
+       "other": null
+      },
+      "validatedAs": "556335-4728",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "se/556335-4728",
+     "qcc": "QSEKN4UGRV",
+     "gem": null,
+     "spglobal": [
+      "23297866"
+     ],
+     "conformityFlag": "NON_CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300SNO518GFU7EX36/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300SNO518GFU7EX36/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300SNO518GFU7EX36/field-modifications"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300SNO518GFU7EX36"
+    }
+   }
+  ]
+ }
+}

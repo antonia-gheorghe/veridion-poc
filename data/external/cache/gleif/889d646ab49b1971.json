@@ -1,0 +1,158 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Ntt+Malaysia+Solutions+Sdn.+Bhd.&filter%5Bentity.legalAddress.country%5D=MY&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Ntt+Malaysia+Solutions+Sdn.+Bhd.&filter%5Bentity.legalAddress.country%5D=MY&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=Ntt+Malaysia+Solutions+Sdn.+Bhd.&filter%5Bentity.legalAddress.country%5D=MY&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "213800T25UQB2UU93J67",
+    "attributes": {
+     "lei": "213800T25UQB2UU93J67",
+     "entity": {
+      "legalName": {
+       "name": "NTT MALAYSIA SOLUTIONS SDN. BHD.",
+       "language": "en"
+      },
+      "otherNames": [
+       {
+        "name": "DIMENSION DATA (MALAYSIA) SDN. BHD.",
+        "language": "en",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "12TH FLOOR, MENARA SYMPHONY, NO. 5",
+        "ALAN PROF. KHOO KAY KIM, SEKSYEN 13"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "PETALING JAYA",
+       "region": "MY-10",
+       "country": "MY",
+       "postalCode": "46200"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "LEVEL 8 SYMPHONY HOUSE",
+        "PUSAT DAGANGAN DANA 1",
+        "JALAN PJU 1A/46"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "PETALING JAYA",
+       "region": "MY-10",
+       "country": "MY",
+       "postalCode": "47301"
+      },
+      "registeredAt": {
+       "id": "RA000439",
+       "other": null
+      },
+      "registeredAs": "199501007449 (336647-A)",
+      "jurisdiction": "MY",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "XEOV",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2020-01-20T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2020-01-20T00:00:00Z",
+      "lastUpdateDate": "2026-07-20T10:18:42Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-01-19T00:00:00Z",
+      "managingLou": "213800WAVVOPS85N2205",
+      "corroborationLevel": "PARTIALLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000439",
+       "other": null
+      },
+      "validatedAs": "199501007449 (336647-A)",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": null,
+     "qcc": "QMY7A2QPXJ",
+     "gem": null,
+     "spglobal": [
+      "652928589"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800T25UQB2UU93J67/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800T25UQB2UU93J67/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/213800T25UQB2UU93J67/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/213800T25UQB2UU93J67/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/213800T25UQB2UU93J67/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/213800T25UQB2UU93J67/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/213800T25UQB2UU93J67/ultimate-parent"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/213800T25UQB2UU93J67"
+    }
+   }
+  ]
+ }
+}

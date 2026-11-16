@@ -1,0 +1,575 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TATA+CONSULTANCY+SERVICES+LIMITED%2C+FILIAL+AF+TATA+CONSULTANCY+SERVICES+LTD.%2CINDIEN&filter%5Bentity.legalAddress.country%5D=DK&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 4,
+    "total": 4,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TATA+CONSULTANCY+SERVICES+LIMITED%2C+FILIAL+AF+TATA+CONSULTANCY+SERVICES+LTD.%2CINDIEN&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=TATA+CONSULTANCY+SERVICES+LIMITED%2C+FILIAL+AF+TATA+CONSULTANCY+SERVICES+LTD.%2CINDIEN&filter%5Bentity.legalAddress.country%5D=DK&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "254900FIYQF8E8C5E810",
+    "attributes": {
+     "lei": "254900FIYQF8E8C5E810",
+     "entity": {
+      "legalName": {
+       "name": "TATA CONSULTANCY SERVICES LIMITED, FILIAL AF TATA CONSULTANCY SERVICES LTD.,INDIEN",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "Kalvebod Brygge 45"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": null,
+       "country": "DK",
+       "postalCode": "1560"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "9th Floor",
+        "Nirmal Building",
+        "Nariman Point"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Mumbai",
+       "region": "IN-MH",
+       "country": "IN",
+       "postalCode": "400021"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "28115938",
+      "jurisdiction": "IN",
+      "category": "BRANCH",
+      "legalForm": {
+       "id": "DDKQ",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2004-09-28T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2025-02-14T13:35:56Z",
+      "lastUpdateDate": "2026-02-04T18:01:41Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-02-14T13:35:56Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "28115938",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": null,
+     "qcc": "QDK890YHJE",
+     "gem": null,
+     "spglobal": [
+      "257029386"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900FIYQF8E8C5E810/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900FIYQF8E8C5E810/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/254900FIYQF8E8C5E810/field-modifications"
+      }
+     },
+     "head-office": {
+      "links": {
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/254900FIYQF8E8C5E810/head-office",
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/254900FIYQF8E8C5E810/head-office-relationship"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/254900FIYQF8E8C5E810"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "5493003QOQU6GD14BA34",
+    "attributes": {
+     "lei": "5493003QOQU6GD14BA34",
+     "entity": {
+      "legalName": {
+       "name": "Investeringsforeningen Nordea Invest - Indien KL",
+       "language": "da"
+      },
+      "otherNames": [
+       {
+        "name": "Investeringsforeningen Nordea Invest - Indien",
+        "language": "da",
+        "type": "PREVIOUS_LEGAL_NAME"
+       }
+      ],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Strandgade 3",
+        "København K"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "1401"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "C/O Nordea Funds Ltd",
+        "Satamaradankatu 5",
+        "Sata V3C",
+        "Nordea"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Helsinki",
+       "region": "FI-18",
+       "country": "FI",
+       "postalCode": "00020"
+      },
+      "registeredAt": {
+       "id": "RA000171",
+       "other": null
+      },
+      "registeredAs": null,
+      "jurisdiction": "DK",
+      "category": "FUND",
+      "legalForm": {
+       "id": "1MWR",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "INACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": "549300XEL7NJ5QOTRR67",
+       "name": null
+      },
+      "successorEntities": [
+       {
+        "lei": "549300XEL7NJ5QOTRR67"
+       }
+      ],
+      "creationDate": null,
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2020-10-22T00:00:00Z",
+          "recordedDate": "2022-03-24T19:41:40Z",
+          "type": "MERGERS_AND_ACQUISITIONS",
+          "status": "COMPLETED",
+          "affectedFields": [
+           {
+            "value": "549300XEL7NJ5QOTRR67",
+            "xpath": "/lei:LEIData/lei:LEIRecords/lei:LEIRecord/lei:Entity/lei:SuccessorEntity/lei:SuccessorLEI"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-01-29T00:34:00Z",
+      "lastUpdateDate": "2023-08-16T12:42:00Z",
+      "status": "RETIRED",
+      "nextRenewalDate": "2020-12-13T00:16:00Z",
+      "managingLou": "549300O897ZC5H7CY412",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000171",
+       "other": null
+      },
+      "validatedAs": "N/A",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": null,
+     "qcc": null,
+     "gem": null,
+     "spglobal": [
+      "105900238"
+     ],
+     "conformityFlag": "NOT_APPLICABLE"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493003QOQU6GD14BA34/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493003QOQU6GD14BA34/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493003QOQU6GD14BA34/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493003QOQU6GD14BA34/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/5493003QOQU6GD14BA34/ultimate-parent-reporting-exception"
+      }
+     },
+     "successor-entity": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493003QOQU6GD14BA34/successor-entity"
+      }
+     },
+     "successor-entities": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/5493003QOQU6GD14BA34/successor-entities"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/5493003QOQU6GD14BA34"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "984500IEBD7941CELE62",
+    "attributes": {
+     "lei": "984500IEBD7941CELE62",
+     "entity": {
+      "legalName": {
+       "name": "J. Weibrecht - Handel med Indien",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Martinus Rørbyes Vej 32"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "Martinus Rørbyes Vej 32"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Aalborg",
+       "region": null,
+       "country": "DK",
+       "postalCode": "9000"
+      },
+      "registeredAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "registeredAs": "42110647",
+      "jurisdiction": "DK",
+      "category": "SOLE_PROPRIETOR",
+      "legalForm": {
+       "id": "FUKI",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2021-02-10T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2026-06-02T09:17:30Z",
+      "lastUpdateDate": "2026-06-02T09:17:30Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-06-02T09:17:32Z",
+      "managingLou": "529900T8BM49AURSDO55",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000170",
+       "other": null
+      },
+      "validatedAs": "42110647",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "dk/42110647",
+     "qcc": "QDK8JM56QA",
+     "gem": null,
+     "spglobal": [
+      "2003539840"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500IEBD7941CELE62/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500IEBD7941CELE62/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/984500IEBD7941CELE62/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500IEBD7941CELE62/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/984500IEBD7941CELE62/ultimate-parent-reporting-exception"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/984500IEBD7941CELE62"
+    }
+   },
+   {
+    "type": "lei-records",
+    "id": "875500YZZ9K2BSDQ8K92",
+    "attributes": {
+     "lei": "875500YZZ9K2BSDQ8K92",
+     "entity": {
+      "legalName": {
+       "name": "Afdeling Indien KL",
+       "language": "da"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "da",
+       "addressLines": [
+        "Dampfærgevej 26"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Copenhagen",
+       "region": "DK-84",
+       "country": "DK",
+       "postalCode": "2100"
+      },
+      "headquartersAddress": {
+       "language": "da",
+       "addressLines": [
+        "c/o C WORLDWIDE FUND MANAGEMENT S.A.",
+        "1, rue Schiller"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Luxembourg",
+       "region": "LU-LU",
+       "country": "LU",
+       "postalCode": "L-2519"
+      },
+      "registeredAt": {
+       "id": "RA000171",
+       "other": null
+      },
+      "registeredAs": "11057-011",
+      "jurisdiction": "DK",
+      "category": "FUND",
+      "legalForm": {
+       "id": "1MWR",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2020-01-31T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": []
+     },
+     "registration": {
+      "initialRegistrationDate": "2020-03-17T15:12:19Z",
+      "lastUpdateDate": "2026-02-05T06:20:40Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-03-18T23:00:00Z",
+      "managingLou": "52990034RLKT0WSOAM90",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000171",
+       "other": null
+      },
+      "validatedAs": "11057-011",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": null,
+     "qcc": null,
+     "gem": null,
+     "spglobal": [
+      "663841882"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/875500YZZ9K2BSDQ8K92/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/875500YZZ9K2BSDQ8K92/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/875500YZZ9K2BSDQ8K92/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/875500YZZ9K2BSDQ8K92/direct-parent-reporting-exception"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "reporting-exception": "https://api.gleif.org/api/v1/lei-records/875500YZZ9K2BSDQ8K92/ultimate-parent-reporting-exception"
+      }
+     },
+     "fund-manager": {
+      "links": {
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/875500YZZ9K2BSDQ8K92/fund-manager",
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/875500YZZ9K2BSDQ8K92/fund-manager-relationship"
+      }
+     },
+     "umbrella-fund": {
+      "links": {
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/875500YZZ9K2BSDQ8K92/umbrella-fund",
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/875500YZZ9K2BSDQ8K92/umbrella-fund-relationship"
+      }
+     },
+     "isins": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/875500YZZ9K2BSDQ8K92/isins"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/875500YZZ9K2BSDQ8K92"
+    }
+   }
+  ]
+ }
+}

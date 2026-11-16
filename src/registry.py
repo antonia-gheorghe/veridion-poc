@@ -231,18 +231,23 @@ def lookup_queue(decisions: pd.DataFrame, features: pd.DataFrame) -> pd.DataFram
         core, country = split_name(d.input_name).core, d.input_country_code
         base = {"input_row_key": d.input_row_key, "input_name": d.input_name, "country_code": country, "query": core}
         if not split_name(d.input_name).legal_forms:
-            rows.append(base | {"issues": "", "outcome": NO_LEGAL_FORM})
+            rows.append(base | {"issues": "", "as_written_issue": "", "outcome": NO_LEGAL_FORM})
             continue
         national, nat_issue = [], ""
         if country in NATIONAL:
             national, nat_issue = _lookup(query_brreg if country == "NO" else query_prh, core)
         gleif, gleif_issue = _lookup(query_gleif, core, country)
+        written_issue = ""
+        if d.input_name.upper() != core:  # full-text search does not split tokens like SALESFORCE.COM
+            as_written, written_issue = _lookup(query_gleif, d.input_name, country)
+            if not written_issue:  # extra recall only; an incomplete result is dropped
+                gleif = list({r.registry_id: r for r in gleif + as_written}.values())
         city = cities.get(d.input_row_key)
         result = accept(d.input_name, city if isinstance(city, str) else None, national, gleif)
         issues = "; ".join(i for i in (nat_issue, gleif_issue) if i)
         if issues and result["outcome"] != AMBIGUOUS:  # an incomplete search cannot prove a unique match
             result = {"outcome": ERROR if ERROR_PREFIX in issues else TRUNCATED}
-        rows.append(base | {"issues": issues} | result)
+        rows.append(base | {"issues": issues, "as_written_issue": written_issue} | result)
     return pd.DataFrame(rows)
 
 

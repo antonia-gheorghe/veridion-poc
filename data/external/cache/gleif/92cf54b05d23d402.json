@@ -1,0 +1,220 @@
+{
+ "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SFDC+IRELAND+LIMITED&filter%5Bentity.legalAddress.country%5D=IE&page%5Bsize%5D=100&page%5Bnumber%5D=1",
+ "response": {
+  "meta": {
+   "goldenCopy": {
+    "publishDate": "2026-11-16T08:00:00Z"
+   },
+   "pagination": {
+    "currentPage": 1,
+    "perPage": 100,
+    "from": 1,
+    "to": 1,
+    "total": 1,
+    "lastPage": 1
+   }
+  },
+  "links": {
+   "first": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SFDC+IRELAND+LIMITED&filter%5Bentity.legalAddress.country%5D=IE&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+   "last": "https://api.gleif.org/api/v1/lei-records?filter%5Bfulltext%5D=SFDC+IRELAND+LIMITED&filter%5Bentity.legalAddress.country%5D=IE&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  },
+  "data": [
+   {
+    "type": "lei-records",
+    "id": "549300UONRKY537S9629",
+    "attributes": {
+     "lei": "549300UONRKY537S9629",
+     "entity": {
+      "legalName": {
+       "name": "SFDC IRELAND LIMITED",
+       "language": "en"
+      },
+      "otherNames": [],
+      "transliteratedOtherNames": [],
+      "legalAddress": {
+       "language": "en",
+       "addressLines": [
+        "Salesforce Tower",
+        "Spencer Place",
+        "Dublin 1"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Dublin",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D01 W2Y3"
+      },
+      "headquartersAddress": {
+       "language": "en",
+       "addressLines": [
+        "Salesforce Tower",
+        "Spencer Place",
+        "Dublin 1"
+       ],
+       "addressNumber": null,
+       "addressNumberWithinBuilding": null,
+       "mailRouting": null,
+       "city": "Dublin",
+       "region": "IE-D",
+       "country": "IE",
+       "postalCode": "D01 W2Y3"
+      },
+      "registeredAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "registeredAs": "394272",
+      "jurisdiction": "IE",
+      "category": "GENERAL",
+      "legalForm": {
+       "id": "MNQ7",
+       "other": null
+      },
+      "associatedEntity": {
+       "lei": null,
+       "name": null
+      },
+      "status": "ACTIVE",
+      "expiration": {
+       "date": null,
+       "reason": null
+      },
+      "successorEntity": {
+       "lei": null,
+       "name": null
+      },
+      "successorEntities": [],
+      "creationDate": "2004-11-26T00:00:00Z",
+      "subCategory": null,
+      "otherAddresses": [],
+      "eventGroups": [
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "OTHER_OFFICIAL_DOCUMENTS",
+          "effectiveDate": "2025-10-20T00:00:00Z",
+          "recordedDate": "2026-10-22T21:46:50Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "OTHER_OFFICIAL_DOCUMENTS",
+          "effectiveDate": "2025-10-20T00:00:00Z",
+          "recordedDate": "2026-10-22T21:46:50Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "SUPPORTING_DOCUMENTS",
+          "effectiveDate": "2022-08-01T00:00:00Z",
+          "recordedDate": "2022-08-08T12:35:30Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "OTHER_OFFICIAL_DOCUMENTS",
+          "effectiveDate": "2022-08-01T00:00:00Z",
+          "recordedDate": "2023-11-11T00:58:48Z",
+          "type": "CHANGE_LEGAL_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       },
+       {
+        "groupType": "STANDALONE",
+        "events": [
+         {
+          "validationDocuments": "OTHER_OFFICIAL_DOCUMENTS",
+          "effectiveDate": "2022-08-01T00:00:00Z",
+          "recordedDate": "2023-11-11T00:58:48Z",
+          "type": "CHANGE_HQ_ADDRESS",
+          "status": "COMPLETED"
+         }
+        ]
+       }
+      ]
+     },
+     "registration": {
+      "initialRegistrationDate": "2014-07-29T01:52:00Z",
+      "lastUpdateDate": "2026-10-26T10:15:22Z",
+      "status": "ISSUED",
+      "nextRenewalDate": "2027-11-01T18:28:02Z",
+      "managingLou": "5493001KJTIIGC8Y1R12",
+      "corroborationLevel": "FULLY_CORROBORATED",
+      "validatedAt": {
+       "id": "RA000402",
+       "other": null
+      },
+      "validatedAs": "394272",
+      "otherValidationAuthorities": []
+     },
+     "bic": null,
+     "mic": null,
+     "ocid": "ie/394272",
+     "qcc": "QIEB0JXUS7",
+     "gem": null,
+     "spglobal": [
+      "52747155"
+     ],
+     "conformityFlag": "CONFORMING"
+    },
+    "relationships": {
+     "managing-lou": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/managing-lou"
+      }
+     },
+     "lei-issuer": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/lei-issuer"
+      }
+     },
+     "field-modifications": {
+      "links": {
+       "related": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/field-modifications"
+      }
+     },
+     "direct-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/direct-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/direct-parent"
+      }
+     },
+     "ultimate-parent": {
+      "links": {
+       "relationship-record": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/ultimate-parent-relationship",
+       "lei-record": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/ultimate-parent"
+      }
+     },
+     "direct-children": {
+      "links": {
+       "relationship-records": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/direct-child-relationships",
+       "related": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629/direct-children"
+      }
+     }
+    },
+    "links": {
+     "self": "https://api.gleif.org/api/v1/lei-records/549300UONRKY537S9629"
+    }
+   }
+  ]
+ }
+}
