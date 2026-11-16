@@ -44,6 +44,10 @@ Counts are from the raw sample unless stated otherwise.
 | Address belongs to another organisation | Neras Direkte AS record carries the address of NERAS B.I.L, a sports club (346) | 1 seen | Phase C, P2 sample |
 | Website is a look-alike domain | Nordea record at Essendrops gate 7, Oslo has website nordeea.co.uk (359) | 1 seen | Phase C, review table |
 | Correct record with no country, no address and a wrong website | Amazon Web Services EMEA: website logitech-events.com (31) | 1 seen | Phase C, review table |
+| Sibling entity present, the entity itself missing | Cisco Systems Norway AS (979322437) returned for CISCO NORWAY AS (998386063), both at Philip Pedersens vei 1 (96) | 1 seen | Brreg, D61 |
+| Record carries another company's legal name and wrong attributes | EXTENDA RETAIL (Tønsberg): legal name 'Re-Vision BV.', website 44749.org, 1 employee; Brreg lists Extenda Retail AS with 24 (186) | 1 seen | Brreg, D61 |
+| Spam or look-alike websites as company records | 'Extenda' at extenda.pages.dev describes a lottery prediction site (186); 'DNB BANK' at dnbconnect.org offers debt consolidation (144) | 2 seen | D62 sample |
+| Same-name unrelated companies returned as candidates | Tutela language school (tutela.ca) for Tutela Technologies (550); QCC property maintenance for QCC Interscan (411) | 2 seen | D62 sample |
 | Industry missing on the correct candidate | Leaseplan Sweden (key 305) | 1 seen | manual review |
 
 ## Matching engine

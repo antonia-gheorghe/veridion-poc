@@ -135,7 +135,7 @@ def _resolve_input(group: pd.DataFrame) -> dict:
 
     has_candidate = (group.name_outcome != NAME_NONE) & group.country.isin([SAME, UNKNOWN])
     if not has_candidate.any():
-        return out | {"decision": NO_CANDIDATE, "rule": "R3", "reason": "no weak-or-better name in same or unknown country"}
+        return out | {"decision": NO_CANDIDATE, "rule": "U0", "reason": "no weak-or-better name in same or unknown country"}
 
     same_country = group[group.country == SAME]
     if same_country.empty:

@@ -47,7 +47,7 @@ and a `confidence`. Rules are in `docs/decisions.md`; sample checks with sources
 | E1 (research) | external | high if an official source confirms name and address, else medium | 30-row sample of the unmatched: found 21, related 1, unverified 8; 567 accepted on a government vendor list; the 10 Danish rows checked by hand in the CVR register (9 high, 1 medium) |
 | E2 | lead | low | aggregator evidence only; not counted as matched |
 | M2 | unmatched | none | user review or sourced research per row |
-| R3 | no candidate | none | not sampled |
+| U0 | no candidate | none | not sampled |
 
 ## Findings
 _TBD_

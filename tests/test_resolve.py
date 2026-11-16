@@ -149,7 +149,7 @@ def test_better_location_wins_pick():
 
 def test_r3_no_candidate():
     out = run({"name_sort": 30, "name_set": 30, "cand_core": "ZETA"})
-    assert (out.decision, out.rule) == ("no_candidate", "R3")
+    assert (out.decision, out.rule) == ("no_candidate", "U0")
 
 
 def test_only_foreign_candidates_with_good_name():
