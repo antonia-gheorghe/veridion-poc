@@ -1,0 +1,712 @@
+input_row_key,veridion_id,attribute,check,severity,value,evidence,source
+2,45309031-f8ab-11ed-89fe-613148a94f23,employee_count,missing,info,,,rule
+2,45309031-f8ab-11ed-89fe-613148a94f23,revenue,missing,info,,,rule
+2,45309031-f8ab-11ed-89fe-613148a94f23,naics_2022_primary_code,missing,info,,,rule
+5,df61d790-93e4-11eb-aa66-9b8d95e2171b,employee_count,missing,info,,,rule
+5,df61d790-93e4-11eb-aa66-9b8d95e2171b,revenue,missing,info,,,rule
+6,359bd116-93e5-11eb-b5f6-816dd10ac7b0,main_postcode,postcode_length,warning,180,FI postcodes have 5 digits,rule
+13,1000ca72-f7d7-11ed-bb8f-e9ec1594da2e,website_domain,missing,info,,,rule
+13,1000ca72-f7d7-11ed-bb8f-e9ec1594da2e,employee_count,missing,info,,,rule
+13,1000ca72-f7d7-11ed-bb8f-e9ec1594da2e,revenue,missing,info,,,rule
+13,1000ca72-f7d7-11ed-bb8f-e9ec1594da2e,naics_2022_primary_code,missing,info,,,rule
+16,410a4cc3-93e5-11eb-9937-4fab995bf8ff,employee_count,missing,info,,,rule
+16,410a4cc3-93e5-11eb-9937-4fab995bf8ff,revenue,missing,info,,,rule
+17,099ed3a8-1afb-11ec-a882-057f42292856,website_domain,missing,info,,,rule
+17,099ed3a8-1afb-11ec-a882-057f42292856,employee_count,missing,info,,,rule
+17,099ed3a8-1afb-11ec-a882-057f42292856,revenue,missing,info,,,rule
+17,099ed3a8-1afb-11ec-a882-057f42292856,main_postcode,missing,info,,,rule
+17,099ed3a8-1afb-11ec-a882-057f42292856,main_street_number,date_in_street_number,error,2026-04-06 00:00:00,,rule
+18,47b15560-93e5-11eb-91fb-73d498260b10,main_street,missing,info,,,rule
+18,47b15560-93e5-11eb-91fb-73d498260b10,main_postcode,missing,info,,,rule
+19,3c9b6969-fdd5-11ef-8bcd-e7d9bf87b1c1,website_domain,missing,info,,,rule
+19,3c9b6969-fdd5-11ef-8bcd-e7d9bf87b1c1,employee_count,missing,info,,,rule
+19,3c9b6969-fdd5-11ef-8bcd-e7d9bf87b1c1,revenue,missing,info,,,rule
+19,3c9b6969-fdd5-11ef-8bcd-e7d9bf87b1c1,naics_2022_primary_code,missing,info,,,rule
+20,a9f7869f-93e4-11eb-97db-273ba5953680,main_postcode,postcode_length,warning,283,NO postcodes have 4 digits,rule
+21,2d7be421-93e5-11eb-be5a-4f810ab55f2e,main_postcode,postcode_length,warning,157,NO postcodes have 4 digits,rule
+22,ef392bbd-93e4-11eb-919a-b3f9a5ad205c,main_postcode,postcode_length,warning,1720,US postcodes have 5 digits,rule
+22,ef392bbd-93e4-11eb-919a-b3f9a5ad205c,primary_email,email_domain_differs,info,an_marketing@microsoft.com,website affirmednetworks.com,rule
+24,000b3360-93e5-11eb-919a-b3f9a5ad205c,primary_email,email_domain_differs,info,lowkahhung.5188s@aia-premier.com.my,website aia.com.my,rule
+25,379975dc-93e5-11eb-90d2-e3355a7e800b,main_postcode,postcode_length,warning,160,NO postcodes have 4 digits,rule
+26,eab4a797-e56c-11ed-86c6-9fd2c95fb352,website_domain,missing,info,,,rule
+26,eab4a797-e56c-11ed-86c6-9fd2c95fb352,employee_count,missing,info,,,rule
+26,eab4a797-e56c-11ed-86c6-9fd2c95fb352,revenue,missing,info,,,rule
+26,eab4a797-e56c-11ed-86c6-9fd2c95fb352,naics_2022_primary_code,missing,info,,,rule
+29,c89d4e1b-bfde-11ec-92f4-876998402e2b,website_domain,missing,info,,,rule
+29,c89d4e1b-bfde-11ec-92f4-876998402e2b,main_street,missing,info,,,rule
+29,c89d4e1b-bfde-11ec-92f4-876998402e2b,main_postcode,missing,info,,,rule
+31,4706bd71-93e5-11eb-aa66-9b8d95e2171b,employee_count,missing,info,,,rule
+31,4706bd71-93e5-11eb-aa66-9b8d95e2171b,revenue,missing,info,,,rule
+31,4706bd71-93e5-11eb-aa66-9b8d95e2171b,main_street,missing,info,,,rule
+31,4706bd71-93e5-11eb-aa66-9b8d95e2171b,main_postcode,missing,info,,,rule
+31,4706bd71-93e5-11eb-aa66-9b8d95e2171b,last_updated_at,stale_record,warning,2022-05-14,more than 2 years before the newest record (2025-04-21),rule
+38,bece9f0e-e4d2-11ec-a140-3f2eb8ef49f8,primary_email,email_domain_differs,info,dk.support@annalect.com,website annalect-data.info,rule
+42,94b23b7a-a0a5-11ed-9081-2b8f862bccfc,website_domain,missing,info,,,rule
+42,94b23b7a-a0a5-11ed-9081-2b8f862bccfc,revenue,missing,info,,,rule
+42,94b23b7a-a0a5-11ed-9081-2b8f862bccfc,naics_2022_primary_code,missing,info,,,rule
+42,94b23b7a-a0a5-11ed-9081-2b8f862bccfc,main_postcode,postcode_length,warning,158,NO postcodes have 4 digits,rule
+44,72b33d10-1afd-11ec-9842-212d1c52ad77,website_domain,missing,info,,,rule
+44,72b33d10-1afd-11ec-9842-212d1c52ad77,employee_count,missing,info,,,rule
+44,72b33d10-1afd-11ec-9842-212d1c52ad77,revenue,missing,info,,,rule
+44,72b33d10-1afd-11ec-9842-212d1c52ad77,naics_2022_primary_code,missing,info,,,rule
+45,72b33d10-1afd-11ec-9842-212d1c52ad77,website_domain,missing,info,,,rule
+45,72b33d10-1afd-11ec-9842-212d1c52ad77,employee_count,missing,info,,,rule
+45,72b33d10-1afd-11ec-9842-212d1c52ad77,revenue,missing,info,,,rule
+45,72b33d10-1afd-11ec-9842-212d1c52ad77,naics_2022_primary_code,missing,info,,,rule
+46,50c0e708-22bf-11ec-9024-ef7bc13965aa,website_domain,missing,info,,,rule
+46,50c0e708-22bf-11ec-9024-ef7bc13965aa,employee_count,missing,info,,,rule
+46,50c0e708-22bf-11ec-9024-ef7bc13965aa,revenue,missing,info,,,rule
+46,50c0e708-22bf-11ec-9024-ef7bc13965aa,naics_2022_primary_code,missing,info,,,rule
+49,34818680-89c1-11ec-a621-3f13cdb5ccc4,main_street,missing,info,,,rule
+49,34818680-89c1-11ec-a621-3f13cdb5ccc4,main_postcode,missing,info,,,rule
+54,933da790-93e4-11eb-b5f6-816dd10ac7b0,main_postcode,postcode_length,warning,579,NO postcodes have 4 digits,rule
+55,f0c60d30-93e4-11eb-91fb-73d498260b10,revenue,revenue_per_employee,warning,146,revenue 395000 / 2700 employees,rule
+58,b011b872-93e4-11eb-b4a6-27899be4e45d,naics_2022_primary_code,missing,info,,,rule
+65,9c00c37e-6d04-11ee-b24b-eb147ec3ebc2,website_domain,missing,info,,,rule
+65,9c00c37e-6d04-11ee-b24b-eb147ec3ebc2,employee_count,missing,info,,,rule
+65,9c00c37e-6d04-11ee-b24b-eb147ec3ebc2,revenue,missing,info,,,rule
+65,9c00c37e-6d04-11ee-b24b-eb147ec3ebc2,main_street_number,date_in_street_number,error,2026-03-05 00:00:00,,rule
+67,6e4bcefd-115f-11ec-bd3c-8d2e345be4e0,primary_email,email_domain_differs,info,info@benchachinda.co.th,website bbtec.co.th,rule
+70,c62a45a0-6cf1-11ec-bd63-974170f7dbf6,employee_count,missing,info,,,rule
+70,c62a45a0-6cf1-11ec-bd63-974170f7dbf6,revenue,missing,info,,,rule
+72,1cdc1a43-6dce-11ec-a314-7d00415f726f,employee_count,missing,info,,,rule
+72,1cdc1a43-6dce-11ec-a314-7d00415f726f,revenue,missing,info,,,rule
+77,e84cb5a0-93e4-11eb-8e19-198fb02d6f96,year_founded,founded_before_1800,warning,1792,,rule
+78,e06dbd72-5b1d-11ef-8bf4-3129dd2a123f,website_domain,missing,info,,,rule
+78,e06dbd72-5b1d-11ef-8bf4-3129dd2a123f,revenue,missing,info,,,rule
+78,e06dbd72-5b1d-11ef-8bf4-3129dd2a123f,naics_2022_primary_code,missing,info,,,rule
+78,e06dbd72-5b1d-11ef-8bf4-3129dd2a123f,main_street,missing,info,,,rule
+79,efc08410-93e4-11eb-a746-fdabd18be9c6,main_street,missing,info,,,rule
+79,efc08410-93e4-11eb-a746-fdabd18be9c6,revenue,revenue_per_employee,warning,5319,revenue 850985 / 160 employees,rule
+85,9dc12706-93e4-11eb-8e19-198fb02d6f96,main_postcode,postcode_length,warning,250,NO postcodes have 4 digits,rule
+86,57918a20-a8bb-11ed-9a6b-af642bb25f66,main_street_number,date_in_street_number,error,2026-01-07 00:00:00,,rule
+86,57918a20-a8bb-11ed-9a6b-af642bb25f66,primary_email,email_domain_differs,info,tekniskservicepartner@cbre.com,website cbre-tekniskservicepartner.dk,rule
+90,26c39d80-93e5-11eb-be5a-4f810ab55f2e,revenue,revenue_per_employee,warning,8,revenue 2400000 / 287076 employees,rule
+90,26c39d80-93e5-11eb-be5a-4f810ab55f2e,primary_email,email_domain_differs,info,ffos.dengchg@chinatelecom.cn,website chinatelecomglobal.com,rule
+91,c12f14b6-b6bc-11ef-b7fc-31383e76ec39,employee_count,missing,info,,,rule
+91,c12f14b6-b6bc-11ef-b7fc-31383e76ec39,revenue,missing,info,,,rule
+91,c12f14b6-b6bc-11ef-b7fc-31383e76ec39,main_street,missing,info,,,rule
+92,4db78ad2-c000-11ec-8d01-9b40ae94c55f,main_street,missing,info,,,rule
+92,4db78ad2-c000-11ec-8d01-9b40ae94c55f,primary_email,email_domain_differs,info,enquries.sg@chubb.com,website cgra.com.sg,rule
+94,9cc86f27-93e4-11eb-8e19-198fb02d6f96,employee_count,missing,info,,,rule
+94,9cc86f27-93e4-11eb-8e19-198fb02d6f96,revenue,missing,info,,,rule
+94,9cc86f27-93e4-11eb-8e19-198fb02d6f96,main_street,missing,info,,,rule
+94,9cc86f27-93e4-11eb-8e19-198fb02d6f96,main_postcode,missing,info,,,rule
+98,4ba21781-93e5-11eb-a33a-a3dfba582839,main_street,missing,info,,,rule
+98,4ba21781-93e5-11eb-a33a-a3dfba582839,main_postcode,missing,info,,,rule
+100,85816b51-93e4-11eb-a736-0f5b20ecb2f1,main_postcode,missing,info,,,rule
+101,eb823b24-1e9c-11ee-918e-3b99085851a3,website_domain,missing,info,,,rule
+101,eb823b24-1e9c-11ee-918e-3b99085851a3,employee_count,missing,info,,,rule
+101,eb823b24-1e9c-11ee-918e-3b99085851a3,revenue,missing,info,,,rule
+101,eb823b24-1e9c-11ee-918e-3b99085851a3,naics_2022_primary_code,missing,info,,,rule
+101,eb823b24-1e9c-11ee-918e-3b99085851a3,main_street_number,date_in_street_number,error,2026-05-02 00:00:00,,rule
+102,8014aae6-1b04-11ec-a26e-73bd9076b4de,website_domain,missing,info,,,rule
+102,8014aae6-1b04-11ec-a26e-73bd9076b4de,employee_count,missing,info,,,rule
+102,8014aae6-1b04-11ec-a26e-73bd9076b4de,revenue,missing,info,,,rule
+103,ff338e8e-b929-11ed-89f1-bd62b3e1c745,website_domain,missing,info,,,rule
+103,ff338e8e-b929-11ed-89f1-bd62b3e1c745,employee_count,missing,info,,,rule
+103,ff338e8e-b929-11ed-89f1-bd62b3e1c745,revenue,missing,info,,,rule
+103,ff338e8e-b929-11ed-89f1-bd62b3e1c745,naics_2022_primary_code,missing,info,,,rule
+106,33c93c45-a7e0-11ef-af89-216a077ca7fb,employee_count,missing,info,,,rule
+106,33c93c45-a7e0-11ef-af89-216a077ca7fb,revenue,missing,info,,,rule
+106,33c93c45-a7e0-11ef-af89-216a077ca7fb,main_street,missing,info,,,rule
+108,e48e4e11-93e4-11eb-919a-b3f9a5ad205c,main_postcode,postcode_length,warning,252,NO postcodes have 4 digits,rule
+108,e48e4e11-93e4-11eb-919a-b3f9a5ad205c,primary_email,email_domain_differs,info,admin@corpcom.no,website corporatecommunications.no,rule
+111,b9ebf60e-f3c1-11ed-afbd-cd002aee0352,website_domain,missing,info,,,rule
+111,b9ebf60e-f3c1-11ed-afbd-cd002aee0352,employee_count,missing,info,,,rule
+111,b9ebf60e-f3c1-11ed-afbd-cd002aee0352,revenue,missing,info,,,rule
+112,06114cdd-2566-11ef-8cf6-9964b1248c28,employee_count,missing,info,,,rule
+112,06114cdd-2566-11ef-8cf6-9964b1248c28,revenue,missing,info,,,rule
+112,06114cdd-2566-11ef-8cf6-9964b1248c28,main_postcode,postcode_length,warning,402,NO postcodes have 4 digits,rule
+112,06114cdd-2566-11ef-8cf6-9964b1248c28,primary_email,email_domain_differs,info,license.dk@crayon.com,website crayonweb.azurewebsites.net,rule
+116,e8e82741-5871-11ec-b633-39790144a985,website_domain,missing,info,,,rule
+116,e8e82741-5871-11ec-b633-39790144a985,employee_count,missing,info,,,rule
+116,e8e82741-5871-11ec-b633-39790144a985,revenue,missing,info,,,rule
+127,beddde1c-93e4-11eb-8859-29e7c34dee35,employee_count,missing,info,,,rule
+127,beddde1c-93e4-11eb-8859-29e7c34dee35,revenue,missing,info,,,rule
+127,beddde1c-93e4-11eb-8859-29e7c34dee35,naics_2022_primary_code,missing,info,,,rule
+127,beddde1c-93e4-11eb-8859-29e7c34dee35,main_postcode,postcode_length,warning,283,NO postcodes have 4 digits,rule
+128,19b0d795-59c6-11ed-befb-0d84f255ed04,website_domain,missing,info,,,rule
+128,19b0d795-59c6-11ed-befb-0d84f255ed04,employee_count,missing,info,,,rule
+128,19b0d795-59c6-11ed-befb-0d84f255ed04,revenue,missing,info,,,rule
+128,19b0d795-59c6-11ed-befb-0d84f255ed04,naics_2022_primary_code,missing,info,,,rule
+131,b69603af-1aff-11ec-bc98-195cbdc2446a,employee_count,missing,info,,,rule
+131,b69603af-1aff-11ec-bc98-195cbdc2446a,revenue,missing,info,,,rule
+131,b69603af-1aff-11ec-bc98-195cbdc2446a,main_postcode,postcode_length,warning,191,NO postcodes have 4 digits,rule
+135,169a31db-93e5-11eb-919a-b3f9a5ad205c,primary_email,email_domain_differs,info,info.defra@deltaww.com,website eltek.com,rule
+136,70923a3d-93e4-11eb-a33a-a3dfba582839,primary_email,email_domain_differs,info,nea-privacy@deltaww.com,website delta-singapore.com,rule
+138,9d28dea3-93e4-11eb-86dd-ffbd1b53140e,main_street,missing,info,,,rule
+138,9d28dea3-93e4-11eb-86dd-ffbd1b53140e,revenue,revenue_per_employee,warning,4833,revenue 91829 / 19 employees,rule
+143,880cd138-93e4-11eb-9937-4fab995bf8ff,main_postcode,postcode_length,warning,100,FI postcodes have 5 digits,rule
+143,880cd138-93e4-11eb-9937-4fab995bf8ff,primary_email,email_domain_differs,info,takuu@squaretrade.fi,website dna.fi,rule
+146,5ed6dfd6-205c-11ee-8d01-ef4abbbd90e4,website_domain,missing,info,,,rule
+146,5ed6dfd6-205c-11ee-8d01-ef4abbbd90e4,employee_count,missing,info,,,rule
+146,5ed6dfd6-205c-11ee-8d01-ef4abbbd90e4,revenue,missing,info,,,rule
+146,5ed6dfd6-205c-11ee-8d01-ef4abbbd90e4,naics_2022_primary_code,missing,info,,,rule
+146,5ed6dfd6-205c-11ee-8d01-ef4abbbd90e4,main_street,missing,info,,,rule
+148,d3ccacb0-a3ce-11ed-b93a-8509659c73d1,website_domain,missing,info,,,rule
+148,d3ccacb0-a3ce-11ed-b93a-8509659c73d1,employee_count,missing,info,,,rule
+148,d3ccacb0-a3ce-11ed-b93a-8509659c73d1,revenue,missing,info,,,rule
+148,d3ccacb0-a3ce-11ed-b93a-8509659c73d1,naics_2022_primary_code,missing,info,,,rule
+148,d3ccacb0-a3ce-11ed-b93a-8509659c73d1,main_postcode,postcode_length,warning,275,NO postcodes have 4 digits,rule
+149,f19d20b5-250a-11ec-b70f-ed0ff919fa1a,website_domain,missing,info,,,rule
+149,f19d20b5-250a-11ec-b70f-ed0ff919fa1a,employee_count,missing,info,,,rule
+149,f19d20b5-250a-11ec-b70f-ed0ff919fa1a,revenue,missing,info,,,rule
+149,f19d20b5-250a-11ec-b70f-ed0ff919fa1a,naics_2022_primary_code,missing,info,,,rule
+151,6cc2cc31-a630-11ed-9a26-bbb8582c677b,website_domain,missing,info,,,rule
+151,6cc2cc31-a630-11ed-9a26-bbb8582c677b,employee_count,missing,info,,,rule
+151,6cc2cc31-a630-11ed-9a26-bbb8582c677b,revenue,missing,info,,,rule
+152,203f5ad6-b918-11ed-bc6c-cde58c4dffa0,website_domain,missing,info,,,rule
+152,203f5ad6-b918-11ed-bc6c-cde58c4dffa0,employee_count,missing,info,,,rule
+152,203f5ad6-b918-11ed-bc6c-cde58c4dffa0,revenue,missing,info,,,rule
+152,203f5ad6-b918-11ed-bc6c-cde58c4dffa0,main_street,missing,info,,,rule
+153,d3e5dfe4-123f-11ec-b7b8-257f68cd18d4,main_street,missing,info,,,rule
+153,d3e5dfe4-123f-11ec-b7b8-257f68cd18d4,main_postcode,missing,info,,,rule
+155,2b50edd1-93e5-11eb-a746-fdabd18be9c6,primary_email,email_domain_differs,info,value@ecimm.com,website ecimediamanagement.com,rule
+156,2b50edd1-93e5-11eb-a746-fdabd18be9c6,primary_email,email_domain_differs,info,value@ecimm.com,website ecimediamanagement.com,rule
+157,c01a55bf-93e4-11eb-9937-4fab995bf8ff,website_domain,missing,info,,,rule
+159,386ddce7-93e5-11eb-b4a6-27899be4e45d,employee_count,missing,info,,,rule
+159,386ddce7-93e5-11eb-b4a6-27899be4e45d,revenue,missing,info,,,rule
+163,9ade0445-93e4-11eb-8ad6-7326edce8d21,revenue,revenue_per_employee,warning,9726,revenue 1361697 / 140 employees,rule
+165,f2d78814-93e4-11eb-8859-29e7c34dee35,revenue,revenue_per_employee,warning,440,revenue 2200000 / 5000 employees,rule
+165,f2d78814-93e4-11eb-8859-29e7c34dee35,primary_email,email_domain_differs,info,alexandra.karnlund@eltelnetworks.com,website eltelgroup.com,rule
+170,1b8f0f20-2504-11ec-87f0-9df72566ba84,website_domain,missing,info,,,rule
+170,1b8f0f20-2504-11ec-87f0-9df72566ba84,employee_count,missing,info,,,rule
+170,1b8f0f20-2504-11ec-87f0-9df72566ba84,revenue,missing,info,,,rule
+171,d2916f52-250a-11ec-8093-db09f614eb78,website_domain,missing,info,,,rule
+171,d2916f52-250a-11ec-8093-db09f614eb78,employee_count,missing,info,,,rule
+171,d2916f52-250a-11ec-8093-db09f614eb78,revenue,missing,info,,,rule
+173,ff083300-a7b5-11ed-bec3-afeedabcf530,employee_count,missing,info,,,rule
+173,ff083300-a7b5-11ed-bec3-afeedabcf530,revenue,missing,info,,,rule
+173,ff083300-a7b5-11ed-bec3-afeedabcf530,main_postcode,postcode_length,warning,179,NO postcodes have 4 digits,rule
+174,36729930-2d35-11ed-98d8-c5babc9e48bf,website_domain,missing,info,,,rule
+174,36729930-2d35-11ed-98d8-c5babc9e48bf,employee_count,missing,info,,,rule
+174,36729930-2d35-11ed-98d8-c5babc9e48bf,revenue,missing,info,,,rule
+178,e87217f9-93e4-11eb-8ad6-7326edce8d21,primary_email,email_domain_differs,info,support@esteltechnologies.in,website esteltelecom.com,rule
+179,c9242d74-93e4-11eb-be5a-4f810ab55f2e,primary_email,email_domain_differs,info,investors@eutelsat-communications.com,website eutelsat.com,rule
+180,8674cc02-93e4-11eb-be5a-4f810ab55f2e,primary_email,email_domain_differs,info,ework.sv@bscs.basware.com,website eworkgroup.com,rule
+183,3034bc10-74ad-11ed-9364-a958028bfff1,website_domain,missing,info,,,rule
+183,3034bc10-74ad-11ed-9364-a958028bfff1,employee_count,missing,info,,,rule
+183,3034bc10-74ad-11ed-9364-a958028bfff1,revenue,missing,info,,,rule
+186,5890bff3-112b-11ec-b06c-d1fadf322ad0,revenue,missing,info,,,rule
+186,5890bff3-112b-11ec-b06c-d1fadf322ad0,naics_2022_primary_code,missing,info,,,rule
+187,631c5ae7-e7f1-11ec-ad32-8d2a499c20f7,revenue,missing,info,,,rule
+187,631c5ae7-e7f1-11ec-ad32-8d2a499c20f7,naics_2022_primary_code,missing,info,,,rule
+187,631c5ae7-e7f1-11ec-ad32-8d2a499c20f7,main_street,missing,info,,,rule
+187,631c5ae7-e7f1-11ec-ad32-8d2a499c20f7,main_postcode,missing,info,,,rule
+187,631c5ae7-e7f1-11ec-ad32-8d2a499c20f7,last_updated_at,stale_record,warning,2022-06-09,more than 2 years before the newest record (2025-04-21),rule
+189,e9312230-93e4-11eb-86dd-ffbd1b53140e,revenue,revenue_per_employee,warning,358,revenue 9400000 / 26250 employees,rule
+197,5b67817a-1b01-11ec-adc9-5d86e79c45f3,website_domain,missing,info,,,rule
+197,5b67817a-1b01-11ec-adc9-5d86e79c45f3,employee_count,missing,info,,,rule
+197,5b67817a-1b01-11ec-adc9-5d86e79c45f3,revenue,missing,info,,,rule
+197,5b67817a-1b01-11ec-adc9-5d86e79c45f3,naics_2022_primary_code,missing,info,,,rule
+198,21d91ebf-1b00-11ec-a8e8-f10d0988514b,website_domain,missing,info,,,rule
+198,21d91ebf-1b00-11ec-a8e8-f10d0988514b,employee_count,missing,info,,,rule
+198,21d91ebf-1b00-11ec-a8e8-f10d0988514b,revenue,missing,info,,,rule
+198,21d91ebf-1b00-11ec-a8e8-f10d0988514b,main_postcode,postcode_length,warning,277,NO postcodes have 4 digits,rule
+200,ce7a4c04-93e4-11eb-90d2-e3355a7e800b,revenue,revenue_per_employee,warning,2463,revenue 5911386 / 2400 employees,rule
+203,d9a64075-93e4-11eb-9937-4fab995bf8ff,employee_count,missing,info,,,rule
+203,d9a64075-93e4-11eb-9937-4fab995bf8ff,revenue,missing,info,,,rule
+204,fe92eb43-93e4-11eb-9937-4fab995bf8ff,main_street,missing,info,,,rule
+204,fe92eb43-93e4-11eb-9937-4fab995bf8ff,revenue,revenue_per_employee,warning,6623,revenue 496709 / 75 employees,rule
+207,1d514729-01ae-11ef-ba8c-a5c322c4d97c,employee_count,missing,info,,,rule
+207,1d514729-01ae-11ef-ba8c-a5c322c4d97c,revenue,missing,info,,,rule
+209,be55a775-c4b2-11ec-af9f-718ab7b26330,employee_count,missing,info,,,rule
+209,be55a775-c4b2-11ec-af9f-718ab7b26330,revenue,missing,info,,,rule
+209,be55a775-c4b2-11ec-af9f-718ab7b26330,primary_email,email_domain_differs,info,account-withdrawal@google.com,website lespotnoir.com,rule
+214,205a2882-092a-11ee-b84c-9b2922821bc8,website_domain,missing,info,,,rule
+214,205a2882-092a-11ee-b84c-9b2922821bc8,employee_count,missing,info,,,rule
+214,205a2882-092a-11ee-b84c-9b2922821bc8,revenue,missing,info,,,rule
+215,fd557720-5982-11ec-a195-fb7c9849e658,revenue,revenue_per_employee,warning,8126,revenue 48755 / 6 employees,rule
+216,b1eae542-93e4-11eb-aa66-9b8d95e2171b,primary_email,email_domain_differs,info,support@gsmaadvance.com,website gsmatraining.com,rule
+220,a90e10f4-93e4-11eb-be5a-4f810ab55f2e,main_postcode,postcode_length,warning,368,NO postcodes have 4 digits,rule
+221,bb79f296-93e4-11eb-86dd-ffbd1b53140e,primary_email,email_domain_differs,info,personvern@help.no,website helpforsikring.dk,rule
+223,19b24740-93e5-11eb-aa66-9b8d95e2171b,main_postcode,postcode_length,warning,461,NO postcodes have 4 digits,rule
+225,c4a8edac-a10f-11ed-8865-3b27972b8eff,website_domain,missing,info,,,rule
+225,c4a8edac-a10f-11ed-8865-3b27972b8eff,employee_count,missing,info,,,rule
+225,c4a8edac-a10f-11ed-8865-3b27972b8eff,revenue,missing,info,,,rule
+226,c71f7ee3-0402-11ef-a267-5139ead7b0d4,website_domain,missing,info,,,rule
+226,c71f7ee3-0402-11ef-a267-5139ead7b0d4,employee_count,missing,info,,,rule
+226,c71f7ee3-0402-11ef-a267-5139ead7b0d4,revenue,missing,info,,,rule
+226,c71f7ee3-0402-11ef-a267-5139ead7b0d4,naics_2022_primary_code,missing,info,,,rule
+226,c71f7ee3-0402-11ef-a267-5139ead7b0d4,main_street,missing,info,,,rule
+226,c71f7ee3-0402-11ef-a267-5139ead7b0d4,main_postcode,missing,info,,,rule
+227,571d319b-1e68-11ee-8977-f9df9a4bf47f,website_domain,missing,info,,,rule
+227,571d319b-1e68-11ee-8977-f9df9a4bf47f,employee_count,missing,info,,,rule
+227,571d319b-1e68-11ee-8977-f9df9a4bf47f,revenue,missing,info,,,rule
+227,571d319b-1e68-11ee-8977-f9df9a4bf47f,naics_2022_primary_code,missing,info,,,rule
+230,4676a351-f930-11ed-b4e8-cf8e051b3eab,website_domain,missing,info,,,rule
+230,4676a351-f930-11ed-b4e8-cf8e051b3eab,employee_count,missing,info,,,rule
+230,4676a351-f930-11ed-b4e8-cf8e051b3eab,revenue,missing,info,,,rule
+232,acbf3216-93e4-11eb-a746-fdabd18be9c6,revenue,revenue_per_employee,warning,6950,revenue 139000 / 20 employees,rule
+232,acbf3216-93e4-11eb-a746-fdabd18be9c6,primary_email,email_domain_differs,info,mia75madsen@gmail.com,website holdsport.dk,rule
+234,f6162cf3-5a2d-11ed-be40-7d734d234848,website_domain,missing,info,,,rule
+234,f6162cf3-5a2d-11ed-be40-7d734d234848,employee_count,missing,info,,,rule
+234,f6162cf3-5a2d-11ed-be40-7d734d234848,revenue,missing,info,,,rule
+234,f6162cf3-5a2d-11ed-be40-7d734d234848,naics_2022_primary_code,missing,info,,,rule
+235,e861f812-cf3e-11ed-a9e6-41f52173ea03,website_domain,missing,info,,,rule
+235,e861f812-cf3e-11ed-a9e6-41f52173ea03,employee_count,missing,info,,,rule
+235,e861f812-cf3e-11ed-a9e6-41f52173ea03,revenue,missing,info,,,rule
+235,e861f812-cf3e-11ed-a9e6-41f52173ea03,naics_2022_primary_code,missing,info,,,rule
+236,6fb6df80-918f-11ed-9198-5108792e5842,revenue,missing,info,,,rule
+236,6fb6df80-918f-11ed-9198-5108792e5842,naics_2022_primary_code,missing,info,,,rule
+236,6fb6df80-918f-11ed-9198-5108792e5842,primary_email,email_domain_differs,info,hp.info@fremtidskontoret.no,website hp-norge.no,rule
+237,d5c3fb2e-a8c9-11ef-9c3c-1f32e3c7982a,employee_count,missing,info,,,rule
+237,d5c3fb2e-a8c9-11ef-9c3c-1f32e3c7982a,revenue,missing,info,,,rule
+238,28cb5283-f474-11ec-9207-43fec1f49158,employee_count,missing,info,,,rule
+238,28cb5283-f474-11ec-9207-43fec1f49158,revenue,missing,info,,,rule
+238,28cb5283-f474-11ec-9207-43fec1f49158,main_postcode,postcode_length,warning,39593,SG postcodes have 6 digits,rule
+239,81727301-2350-11ec-be87-a3acfe0d4893,website_domain,missing,info,,,rule
+239,81727301-2350-11ec-be87-a3acfe0d4893,employee_count,missing,info,,,rule
+239,81727301-2350-11ec-be87-a3acfe0d4893,revenue,missing,info,,,rule
+240,b51941d7-93e4-11eb-a746-fdabd18be9c6,main_street,missing,info,,,rule
+240,b51941d7-93e4-11eb-a746-fdabd18be9c6,main_postcode,missing,info,,,rule
+240,b51941d7-93e4-11eb-a746-fdabd18be9c6,revenue,revenue_per_employee,warning,7505,revenue 7505 / 1 employees,rule
+243,8a15fed6-1b00-11ec-9b25-637f12b6c164,website_domain,missing,info,,,rule
+243,8a15fed6-1b00-11ec-9b25-637f12b6c164,employee_count,missing,info,,,rule
+243,8a15fed6-1b00-11ec-9b25-637f12b6c164,revenue,missing,info,,,rule
+243,8a15fed6-1b00-11ec-9b25-637f12b6c164,naics_2022_primary_code,missing,info,,,rule
+244,fea798e2-1afc-11ec-9308-05476ec24aab,website_domain,missing,info,,,rule
+244,fea798e2-1afc-11ec-9308-05476ec24aab,employee_count,missing,info,,,rule
+244,fea798e2-1afc-11ec-9308-05476ec24aab,revenue,missing,info,,,rule
+244,fea798e2-1afc-11ec-9308-05476ec24aab,naics_2022_primary_code,missing,info,,,rule
+245,4bd95951-e516-11ed-ae31-691dccb8b954,website_domain,missing,info,,,rule
+245,4bd95951-e516-11ed-ae31-691dccb8b954,employee_count,missing,info,,,rule
+245,4bd95951-e516-11ed-ae31-691dccb8b954,revenue,missing,info,,,rule
+245,4bd95951-e516-11ed-ae31-691dccb8b954,naics_2022_primary_code,missing,info,,,rule
+246,d15378e1-04d0-11ec-a6a3-7d13d87fe979,main_street_number,date_in_street_number,error,2026-09-11 00:00:00,,rule
+246,d15378e1-04d0-11ec-a6a3-7d13d87fe979,primary_email,email_domain_differs,info,qian.wu.hansson@huawei.com,website futureofwireless.eu,rule
+247,7d5aecb0-1b05-11ec-88d5-df9161de908b,website_domain,missing,info,,,rule
+247,7d5aecb0-1b05-11ec-88d5-df9161de908b,employee_count,missing,info,,,rule
+247,7d5aecb0-1b05-11ec-88d5-df9161de908b,revenue,missing,info,,,rule
+250,395074a2-93e5-11eb-a746-fdabd18be9c6,main_street,missing,info,,,rule
+250,395074a2-93e5-11eb-a746-fdabd18be9c6,main_postcode,missing,info,,,rule
+250,395074a2-93e5-11eb-a746-fdabd18be9c6,revenue,revenue_per_employee,warning,7975,revenue 5750132 / 721 employees,rule
+250,395074a2-93e5-11eb-a746-fdabd18be9c6,primary_email,email_domain_differs,info,mohsin.naeem@hum.tv,website humnetwork.tv,rule
+256,16d6c5a0-93e5-11eb-90d2-e3355a7e800b,primary_email,email_domain_differs,info,navn@ikano.dk,website ikanobank.dk,rule
+258,25bf4898-a69a-11ec-9108-57519746fb39,website_domain,missing,info,,,rule
+258,25bf4898-a69a-11ec-9108-57519746fb39,employee_count,missing,info,,,rule
+260,3eb2bbab-17c0-11f0-af94-ddfd1c46b53d,employee_count,missing,info,,,rule
+260,3eb2bbab-17c0-11f0-af94-ddfd1c46b53d,revenue,missing,info,,,rule
+260,3eb2bbab-17c0-11f0-af94-ddfd1c46b53d,naics_2022_primary_code,missing,info,,,rule
+262,dcc5e190-22df-11ec-817c-6169a8cec47d,website_domain,missing,info,,,rule
+262,dcc5e190-22df-11ec-817c-6169a8cec47d,employee_count,missing,info,,,rule
+262,dcc5e190-22df-11ec-817c-6169a8cec47d,revenue,missing,info,,,rule
+271,dff13de7-1afd-11ec-a31a-a7a88bbb321b,website_domain,missing,info,,,rule
+271,dff13de7-1afd-11ec-a31a-a7a88bbb321b,employee_count,missing,info,,,rule
+271,dff13de7-1afd-11ec-a31a-a7a88bbb321b,revenue,missing,info,,,rule
+271,dff13de7-1afd-11ec-a31a-a7a88bbb321b,naics_2022_primary_code,missing,info,,,rule
+272,bc31b560-15e2-11ef-8bc6-955a884bfcce,employee_count,missing,info,,,rule
+272,bc31b560-15e2-11ef-8bc6-955a884bfcce,revenue,missing,info,,,rule
+272,bc31b560-15e2-11ef-8bc6-955a884bfcce,naics_2022_primary_code,missing,info,,,rule
+273,4cf5285b-27d1-11ef-bd6f-218060e3190a,website_domain,missing,info,,,rule
+273,4cf5285b-27d1-11ef-bd6f-218060e3190a,employee_count,missing,info,,,rule
+273,4cf5285b-27d1-11ef-bd6f-218060e3190a,revenue,missing,info,,,rule
+274,b6933ece-a507-11ec-aceb-79f5b854cd8b,website_domain,missing,info,,,rule
+274,b6933ece-a507-11ec-aceb-79f5b854cd8b,revenue,missing,info,,,rule
+274,b6933ece-a507-11ec-aceb-79f5b854cd8b,naics_2022_primary_code,missing,info,,,rule
+274,b6933ece-a507-11ec-aceb-79f5b854cd8b,main_postcode,postcode_length,warning,195,NO postcodes have 4 digits,rule
+275,c2b80b00-93e4-11eb-a33a-a3dfba582839,main_street,missing,info,,,rule
+275,c2b80b00-93e4-11eb-a33a-a3dfba582839,main_postcode,missing,info,,,rule
+275,c2b80b00-93e4-11eb-a33a-a3dfba582839,primary_email,email_domain_differs,info,malte.schaefer@iss.ch,website issworld.com,rule
+279,7f176bc0-93e4-11eb-a746-fdabd18be9c6,employee_count,missing,info,,,rule
+279,7f176bc0-93e4-11eb-a746-fdabd18be9c6,revenue,missing,info,,,rule
+279,7f176bc0-93e4-11eb-a746-fdabd18be9c6,main_street,missing,info,,,rule
+280,117f0e3f-9c88-11ef-8bab-03376d671938,website_domain,missing,info,,,rule
+280,117f0e3f-9c88-11ef-8bab-03376d671938,employee_count,missing,info,,,rule
+280,117f0e3f-9c88-11ef-8bab-03376d671938,revenue,missing,info,,,rule
+280,117f0e3f-9c88-11ef-8bab-03376d671938,naics_2022_primary_code,missing,info,,,rule
+280,117f0e3f-9c88-11ef-8bab-03376d671938,main_street,missing,info,,,rule
+283,6ae206a2-c251-11ec-866d-4b967b043e87,employee_count,missing,info,,,rule
+283,6ae206a2-c251-11ec-866d-4b967b043e87,revenue,missing,info,,,rule
+283,6ae206a2-c251-11ec-866d-4b967b043e87,primary_email,email_domain_differs,info,cg-eur-dk-reception@jci.com,website johnsoncontrols.dk,rule
+284,a0c7c82f-a62d-11ed-b2cd-53de41d2c5f2,website_domain,missing,info,,,rule
+284,a0c7c82f-a62d-11ed-b2cd-53de41d2c5f2,employee_count,missing,info,,,rule
+284,a0c7c82f-a62d-11ed-b2cd-53de41d2c5f2,revenue,missing,info,,,rule
+287,0013bee4-93e5-11eb-b89f-536884b3e7dd,main_postcode,postcode_length,warning,187,NO postcodes have 4 digits,rule
+288,39d1a58b-0586-11ec-ad6d-99fb67e6c4ba,employee_count,missing,info,,,rule
+288,39d1a58b-0586-11ec-ad6d-99fb67e6c4ba,revenue,missing,info,,,rule
+288,39d1a58b-0586-11ec-ad6d-99fb67e6c4ba,main_street,missing,info,,,rule
+289,da7ed6a5-fb93-11ee-aa89-23a399016fc1,website_domain,missing,info,,,rule
+289,da7ed6a5-fb93-11ee-aa89-23a399016fc1,employee_count,missing,info,,,rule
+289,da7ed6a5-fb93-11ee-aa89-23a399016fc1,revenue,missing,info,,,rule
+289,da7ed6a5-fb93-11ee-aa89-23a399016fc1,main_street,missing,info,,,rule
+290,d06cf44c-93e4-11eb-a33a-a3dfba582839,main_street,missing,info,,,rule
+290,d06cf44c-93e4-11eb-a33a-a3dfba582839,main_postcode,missing,info,,,rule
+293,db8d8f95-f669-11ed-a149-9b392686bc00,website_domain,missing,info,,,rule
+293,db8d8f95-f669-11ed-a149-9b392686bc00,employee_count,missing,info,,,rule
+293,db8d8f95-f669-11ed-a149-9b392686bc00,revenue,missing,info,,,rule
+293,db8d8f95-f669-11ed-a149-9b392686bc00,main_postcode,postcode_length,warning,161,NO postcodes have 4 digits,rule
+299,2a5d0b59-1b05-11ec-8de4-3bb83042adac,website_domain,missing,info,,,rule
+299,2a5d0b59-1b05-11ec-8de4-3bb83042adac,employee_count,missing,info,,,rule
+299,2a5d0b59-1b05-11ec-8de4-3bb83042adac,revenue,missing,info,,,rule
+305,fb1700e9-1b5d-11ec-9e2d-97948a03f19d,naics_2022_primary_code,missing,info,,,rule
+305,fb1700e9-1b5d-11ec-9e2d-97948a03f19d,main_street,missing,info,,,rule
+305,fb1700e9-1b5d-11ec-9e2d-97948a03f19d,revenue,revenue_per_employee,warning,9000000,revenue 9000000 / 1 employees,rule
+309,8fc467df-1b06-11ec-a68d-499e0c2c3a34,website_domain,missing,info,,,rule
+309,8fc467df-1b06-11ec-a68d-499e0c2c3a34,employee_count,missing,info,,,rule
+309,8fc467df-1b06-11ec-a68d-499e0c2c3a34,revenue,missing,info,,,rule
+309,8fc467df-1b06-11ec-a68d-499e0c2c3a34,naics_2022_primary_code,missing,info,,,rule
+311,3700913b-93e5-11eb-a746-fdabd18be9c6,main_postcode,postcode_length,warning,872,NO postcodes have 4 digits,rule
+313,08a4ec24-1dae-11ef-8102-a3abbe72141e,website_domain,missing,info,,,rule
+313,08a4ec24-1dae-11ef-8102-a3abbe72141e,main_street,missing,info,,,rule
+314,753387b2-93e4-11eb-aa66-9b8d95e2171b,main_postcode,postcode_length,warning,187,NO postcodes have 4 digits,rule
+314,753387b2-93e4-11eb-aa66-9b8d95e2171b,revenue,revenue_per_employee,warning,122,revenue 487000 / 4000 employees,rule
+316,49eaca92-93e5-11eb-a33a-a3dfba582839,main_postcode,postcode_length,warning,164,NO postcodes have 4 digits,rule
+320,8a8769f3-f8b6-11ed-9214-3d96876bd85b,website_domain,missing,info,,,rule
+320,8a8769f3-f8b6-11ed-9214-3d96876bd85b,employee_count,missing,info,,,rule
+320,8a8769f3-f8b6-11ed-9214-3d96876bd85b,revenue,missing,info,,,rule
+321,778051d9-057a-11ec-b41b-d7058b59cf68,employee_count,missing,info,,,rule
+321,778051d9-057a-11ec-b41b-d7058b59cf68,revenue,missing,info,,,rule
+321,778051d9-057a-11ec-b41b-d7058b59cf68,primary_email,email_domain_differs,info,sales@ultravioletpools.com,website postsell.trade,rule
+322,778051d9-057a-11ec-b41b-d7058b59cf68,employee_count,missing,info,,,rule
+322,778051d9-057a-11ec-b41b-d7058b59cf68,revenue,missing,info,,,rule
+322,778051d9-057a-11ec-b41b-d7058b59cf68,primary_email,email_domain_differs,info,sales@ultravioletpools.com,website postsell.trade,rule
+323,1fb93f4c-93e5-11eb-a736-0f5b20ecb2f1,main_street_number,date_in_street_number,error,2026-01-02 00:00:00,,rule
+324,37de0385-e6d6-11ed-8bb1-3d6aecbca671,website_domain,missing,info,,,rule
+324,37de0385-e6d6-11ed-8bb1-3d6aecbca671,employee_count,missing,info,,,rule
+324,37de0385-e6d6-11ed-8bb1-3d6aecbca671,revenue,missing,info,,,rule
+327,146bd77c-4d69-11ed-b869-0b9c3de59569,employee_count,missing,info,,,rule
+327,146bd77c-4d69-11ed-b869-0b9c3de59569,revenue,missing,info,,,rule
+327,146bd77c-4d69-11ed-b869-0b9c3de59569,primary_email,email_domain_differs,info,cusassist@outlook.com,website nowubuy.shop,rule
+328,4c721116-1afb-11ec-8511-032f81df2a60,employee_count,missing,info,,,rule
+328,4c721116-1afb-11ec-8511-032f81df2a60,revenue,missing,info,,,rule
+328,4c721116-1afb-11ec-8511-032f81df2a60,main_postcode,postcode_length,warning,194,NO postcodes have 4 digits,rule
+329,bbfc7c57-a379-11ed-8bd9-e537e5b659ad,website_domain,missing,info,,,rule
+329,bbfc7c57-a379-11ed-8bd9-e537e5b659ad,employee_count,missing,info,,,rule
+329,bbfc7c57-a379-11ed-8bd9-e537e5b659ad,revenue,missing,info,,,rule
+329,bbfc7c57-a379-11ed-8bd9-e537e5b659ad,naics_2022_primary_code,missing,info,,,rule
+333,b86d48c0-b500-11ec-92c5-7f4ee7009bc8,main_postcode,postcode_length,warning,255,NO postcodes have 4 digits,rule
+335,06e7cc3b-aec8-11ed-917a-a9ac0bf7643e,website_domain,missing,info,,,rule
+335,06e7cc3b-aec8-11ed-917a-a9ac0bf7643e,employee_count,missing,info,,,rule
+338,b67a2282-e926-11ed-bb20-d929ca7b3418,website_domain,missing,info,,,rule
+338,b67a2282-e926-11ed-bb20-d929ca7b3418,employee_count,missing,info,,,rule
+338,b67a2282-e926-11ed-bb20-d929ca7b3418,revenue,missing,info,,,rule
+338,b67a2282-e926-11ed-bb20-d929ca7b3418,naics_2022_primary_code,missing,info,,,rule
+342,24db63d1-8aa4-11ec-9150-8d453a1e7910,website_domain,missing,info,,,rule
+348,36898c82-93e5-11eb-97db-273ba5953680,main_street,missing,info,,,rule
+351,1238cd68-9cd4-11ef-b56b-31d2bc338e4f,website_domain,missing,info,,,rule
+351,1238cd68-9cd4-11ef-b56b-31d2bc338e4f,employee_count,missing,info,,,rule
+351,1238cd68-9cd4-11ef-b56b-31d2bc338e4f,revenue,missing,info,,,rule
+351,1238cd68-9cd4-11ef-b56b-31d2bc338e4f,naics_2022_primary_code,missing,info,,,rule
+351,1238cd68-9cd4-11ef-b56b-31d2bc338e4f,main_street,missing,info,,,rule
+351,1238cd68-9cd4-11ef-b56b-31d2bc338e4f,main_postcode,missing,info,,,rule
+353,4e2b08a3-a477-11ed-8bb2-9375f2c4b1be,employee_count,missing,info,,,rule
+353,4e2b08a3-a477-11ed-8bb2-9375f2c4b1be,revenue,missing,info,,,rule
+357,5c494e9a-1b04-11ec-b160-7721fd8862eb,website_domain,missing,info,,,rule
+357,5c494e9a-1b04-11ec-b160-7721fd8862eb,employee_count,missing,info,,,rule
+357,5c494e9a-1b04-11ec-b160-7721fd8862eb,revenue,missing,info,,,rule
+357,5c494e9a-1b04-11ec-b160-7721fd8862eb,naics_2022_primary_code,missing,info,,,rule
+357,5c494e9a-1b04-11ec-b160-7721fd8862eb,main_postcode,postcode_length,warning,164,NO postcodes have 4 digits,rule
+358,d3b679f6-93e4-11eb-b89f-536884b3e7dd,employee_count,missing,info,,,rule
+358,d3b679f6-93e4-11eb-b89f-536884b3e7dd,revenue,missing,info,,,rule
+358,d3b679f6-93e4-11eb-b89f-536884b3e7dd,naics_2022_primary_code,missing,info,,,rule
+358,d3b679f6-93e4-11eb-b89f-536884b3e7dd,main_postcode,postcode_length,warning,2610,FI postcodes have 5 digits,rule
+359,3cdcf6c0-93e5-11eb-919a-b3f9a5ad205c,employee_count,missing,info,,,rule
+359,3cdcf6c0-93e5-11eb-919a-b3f9a5ad205c,revenue,missing,info,,,rule
+359,3cdcf6c0-93e5-11eb-919a-b3f9a5ad205c,main_postcode,postcode_length,warning,107,NO postcodes have 4 digits,rule
+360,affc63f0-0394-11ed-9b1b-6d2c9309a5b2,employee_count,missing,info,,,rule
+360,affc63f0-0394-11ed-9b1b-6d2c9309a5b2,revenue,missing,info,,,rule
+370,e10b5364-2d21-11ef-9960-d9f4abdfa401,website_domain,missing,info,,,rule
+370,e10b5364-2d21-11ef-9960-d9f4abdfa401,employee_count,missing,info,,,rule
+370,e10b5364-2d21-11ef-9960-d9f4abdfa401,revenue,missing,info,,,rule
+370,e10b5364-2d21-11ef-9960-d9f4abdfa401,naics_2022_primary_code,missing,info,,,rule
+370,e10b5364-2d21-11ef-9960-d9f4abdfa401,main_postcode,missing,info,,,rule
+371,730ffb2d-0b27-11ec-b2ab-d99f5193142c,main_street,missing,info,,,rule
+371,730ffb2d-0b27-11ec-b2ab-d99f5193142c,main_postcode,missing,info,,,rule
+374,c7578028-8aa5-11ec-8962-8b4db591a2d2,website_domain,missing,info,,,rule
+374,c7578028-8aa5-11ec-8962-8b4db591a2d2,main_postcode,postcode_length,warning,273,NO postcodes have 4 digits,rule
+376,1e65962d-93e5-11eb-b5f6-816dd10ac7b0,revenue,revenue_per_employee,warning,9726,revenue 1264433 / 130 employees,rule
+377,56287c74-2509-11ec-bde8-71cf682bd51e,website_domain,missing,info,,,rule
+377,56287c74-2509-11ec-bde8-71cf682bd51e,employee_count,missing,info,,,rule
+377,56287c74-2509-11ec-bde8-71cf682bd51e,revenue,missing,info,,,rule
+377,56287c74-2509-11ec-bde8-71cf682bd51e,naics_2022_primary_code,missing,info,,,rule
+377,56287c74-2509-11ec-bde8-71cf682bd51e,main_postcode,postcode_length,warning,273,NO postcodes have 4 digits,rule
+378,c1a538ea-8a9a-11ec-a4f2-5511448670fd,website_domain,missing,info,,,rule
+378,c1a538ea-8a9a-11ec-a4f2-5511448670fd,revenue,missing,info,,,rule
+378,c1a538ea-8a9a-11ec-a4f2-5511448670fd,naics_2022_primary_code,missing,info,,,rule
+379,50a6dd3e-c175-11ec-8c4a-c37e31e9be9e,website_domain,missing,info,,,rule
+379,50a6dd3e-c175-11ec-8c4a-c37e31e9be9e,employee_count,missing,info,,,rule
+379,50a6dd3e-c175-11ec-8c4a-c37e31e9be9e,revenue,missing,info,,,rule
+380,16e25e63-93e5-11eb-b5f6-816dd10ac7b0,revenue,missing,info,,,rule
+380,16e25e63-93e5-11eb-b5f6-816dd10ac7b0,naics_2022_primary_code,missing,info,,,rule
+380,16e25e63-93e5-11eb-b5f6-816dd10ac7b0,primary_email,email_domain_differs,info,cookiepedia@onetrust.com,website cookiepedia.co.uk,rule
+381,28c323bf-1b00-11ec-8cde-5bc5ac073f72,website_domain,missing,info,,,rule
+381,28c323bf-1b00-11ec-8cde-5bc5ac073f72,employee_count,missing,info,,,rule
+381,28c323bf-1b00-11ec-8cde-5bc5ac073f72,revenue,missing,info,,,rule
+382,cd9b9c12-1b00-11ec-aa6a-03cd9b476476,website_domain,missing,info,,,rule
+382,cd9b9c12-1b00-11ec-aa6a-03cd9b476476,employee_count,missing,info,,,rule
+382,cd9b9c12-1b00-11ec-aa6a-03cd9b476476,revenue,missing,info,,,rule
+383,870eb57e-1b04-11ec-98ad-4b5172a2ed18,website_domain,missing,info,,,rule
+383,870eb57e-1b04-11ec-98ad-4b5172a2ed18,employee_count,missing,info,,,rule
+383,870eb57e-1b04-11ec-98ad-4b5172a2ed18,revenue,missing,info,,,rule
+383,870eb57e-1b04-11ec-98ad-4b5172a2ed18,naics_2022_primary_code,missing,info,,,rule
+384,147df165-1b04-11ec-9b02-8dfd4ec6ef01,website_domain,missing,info,,,rule
+384,147df165-1b04-11ec-9b02-8dfd4ec6ef01,employee_count,missing,info,,,rule
+384,147df165-1b04-11ec-9b02-8dfd4ec6ef01,revenue,missing,info,,,rule
+386,80ea7e12-93e4-11eb-be3a-7f925cb94351,main_postcode,postcode_length,warning,1610,FI postcodes have 5 digits,rule
+390,6dd0de70-a7a9-11ed-b250-d1c44dcd1aef,employee_count,missing,info,,,rule
+390,6dd0de70-a7a9-11ed-b250-d1c44dcd1aef,revenue,missing,info,,,rule
+390,6dd0de70-a7a9-11ed-b250-d1c44dcd1aef,naics_2022_primary_code,missing,info,,,rule
+390,6dd0de70-a7a9-11ed-b250-d1c44dcd1aef,main_street,missing,info,,,rule
+392,10dd8776-724b-11ec-9e45-ddda6fbc521a,revenue,missing,info,,,rule
+392,10dd8776-724b-11ec-9e45-ddda6fbc521a,naics_2022_primary_code,missing,info,,,rule
+395,424a94f5-93e5-11eb-8474-3bbe2d07207d,revenue,missing,info,,,rule
+395,424a94f5-93e5-11eb-8474-3bbe2d07207d,naics_2022_primary_code,missing,info,,,rule
+397,7fa72db5-0f6c-11ec-9bfa-136d28477cfe,employee_count,missing,info,,,rule
+397,7fa72db5-0f6c-11ec-9bfa-136d28477cfe,revenue,missing,info,,,rule
+397,7fa72db5-0f6c-11ec-9bfa-136d28477cfe,primary_email,email_domain_differs,info,konkurrenceretsforeningen@plesner.com,website konkurrenceretsforeningen.dk,rule
+399,16f3bda9-055e-11ec-912d-93da5cd6dce1,employee_count,missing,info,,,rule
+399,16f3bda9-055e-11ec-912d-93da5cd6dce1,revenue,missing,info,,,rule
+399,16f3bda9-055e-11ec-912d-93da5cd6dce1,primary_email,email_domain_differs,info,ar@pluralsight.com,website tordkalvenes.com,rule
+400,b529e3a6-93e4-11eb-8859-29e7c34dee35,employee_count,missing,info,,,rule
+400,b529e3a6-93e4-11eb-8859-29e7c34dee35,revenue,missing,info,,,rule
+402,42c3ecf7-1d65-11ee-9df5-e543427f87fa,year_founded,founded_before_1800,warning,1647,,rule
+402,42c3ecf7-1d65-11ee-9df5-e543427f87fa,main_postcode,postcode_length,warning,185,NO postcodes have 4 digits,rule
+402,42c3ecf7-1d65-11ee-9df5-e543427f87fa,primary_email,email_domain_differs,info,personvernombud@posten.no,website postenbring.no,rule
+404,f3137fa4-93e4-11eb-be5a-4f810ab55f2e,employee_count,missing,info,,,rule
+404,f3137fa4-93e4-11eb-be5a-4f810ab55f2e,revenue,missing,info,,,rule
+405,c2d2c772-e602-11ed-aaf1-a9bb6aa25f65,website_domain,missing,info,,,rule
+405,c2d2c772-e602-11ed-aaf1-a9bb6aa25f65,employee_count,missing,info,,,rule
+405,c2d2c772-e602-11ed-aaf1-a9bb6aa25f65,revenue,missing,info,,,rule
+406,d4239772-8546-11ec-8f98-f9b40efdfe08,revenue,missing,info,,,rule
+406,d4239772-8546-11ec-8f98-f9b40efdfe08,naics_2022_primary_code,missing,info,,,rule
+406,d4239772-8546-11ec-8f98-f9b40efdfe08,main_postcode,postcode_length,warning,355,NO postcodes have 4 digits,rule
+406,d4239772-8546-11ec-8f98-f9b40efdfe08,primary_email,email_domain_differs,info,andersonepost@gmail.com,website pwcmisconduct.com,rule
+412,463be1c1-2500-11ec-abad-a332bf576a25,employee_count,missing,info,,,rule
+412,463be1c1-2500-11ec-abad-a332bf576a25,revenue,missing,info,,,rule
+413,6e78222b-9df5-11ef-a80f-179817213e61,website_domain,missing,info,,,rule
+413,6e78222b-9df5-11ef-a80f-179817213e61,employee_count,missing,info,,,rule
+413,6e78222b-9df5-11ef-a80f-179817213e61,revenue,missing,info,,,rule
+413,6e78222b-9df5-11ef-a80f-179817213e61,naics_2022_primary_code,missing,info,,,rule
+413,6e78222b-9df5-11ef-a80f-179817213e61,main_street,missing,info,,,rule
+413,6e78222b-9df5-11ef-a80f-179817213e61,main_postcode,missing,info,,,rule
+415,290f11d8-9f7b-11ec-a15f-3d38c1a422d7,website_domain,missing,info,,,rule
+415,290f11d8-9f7b-11ec-a15f-3d38c1a422d7,employee_count,missing,info,,,rule
+416,e6d9287a-93e4-11eb-be3a-7f925cb94351,main_postcode,postcode_length,warning,366,NO postcodes have 4 digits,rule
+417,7e7ca675-0db6-11ec-aaad-e5a5ee267b5b,employee_count,missing,info,,,rule
+417,7e7ca675-0db6-11ec-aaad-e5a5ee267b5b,revenue,missing,info,,,rule
+418,d107ada1-93e4-11eb-8859-29e7c34dee35,main_postcode,postcode_length,warning,18936,SG postcodes have 6 digits,rule
+418,d107ada1-93e4-11eb-8859-29e7c34dee35,primary_email,email_domain_differs,info,heng.chhay@rajahtann.com,website rajahtannasia.com,rule
+420,9973fa6b-8aae-11ec-be09-3b46a3ec669e,website_domain,missing,info,,,rule
+420,9973fa6b-8aae-11ec-be09-3b46a3ec669e,main_postcode,postcode_length,warning,68811,SG postcodes have 6 digits,rule
+427,11a58013-c50b-11ef-9531-7716dbb12d27,website_domain,missing,info,,,rule
+427,11a58013-c50b-11ef-9531-7716dbb12d27,employee_count,missing,info,,,rule
+427,11a58013-c50b-11ef-9531-7716dbb12d27,revenue,missing,info,,,rule
+427,11a58013-c50b-11ef-9531-7716dbb12d27,naics_2022_primary_code,missing,info,,,rule
+428,83718e53-1b00-11ec-a945-71766a416f0a,employee_count,missing,info,,,rule
+428,83718e53-1b00-11ec-a945-71766a416f0a,revenue,missing,info,,,rule
+431,e3e3b642-93e4-11eb-9937-4fab995bf8ff,employee_count,missing,info,,,rule
+431,e3e3b642-93e4-11eb-9937-4fab995bf8ff,revenue,missing,info,,,rule
+432,391eb2e4-181d-11f0-8284-6dfd2009e8a0,employee_count,missing,info,,,rule
+432,391eb2e4-181d-11f0-8284-6dfd2009e8a0,revenue,missing,info,,,rule
+432,391eb2e4-181d-11f0-8284-6dfd2009e8a0,primary_email,email_domain_differs,info,sale@salientpar.xyz,website sailpointt.xyz,rule
+436,b1e580a1-583d-11ec-91ee-edc6c109839b,website_domain,missing,info,,,rule
+436,b1e580a1-583d-11ec-91ee-edc6c109839b,employee_count,missing,info,,,rule
+436,b1e580a1-583d-11ec-91ee-edc6c109839b,revenue,missing,info,,,rule
+436,b1e580a1-583d-11ec-91ee-edc6c109839b,naics_2022_primary_code,missing,info,,,rule
+437,2d6323ad-1afe-11ec-be37-19557aad561c,website_domain,missing,info,,,rule
+437,2d6323ad-1afe-11ec-be37-19557aad561c,employee_count,missing,info,,,rule
+437,2d6323ad-1afe-11ec-be37-19557aad561c,revenue,missing,info,,,rule
+441,1930e241-93e5-11eb-b5f6-816dd10ac7b0,employee_count,missing,info,,,rule
+441,1930e241-93e5-11eb-b5f6-816dd10ac7b0,revenue,missing,info,,,rule
+442,0252d979-93e5-11eb-8859-29e7c34dee35,employee_count,missing,info,,,rule
+442,0252d979-93e5-11eb-8859-29e7c34dee35,revenue,missing,info,,,rule
+442,0252d979-93e5-11eb-8859-29e7c34dee35,main_street,missing,info,,,rule
+442,0252d979-93e5-11eb-8859-29e7c34dee35,main_postcode,missing,info,,,rule
+444,77842e7a-93e4-11eb-8474-3bbe2d07207d,employee_count,missing,info,,,rule
+444,77842e7a-93e4-11eb-8474-3bbe2d07207d,revenue,missing,info,,,rule
+446,19b665f0-93e5-11eb-a736-0f5b20ecb2f1,employee_count,missing,info,,,rule
+446,19b665f0-93e5-11eb-a736-0f5b20ecb2f1,revenue,missing,info,,,rule
+446,19b665f0-93e5-11eb-a736-0f5b20ecb2f1,main_street,missing,info,,,rule
+447,427adc04-e7a9-11ec-b6b7-8f4fbf416354,employee_count,missing,info,,,rule
+447,427adc04-e7a9-11ec-b6b7-8f4fbf416354,revenue,missing,info,,,rule
+447,427adc04-e7a9-11ec-b6b7-8f4fbf416354,naics_2022_primary_code,missing,info,,,rule
+447,427adc04-e7a9-11ec-b6b7-8f4fbf416354,primary_email,email_domain_differs,info,sales@vision-batt.com,website g0t8tt0j.com,rule
+449,83d0637d-e5e0-11ec-bc14-1101693c4049,primary_email,email_domain_differs,info,info@xmediatv.com,website xmediacloud.com,rule
+450,9b5c0de3-93e4-11eb-8ad6-7326edce8d21,main_street,missing,info,,,rule
+450,9b5c0de3-93e4-11eb-8ad6-7326edce8d21,main_postcode,missing,info,,,rule
+452,2f5615e0-0d48-11ec-baff-b3f7938105ab,employee_count,missing,info,,,rule
+452,2f5615e0-0d48-11ec-baff-b3f7938105ab,revenue,missing,info,,,rule
+452,2f5615e0-0d48-11ec-baff-b3f7938105ab,main_street,missing,info,,,rule
+452,2f5615e0-0d48-11ec-baff-b3f7938105ab,primary_email,email_domain_differs,info,marketing@chinashoto.com,website shuangdeng.com.cn,rule
+455,a823b0f3-93e4-11eb-aa66-9b8d95e2171b,main_postcode,postcode_length,warning,100,FI postcodes have 5 digits,rule
+457,ab1c21c0-f8b5-11ed-a8b3-7b4d48a6e9d9,website_domain,missing,info,,,rule
+457,ab1c21c0-f8b5-11ed-a8b3-7b4d48a6e9d9,employee_count,missing,info,,,rule
+457,ab1c21c0-f8b5-11ed-a8b3-7b4d48a6e9d9,revenue,missing,info,,,rule
+465,d7fdc096-93e4-11eb-86dd-ffbd1b53140e,main_street,missing,info,,,rule
+465,d7fdc096-93e4-11eb-86dd-ffbd1b53140e,main_postcode,missing,info,,,rule
+466,5516dd90-aaf0-11ef-baa5-b1d00e182d98,employee_count,missing,info,,,rule
+466,5516dd90-aaf0-11ef-baa5-b1d00e182d98,revenue,missing,info,,,rule
+466,5516dd90-aaf0-11ef-baa5-b1d00e182d98,main_street,missing,info,,,rule
+466,5516dd90-aaf0-11ef-baa5-b1d00e182d98,main_postcode,missing,info,,,rule
+469,ca236fc9-1b01-11ec-893d-41807d3de292,website_domain,missing,info,,,rule
+469,ca236fc9-1b01-11ec-893d-41807d3de292,employee_count,missing,info,,,rule
+469,ca236fc9-1b01-11ec-893d-41807d3de292,revenue,missing,info,,,rule
+469,ca236fc9-1b01-11ec-893d-41807d3de292,main_postcode,postcode_length,warning,667,NO postcodes have 4 digits,rule
+472,2c51a7ea-d88d-11ec-8458-930fb706770a,website_domain,missing,info,,,rule
+472,2c51a7ea-d88d-11ec-8458-930fb706770a,employee_count,missing,info,,,rule
+472,2c51a7ea-d88d-11ec-8458-930fb706770a,revenue,missing,info,,,rule
+475,f7e5eff0-58e5-11ed-9cc3-5bfe46360075,website_domain,missing,info,,,rule
+475,f7e5eff0-58e5-11ed-9cc3-5bfe46360075,employee_count,missing,info,,,rule
+475,f7e5eff0-58e5-11ed-9cc3-5bfe46360075,revenue,missing,info,,,rule
+475,f7e5eff0-58e5-11ed-9cc3-5bfe46360075,naics_2022_primary_code,missing,info,,,rule
+475,f7e5eff0-58e5-11ed-9cc3-5bfe46360075,main_street,missing,info,,,rule
+479,0f34c0d7-197b-11ef-bb50-ff355101f6ca,website_domain,missing,info,,,rule
+479,0f34c0d7-197b-11ef-bb50-ff355101f6ca,employee_count,missing,info,,,rule
+479,0f34c0d7-197b-11ef-bb50-ff355101f6ca,revenue,missing,info,,,rule
+479,0f34c0d7-197b-11ef-bb50-ff355101f6ca,naics_2022_primary_code,missing,info,,,rule
+481,778a3f93-f35c-11ee-a2cf-e34c0e809adb,main_postcode,postcode_length,warning,165,NO postcodes have 4 digits,rule
+481,778a3f93-f35c-11ee-a2cf-e34c0e809adb,primary_email,email_domain_differs,info,mkj@stormcom.no,website stormhuset.no,rule
+484,43f5c0a1-a7e2-11ed-9443-77059af26349,revenue,missing,info,,,rule
+484,43f5c0a1-a7e2-11ed-9443-77059af26349,naics_2022_primary_code,missing,info,,,rule
+488,c5d06e91-93e4-11eb-a736-0f5b20ecb2f1,main_street,missing,info,,,rule
+488,c5d06e91-93e4-11eb-a736-0f5b20ecb2f1,revenue,revenue_per_employee,warning,5779,revenue 30742548 / 5320 employees,rule
+492,4ccb39c7-c026-11ec-9880-5b9f9a6d0d58,revenue,missing,info,,,rule
+492,4ccb39c7-c026-11ec-9880-5b9f9a6d0d58,naics_2022_primary_code,missing,info,,,rule
+492,4ccb39c7-c026-11ec-9880-5b9f9a6d0d58,main_street,missing,info,,,rule
+495,2b145a02-93e5-11eb-8859-29e7c34dee35,primary_email,email_domain_differs,info,digo@tatacommunications.com,website tatacommunications-ts.com,rule
+496,2b145a02-93e5-11eb-8859-29e7c34dee35,primary_email,email_domain_differs,info,digo@tatacommunications.com,website tatacommunications-ts.com,rule
+501,3a2cee44-c64c-11ec-ac84-8f6093b0b8c1,employee_count,missing,info,,,rule
+501,3a2cee44-c64c-11ec-ac84-8f6093b0b8c1,revenue,missing,info,,,rule
+501,3a2cee44-c64c-11ec-ac84-8f6093b0b8c1,naics_2022_primary_code,missing,info,,,rule
+501,3a2cee44-c64c-11ec-ac84-8f6093b0b8c1,primary_email,email_domain_differs,info,legal@tealium.com,website longxianggongmao.net,rule
+505,bd9ea750-93e4-11eb-be5a-4f810ab55f2e,main_postcode,postcode_length,warning,2150,FI postcodes have 5 digits,rule
+506,04a78940-19a9-11ee-aec0-a1af3c434505,website_domain,missing,info,,,rule
+506,04a78940-19a9-11ee-aec0-a1af3c434505,employee_count,missing,info,,,rule
+506,04a78940-19a9-11ee-aec0-a1af3c434505,revenue,missing,info,,,rule
+506,04a78940-19a9-11ee-aec0-a1af3c434505,naics_2022_primary_code,missing,info,,,rule
+507,19c2e92e-93e5-11eb-9937-4fab995bf8ff,main_street,missing,info,,,rule
+507,19c2e92e-93e5-11eb-9937-4fab995bf8ff,main_postcode,missing,info,,,rule
+510,342de933-93e5-11eb-9937-4fab995bf8ff,primary_email,email_domain_differs,info,infosatellite@telenor.com,website spacenorway.com,rule
+511,f0d7e780-93e4-11eb-8e19-198fb02d6f96,employee_count,missing,info,,,rule
+511,f0d7e780-93e4-11eb-8e19-198fb02d6f96,naics_2022_primary_code,missing,info,,,rule
+511,f0d7e780-93e4-11eb-8e19-198fb02d6f96,main_street,missing,info,,,rule
+519,d4d3de9b-2d28-11ed-abd0-cb4d1b9ef28b,primary_email,email_domain_differs,info,tgs.plannedwork@telenor.hu,website telenorlinx.com,rule
+526,dbe2248f-aba6-11ef-b6d6-0b609ebb973a,employee_count,missing,info,,,rule
+526,dbe2248f-aba6-11ef-b6d6-0b609ebb973a,revenue,missing,info,,,rule
+526,dbe2248f-aba6-11ef-b6d6-0b609ebb973a,main_street,missing,info,,,rule
+526,dbe2248f-aba6-11ef-b6d6-0b609ebb973a,main_postcode,missing,info,,,rule
+526,dbe2248f-aba6-11ef-b6d6-0b609ebb973a,primary_email,email_domain_differs,info,privacyoffice-telenornorge@telenor.com,website minepapir.no,rule
+529,bdf9ef01-b77a-11ed-be56-5737ab22b0ef,employee_count,missing,info,,,rule
+529,bdf9ef01-b77a-11ed-be56-5737ab22b0ef,revenue,missing,info,,,rule
+530,82f1b671-106e-11ee-96a3-3bc9ea359402,primary_email,email_domain_differs,info,crmar@dfd.dk,website textilia.dk,rule
+533,88ebf1ce-3a02-11ee-94b5-fd90c5a93d00,website_domain,missing,info,,,rule
+533,88ebf1ce-3a02-11ee-94b5-fd90c5a93d00,employee_count,missing,info,,,rule
+533,88ebf1ce-3a02-11ee-94b5-fd90c5a93d00,revenue,missing,info,,,rule
+533,88ebf1ce-3a02-11ee-94b5-fd90c5a93d00,naics_2022_primary_code,missing,info,,,rule
+533,88ebf1ce-3a02-11ee-94b5-fd90c5a93d00,main_postcode,postcode_length,warning,377,NO postcodes have 4 digits,rule
+535,6f4c5255-03a6-11ec-9097-bf5acc5341db,primary_email,email_domain_differs,info,frode.larsen@tietoevry.com,website evrycard.no,rule
+537,e8cae664-93e4-11eb-b89f-536884b3e7dd,main_postcode,postcode_length,warning,668,NO postcodes have 4 digits,rule
+538,2fc4267e-93e5-11eb-b4a6-27899be4e45d,revenue,revenue_per_employee,warning,455,revenue 500000 / 1100 employees,rule
+539,2b94d4a1-93e5-11eb-b89f-536884b3e7dd,employee_count,missing,info,,,rule
+539,2b94d4a1-93e5-11eb-b89f-536884b3e7dd,revenue,missing,info,,,rule
+539,2b94d4a1-93e5-11eb-b89f-536884b3e7dd,main_street,missing,info,,,rule
+539,2b94d4a1-93e5-11eb-b89f-536884b3e7dd,main_postcode,missing,info,,,rule
+539,2b94d4a1-93e5-11eb-b89f-536884b3e7dd,primary_email,email_domain_differs,info,edwin@tycc.cn,website tongyucom.com,rule
+543,7422ed1e-5e29-11ef-90a8-8b966e020cd1,website_domain,missing,info,,,rule
+543,7422ed1e-5e29-11ef-90a8-8b966e020cd1,revenue,missing,info,,,rule
+543,7422ed1e-5e29-11ef-90a8-8b966e020cd1,naics_2022_primary_code,missing,info,,,rule
+543,7422ed1e-5e29-11ef-90a8-8b966e020cd1,main_street,missing,info,,,rule
+544,632cf219-f877-11ed-8243-7fb917643c11,website_domain,missing,info,,,rule
+544,632cf219-f877-11ed-8243-7fb917643c11,employee_count,missing,info,,,rule
+544,632cf219-f877-11ed-8243-7fb917643c11,revenue,missing,info,,,rule
+545,0bbb730a-93e5-11eb-be3a-7f925cb94351,primary_email,email_domain_differs,info,training@trifork.com,website triforkacademy.dk,rule
+546,4c667ccb-13c6-11ec-9836-ef7b0600cc53,employee_count,missing,info,,,rule
+546,4c667ccb-13c6-11ec-9836-ef7b0600cc53,revenue,missing,info,,,rule
+549,f1ca36c3-93e4-11eb-9937-4fab995bf8ff,employee_count,missing,info,,,rule
+549,f1ca36c3-93e4-11eb-9937-4fab995bf8ff,revenue,missing,info,,,rule
+560,3dab2b4c-b0d3-11ef-95f9-0de7499436cf,website_domain,missing,info,,,rule
+560,3dab2b4c-b0d3-11ef-95f9-0de7499436cf,employee_count,missing,info,,,rule
+560,3dab2b4c-b0d3-11ef-95f9-0de7499436cf,revenue,missing,info,,,rule
+560,3dab2b4c-b0d3-11ef-95f9-0de7499436cf,main_street,missing,info,,,rule
+562,a8089090-d8d5-11ec-a2a7-a103c2828e6a,main_street,missing,info,,,rule
+562,a8089090-d8d5-11ec-a2a7-a103c2828e6a,main_postcode,missing,info,,,rule
+562,a8089090-d8d5-11ec-a2a7-a103c2828e6a,revenue,revenue_per_employee,warning,673953423,revenue 1151112445952 / 1708 employees,rule
+564,387071d4-9f86-11ec-bb62-ef8222f30268,website_domain,missing,info,,,rule
+564,387071d4-9f86-11ec-bb62-ef8222f30268,employee_count,missing,info,,,rule
+564,387071d4-9f86-11ec-bb62-ef8222f30268,main_street,missing,info,,,rule
+566,f3e108dc-93e4-11eb-8e19-198fb02d6f96,main_postcode,postcode_length,warning,49317,SG postcodes have 6 digits,rule
+566,f3e108dc-93e4-11eb-8e19-198fb02d6f96,primary_email,email_domain_differs,info,marketing@shoplytermylf.com,website xunlehongbei.com,rule
+568,c179226e-93e4-11eb-9937-4fab995bf8ff,main_street,missing,info,,,rule
+572,f5b10fd3-0321-11ee-b9c7-d945c48165b4,website_domain,missing,info,,,rule
+572,f5b10fd3-0321-11ee-b9c7-d945c48165b4,employee_count,missing,info,,,rule
+572,f5b10fd3-0321-11ee-b9c7-d945c48165b4,revenue,missing,info,,,rule
+572,f5b10fd3-0321-11ee-b9c7-d945c48165b4,naics_2022_primary_code,missing,info,,,rule
+573,727be343-ba6f-11eb-a6d9-7794e56e1994,employee_count,missing,info,,,rule
+573,727be343-ba6f-11eb-a6d9-7794e56e1994,revenue,missing,info,,,rule
+573,727be343-ba6f-11eb-a6d9-7794e56e1994,naics_2022_primary_code,missing,info,,,rule
+575,8c15d642-93e4-11eb-8474-3bbe2d07207d,employee_count,missing,info,,,rule
+575,8c15d642-93e4-11eb-8474-3bbe2d07207d,revenue,missing,info,,,rule
+576,b80b9753-17de-11ee-b9eb-93f77cdb42f2,website_domain,missing,info,,,rule
+576,b80b9753-17de-11ee-b9eb-93f77cdb42f2,employee_count,missing,info,,,rule
+576,b80b9753-17de-11ee-b9eb-93f77cdb42f2,revenue,missing,info,,,rule
+577,ae1ecc30-0c00-11ec-882c-e7dd96ffa691,employee_count,missing,info,,,rule
+577,ae1ecc30-0c00-11ec-882c-e7dd96ffa691,revenue,missing,info,,,rule
+577,ae1ecc30-0c00-11ec-882c-e7dd96ffa691,main_street,missing,info,,,rule
+577,ae1ecc30-0c00-11ec-882c-e7dd96ffa691,primary_email,email_domain_differs,info,info@xit.dk,website xit-software.dk,rule
+578,c9fbf78c-8b5f-11ec-9e94-331f9459c7f5,employee_count,missing,info,,,rule
+578,c9fbf78c-8b5f-11ec-9e94-331f9459c7f5,revenue,missing,info,,,rule
+578,c9fbf78c-8b5f-11ec-9e94-331f9459c7f5,main_street,missing,info,,,rule
+580,1965cb44-f87f-11ed-ab94-9d382b3b5926,employee_count,missing,info,,,rule
+580,1965cb44-f87f-11ed-ab94-9d382b3b5926,revenue,missing,info,,,rule
+583,12e5a0a4-f5c3-11ed-88cc-c9466c597c9c,employee_count,missing,info,,,rule
+583,12e5a0a4-f5c3-11ed-88cc-c9466c597c9c,revenue,missing,info,,,rule
+583,12e5a0a4-f5c3-11ed-88cc-c9466c597c9c,naics_2022_primary_code,missing,info,,,rule
+585,9b862a88-3138-11ee-84b0-a7f9945660ac,website_domain,missing,info,,,rule
+585,9b862a88-3138-11ee-84b0-a7f9945660ac,employee_count,missing,info,,,rule
+585,9b862a88-3138-11ee-84b0-a7f9945660ac,revenue,missing,info,,,rule
+585,9b862a88-3138-11ee-84b0-a7f9945660ac,naics_2022_primary_code,missing,info,,,rule
+585,9b862a88-3138-11ee-84b0-a7f9945660ac,main_street,missing,info,,,rule
+587,9d0ddc95-93e4-11eb-8e19-198fb02d6f96,primary_email,email_domain_differs,info,support@highpoint.com.my,website ztedevices.com.my,rule
+588,2964e99b-e55a-11ed-a5ae-85415e102eca,website_domain,missing,info,,,rule
+588,2964e99b-e55a-11ed-a5ae-85415e102eca,employee_count,missing,info,,,rule
+588,2964e99b-e55a-11ed-a5ae-85415e102eca,revenue,missing,info,,,rule
+589,a68dcec0-93e4-11eb-9937-4fab995bf8ff,main_street,missing,info,,,rule
+589,a68dcec0-93e4-11eb-9937-4fab995bf8ff,main_postcode,missing,info,,,rule
+590,3a852200-1b06-11ec-ae98-5d8c88c64981,website_domain,missing,info,,,rule
+590,3a852200-1b06-11ec-ae98-5d8c88c64981,employee_count,missing,info,,,rule
+590,3a852200-1b06-11ec-ae98-5d8c88c64981,revenue,missing,info,,,rule
+21,2d7be421-93e5-11eb-be5a-4f810ab55f2e,nace_rev2_codes,registry_nace_differs,error,62,Brreg 899185412 AEGER GROUP AS: NACE 70.200,brreg
+85,9dc12706-93e4-11eb-8e19-198fb02d6f96,employee_count,registry_employees_differ,error,135000.0,Brreg 958963629 CBRE AS: 88.0 employees,brreg
+108,e48e4e11-93e4-11eb-919a-b3f9a5ad205c,employee_count,registry_employees_differ,error,83.0,Brreg 996379183 CORPORATE COMMUNICATIONS AS: 36.0 employees,brreg
+108,e48e4e11-93e4-11eb-919a-b3f9a5ad205c,nace_rev2_codes,registry_nace_differs,error,70,Brreg 996379183 CORPORATE COMMUNICATIONS AS: NACE 73.300,brreg
+148,d3ccacb0-a3ce-11ed-b93a-8509659c73d1,main_postcode,registry_postcode_differs,error,0275,Brreg 958958455 DXC TECHNOLOGY NORGE AS: postcode 5147,brreg
+173,ff083300-a7b5-11ed-bec3-afeedabcf530,nace_rev2_codes,registry_nace_differs,error,71,Brreg 918837000 ERICSSON AS: NACE 58.290,brreg
+173,ff083300-a7b5-11ed-bec3-afeedabcf530,main_postcode,registry_postcode_differs,error,0179,Brreg 918837000 ERICSSON AS: postcode 1360,brreg
+202,404994d0-93e5-11eb-8474-3bbe2d07207d,nace_rev2_codes,registry_nace_differs,error,61,Brreg 983953271 GINTEL AS: NACE 58.290,brreg
+202,404994d0-93e5-11eb-8474-3bbe2d07207d,main_postcode,registry_postcode_differs,error,7052,Brreg 983953271 GINTEL AS: postcode 7030,brreg
+223,19b24740-93e5-11eb-aa66-9b8d95e2171b,nace_rev2_codes,registry_nace_differs,error,74,Brreg 921284438 HEST AGENTUR AS: NACE 70.200,brreg
+274,b6933ece-a507-11ec-aceb-79f5b854cd8b,employee_count,registry_employees_differ,error,550.0,Brreg 914791723 ISS FACILITY SERVICES AS: 10766.0 employees,brreg
+316,49eaca92-93e5-11eb-a33a-a3dfba582839,nace_rev2_codes,registry_nace_differs,error,70,Brreg 925202819 MARKEDSSJEFENE AS: NACE 73.110,brreg
+316,49eaca92-93e5-11eb-a33a-a3dfba582839,main_postcode,registry_postcode_differs,error,0164,Brreg 925202819 MARKEDSSJEFENE AS: postcode 0278,brreg
+346,a19f2484-93e4-11eb-b4a6-27899be4e45d,employee_count,registry_employees_differ,error,200.0,Brreg 986330682 NERAS DIREKTE AS: 63.0 employees,brreg
+346,a19f2484-93e4-11eb-b4a6-27899be4e45d,main_postcode,registry_postcode_differs,error,7052,Brreg 986330682 NERAS DIREKTE AS: postcode 3015,brreg
+357,5c494e9a-1b04-11ec-b160-7721fd8862eb,main_postcode,registry_postcode_differs,error,0164,Brreg 990618976 NOKIA SOLUTIONS AND NETWORKS NORGE AS: postcode 1364,brreg
+374,c7578028-8aa5-11ec-8962-8b4db591a2d2,nace_rev2_codes,registry_nace_differs,error,70,Brreg 992451645 OMD AS: NACE 73.120,brreg
+406,d4239772-8546-11ec-8f98-f9b40efdfe08,employee_count,registry_employees_differ,error,30.0,Brreg 987009713 PRICEWATERHOUSECOOPERS AS: 1674.0 employees,brreg
+406,d4239772-8546-11ec-8f98-f9b40efdfe08,main_postcode,registry_postcode_differs,error,0355,Brreg 987009713 PRICEWATERHOUSECOOPERS AS: postcode 0194,brreg
+416,e6d9287a-93e4-11eb-be3a-7f925cb94351,employee_count,registry_employees_differ,error,55.0,Brreg 981547632 QUESTBACK AS: 21.0 employees,brreg
+416,e6d9287a-93e4-11eb-be3a-7f925cb94351,nace_rev2_codes,registry_nace_differs,error,73,Brreg 981547632 QUESTBACK AS: NACE 58.290,brreg
+416,e6d9287a-93e4-11eb-be3a-7f925cb94351,main_postcode,registry_postcode_differs,error,0366,Brreg 981547632 QUESTBACK AS: postcode 0050,brreg
+423,13d6cc27-93e5-11eb-8474-3bbe2d07207d,nace_rev2_codes,registry_nace_differs,error,49,Brreg 992257393 RELOCATION AS: NACE 82.990,brreg
+423,13d6cc27-93e5-11eb-8474-3bbe2d07207d,main_postcode,registry_postcode_differs,error,4014,Brreg 992257393 RELOCATION AS: postcode 4042,brreg
+456,e08289d1-93e4-11eb-b89f-536884b3e7dd,employee_count,registry_employees_differ,error,300.0,Brreg 989584022 SIGNICAT AS: 129.0 employees,brreg
+456,e08289d1-93e4-11eb-b89f-536884b3e7dd,nace_rev2_codes,registry_nace_differs,error,62,Brreg 989584022 SIGNICAT AS: NACE 58.290,brreg
+456,e08289d1-93e4-11eb-b89f-536884b3e7dd,main_postcode,registry_postcode_differs,error,LT11341,Brreg 989584022 SIGNICAT AS: postcode 7042,brreg
+481,778a3f93-f35c-11ee-a2cf-e34c0e809adb,employee_count,registry_employees_differ,error,75.0,Brreg 920772358 STORM COMMUNICATIONS AS: 11.0 employees,brreg
+481,778a3f93-f35c-11ee-a2cf-e34c0e809adb,nace_rev2_codes,registry_nace_differs,error,70,Brreg 920772358 STORM COMMUNICATIONS AS: NACE 73.300,brreg
+509,18792b00-93e5-11eb-8859-29e7c34dee35,employee_count,registry_employees_differ,error,11000.0,Brreg 982463718 TELENOR ASA: 369.0 employees,brreg
+509,18792b00-93e5-11eb-8859-29e7c34dee35,main_postcode,registry_postcode_differs,error,1364,Brreg 982463718 TELENOR ASA: postcode 1360,brreg
+537,e8cae664-93e4-11eb-b89f-536884b3e7dd,nace_rev2_codes,registry_nace_differs,error,61,Brreg 916080441 TINEX GROUP AS: NACE 46.500,brreg
+12,fed105d4-93e4-11eb-9937-4fab995bf8ff,company_legal_names,legal_name_of_other_entity,error,ACOME GmbH,French cooperative ACOME carries the legal name of its German subsidiary,manual review
+27,19609053-0bbc-11ee-900c-9bee0d280070,main_street,outdated_address,error,Bishops Square,"A&O Shearman registered office is 2 Broadgate, London",manual review
+31,4706bd71-93e5-11eb-aa66-9b8d95e2171b,website_domain,website_of_other_company,error,logitech-events.com,Amazon Web Services EMEA record; domain belongs to an unrelated event site; record also has no country or address,manual review
+90,26c39d80-93e5-11eb-be5a-4f810ab55f2e,company_legal_names,legal_name_of_other_entity,error,Innovic Technology Corporation Limited,China Telecom Global record carries an unrelated legal name,manual review
+154,2a2e9a98-1200-11ec-b96f-e38fcfed8310,status,possibly_dissolved,warning,eCapacity A/S,CVR 30814037 dissolved after merger June 2024 per aggregator; not confirmed in CVR,manual review
+186,5890bff3-112b-11ec-b06c-d1fadf322ad0,company_legal_names,legal_name_of_other_entity,error,Re-Vision BV.,Brreg 954165892 is EXTENDA RETAIL AS at the record's address,manual review
+186,5890bff3-112b-11ec-b06c-d1fadf322ad0,website_domain,website_of_other_company,error,44749.org,Extenda Retail uses extendaretail.com (Swedish group record),manual review
+305,fb1700e9-1b5d-11ec-9e2d-97948a03f19d,employee_count,implausible_employee_count,warning,1,"LeasePlan Sverige AB, a national leasing company, listed with 1 employee; industry codes also missing",manual review
+346,a19f2484-93e4-11eb-b4a6-27899be4e45d,main_street,address_of_other_organisation,error,Otto Nielsens Veg 12,"Address belongs to NERAS B.I.L, a sports club",manual review
+519,d4d3de9b-2d28-11ed-abd0-cb4d1b9ef28b,company_legal_names,legal_name_of_other_entity,error,Telenor Pakistan Private Limited,Norwegian Telenor Linx AS carries the legal name of Telenor Pakistan,manual review
+537,e8cae664-93e4-11eb-b89f-536884b3e7dd,employee_count,copied_from_sibling,warning,6,TINEX Group and TINEX AS both founded 1991 with 6 employees,manual review
