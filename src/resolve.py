@@ -10,8 +10,8 @@ from src import config
 from src.score import DIFFERENT, EXACT, SAME, STREET_ONLY, UNKNOWN
 
 AUTO, PROBABLE, NO_CANDIDATE, REVIEW, UNMATCHED = "auto", "probable", "no_candidate", "review", "unmatched"
-MANUAL, EXTERNAL, LEAD = "manual", "external", "lead"
-AGGREGATOR_SOURCE = "aggregator"  # third-party evidence only: a lead, not a match (D58)
+MANUAL, EXTERNAL = "manual", "external"
+AGGREGATOR_SOURCE = "aggregator"  # third-party evidence only: kept as a note, the input stays unmatched (D64)
 CONFIDENCE = {AUTO: "high", MANUAL: "high", PROBABLE: "medium", REVIEW: "none", UNMATCHED: "none", NO_CANDIDATE: "none"}
 # Registry or research matches for inputs with no Veridion pick (D54); confidence comes from the file.
 EXTERNAL_FIELDS = {"source": "external_source", "registry_id": "registry_id", "company_name": "external_company_name",
@@ -290,9 +290,9 @@ def apply_external(decisions: pd.DataFrame, external: pd.DataFrame) -> pd.DataFr
         if decisions.loc[row, "decision"] not in (UNMATCHED, NO_CANDIDATE):
             raise ValueError(f"External match for input {key}, which already has decision {decisions.loc[row, 'decision']}")
         if e.source == AGGREGATOR_SOURCE:
-            decisions.loc[row, ["decision", "rule", "confidence"]] = [LEAD, "E2", "low"]
+            decisions.loc[row, "reason"] += "; aggregator evidence only, not accepted"
         else:
             decisions.loc[row, ["decision", "rule", "confidence"]] = [EXTERNAL, "E1", e.confidence]
-        decisions.loc[row, "reason"] = f"external ({e.source})"
+            decisions.loc[row, "reason"] = f"external ({e.source})"
         decisions.loc[row, list(EXTERNAL_FIELDS.values())] = [getattr(e, field) for field in EXTERNAL_FIELDS]
     return decisions

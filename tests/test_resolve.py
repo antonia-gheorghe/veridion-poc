@@ -286,7 +286,11 @@ def test_external_match_cannot_override_a_veridion_pick():  # D54
         run_with_manual(MANUAL, {}, external=external_row())
 
 
-def test_aggregator_evidence_is_a_lead_not_a_match():  # D58
-    out = run_with_manual(MANUAL, {"name_sort": 30, "name_set": 30, "cand_core": "ZETA"},
-                          external=external_row(source="aggregator", confidence="medium"))
-    assert (out.decision, out.rule, out.confidence) == ("lead", "E2", "low")
+def test_aggregator_evidence_keeps_the_input_unmatched():  # D64
+    weak = {"name_sort": 30, "name_set": 30, "cand_core": "ZETA"}
+    before = run_with_manual(MANUAL, weak)
+    out = run_with_manual(MANUAL, weak, external=external_row(source="aggregator", confidence="medium"))
+    assert (out.decision, out.rule, out.confidence) == (before.decision, before.rule, "none")
+    assert out.decision in ("unmatched", "no_candidate")
+    assert out.reason.endswith("aggregator evidence only, not accepted")
+    assert out.registry_id == "brreg:111"  # evidence stays visible

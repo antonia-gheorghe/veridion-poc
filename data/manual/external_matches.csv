@@ -87,12 +87,12 @@ input_row_key,source,veridion_id,company_name,website,country_code,evidence_url,
 541,gleif,,TPM DATA ApS,,DK,https://api.gleif.org/api/v1/lei-records/5493007H015K5FTTC974,,gleif:5493007H015K5FTTC974,active,current name,medium
 581,prh+gleif,,Zalaris HR Services Finland Oy,,FI,https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=ZALARIS+HR+SERVICES https://api.gleif.org/api/v1/lei-records/9845007BB50DF43A7716,,prh:1846808-2; gleif:9845007BB50DF43A7716,prh status=2 tradeRegisterStatus=1,current name,medium
 591,brreg,,ZTE NORWAY AS,,NO,https://data.brreg.no/enhetsregisteret/api/enheter/990526184,,brreg:990526184,active,current name,medium
-162,aggregator,,Egencia Sweden AB,,SE,https://www.allabolag.se/5562629716,allabolag.se; address differs,se:556262-9716,,,low
-414,aggregator,,QlikTech Nordic AB,,SE,https://www.allabolag.se/5564810355,allabolag.se,se:556481-0355,,,low
+162,research,,Egencia Sweden AB,,SE,https://ted.europa.eu/en/notice/570486-2018/html https://www.allabolag.se/5562629716,"EU Official Journal contract award 570486-2018 (Dec 2018) names Egencia Sweden AB, 556262-9716, Mejerivägen 3, Stockholm",se:556262-9716,,current name,medium
+414,research,,QlikTech Nordic AB,,SE,https://pages.qlik.com/qlik_subprocessor_list.html https://www.allabolag.se/5564810355,"Qlik subprocessor list v7.1 (March 2026) names QlikTech Nordic AB, Sweden; org number from allabolag.se",se:556481-0355,,current name,medium
 516,aggregator,,Telenor Global Shared Services Pakistan (Pvt.) Limited,,PK,https://opencorporates.com/companies/pk/0069910,OpenCorporates,pk:0069910,,,low
 190,aggregator,,FASTBRIDGE MALAYSIA SDN. BHD.,,MY,https://www.creditscan.com.my/Malaysia-Company/FASTBRIDGE-MALAYSIA-SDN-BHD/640336-P,"CreditScan, EMIS; address agrees",my:200401001833,,,low
 28,aggregator,,Altair Global Relocation Singapore Pte. Ltd.,altairglobal.com,SG,https://www.emis.cn/php/company-profile/SG/Altair_Global_Relocation_Singapore_Pte_Ltd_en_22248006.html,EMIS; conflicting addresses,,,,low
-50,aggregator,,ARY Communications Limited,arydigital.tv,PK,https://pacra.com/finalPr/MTQxMzE=,PACRA rating; PSX document unreadable,,,,low
+50,research,,ARY Communications Limited,arydigital.tv,PK,https://dps.psx.com.pk/download/document/150724.pdf https://pacra.com/finalPr/MTQxMzE=,PSX filing by WorldCall Telecom names ARY Communications Limited as acquirer; no address on the filing,,,current name,medium
 269,research,,INTRUM A/S,,DK,https://datacvr.virk.dk/enhed/virksomhed/10613779,CVR lists ADVIS A/S as a binavn; address equals input (2500 Valby is in Copenhagen),cvr:10613779,active,secondary name,high
 278,research,,JANSSON KOMMUNIKATION A/S,,DK,https://datacvr.virk.dk/enhed/virksomhed/23452715,CVR lists AEON DANMARK A/S as a binavn; address equals input,cvr:23452715,active,secondary name,high
 194,research,,FIRE EATER A/S,,DK,https://datacvr.virk.dk/enhed/virksomhed/59538713,"CVR history: binavn DANSK HALON TEKNIK ApS in 1986 and 1990 entries, no longer listed; address equals input; merged with FE Blue Holding ApS (38902490) on 2026-01-22, Fire Eater continuing",cvr:59538713,active,former secondary name,high
