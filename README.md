@@ -32,30 +32,55 @@ Main takeaways for the client:
 
 ## How suppliers are matched
 
-1. **Normalize** names and addresses. Each name is split into a core name, a legal form (A/S, AS, Ltd) and country
-   words. Postcodes get back the leading zeros lost in the spreadsheet.
-2. **Score** every candidate on name (exact, strong, weak, none), country, city and street, and flag conflicts
-   such as a legal form that does not exist in the candidate's country.
-3. **Decide** with fail-safe rules. A candidate is accepted automatically only when every layer agrees and no
-   other candidate fits as well. Rules were checked on samples of 8 to 14 rows before use (table below).
-4. **Search outside Veridion** for what is left: the Norwegian (Brreg) and Finnish (PRH) registers and GLEIF, with a
-   match only when name and legal form are identical. A sample of the rest was researched by hand in official
-   registers and company sites.
+Every supplier goes through the same five steps. The logic is plain Python rules in `src/`; no LLM or trained model
+is involved, and every manual decision is in `data/manual/` with its source.
 
-No LLM is used to match. Every manual decision is in `data/manual/` with its source.
+**1. Normalize.** Names are uppercased and stripped of accents and punctuation, then split using reference lists in
+`data/reference/`: "TELENOR DANMARK A/S" becomes core name `TELENOR`, legal form `A/S` (Danish) and country word
+`DK`. Cities drop words like "Kommune", and postcodes get back the leading zeros lost in the spreadsheet.
 
-| Rule | Meaning | Confidence | Suppliers | Sample check |
+**2. Score each candidate.** The input is compared with each of its candidates, one layer at a time:
+
+| Layer | Outcome |
+|---|---|
+| Name | Core names are compared with [rapidfuzz](https://github.com/rapidfuzz/RapidFuzz) against every name the candidate has (main, legal, commercial). **Exact**: same words in any order. **Strong**: same letters ignoring spaces (NOR SAT, NORSAT). **Weak**: one name contains the other, or at least 50% similar. **None**: below that |
+| Legal form | Conflict when the forms belong to different countries (A/S is Danish, AB is Swedish) |
+| Country words | Conflict when a name says DANMARK and the record is in Norway |
+| Country, city, postcode | Same, different, or unknown when missing on either side |
+| Street | Street and number same, street only, different, or unknown |
+
+**3. Pick the best candidate.** Only candidates in the input's country take part, and a match on a candidate's main
+name beats a match on an alias. They are ranked by name level, then by how much of the address matches (street and
+number, street and postcode, city, country only), then by similarity score. The top one is the best candidate. Any
+other candidate with an exact or strong name and an address match at least as good is a **rival**, unless it is an
+empty record (no website, no employees) next to a full one.
+
+**4. Accept or reject.** The best candidate is checked on every layer, and the problems found decide the rule.
+Rules were checked on samples of 8 to 14 rows before use.
+
+| Rule | When | Confidence | Suppliers | Sample check |
 |---|---|---|---|---|
-| R1 | Exact or strong name, same country, same street and city, no rival | high | 93 | R1 and R2: 12 of 14 correct, 1 unverified, 1 wrong (rule corrected) |
-| R2 | As R1, for inputs without a street | high | 40 | see R1 |
-| R5 | Identical full legal name, address only partly confirmed | medium | 117 | 7 of 10 correct, 2 unverified, 1 wrong (corrected by hand) |
-| P1 | Good name, address incomplete, city agrees | medium | 34 | 8 of 8 correct |
-| P2 | Good main name, different city | medium | 25 | 8 of 10 correct, 2 unverified |
-| P3 | Two Veridion records of the same company at the same address; first kept | medium | 16 | not sampled |
-| M1 | Matched by hand after sourced research | high | 44 | every row sourced |
+| R1 | No problem on any layer: exact or strong name, same country, street and city, no rival | high | 93 | R1 and R2: 12 of 14 correct, 1 unverified, 1 wrong (rule corrected) |
+| R2 | As R1, for inputs without a street; the city must agree | high | 40 | see R1 |
+| R5 | Only address gaps, and the full legal name (core and legal form) is identical | medium | 117 | 7 of 10 correct, 2 unverified, 1 wrong (corrected by hand) |
+| P1 | Only address gaps, good name, city agrees or is unknown | medium | 34 | 8 of 8 correct |
+| P2 | Only address gaps, good main name, different city | medium | 25 | 8 of 10 correct, 2 unverified |
+| P3 | The rivals are the same company stored twice (same core name, street and city); Veridion's first record kept | medium | 16 | not sampled |
+| M1 | Rival, legal or country conflict, or branch name: researched by hand and matched | high | 44 | every row sourced |
+| M2 | As M1, researched by hand and rejected | none | 10 | every row sourced |
+| U0 | No candidate with even a weak name in the input's country (or with no country) | none | 22 | |
+| U1 | No candidate with a good name, or a weak name with at least the city matching | none | 55 | 7 of 10 rightly rejected, 1 missed |
+| U2 | Weak name and address gaps | none | 33 | 0 of 10 were the company |
+| U3 | No candidate in the input's country | none | 2 | |
+
+**5. Search outside Veridion.** For the unmatched, the core name is looked up in the Norwegian (Brreg) and Finnish
+(PRH) registers and GLEIF. A register record is accepted only if its core name and legal form are identical to the
+input's and it is the only such record; high confidence if the city also agrees, medium otherwise. A sample of the
+rest was researched by hand in official registers and on company sites.
+
+| Rule | When | Confidence | Suppliers | Sample check |
+|---|---|---|---|---|
 | E1 | Found in an official register (77) or by sourced research (24) | high or medium | 101 | registry: 8 of 10 correct, 2 unverified |
-| U0, U1, U2, U3 | No usable candidate, weak name without address support, or no candidate in the country | none | 112 | U1: 7 of 10 rightly rejected, 1 missed; U2: 0 of 10 were the company |
-| M2 | Rejected by hand after research | none | 10 | every row sourced |
 
 ## Data quality
 
@@ -98,6 +123,7 @@ This is a best-effort result within the time and access available. Each limitati
 |---|---|
 | Only Veridion's 5 candidates per supplier; local subsidiaries are often missing | Query Veridion's Match/Search API for the 122 unmatched with the full normalized legal name (e.g. "TALEND SINGAPORE PTE LTD", not the stripped core "TALEND"), plus country, city, street and postcode, and apply the same fail-safe rules to the results |
 | Free registers cover only Norway, Finland and LEI holders; attribute accuracy is measured on Norway only | API access to CVR (Denmark, 39 unmatched, 121 matched) and Companies House (UK), and a check of Bolagsverket (Sweden) and ACRA (Singapore), to find the unmatched there and extend the accuracy check to about 200 more records |
+| Addresses are compared exactly after cleaning, so "Kongens Lyngby" vs "Lyngby" or "Gl. Kongevej" vs "Gammel Kongevej" count as different; region words in names (Fuzhou, SEA) are not removed | Fuzzy street and city comparison with abbreviation lists, or geocoding both addresses and comparing coordinates |
 | Rules checked on 10-row samples, so error rates are rough | A labelled test set of 100+ suppliers to measure each rule's precision |
 | The client data has no VAT or registry ids | Ask for them from the ERP; most matching then becomes an exact lookup |
 | One reviewer for manual decisions | A second reviewer, and a periodic rerun to catch renames and dissolutions |
