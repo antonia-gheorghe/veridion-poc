@@ -3,8 +3,9 @@ import pandas as pd
 
 from src import config, qc
 
-MATCHED, LEAD, UNMATCHED = "matched", "lead", "unmatched"
-STATUS = {"auto": MATCHED, "probable": MATCHED, "manual": MATCHED, "external": MATCHED, "lead": LEAD,
+MATCHED, UNMATCHED = "matched", "unmatched"
+EXTERNAL_DECISION = "external"
+STATUS = {"auto": MATCHED, "probable": MATCHED, "manual": MATCHED, "external": MATCHED,
           "unmatched": UNMATCHED, "no_candidate": UNMATCHED}
 INPUT_COLUMNS = {"input_company_name": "input_name", "input_main_country_code": "input_country",
                  "input_main_city": "input_city", "input_main_street": "input_street",
@@ -28,7 +29,10 @@ def build(decisions: pd.DataFrame, raw: pd.DataFrame, flags: pd.DataFrame) -> pd
     if unknown:
         raise ValueError(f"Decisions without a status: {sorted(unknown)}")
     out.insert(1, "status", out.decision.map(STATUS))
-    out.loc[out.status != MATCHED, "veridion_id"] = None  # unmatched rows keep only the rejection reason
+    # Unmatched rows keep only the rejection reason and evidence link, not a company or id.
+    out.loc[out.status != MATCHED, ["veridion_id", "registry_id", "registry_status", "external_company_name"]] = None
+    # External matches have no Veridion pick; their veridion_id is the rejected best candidate.
+    out.loc[out.decision == EXTERNAL_DECISION, "veridion_id"] = None
     out = out.join(inputs, on="input_row_key")
     out = out.join(records, on=["input_row_key", "veridion_id"])
     out["company_name"] = out.company_name.fillna(out.external_company_name)
@@ -44,7 +48,8 @@ def build(decisions: pd.DataFrame, raw: pd.DataFrame, flags: pd.DataFrame) -> pd
     out = out.join(per_input, on="input_row_key")
     out[["qc_errors", "qc_warnings"]] = out[["qc_errors", "qc_warnings"]].fillna(0).astype(int)
 
-    entity = out.veridion_id.where(out.veridion_id.notna(), out.registry_id).where(out.status == MATCHED)
+    registry_id = out.registry_id.replace("", None)
+    entity = out.veridion_id.where(out.veridion_id.notna(), registry_id).where(out.status == MATCHED)
     groups = out.groupby(entity).input_row_key.agg(lambda keys: sorted(keys))
     out["same_veridion_record_as"] = [
         "; ".join(str(k) for k in groups[e] if k != key) if isinstance(e, str) else ""

@@ -27,9 +27,31 @@ def test_unmatched_row_shows_no_company():  # the rejected best candidate must n
     assert out.loc[1, "status"] == "unmatched" and pd.isna(out.loc[1, "company_name"])
 
 
+def test_unmatched_row_with_aggregator_evidence_shows_no_company():  # D64
+    out = build([{"input_row_key": 1, "decision": "unmatched", "veridion_id": None, "registry_id": "se:556262-9716",
+                  "external_company_name": "Egencia Sweden AB", "external_evidence_url": "https://www.allabolag.se/x"}])
+    assert pd.isna(out.loc[1, "company_name"]) and pd.isna(out.loc[1, "registry_id"])
+    assert out.loc[1, "external_evidence_url"] == "https://www.allabolag.se/x"
+
+
+def test_external_match_shows_the_registry_company_not_the_rejected_candidate():
+    out = build([{"input_row_key": 1, "decision": "external", "veridion_id": "v1", "registry_id": "brreg:111",
+                  "external_company_name": "ACME AS"},
+                 {"input_row_key": 2, "decision": "auto", "veridion_id": "v1"}])
+    assert (out.loc[1, "company_name"], out.loc[1, "registry_id"]) == ("ACME AS", "brreg:111")
+    assert pd.isna(out.loc[1, "employees"]) and pd.isna(out.loc[1, "website"])
+    assert out.loc[2, "same_veridion_record_as"] == ""
+
+
+def test_external_matches_without_registry_id_are_not_grouped():
+    out = build([{"input_row_key": 1, "decision": "external", "veridion_id": None, "registry_id": ""},
+                 {"input_row_key": 2, "decision": "external", "veridion_id": None, "registry_id": ""}])
+    assert out.same_veridion_record_as.tolist() == ["", ""]
+
+
 def test_unknown_decision_fails():
     try:
-        build([{"input_row_key": 1, "decision": "review", "veridion_id": "v1"}])
+        build([{"input_row_key": 1, "decision": "lead", "veridion_id": "v1"}])
     except ValueError:
         return
     raise AssertionError("a decision without a status must not be exported")
